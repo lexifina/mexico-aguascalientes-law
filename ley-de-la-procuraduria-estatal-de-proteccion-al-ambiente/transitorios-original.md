@@ -1,5 +1,6 @@
 TRANSITORIOS
-PRIMERO.- La presente Ley entrará en vigor, el día 1° de agosto del año 2003.
+(REFORMADO, P.O. 25 DE AGOSTO DE 2003)
+PRIMERO.- La presente Ley entrará en vigor, el día 1° de enero del año 2004.
 SEGUNDO.- La Junta de Gobierno de la Procuraduría Estatal de Protección al Ambiente, deberá quedar constituida dentro del término de quince días hábiles siguientes a la vigencia de la presente Ley.
 TERCERO.- El Procurador de la Procuraduría Estatal de Protección al Ambiente, será nombrado en los términos previstos en la presente Ley, dentro de un plazo no mayor de quince días hábiles siguientes a la integración de la Junta de Gobierno.
 CUARTO.- El Reglamento Interior de la Procuraduría Estatal de Protección al Ambiente, deberá ser expedido y publicado en el Periódico Oficial del Estado en un plazo que no excederá de ciento veinte días hábiles contados a partir de la fecha en que sea instalada la Junta de Gobierno.
@@ -26,3 +27,4 @@ Aguascalientes, Ags., 7 de marzo de 2003.
 Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 Lic. Abelardo Reyes Sahagún.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
