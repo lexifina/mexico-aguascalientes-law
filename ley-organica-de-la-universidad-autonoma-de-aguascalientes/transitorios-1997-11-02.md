@@ -1,0 +1,10 @@
+P.O. 2 DE NOVIEMBRE DE 1997.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- La ampliación del Consejo Universitario, prevista en el Artículo 10 de la presente Ley, se realizará dentro de los 30 días naturales posteriores a su entrada en vigor, conforme al procedimiento establecido y para el término en que concluye el actual Consejo Universitario.
+TERCERO.- La ampliación de la Junta de Gobierno prevista en el Artículo 8° de la presente Ley, se realizará dentro de los 45 días naturales posteriores a la constitución del Consejo Universitario ampliado.
+CUARTO.- Por esta vez, los cuatro nuevos integrantes de la Junta de Gobierno serán nombrados simultáneamente por el Consejo Universitario, una vez que el mismo haya sido ampliado, por votación favorable de dos terceras partes de sus miembros, de la siguiente manera:
+El de mayor edad de entre ellos para un período que concluirá en enero del año 2000; el segundo en edad para un período que concluirá en enero del año 2002; el tercero en edad para un período que concluirá en enero del año 2004; y el de menor edad para un período que concluirá en enero del año 2006,
+Respetando el término original para el que fueron nombrados los actuales cinco miembros de la Junta de Gobierno, a partir de diciembre de 1998 los futuros nuevos miembros de la Junta serán nombrados para un período de nueve años, de conformidad con el procedimiento que establece el Artículo 8° de la presente Ley.
+QUINTO.- El Consejo Universitario y los Consejos de las unidades académicas de primer nivel deberán elaborar y aprobar las reformas necesarias al Estatuto y los reglamentos que proceda, para hacerlos congruentes con las presentes reformas, dentro de un plazo no mayor de 60 días naturales contados a partir de la entrada en vigor de la presente Ley.
+SEXTO.- Todos los asuntos que se encuentren pendientes de trámite al momento de entrar en vigor el presente Decreto se substanciarán hasta su total conclusión de conformidad con la Ley que se reforma.
+SEPTIMO.- Mándese publicar en el Periódico Oficial del Estado.
