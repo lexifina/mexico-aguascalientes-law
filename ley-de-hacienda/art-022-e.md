@@ -1,8 +1,0 @@
-(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1995)
-ARTICULO 22-E.- Para efectos de este impuesto son responsables solidarios:
-I.- Quienes por cualquier título adquieran la propiedad, tenencia o uso de vehículos automotores objeto de este impuesto, sin cerciorarse con la documentación comprobatoria correspondiente de su pago. La responsabilidad solidaria no excederá del monto del impuesto y los accesorios adeudados.
-II.- Las personas físicas o morales con actividad permanente o temporal de compra venta de vehículos automotores, o que los reciban en consignación o comisión, la responsabilidad solidaria no excederá del monto del impuesto y los accesorios adeudados.
-III.- Los servidores públicos que en ejercicio de sus funciones, autoricen movimientos al padrón vehicular del Estado de Aguascalientes, sin cerciorarse con la documentación comprobatoria correspondiente de su pago. La responsabilidad solidaria no excederá del monto del impuesto y los accesorios adeudados. Lo anterior, sin perjuicio de las responsabilidades de los servidores públicos del Estado de Aguascalientes.
-(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 1995)
-SECCION QUINTA
-Del Padrón Vehicular del Estado de Aguascalientes

@@ -1,6 +1,0 @@
-(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1995)
-ARTICULO 22-L.- Los contribuyentes de este impuesto tienen las siguientes obligaciones:
-I.- Licitar su inscripción al Padrón de Contribuyentes del Estado de Aguascalientes, en las formas aprobadas por la Secretaría de Finanzas del Estado.
-La Secretaría de Finanzas del Estado estará a cargo del Padrón de Contribuyentes del Estado de Aguascalientes, el cual se conformará con la clave del Registro Federal de Contribuyentes que asigne la Secretaría de Hacienda y Crédito Público a los contribuyentes de impuestos federales.
-II.- Presentar en las fechas establecidas las declaraciones del ejercicio y de pagos provisionales en las formas autorizadas por la Secretaría de Finanzas del Estado.
-III.- llevar contabilidad, conforme a las disposiciones fiscales federales o de acuerdo a los principios de contabilidad generalmente aceptados.
