@@ -1,5 +1,4 @@
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
-N. DE E. DE CONFORMIDAD CON LA REFORMA APROBADA POR LA H. XXXVII LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE AGUASCALIENTES PUBLICADA EN SUPLEMENTO AL P.O. DE 8 DE AGOSTO DE 1950, SE MODIFICÓ DE FORMA SUSTANCIAL TEXTO Y ESTRUCTURA DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 AURELIO L. GONZALEZ, Gobernador Constitucional del Estado libre y soberano de Aguascalientes, a sus habitantes, sabed:
 Que por el Congreso del Estado se me ha comunicado lo siguiente:
