@@ -1,0 +1,1 @@
+ARTICULO CUARTO.- El personal que a la entrada en vigor del presente decreto se encuentre laborando ante la Academia de Policía, conservará sus derechos adquiridos en materia laboral, los cuales serán asumidos por el Instituto de Seguridad Pública del Estado de Aguascalientes.
