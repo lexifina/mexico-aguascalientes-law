@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 6 DE MARZO DE 2000)
+Artículo 49 Ter.- La Dirección General del Registro Civil tendrá bajo su control, inspección y vigilancia las actuaciones de los Oficiales del Registro Civil, ejerciendo las facultades que le señale el Reglamento respectivo. En consecuencia, cuidará de la legalidad de los registros que se hagan en los formatos del Registro Civil, pudiendo inspeccionarlas en cualquier momento.
