@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 14 DE MAYO DE 1995)
+ARTICULO 560-A.- La demanda deberá contestarse negándola, confesándola u oponiendo excepciones. Las excepciones de pago de capital o rédito, las de compensación, novación y espera se justificarán solamente por confesión judicial del actor o con prueba documental, de otra forma no serán admisibles y de inmediato el juez citará a las partes para oír sentencia de remate.

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 14 DE MAYO DE 1995)
+ARTICULO 560-D.- La sentencia debe declarar siempre si procede o no el procedimiento hipotecario, y si ha lugar al remate de los bienes sujetos a Cédulas. Si decide que no procede la vía, reservará al actor sus derechos para que los haga valer en la forma correspondiente, mandará desde luego retirar y cancelar la Cédula, ordenando al depositario que rinda cuentas con pago y se devuelva la finca en un término que no exceda de treinta días.
