@@ -1,0 +1,1 @@
+ARTICULO SEPTIMO: Las personas morales que se hayan constituido legalmente hasta antes de la entrada en vigor de la presente Ley, deberán registrarse ante Comité Técnico de Integración Social y Productiva para Personas con Discapacidad, dentro del término de treinta días hábiles siguientes contados a partir de la fecha en que haya constituido el Comité antes citado.

@@ -1,0 +1,1 @@
+ARTICULO SEGUNDO: Se abroga el Decreto número treinta y cinco que contiene el texto de la Ley de Integración Social de Personas con Discapacidad publicado en el Periódico Oficial del Estado en fecha 9 de mayo de 1993 y se derogan todas aquellas disposiciones que se opongan a su contenido.

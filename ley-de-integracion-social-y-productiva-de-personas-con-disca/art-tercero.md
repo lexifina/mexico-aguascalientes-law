@@ -1,0 +1,1 @@
+ARTICULO TERCERO: Toda la reglamentación a las barreras arquitectónicas aquí mencionadas deberá cumplir con las estipulaciones establecidas en la presente Ley y las relativas aplicables del Código Urbano.

@@ -1,0 +1,1 @@
+ARTICULO QUINTO: El Reglamento que se prevé en la presente ley se deberá expedir por la autoridad correspondiente dentro del término de ciento veinte días naturales a partir de la entrada en vigor de esta Ley, debiéndose publicar en el Periódico Oficial del Estado de Aguascalientes.

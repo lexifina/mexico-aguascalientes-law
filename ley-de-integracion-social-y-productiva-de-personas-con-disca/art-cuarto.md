@@ -1,0 +1,1 @@
+ARTICULO CUARTO: El Comité Coordinador de Integración Social y Productiva para Personas con Discapacidad y el Comité Técnico de Integración Social y Productiva para Personas con Discapacidad deberán estar constituidos dentro del término de treinta días hábiles a partir de la entrada en vigor de la presente Ley.
