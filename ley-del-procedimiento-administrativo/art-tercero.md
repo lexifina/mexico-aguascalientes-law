@@ -1,0 +1,1 @@
+ARTICULO TERCERO.- En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de esta ley.
