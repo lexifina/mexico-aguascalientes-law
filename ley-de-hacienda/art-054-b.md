@@ -1,2 +1,0 @@
-(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2002)
-ARTICULO 54-B.- Los derechos se causarán y pagarán en el momento de solicitar o recibir el servicio público, así como de ejercer el uso o aprovechamiento de los bienes de dominio público del Estado, de conformidad con las tarifas que al efecto señale la Ley de Ingresos del Estado.5
