@@ -1,13 +1,8 @@
-[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR EL PRIMERO DE ENERO DEL AÑO DOS MIL VEINTE.]
-LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE TLAXCALA Y SUS MUNICIPIOS
-Ley publicada en el Número 3 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el martes 24 de diciembre de 2019.
-Al margen un sello con el Escudo Nacional que dice Estados Unidos Mexicanos. Congreso del Estado Libre y Soberano. Tlaxcala. Poder Legislativo.
-MARCO ANTONIO MENA RODRÍGUEZ, Gobernador del Estado a sus habitantes sabed:
-Que por conducto de la Secretaría Parlamentaria del Honorable Congreso del Estado, con esta fecha se me ha comunicado lo siguiente:
-CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA, A NOMBRE DEL PUEBLO DECRETA
-DECRETO No. 185
-LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE TLAXCALA Y SUS MUNICIPIOS
-TÍTULO PRIMERO
-DISPOSICIONES GENERALES
-Capítulo Único
-Generalidades
+CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
+Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
+AURELIO L. GONZALEZ, Gobernador Constitucional del Estado libre y soberano de Aguascalientes, a sus habitantes, sabed:
+Que por el Congreso del Estado se me ha comunicado lo siguiente:
+El Congreso Constituyente del Estado libre y soberano de Aguascalientes, en uso de sus facultades, previos los requisitos señalados en el artículo 1° del decreto de fecha 8 de mayo del año en curso, reforma en los siguientes términos la Constitución Política del Estado, expedida el 18 de octubre de 1868.
+(REFORMADO, P.O. 13 DE AGOSTO DE 1950)
+CAPITULO PRIMERO
+Declaraciones.
