@@ -1,0 +1,2 @@
+P.O. 1 DE SEPTIEMBRE DE 1935.
+La reforma del artículo 43, que se refiere a la renovación total de los Ayuntamientos, cada dos años, en lugar de hacerse por mitad como venía observándose con anterioridad, comenzará a tener efecto en las elecciones que se verifiquen el segundo domingo de noviembre de 1936 y respecto a las Corporaciones que se elijan para el período 1937-1938. Los Munícipes de número par electos en noviembre del año en curso, durarán en su encargo hasta el 31 de diciembre de 1936.
