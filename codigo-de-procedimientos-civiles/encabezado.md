@@ -1,5 +1,5 @@
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
-Código publicado en el Suplemento al Número. 29 del Periódico Oficial del Estado de Aguascalientes, el 16 de julio de 1989.
+Código publicado en el Suplemento al Número. 29 del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 INGENIERO MIGUEL ANGEL BARBERENA VEGA, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
 Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
 El H. Congreso del Estado en sesión extraordinaria celebrada hoy, tuvo a bien expedir el siguiente Decreto:
