@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2003)
+ARTICULO 1o. Bis.- En el Estado de Aguascalientes goza de plena vigencia y aplicación la Declaratoria de los Derechos de los Animales emitida por la Organización de las Naciones Unidas (ONU), de la cual forma parte México, emitida el 15 de octubre de 1978, por lo cual, la misma es de observancia y aplicación obligatoria para todas las autoridades y habitantes del Estado.
+Se concede acción popular para denunciar cualquier violación a la presente Ley, a los principios que en ella se estipulan, así como el indebido incumplimiento de la misma por parte de las autoridades encargadas de su ejecución.
+Es obligación de cualquier autoridad del Estado o Municipios hacer del conocimiento a su vez de las autoridades competentes, de cualquier incumplimiento a la presente Ley y a los principios que ésta consagra.
+Los particulares que incumplan con los principios y obligaciones establecidos en la presente Ley, estarán impedidos de recuperar a un animal, una vez cumplida la sanción aplicable, hasta en tanto, a juicio de la autoridad responsable, desaparezcan en su totalidad las causas por las cuales hayan sido sancionados.
