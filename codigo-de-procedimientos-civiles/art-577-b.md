@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 12 DE FEBRERO DE 2004)
+ARTICULO 577-B.- Formulada la contestación de demanda o transcurrido el término para ello, sin que se hubiere contestado, el juez admitirá y mandará preparar las pruebas que procedan, abriendo el juicio a desahogo de pruebas, hasta por un término de quince días, dentro de los cuales deberán realizarse todas las diligencias necesarias para su desahogo, señalando las fechas necesarias para su recepción.
+Antes de recibir las pruebas que se hayan admitido, se intentará la conciliación de las partes mediante el arbitraje del juez, en términos de lo establecido por el artículo 69 de este Código. Si no se llega a un acuerdo, se continuará con el desarrollo del juicio, en los términos previstos en el presente capítulo.

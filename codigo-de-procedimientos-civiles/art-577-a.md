@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 12 DE FEBRERO DE 2004)
+ARTICULO 577-A.- Presentada la demanda por el actor, en la cual se señalarán los medios probatorios permitidos por este código para acreditar la existencia de los hechos base de su acción, una vez que sea admitida, se ordenará se emplace al o a los demandados, para que dentro del término de seis días, formulen contestación, refiriéndose concretamente a cada hecho propuesto en la demanda y ofreciendo a su vez, los medios probatorios que proponga para acreditar sus excepciones y defensas.
