@@ -1,0 +1,1 @@
+Artículo 17 Bis.- (DEROGADO, P.O. 18 DE JUNIO DE 1978)
