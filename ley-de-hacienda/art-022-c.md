@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1995)
+ARTICULO 22-C.- El presente impuesto se causará por la tenencia o uso de automóviles, motocicletas, omnibuses, camiones y tractores, a excepción de tractores destinados a actividades agrícolas que sean de año modelo posterior a diez ejercicios fiscales a partir del año de su fabricación, accionados por motores de combustión interna de 1, 2, 4, 6, 8 o más cilindros.

@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1995)
+ARTICULO 22-J.- El impuesto se calculará por ejercicios fiscales, los cuales se fijarán por año calendario. Los contribuyentes presentarán declaración del ejercicio en las oficinas autorizadas dentro de los tres meses siguientes al cierre del ejercicio.
+Los contribuyentes de este impuesto efectuarán pagos provisionales bimestrales, mediante el formato autorizado y en las oficinas de la Secretaría de Finanzas del Estado, dentro de los quince días siguientes al bimestre inmediato anterior. El pago provisional consiste en el impuesto correspondiente al total de las actividades realizadas en el período por el que se efectúa. Los anticipos recibidos durante el bimestre se incluirán en el pago provisional correspondiente.

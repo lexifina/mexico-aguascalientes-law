@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1995)
+ARTICULO 22-G.- Están obligadas al pago del impuesto establecido en esta Ley las personas físicas y morales que dentro del Estado de Aguascalientes, de manera permanente o temporal, presten servicios de albergue u hospedaje en hoteles, moteles, casas de huéspedes o cualquier instalación creada para ese fin, a cambio de una contraprestación en dinero o especie, sin importar la duración de los mismos.
+Los ingresos por este impuesto serán destinados para la promoción y difusión de la actividad turística del Estado de Aguascalientes.
