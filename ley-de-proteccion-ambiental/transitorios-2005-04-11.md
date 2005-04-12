@@ -1,0 +1,9 @@
+P.O. 11 DE ABRIL DE 2005.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+SEGUNDO.- El Consejo Directivo del Instituto deberá quedar constituido dentro del término de quince días hábiles siguientes a la entrada en vigor de la presente Ley.
+TERCERO.- El Director General del Instituto será nombrado en los términos previstos en la Ley que Crea el Instituto del Medio Ambiente del Estado de Aguascalientes, dentro de un plazo no mayor a treinta días hábiles siguientes a la integración del Consejo Directivo.
+CUARTO.- El Reglamento Interior del Instituto deberá ser expedido y publicado en el Periódico Oficial del Estado, en un plazo no mayor de ciento veinte días hábiles contados a partir de la fecha en que sea instalado el Consejo Directivo.
+QUINTO.- La Subsecretaría de Ecología transfiere al Instituto del Medio Ambiente del Estado de Aguascalientes el personal de base que continúe laborando a su servicio de las áreas respectivas de la reestructura, sin perjuicio de sus derechos adquiridos, el mobiliario, los vehículos, instrumentos, aparatos, máquinas, archivos y, en general, el equipo que hayan venido usando las áreas reestructuradas de la Secretaría de Desarrollo Social, hasta antes de la entrada en vigor del presente Decreto.
+SEXTO.- Las facultades en materia de ecología de la Secretaría de Desarrollo Social se transfieren al Instituto, una vez entrado en vigor el presente Decreto.
+SÉPTIMO.- Deberán adecuarse los ordenamientos legales correspondientes en un plazo no mayor de ciento veinte días hábiles contados a partir de la entrada en vigor del presente Decreto.
+OCTAVO.- Los asuntos que se encuentren en trámite ante la Subsecretaría de Ecología de la Secretaría de Desarrollo Social, continuarán su trámite ante el Instituto del Medio Ambiente del Estado de Aguascalientes, sin que ello afecte su validez.
