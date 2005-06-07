@@ -3,6 +3,8 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Se abroga la Ley Orgánica Municipal del Estado de Aguascalientes, publicada el día 6 de noviembre de 2000, en el Periódico Oficial del Estado de Aguascalientes.
 TERCERO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 CUARTO.- Los actos jurídicos municipales y los trámites ante las autoridades municipales que se encuentren pendientes de resolución se sujetarán a los procedimientos previstos en la Ley que se abroga.
+(ADICIONADO, P.O. 6 DE JUNIO DE 2005)
+QUINTO.- Se abroga la Ley Reglamentaria del Párrafo Tercero del Artículo 70 Constitucional, publicada en el Periódico Oficial del Estado de Aguascalientes el día 24 de marzo de 1985.
 Dado en el salón de sesiones del Poder Legislativo, a los treinta días del mes de julio del año 2003.
 Por lo tanto el Congreso ordena se imprima, publique y se le dé el debido cumplimiento.
 Aguascalientes, Ags., 30 de julio de 2003.
@@ -18,3 +20,4 @@ Aguascalientes, Ags., 26 de septiembre de 2003.
 Felipe González González
 EL SECRETARIO GENERAL DE GOBIERNO,
 Lic. Abelardo Reyes Sahagún
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:
