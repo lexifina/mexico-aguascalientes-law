@@ -39,3 +39,4 @@ Jorge Saucedo Gaytán,
 Noveno Regidor.
 Roxana Espinoza Vázquez
 Síndico Municipal.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
