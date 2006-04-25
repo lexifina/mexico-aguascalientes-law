@@ -24,10 +24,14 @@ En el libro séptimo se regula lo relativo a los actos administrativos municipal
 Destaca en este libro lo relativo a las faltas cívicas, así como a las infracciones a las diversas disposiciones del Código. En este sentido se establecen normas que garanticen la legalidad y seguridad jurídica de estos procesos, regulando entre otras materias la actuación de los jueces calificadores y asignando con toda propiedad las diversas funciones que en la materia corresponden a cada uno de los servidores públicos.
 Consideramos que ha llegado el momento de que la Administración Pública de Pabellón de Arteaga se modernice, la ciudadanía reclama autoridades más eficientes, honestas y comprometidas con el servicio público. Con el Código Municipal que hoy se autoriza, se da un paso importante en este proceso y mediante reglas claras, que establece una sana relación entre autoridad y ciudadanía.
 Por lo que se tiene a bien expedir el siguiente
+N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL ACUERDO APROBADO POR EL H. AYUNTAMIENTO DE PABELLÓN DE ARTEGA, MEDIANTE EL CUAL SE ADICIONAN, DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO, SE MODIFICA DE MANERA SUSTANCIAL EL TEXTO DEL MISMO, Y SI BIEN ES CIERTO, DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, SE PUBLICA UN TEXTO DIFERENTE, MOTIVO POR EL CUAL SE PRESENTA EL TEXTO PUBLICADO EN EL P.O. DE 24 DE ABRIL DE 2006.
 CODIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
+(REFORMADO, P.O. 24 DE ABRIL DE 2006)
 LIBRO PRIMERO
 DEL REGIMEN MUNICIPAL
+(REFORMADO, P.O. 24 DE ABRIL DE 2006)
 TITULO PRIMERO
-DEL MUNICIPIO DE PABELLÓN DE ARTEAGA
+DEL MUNICIPIO DE PABELLON DE ARTEAGA
+(REFORMADO, P.O. 24 DE ABRIL DE 2006)
 CAPITULO PRIMERO
 De los Fines del Municipio
