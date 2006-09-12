@@ -1,4 +1,4 @@
-LEY DEL INSTITUTO DE ASESORIA Y DEFENSORIA PUBLICA DEL ESTADO DE AGUASCALIENTES
+LEY DEL INSTITUTO DE ASESORÍA Y DEFENSORÍA PÚBLICA DEL ESTADO DE AGUASCALIENTES
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de marzo de 2003.
 FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes, sabed:
 Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
