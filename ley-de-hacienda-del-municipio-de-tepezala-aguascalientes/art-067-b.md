@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)
+ARTICULO 67 B.- Las personas físicas o morales, habitantes o residentes, propietarias o poseedoras de predios, construidos o no, ubicados en las zonas urbanas, rurales o poblaciones del Municipio, están obligadas a contribuir para el sostenimiento del servicio de Alumbrado Público, a través del pago de los derechos correspondientes en la forma y términos que se establecen en este Capítulo.
