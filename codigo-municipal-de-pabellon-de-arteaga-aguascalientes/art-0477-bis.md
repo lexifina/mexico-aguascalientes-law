@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)
+ARTICULO 477 BIS.- La limpieza de las principales calles, avenidas, camellones centrales de avenidas y el centro de la ciudad, se hará preferentemente cada día.
+El Departamento de Servicios Públicos señalará el tipo de mobiliario o recipientes que se instalarán en, vías públicas, parques, jardines y sitios públicos.
+La instalación de contenedores se hará en lugares en donde no representen peligro alguno para la vialidad y su diseño será el adecuado para facilitar el vaciado de residuos sólidos a la unidad receptora, y en ningún caso se utilizará para depositar otro tipo de residuo sólido que no sea aquel para el que fue destinado originalmente.
+Los residuos que se produzcan al desazolvar alcantarillas, drenajes o colectores, deberán retirarse de la vía pública de inmediato y dar la disposición final adecuada.

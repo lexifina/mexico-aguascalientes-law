@@ -1,7 +1,5 @@
 CODIGO MUNICIPAL DE PABELLON DE ARTEAGA, AGS.
-Código publicado en el Periódico Oficial del estado de Aguascalientes, el 18 de abril de 2005.
-GOBIERNO DEL ESTADO
-CODIGO MUNICIPAL DE PABELLON DE ARTEAGA, AGS.
+Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 EDUARDO C. TORRES CAMPOS, Presidente Municipal de Pabellón de Arteaga, Aguascalientes, en cumplimiento a lo preceptuado por la fracción I del artículo 38 de la Ley Municipal del Estado de Aguascalientes, a los habitantes del Municipio hace saber:
 Que el H. Ayuntamiento en sesión celebrada el día de hoy, en uso de las facultades que le confieren los artículos 115, fracción II, párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos, 68 de la Constitución Política del Estado, 36, fracción I, 89 y 90 de la ley Municipal del Estado y
 CONSIDERANDO
@@ -24,7 +22,6 @@ En el libro séptimo se regula lo relativo a los actos administrativos municipal
 Destaca en este libro lo relativo a las faltas cívicas, así como a las infracciones a las diversas disposiciones del Código. En este sentido se establecen normas que garanticen la legalidad y seguridad jurídica de estos procesos, regulando entre otras materias la actuación de los jueces calificadores y asignando con toda propiedad las diversas funciones que en la materia corresponden a cada uno de los servidores públicos.
 Consideramos que ha llegado el momento de que la Administración Pública de Pabellón de Arteaga se modernice, la ciudadanía reclama autoridades más eficientes, honestas y comprometidas con el servicio público. Con el Código Municipal que hoy se autoriza, se da un paso importante en este proceso y mediante reglas claras, que establece una sana relación entre autoridad y ciudadanía.
 Por lo que se tiene a bien expedir el siguiente
-N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL ACUERDO APROBADO POR EL H. AYUNTAMIENTO DE PABELLÓN DE ARTEGA, MEDIANTE EL CUAL SE ADICIONAN, DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO, SE MODIFICA DE MANERA SUSTANCIAL EL TEXTO DEL MISMO, Y SI BIEN ES CIERTO, DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, SE PUBLICA UN TEXTO DIFERENTE, MOTIVO POR EL CUAL SE PRESENTA EL TEXTO PUBLICADO EN EL P.O. DE 24 DE ABRIL DE 2006.
 CODIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 (REFORMADO, P.O. 24 DE ABRIL DE 2006)
 LIBRO PRIMERO
