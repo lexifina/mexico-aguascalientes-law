@@ -40,3 +40,4 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 San Francisco de los Romo, Ags., 29 de noviembre de 2006.
 EL SECRETARIO DEL H. AYUNTAMIENTO Y DIRECTOR GENERAL DE GOBIERNO,
 Ing. José Juan Aguiñaga Medina.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
