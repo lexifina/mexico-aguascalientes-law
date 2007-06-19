@@ -1,0 +1,9 @@
+(ADICIONADO, P.O. 18 DE JUNIO DE 2007)
+ARTICULO 835 BIS.- Procede la acumulación cuando:
+I.- Exista identidad de los elementos operativos, cosas, personas afectadas y hechos imputables;
+II.- Exista identidad del elemento operativo, cosas, personas afectadas pero hechos distintos;
+III.- Exista identidad del elemento operativo, hechos y personas afectadas aunque las cosas sean diferentes;
+IV.- Exista identidad del elemento operativo, Hechos, cosas pero personas diferentes;
+V.- Existan distintos hechos provenientes de una misma causa, aunque se den contra distintas personas pero identidad del elemento operativo;
+VI.- Existan distintos hechos pero provenientes de diferentes causas aunque sean a diferentes personas, pero que tenga identidad con el elemento operativo; y
+VII.- Las acciones aun siendo distintas, no provocaría una resolución distinta a la que deba de emitirse y aplicarse conforme a la Ley.
