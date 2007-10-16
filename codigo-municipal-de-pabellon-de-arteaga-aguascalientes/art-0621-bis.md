@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)
+ARTICULO 621 BIS.- Todos los ingresos que obtenga la CAPAPA con motivo del cobro de derechos, contribuciones, productos o aprovechamientos o los que se adquieran por cualquier motivo, serán destinados exclusivamente al pago de los gastos de construcción, administración, operación, mantenimiento y ampliación de los servicios de agua potable, alcantarillado y saneamiento, reuso de aguas y disposición final de Iodos, así como para la adquisición de equipos, instalaciones e infraestructuras.

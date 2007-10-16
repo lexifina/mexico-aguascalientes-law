@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)
+ARTICULO 623 BIS.- La integración del Consejo Directivo, será realizada mediante voto directo y secreto de los integrantes del Ayuntamiento, siendo elegidos de entre los candidatos propuestos en términos de la invitación que emita para tal efecto el Presidente Municipal, con base en lo dispuesto por el artículo anterior.
