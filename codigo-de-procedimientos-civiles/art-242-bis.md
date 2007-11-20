@@ -1,0 +1,8 @@
+(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)
+ARTICULO 242 BIS.- En los juicios en que puedan ser afectados sus intereses los menores de edad, tendrán derecho a emitir su opinión, cuando estén en condiciones de formarse un juicio propio, para tal efecto el juez de oficio o a petición de parte ordenará sean escuchados conforme a las siguientes reglas:
+I.- Se señalará día y hora para que tenga verificativo la audiencia con el único fin de escuchar al o los menores;
+II.- Ordenará que los menores sean presentados por la persona que los tenga bajo su cuidado;
+III.- A dicha audiencia deberán comparecer el agente del ministerio público, el tutor designado a los menores, el juez deberá asesorarse de un perito psicólogo que nombrará de entre los adscritos al Poder Judicial del Estado;
+IV.- El o los menores deberán ser escuchados sin la presencia de sus progenitores, litigantes, representantes, apoderados o abogados patronos;
+V.- Emitida la opinión de los menores, la que se asentará en el acta respectiva, el agente del ministerio público y el tutor, podrán hacer las observaciones que estimen convenientes y el perito en psicología emitirá un dictamen respecto de la madurez intelectual del menor, si en su concepto el menor ha expresado libremente su opinión y las medidas que a su juicio resulten convenientes al interés superior de éste;
+VI.- Hecho lo anterior, el juez mandará llamar a los litigantes si éstos comparecieron a la audiencia quienes podrán hacer las observaciones que estimen convenientes en relación a la opinión vertida por él o los menores, de la representación social y del tutor, así como del dictamen vertido por el perito.

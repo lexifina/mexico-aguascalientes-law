@@ -1,2 +1,4 @@
 (ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2001)
 Artículo 347 Ter.- Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar. Por violencia familiar se considera el uso de la fuerza física o moral, así como las omisiones graves, que de manera reiterada ejerza un miembro de la familia en contra de otro integrante de la misma que atente contra su integridad física, psíquica o ambas, independientemente de que pueda producir o no lesiones; siempre y cuando el agresor y el agredido habiten en el mismo domicilio o exista relación de parentesco, matrimonio o concubinato.
+(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)
+También se considera como violencia familiar la conducta inquisitiva y reiterada de uno de los integrantes de la familia para con otro, cuando sea grave y por ende motivo de inestabilidad emocional o perturbe su actividad cotidiana.
