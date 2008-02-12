@@ -18,3 +18,4 @@ Martín Orozco Sandoval, Presidente Municipal de Aguascalientes; Regidores: Ver�
 Por lo que tiene el honor de comunicarlo, para su conocimiento y efectos legales conducentes. En tal ver, promulga y ordena se de publicidad para su debido cumplimiento. 18 de octubre de 2007.-Martín Orozco Sandoval.- Rúbrica.
 En cumplimiento a lo ordenado por el Presidente Municipal de Aguascalientes, con fundamento en los artículos 120, fracción VII de la Ley Municipal para el Estado de Aguascalientes; 102, fracción IX del Código Municipal de Aguascalientes, tengo a bien solicitar la publicación del presente.
 El Secretario del H. Ayuntamiento y Director General de Gobierno.- M. en D. Gabriel Ochoa Amador.- Rúbrica.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.
