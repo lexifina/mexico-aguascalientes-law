@@ -15,4 +15,5 @@ SEGUNDO SECRETARIO
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 Aguascalientes, Ags; 22 de diciembre de 2004.
 EL SECRETARIO GENERAL DE GOBIERNO,
-Lic. Jorge Mauricio Martínez Estebanez
+Lic Jorge Mauricio Martínez Estebanez
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
