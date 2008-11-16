@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2008)
+ARTÍCULO 320-BIS.- En caso de que la infracción sea cometida por un menor de dieciséis años pero mayor de doce, la autoridad administrativa correspondiente citará a la persona que ejerza la patria potestad, la tutela o la custodia del menor y se entenderá con ella las actuaciones conducentes. Asimismo, se oirá al menor por sí mismo, para que exprese lo que considere pertinente o responda a las preguntas de la autoridad o de la persona que por él comparezca.
+En caso de no existir una persona que ejerza la patria potestad, la tutela o la custodia del menor, el Juez Municipal procederá a nombrar a una persona de trabajo social adscrita a la Dirección de Justicia Municipal o al DIF Municipal para efecto del párrafo anterior.
