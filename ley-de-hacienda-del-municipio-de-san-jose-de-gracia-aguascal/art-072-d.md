@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2008)
+ARTICULO 72 D.- El pago de los derechos del servicio se causará en todas las colonias, comunidades, centros de población, rancherías, parques industriales y demás unidades poblacionales, comerciales o industriales y, el cálculo de su distribución se hará tomando como base gravable, el costo total anual que se genera para el Ayuntamiento, ocasionado con motivo de la prestación del servicio de alumbrado público en todo el municipio.
+La Ley de Ingresos señalará el costo total anual del servicio de alumbrado público correspondiente al año de que se trate, así como la tarifa o cuota a pagar por cada usuario beneficiado, en razón del sistema de fórmulas establecidas en el presente Capitulo.

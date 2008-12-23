@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2008)
+ARTICULO 72 G.- Para calcular el costo total anual aplicable en un ejercicio, se considerará el costo total del año inmediato anterior, a aquél para el cual se aplicará el tributo, incrementado en un porcentaje igual al índice de inflación esperado por el Gobierno Federal en su programa económico para ese mismo Ejercicio Fiscal, adicionado con los costos de los nuevos proyectos, expansión y crecimiento natural del servicio.

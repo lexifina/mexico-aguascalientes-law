@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2008)
+ARTICULO 72 A.- Se considera servicio de alumbrado público a la actividad técnica que realiza el Ayuntamiento consistente en iluminar las avenidas, calles, plazas, parques, áreas públicas, comerciales e industriales, edificios públicos y demás lugares de uso común, de manera permanente, regular y continua, encaminado a la satisfacción de la necesidad colectiva de iluminación, la cual se constituye de interés general y se presta sin aspiración alguna de lucro.

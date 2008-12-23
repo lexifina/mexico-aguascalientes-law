@@ -1,0 +1,7 @@
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2008)
+ARTICULO 72 F.- El costo total del servicio de alumbrado público se compondrá por aquellas cantidades que representen o sean equivalentes a los siguientes conceptos:
+A) Costo por servicios personales empleados en el año en la instalación, operación y mantenimiento del servicio de alumbrado público, entendido como tal los sueldos, salarios, compensaciones, servicio y contribuciones que se deriven de la administración de la nómina del servicio público.
+B) Costo de los materiales, suministros y gastos de mantenimiento que sean empleados durante el año en el servicio de alumbrado público, el cual se compondrá del erogado en los conceptos por compras y adquisiciones, reposición de lámparas, el mantenimiento de líneas eléctricas y postes, materiales, seguridad, herramientas y maquinaria, así como la operación y mantenimiento de ésta.
+C) Costo de la reserva de contingencia que se establezca para el año, para el servicio de alumbrado público por parte del Cabildo del Ayuntamiento.
+D) Costo del suministro de energía eléctrica, el cual se compondrá del que deba ser pagado en base a los históricos acumulados por ello, adicionado por el crecimiento de la inflación, los aumentos propios del servicio, as! como los que se sufran por mayor cobertura y nuevos proyectos.
+E) Costo de la ejecución de los nuevos proyectos de ampliación e introducción del servicio de alumbrado público.
