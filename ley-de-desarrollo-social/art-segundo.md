@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- A partir de la entrada en vigencia de esta Ley, el Titular del Poder Ejecutivo y los Municipios, en el ámbito de su competencia, tendrán un término de noventa días hábiles, para expedir las disposiciones reglamentarias correspondientes.
