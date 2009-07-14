@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- El actual Comité coordinador de la Senectud y Comité Técnico de la Senectud, se eleva a rango de Consejo, quedando con la siguiente denominación: Consejo Estatal de Salud para la Atención del Adulto Mayor. Deberá sesionar por vez primera como Consejo, en un plazo no mayor de treinta días naturales contados a partir de la entrada en vigencia de la presente Ley.

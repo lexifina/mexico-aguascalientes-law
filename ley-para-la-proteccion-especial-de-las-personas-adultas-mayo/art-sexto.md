@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- Los convenios de colaboración celebrados por el Sistema de Desarrollo Integral de la Familia del Estado con las diversas Dependencias y Entidades gubernamentales e iniciativa privada continuarán subsistentes al entrar en vigencia la presente Ley.

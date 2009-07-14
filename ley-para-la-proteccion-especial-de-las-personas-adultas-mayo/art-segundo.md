@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Se abroga la Ley de la Senectud del Estado de Aguascalientes, expedida mediante decreto número 114 de fecha 13 de julio del año 2000 y publicado en el Periódico Oficial del Estado número 36 de fecha 4 de septiembre del año 2000.
