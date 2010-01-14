@@ -6,7 +6,7 @@ a) Haber cometido 3 faltas leves en el lapso de un año;
 b) Las violaciones a lo dispuesto por los artículos 589 fracciones V, XXI, ó XXVll; y
 c) Poner en peligro la integridad física o psicológica de los particulares o sus subalternos por una acción u omisión, por causa de imprudencia, descuido, negligencia, pánico o abandono del servicio.
 (REFORMADA, P.O. 11 DE ENERO DE 2010)
-II. Serán sancionados los elementos de Seguridad Pública, por la Comisión de Honor y Justicia, mediante destitución o inhabilitación a quienes cometan las siguientes faltas:
+II. .Serán sancionados los elementos de Seguridad Pública, por la Comisión de Honor y Justicia, mediante destitución o inhabilitación a quienes cometan las siguientes faltas:
 a) Que se le dicte sentencia condenatoria por cometer un delito doloso, cualquiera que éste sea;
 b) Presentar documentación alterada, informes alejados a la verdad o realidad de los hechos de los que tenga conocimiento o que se le hayan encomendado;
 c) Obligar o sugerirle a sus subalternos a entregarles dinero o cualquier otro tipo de dádivas a cambio de permitirles el goce de las prestaciones a que todo policía tiene derecho;
