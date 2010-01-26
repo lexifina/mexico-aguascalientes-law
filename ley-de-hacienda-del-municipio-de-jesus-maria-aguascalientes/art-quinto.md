@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- Los procedimientos administrativos de ejecución, así como el ejercicio de las facultades de comprobación iniciadas antes de la entrada en vigencia de la presente Ley, y que estén pendientes de concluir, se tramitarán conforme a las disposiciones que se encontraban vigentes al momento en que se inició su trámite.
