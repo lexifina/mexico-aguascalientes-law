@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- El Instituto Cultural de Aguascalientes, conservará los recursos humanos, materiales y financieros que tiene asignados y de los que dispone actualmente. Los órganos de gobierno continuarán en el desempeño de sus funciones hasta concluir su encargo.

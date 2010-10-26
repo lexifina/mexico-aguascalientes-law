@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- Los actos, resoluciones, acuerdos y disposiciones de carácter general, así como los poderes, mandatos y, en lo general, las representaciones otorgadas y facultades concedidas, emitidas y otorgadas al amparo del Decreto que se abroga, se considerarán vigentes, siempre y cuando no se oponga a este ordenamiento.

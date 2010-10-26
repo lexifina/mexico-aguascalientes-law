@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Se abroga el Decreto número 19 que crea al Instituto Cultural de Aguascalientes, publicado con fecha tres de marzo de 1985, así como las demás disposiciones contrarias a la presente ley.

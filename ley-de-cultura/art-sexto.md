@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- Los trámites, juicios y procedimientos iniciados con anterioridad a la entrada en vigencia de la presente Ley, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
