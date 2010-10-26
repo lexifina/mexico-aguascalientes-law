@@ -6,3 +6,8 @@ El H. Congreso del Estado en sesión ordinaria celebrada hoy, tuvo a bien expedi
 "NUMERO 84
 La H. LVII Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le conceden los Artículos 27, fracción I, 32 y 35 de la Constitución Política Local, en nombre del pueblo, decreta:
 LEY DE PROTECCION AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
+TÍTULO PRIMERO
+DISPOSICIONES GENERALES
+(REFORMADA SU DENOMINACION, P.O. 25 DE OCTUBRE DE 2010)
+CAPÍTULO I
+Disposiciones Generales

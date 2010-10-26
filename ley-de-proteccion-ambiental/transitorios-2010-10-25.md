@@ -1,0 +1,6 @@
+P.O. 25 DE OCTUBRE DE 2010.
+ARTÍCULO PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- En un plazo que no excederá de 120 días naturales, contados a partir del inicio de vigencia del presente Decreto, se deberán efectuar las adecuaciones procedentes a los reglamentos en la materia.
+ARTÍCULO TERCERO.- En un plazo que no excederá de 120 días naturales, contados a partir del inicio de vigencia del presente Decreto, los ayuntamientos deberán efectuar las adecuaciones procedentes a los ordenamientos en la materia.
+ARTÍCULO CUARTO.- El "Programa de Sustitución de Plástico No Biodegradable por materiales Biodegradables" a que hace referencia el presente Decreto así como la "Instrumentación del Sistema de Depósito y Recolección de Residuos Sólidos", deberá comenzarse a aplicar en un término máximo de 180 días naturales contados a partir de la entrada en vigencia de este Decreto.
+ARTÍCULO QUINTO.- El Ejecutivo elaborará junto con el Instituto del Medio Ambiente del Estado de Aguascalientes, los contenidos de las campañas de difusión y concientización para el programa de Sustitución de Plástico no Biodegradable, incluyendo las alternativas con materiales Biodegradables.

@@ -1,2 +1,0 @@
-(ADICIONADO, P.O. 23 DE JULIO DE 2007)
-ARTICULO 7° Bis.- Corresponde a la Procuraduría Estatal de Protección al Ambiente el ejercicio de las atribuciones de inspección, vigilancia y sanción que en materia ambiental se encuentran asignadas en esta Ley. Se entienden conferidas a la Procuraduría Estatal de Protección al Ambiente, las atribuciones de inspección, vigilancia y sanción en materia ambiental, sin que con ello se contravengan las facultades otorgadas al resto de las autoridades en materia ambiental.
