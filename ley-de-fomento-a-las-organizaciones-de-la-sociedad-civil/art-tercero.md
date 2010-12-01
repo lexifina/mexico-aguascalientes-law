@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- El Ejecutivo del Estado deberá expedir el Reglamento de esta Ley, en un plazo de 60 días naturales contados a partir de su publicación en el Periódico Oficial del Estado, entrando en vigencia hasta el cumplimiento del Primer Artículo Transitorio.
