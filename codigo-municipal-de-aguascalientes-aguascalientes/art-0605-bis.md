@@ -3,7 +3,7 @@ ARTÍCULO 605-BIS.- Son faltas por las cuales podrán ser sancionados los elemen
 (REFORMADA, P.O. 11 DE ENERO DE 2010)
 I. Serán sancionados los elementos de Seguridad Pública, por el Secretario de Seguridad Pública y Tránsito Municipal mediante suspensión temporal del cargo de 11 a 15 días sin goce de sueldo a quienes cometan las siguientes faltas:
 a) Haber cometido 3 faltas leves en el lapso de un año;
-b) Las violaciones a lo dispuesto por los artículos 589 fracciones V, XXI, ó XXVll; y
+b) Las violaciones a lo dispuesto por los artículos 589 fracciones V, XXI, ó XXVII; y
 c) Poner en peligro la integridad física o psicológica de los particulares o sus subalternos por una acción u omisión, por causa de imprudencia, descuido, negligencia, pánico o abandono del servicio.
 (REFORMADA, P.O. 11 DE ENERO DE 2010)
 II. .Serán sancionados los elementos de Seguridad Pública, por la Comisión de Honor y Justicia, mediante destitución o inhabilitación a quienes cometan las siguientes faltas:
