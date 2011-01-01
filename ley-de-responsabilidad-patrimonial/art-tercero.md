@@ -1,0 +1,2 @@
+ARTÍCULO TERCERO.- El Estado incluirá el monto de las partidas que, en términos de la Ley de Presupuesto, Contabilidad y Gasto Público Estatal, deberá destinarse para cubrir las responsabilidades patrimoniales del Estado dentro del Presupuesto de Egresos para el año 2011.
+Los Ayuntamientos establecerán en sus respectivos presupuestos la partida que deberá destinarse para cubrir las responsabilidades patrimoniales que pudieran desprenderse de este ordenamiento.
