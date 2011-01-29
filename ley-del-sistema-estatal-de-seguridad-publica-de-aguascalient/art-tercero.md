@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- El Ejecutivo del Estado deberá revisar los Programas de Seguridad Pública y de Prevención del Delito a fin de adecuarlos, en su caso, a los requerimientos de esta Ley y de la Ley General del Sistema Nacional de Seguridad Pública.

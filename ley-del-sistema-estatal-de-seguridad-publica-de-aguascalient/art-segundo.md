@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Se abroga la Ley de Seguridad Pública para el Estado de Aguascalientes, emitida mediante Decreto Número 183 de la LVII Legislatura del Congreso del Estado, publicado en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes número 29 el 16 de Julio del 2001.
