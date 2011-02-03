@@ -4,5 +4,3 @@ I. Suplir las ausencias temporales del Secretario del H. Ayuntamiento y Director
 II. Auxiliar al Secretario del H. Ayuntamiento y Director General de Gobierno en la firma, legalización y certificación de los documentos y el despacho de los asuntos que, por competencia, le correspondan suscribir y atender al Secretario, y por acuerdo del mismo.
 III. Las demás que le señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal o el Secretario del H. Ayuntamiento y Director General de Gobierno.
 Las ausencias temporales del Subsecretario del H. Ayuntamiento y Subdirector General de Gobierno serán suplidas por el Director de Asuntos Jurídicos de la Dirección General de Gobierno.
-APARTADO NOVENO
-De la Secretaría de Finanzas Públicas
