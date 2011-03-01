@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- Se reconoce plena validez a los documentos, actos y contratos legalmente expedidos o realizados con base en la legislación que se abroga. Las operaciones que se hubieren efectuado con anterioridad a la entrada en vigor de esta Ley, seguirán rigiéndose por los términos del contrato respectivo y las disposiciones legales aplicables.

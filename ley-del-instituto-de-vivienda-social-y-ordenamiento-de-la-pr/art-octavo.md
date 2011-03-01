@@ -1,0 +1,1 @@
+ARTÍCULO OCTAVO.- La Junta de Gobierno deberá instalarse y sesionar dentro de los 10 días siguientes a la entrada en vigencia de la presente Ley. Para tales efectos, el Gobernador del Estado convocará a sesión a los integrantes de la misma.

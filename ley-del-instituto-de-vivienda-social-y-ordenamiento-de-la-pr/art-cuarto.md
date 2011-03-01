@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- Los servidores públicos que a la fecha presten sus servicios en el Instituto de Vivienda del Estado de Aguascalientes, sin perjuicio de sus derechos laborales y previas la formalidades que resulten aplicables, pasaran a formar parte del personal del Instituto de Vivienda Social y Ordenamiento de la Propiedad del Estado de Aguascalientes.

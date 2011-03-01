@@ -1,0 +1,2 @@
+ARTÍCULO SEGUNDO.- Se abrogan la Ley del Instituto de Vivienda del Estado de Aguascalientes, publicada en el Periódico Oficial del Gobierno del Estado con fecha doce de febrero de 1989, el Decreto No. 2 de fecha 13 de diciembre de 1992 y se derogan todas las disposiciones que se opongan a las previstas en la presente Ley.
+En tanto se expidan las disposiciones reglamentarias correspondientes, en lo que no se opongan a esta Ley, seguirán aplicándose los ordenamientos reglamentarios y administrativos vigentes a esta fecha.

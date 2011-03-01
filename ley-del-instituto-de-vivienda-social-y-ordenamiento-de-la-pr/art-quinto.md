@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- Los recursos, los expedientes, el archivo, el mobiliario y en general los bienes del Instituto de Vivienda del Estado de Aguascalientes y de sus unidades administrativas existentes antes de la entrada en vigor de esta Ley, pasarán a formar parte del patrimonio y estructura del Instituto.
