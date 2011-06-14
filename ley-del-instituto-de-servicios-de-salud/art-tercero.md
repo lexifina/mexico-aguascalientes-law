@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- En tanto se expidan las disposiciones reglamentarias correspondientes, en lo que no se opongan a esta Ley, seguirán aplicándose los ordenamientos reglamentarios y administrativos vigentes a esta fecha.

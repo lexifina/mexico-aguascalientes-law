@@ -1,0 +1,1 @@
+ARTÍCULO OCTAVO.- Se reconoce plena validez a los documentos, actos y contratos legalmente expedidos, realizados o suscritos, con base en la legislación que se deroga. Las operaciones que se hubieren efectuado con anterioridad a la entrada en vigor de esta Ley, seguirán rigiéndose por las disposiciones legales aplicables o por los términos del contrato respectivo.

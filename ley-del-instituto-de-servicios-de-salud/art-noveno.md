@@ -1,0 +1,1 @@
+ARTÍCULO NOVENO.- La Junta de Gobierno deberá instalarse y sesionar dentro de los 45 días naturales, contados a partir de la entrada en vigencia de la presente Ley. Para tales efectos, el Gobernador del Estado convocará a sesión a los integrantes de la misma.

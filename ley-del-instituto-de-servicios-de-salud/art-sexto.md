@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- El personal, patrimonio, expedientes, archivos, mobiliario y bienes de los hospitales mencionados en el Artículo anterior, se incorporarán al patrimonio del Instituto y seguirán adscritos, según corresponda, al hospital respectivo.

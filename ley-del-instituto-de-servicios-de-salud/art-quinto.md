@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- Los derechos laborales del personal del Instituto de Salud del Estado de Aguascalientes que se transforma y de los Hospitales Centenario Miguel Hidalgo y de Psiquiatría "Dr. Gustavo León Mojica García", se respetarán conforme a la normatividad aplicable, en la transferencia institucional que se realice al Instituto o a la Secretaría, según corresponda.
