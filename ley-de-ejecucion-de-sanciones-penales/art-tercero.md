@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- Conforme a las necesidades y recursos de la Secretaría de Seguridad Pública del Estado se precisará la estructura administrativa de ejecución material de las penas y medidas de seguridad previstas en la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes.

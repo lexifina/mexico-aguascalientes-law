@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- Los procedimientos penales en fase de ejecución que se encuentren en trámite a la entrada en vigor de esta Ley, serán puestos a conocimiento del Juez de Ejecución para que comience con el ejercicio de sus funciones establecidas en la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes.

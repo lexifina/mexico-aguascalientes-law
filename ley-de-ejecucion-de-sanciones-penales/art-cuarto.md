@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- A la entrada en vigor del presente Decreto, los titulares y órganos facultados de los Poderes Ejecutivo y Judicial deberán realizar los nombramientos de las autoridades especializadas encargadas de la aplicación de la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes.

@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- Respecto a la aplicación de sanciones en materia de justicia para adolescentes, se continuará aplicando lo dispuesto por la Ley del Sistema de Justicia para Adolescentes del Estado de Aguascalientes.
