@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)
+ARTICULO 776 BIS.- En cumplimiento a lo establecido en el artículo anterior, el Departamento de Profesionalización, tienen como objetivo: consolidar un proyecto de formación y capacitación identificado con las necesidades de la Dirección, así como establecer un sistema de diagnóstico, evaluación y retroalimentación que permita la mejora continua de los elementos que integran la misma, con la finalidad de establecer un programa que promueva su desarrollo personal, profesional, familiar y social.
