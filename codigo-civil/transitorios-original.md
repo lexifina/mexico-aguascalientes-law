@@ -15,4 +15,4 @@ SUFRAGIO EFECTIVO. NO REELECCION.
 Aguascalientes, Ags., 3 de marzo de 1947.
 Al C. Gobernador Constitucional del Estado.- Presente.
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno del Estado.- Aguascalientes, a los 19 días del mes de abril de 1947.- Ing. J. Jesús M. Rodríguez.- El Secretario General de Gobierno.- Lic. Juan de Luna Loera.
-N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.

@@ -1,5 +1,5 @@
-(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 2009)
-ARTICULO 67 Ter.- El fondo se regirá por un Consejo Técnico representado por la Procuraduría, el Instituto y Asociaciones Protectoras de Animales debidamente acreditadas, este Consejo deberá establecer los instrumentos necesarios para el manejo transparente de los recursos. Los recursos del Fondo se integrarán con:
+(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)
+ARTICULO 67 Ter.- El fondo se regirá por un Consejo Técnico representado por la Secretaría, la Procuraduría, y Asociaciones Protectoras de Animales debidamente acreditadas, este Consejo deberá establecer los instrumentos necesarios para el manejo transparente de los recursos. Los recursos del Fondo se integrarán con:
 (ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2003)
 I.- Las herencias, legados y donaciones que reciba;
 (ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2003)
