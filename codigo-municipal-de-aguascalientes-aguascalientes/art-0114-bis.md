@@ -4,7 +4,8 @@ I.- Ejercer las atribuciones que le correspondan al municipio en materia de regu
 II.- Regular y vigilar la emisión de ruidos que afecten el medio ambiente así como la salud de las personas;
 III.- Crear, Administración y Manejar las áreas naturales protegidas de competencia municipal, así como proponer zonas de preservación ecológicas dentro del territorio municipal;
 IV.- Promover y fomentar la participación corresponsable de la sociedad tendiente a mantener la limpieza de la vía pública municipal y recolección de residuos sólidos que se generen;
-V.- Establecer, en coordinación con la Secretaría de Seguridad Pública y Tránsito Municipal, medidas para retirar de la circulación los vehículos automotores que no cumplan con las Normas Oficiales aplicables;
+(REFORMADA, P.O. 8 DE AGOSTO DE 2011)
+V.- Establecer, en coordinación con la Secretaría de Seguridad Pública, medidas para retirar de la circulación los vehículos automotores que no cumplan con las Normas Oficiales aplicables;
 VI.- Participar conjuntamente con el Instituto Municipal de Planeación y con la Secretaría de Desarrollo Urbano Municipal, en la elaboración y autorización de proyectos de reglamentación de Zonificación, Usos y Permisos del Suelo así como de los planes y programas de Desarrollo Urbano Municipal; así como negar desarrollos a menos de quince metros de arroyos y ríos de competencia municipal en coordinación con la misma Secretaría;
 VII.- Otorgar la resolución del informe preventivo a las empresas de su competencia;
 VIII.- Determinaren el ámbito de su competencia, o solicitar ante el Estado y la Federación, según sea el caso, la limitación, modificación o suspensión de actividades comerciales, industriales, de servicios, de desarrollo urbano y turístico, que puedan causar deterioro ambiental o alteración del equilibrio ecológico;
