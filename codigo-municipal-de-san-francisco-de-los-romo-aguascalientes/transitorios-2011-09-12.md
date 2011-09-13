@@ -1,0 +1,5 @@
+P.O. 12 DE SEPTIEMBRE DE 2011.
+PRIMERO. El presente Decreto de reformas entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO En tanto se hacen las adecuaciones legales a este Código, las referencias normativas a la Dirección General de Finanzas y Administración, se deberá entender como referidas a la Dirección de Finanzas y Administración; asimismo, las referencias normativas que se hacen a la Dirección de Mejora Regulatoria, Simplificación, Transparencia e Innovación en el Libro Cuarto, deberán entenderse como referidas a la Contraloría y Desarrollo Administrativo Municipal.
+TERCERO. Las referencias normativas que se hacen a la Dirección General de Desarrollo Urbano, Ecología y Servicios Públicos en los Libros Quinto y Noveno deberán entenderse como referidas a la Dirección de Servicios Públicos.
+CUARTO. Las referencias normativas que se hacen a la Dirección General de Desarrollo Urbano, Ecología y Servicios Públicos el Libro Octavo de este Código deberán entenderse como referidas a la Dirección de Desarrollo Urbano.
