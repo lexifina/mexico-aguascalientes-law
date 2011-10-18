@@ -1,0 +1,3 @@
+P.O. 17 DE OCTUBRE DE 2011.
+ARTÍCULO PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- Los fideicomisos públicos que formen parte de la Administración Pública Descentralizada y que hayan sido constituidos en fecha anterior a la entrada en vigor del presente Decreto, deberán adecuar sus contratos y/o Decretos de creación a las reformas y adiciones a la Ley Orgánica de la Administración Pública, a la Ley para el Control de la Entidades Paraestatales, a la Ley de Presupuesto, Contabilidad y Gasto Público y a la Ley de Hacienda, todas ellas del Estado de Aguascalientes, en un término no mayor a 90 días contados a partir de la fecha en que entre en vigor el presente Decreto.
