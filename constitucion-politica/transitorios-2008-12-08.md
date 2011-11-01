@@ -1,6 +1,7 @@
 P.O. 8 DE DICIEMBRE DE 2008.
 ARTÍCULO PRIMERO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo previsto en el Transitorio Quinto siguiente.
-ARTÍCULO SEGUNDO.- El Congreso del Estado expedirá las reformas a su Ley Orgánica, Reglamento Interior y demás disposiciones relacionadas y emitirá la Ley Superior de Fiscalización del Estado de Aguascalientes a efecto de dar cumplimiento al presente Decreto.
+(REFORMADO, P.O. 31 DE OCTUBRE DE 2011)
+ARTÍCULO SEGUNDO.- El Congreso del Estado expedirá las reformas a su Ley Orgánica, Reglamento Interior y demás disposiciones relacionadas y emitirá la Ley de Fiscalización Superior del Estado de Aguascalientes, a efecto de dar cumplimiento al presente Decreto.
 ARTÍCULO TERCERO.- Las referencias hechas a la Contaduría Mayor de Hacienda en los ordenamientos jurídicos y administrativos, contratos, convenios o actos respectivos, se entenderán realizadas al Órgano Superior de Fiscalización.
 ARTÍCULO CUARTO.- En tanto se crea la Ley Superior de Fiscalización del Estado de Aguascalientes la Contaduría Mayor de Hacienda, pasará a ser el Órgano Superior de Fiscalización del Estado de Aguascalientes, con las facultades a que se refiere este Decreto y las que tenía con anterioridad a su entrada en vigencia en los términos de estas disposiciones transitorias
 Para tales efectos, el Contador Mayor de Hacienda será el titular del Órgano Superior de Fiscalización, hasta en tanto el Congreso designe al Auditor Superior que cumplirá el plazo previsto en el Artículo 27 B.
