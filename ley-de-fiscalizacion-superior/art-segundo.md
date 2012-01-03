@@ -1,1 +1,0 @@
-ARTÍCULO SEGUNDO.- Se abroga la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado el 21 de junio de 1981, y se derogan todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan a la presente Ley de Fiscalización Superior del Estado.

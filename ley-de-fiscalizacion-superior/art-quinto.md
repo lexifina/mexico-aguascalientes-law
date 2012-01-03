@@ -1,1 +1,0 @@
-ARTÍCULO QUINTO.- Las normas sobre procedimiento y atribuciones del Órgano Superior de Fiscalización contenidas en la presente Ley, serán aplicables a las Cuentas Públicas correspondientes al ejercicio fiscal 2011 y subsecuentes.

@@ -1,1 +1,0 @@
-ARTÍCULO CUARTO.- Los plazos y términos aplicables para la presentación de las Cuentas Públicas, Informes de Avances de Gestión Financiera, Informes de Resultados y para su revisión contenidas en la Ley de Fiscalización Superior del Estado de Aguascalientes, entrarán en vigencia a partir de las Cuentas Públicas e Informe de Resultado correspondientes al ejercicio fiscal 2011.
