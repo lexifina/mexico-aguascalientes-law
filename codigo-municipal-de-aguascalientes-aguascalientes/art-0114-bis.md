@@ -1,7 +1,8 @@
 (ADICIONADO, P.O. 14 DE FEBRERO DE 2011)
 ARTÍCULO 114 BIS.- Corresponde a la Secretaría de Medio Ambiente y Desarrollo Sustentable:
 I.- Ejercer las atribuciones que le correspondan al municipio en materia de regulación, control ambiental y ecología de acuerdo a la ley;
-II.- Regular y vigilar la emisión de ruidos que afecten el medio ambiente así como la salud de las personas;
+(REFORMADA, P.O. 9 DE ENERO DE 2012)
+II.- Regular la emisión de ruidos que afecten el medio ambiente así como la salud de las personas;
 III.- Crear, Administración y Manejar las áreas naturales protegidas de competencia municipal, así como proponer zonas de preservación ecológicas dentro del territorio municipal;
 IV.- Promover y fomentar la participación corresponsable de la sociedad tendiente a mantener la limpieza de la vía pública municipal y recolección de residuos sólidos que se generen;
 (REFORMADA, P.O. 8 DE AGOSTO DE 2011)
