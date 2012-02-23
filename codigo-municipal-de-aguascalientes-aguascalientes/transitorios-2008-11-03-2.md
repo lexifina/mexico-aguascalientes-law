@@ -1,5 +1,5 @@
 P.O. 3 DE NOVIEMBRE DE 2008.
-DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 98, 107, 332, 553, 559, 570, 597, 601, 602, 603, 604, 605, 613, 614, 615, 616, 617, 618, 619, Y SE ADICIONAL LOS ARTICULOS 601 BIS, 605 BIS DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 98, 107, 332, 553, 559, 570, 597, 601, 602, 603, 604, 605, 613, 614, 615, 616, 617, 618, 619, Y SE ADICIONAL LOS ARTÍCULOS 601 BIS, 605 BIS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 ARTÍCULO SEGUNDO.- Dentro de los tres días siguientes a la entrada en vigencia de las presentes modificaciones, el Presidente de la Comisión de Honor y Justicia tendrá las siguientes obligaciones:
 I.- Proponer al H. Ayuntamiento la terna para elegir al representante del mismo que desempeñará el cargo de vocal, para que, en un término no mayor a diez días naturales, seleccione de la terna el representante del H. Ayuntamiento que se integrará a la Comisión de Honor y Justicia;

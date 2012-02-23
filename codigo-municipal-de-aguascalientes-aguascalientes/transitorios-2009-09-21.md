@@ -1,5 +1,5 @@
 P.O. 21 DE SEPTIEMBRE DE 2009.
-DECRETO POR EL QUE SE MODIFICA LA FRACCION IX DEL ARTICULO 98 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+DECRETO POR EL QUE SE MODIFICA LA FRACCIÓN IX DEL ARTÍCULO 98 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 ARTÍCULO PRIMERO.- El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 ARTÍCULO SEGUNDO.- Se derogan todas las disposiciones Municipales que contravengan lo dispuesto en el presente Reglamento.
 ARTÍCULO TERCERO.- La Dirección Municipal de Protección Civil deberá presentar la propuesta del Programa Municipal de Protección Civil y de los manuales de las bases y tablas técnicas a la Comisión de Gobernación del H. Ayuntamiento en un término no mayor a 120 días naturales. La Comisión tendrá 120 días naturales para revisar la propuesta y en caso de considerarla correcta, presentarla al H. Ayuntamiento para su aprobación.

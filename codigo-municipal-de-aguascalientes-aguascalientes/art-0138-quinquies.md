@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)
+ARTÍCULO 138 Quinquies.- Para la imposición de medidas disciplinarias relacionadas exclusivamente con la discriminación, violencia laboral, hostigamiento y acoso sexual, la Comisión para la Erradicación de la Violencia Laboral será la facultada para conocer y determinar los alcances de la sanción, no sin antes escuchar en defensa al trabajador y trabajadora.

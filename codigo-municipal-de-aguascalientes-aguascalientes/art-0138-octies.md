@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)
+ARTÍCULO 138 Octies.- Para los efectos de la fracción V del artículo anterior se entiende por:
+a) Hostigamiento sexual: El ejercicio del poder en una relación de subordinación real de la víctima frente al agresor en el ámbito laboral. Se expresa en conductas verbales, físicas o psicológicas, relacionadas con la sexualidad de connotación lasciva. El hostigamiento sexual incluye provocaciones, insinuaciones o invitaciones, pero de manera reiterada, lo que implica que un acto aislado no es considerado en la definición.
+b) Acoso Sexual: La forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
