@@ -11,13 +11,13 @@ Aguascalientes, Ags., a 15 de octubre del año 2007.
 SUFRAGIO EFECTIVO. NO REELECCION.
 María Guadalupe Díaz Martínez,
 DIPUTADA PRESIDENTE.
-Dip. César Pérez Uríbe,
+Dip. César Pérez Uribe,
 PRIMER SECRETARIO.
-Dip. Ubaldo Trevíño Soledad,
+Dip. Ubaldo Treviño Soledad,
 SEGUNDO SECRETARIO.
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 Aguascalientes, Ags., 22 de noviembre de 2007.
 Luis Armando Reynoso Femat,
 El SECRETARIO GENERAL DE GOBIERNO,
 Lic. Juan Angel Pérez Talamantes.
-N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
