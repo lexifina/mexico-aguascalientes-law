@@ -1,4 +1,4 @@
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 (ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)
 ARTICULO 74 Quater.- El Sistema Estatal de Salud así como las casas de retiro y los asilos encargados del cuidado y atención de los adultos mayores, en sus respectivos ámbitos de competencia, atenderán y fomentarán:
 I. La atención geriátrica;

@@ -9,6 +9,6 @@ VI.- Realizar el seguimiento operativo de las acciones del Régimen Estatal de P
 VII.- Adoptar esquemas de operación que mejoren la atención, modernicen la administración de servicios y registros clínicos, alienten la certificación de su personal y promuevan la certificación de establecimientos de atención médica;
 VIII.- Proporcionar a la Secretaría de Salud la información relativa al ejercicio de recursos transferidos, así como la correspondiente a los montos y rubros de gasto; y
 IX.- Promover la participación de los municipios mediante la suscripción de convenios, de conformidad con la legislación aplicable.
-(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2004)
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2004)
 CAPITULO II
 De los Beneficiarios
