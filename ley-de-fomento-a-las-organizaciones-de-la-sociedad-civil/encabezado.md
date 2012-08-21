@@ -1,4 +1,4 @@
-LEY QUE REGULA LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE AGUASCALIENTES
+LEY DE FOMENTO A LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE AGUASCALIENTES
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 15 de noviembre de 2010.
 LUIS ARMANDO REYNOSO FEMAT, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes hace sabed:
 Que por el H. Congreso del Estado se me ha comunicado lo siguiente:

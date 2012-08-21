@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 20 DE AGOSTO DE 2012)
+ARTÍCULO 36 C.- Son causas de improcedencia del otorgamiento de recursos y fondos públicos previstos en esta ley:
+I. Que exista entre sus directivos y los servidores públicos encargados de otorgar o autorizar los recursos o fondos públicos, relaciones de interés o nexos de parentesco por consanguinidad o afinidad hasta en cuarto grado, o sean cónyuges; o
+II. Que se contraten, con recursos públicos, a personas con nexos de parentesco con los directivos de la organización, por consanguinidad o afinidad hasta en cuarto grado.
