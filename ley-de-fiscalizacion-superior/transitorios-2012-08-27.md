@@ -1,0 +1,4 @@
+P.O. 27 DE AGOSTO DE 2012.
+ARTÍCULO PRIMERO. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO. Dentro de los sesenta días siguientes al inicio de sus funciones, la Sala Administrativa y Electoral deberá expedir el Reglamento que rija su actuación; debiendo quedar abrogado el Reglamento del Tribunal de lo Contencioso Administrativo del Estado de Aguascalientes y el Reglamento Interior del Tribunal Local Electoral.
+ARTÍCULO TERCERO.- El proceso para la elección de dos Magistrados de la Sala Administrativa y Electoral, del Poder Judicial del Estado de Aguascalientes, que dio inicio con la Convocatoria emitida por el Consejo de la Judicatura Estatal, publicada en el Periódico Oficial del Estado el 23 de julio de 2012, se regirá hasta su conclusión por las normas vigentes hasta antes del presente Decreto.

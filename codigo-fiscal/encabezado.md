@@ -1,4 +1,4 @@
-CODIGO FISCAL DEL ESTADO DE AGUASCALIENTES
+CÓDIGO FISCAL DEL ESTADO DE AGUASCALIENTES
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Aguascalientes, el jueves 31 de diciembre de 1981.
 RODOLFO LANDEROS GALLEGOS, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
 Que por el H. Congreso del Estado, se me ha comunicado lo siguiente:
