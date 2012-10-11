@@ -1,5 +1,5 @@
 (ADICIONADO, P.O. 20 DE FEBRERO DE 2012)
-ARTÍCULO 138 Ter.- El Consejo por la Equidad Laboral tendrá como atribuciones las siguientes:
+ARTÍCULO 138 TER.- El Consejo por la Equidad Laboral tendrá como atribuciones las siguientes:
 I. Implementar políticas sociales, laborales y culturales que justifiquen y alienten las relaciones humanas basadas en el respeto de sus derechos fundamentales;
 II. Establecer las políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales;
 III. Fortalecer el marco laboral para asegurar la sanción a quienes hostigan y acosan;

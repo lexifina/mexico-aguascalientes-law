@@ -1,5 +1,5 @@
 (ADICIONADO, P.O. 20 DE FEBRERO DE 2012)
-ARTÍCULO 138 Quáter.- El Consejo por la Equidad Laboral estará integrado de la siguiente manera:
+ARTÍCULO 138 QUÁTER.- El Consejo por la Equidad Laboral estará integrado de la siguiente manera:
 I. Presidente(a) Municipal, quien fungirá como Presidente(a) del mismo;
 II. Titular Presidente(a) de la Comisión Permanente de Igualdad y Género;
 III. Titular Presidente(a) de la Comisión Permanente de Derechos Humanos;

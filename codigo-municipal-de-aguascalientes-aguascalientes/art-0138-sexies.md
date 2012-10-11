@@ -1,5 +1,5 @@
 (ADICIONADO, P.O. 20 DE FEBRERO DE 2012)
-ARTÍCULO 138 Sexies.- Para la interpretación, vigilancia y aplicación del Apartado Cuarto Bis del Título Tercero de la Normatividad Interna Municipal, se crea la Comisión para la Erradicación de la Violencia Laboral, la cual estará integrada de la siguiente manera:
+ARTÍCULO 138 SEXIES.- Para la interpretación, vigilancia y aplicación del Apartado Cuarto Bis del Título Tercero de la Normatividad Interna Municipal, se crea la Comisión para la Erradicación de la Violencia Laboral, la cual estará integrada de la siguiente manera:
 I. Titular Presidente(a) de la Comisión Permanente de Igualdad y Género, quien fungirá como Presidente(a) de la misma;
 II. Titular Presidente(a) de la Comisión Permanente de Derechos Humanos;
 III. El Síndico(a) Procurador;

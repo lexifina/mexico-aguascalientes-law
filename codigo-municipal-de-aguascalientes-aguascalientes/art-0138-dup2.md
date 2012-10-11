@@ -1,5 +1,5 @@
 (ADICIONADO, P.O. 20 DE FEBRERO DE 2012)
-ARTÍCULO 138 Septis.- La Comisión tendrá las siguientes funciones:
+ARTÍCULO 138 SEPTIS.- La Comisión tendrá las siguientes funciones:
 I. Resolver las denuncias que se planteen ante ella por desacato al presente Código, Código de Ética para la Administración Pública del Municipio de Aguascalientes, y el Reglamento Interior de Trabajo del Municipio de Aguascalientes;
 II. Emitir los criterios y lineamientos para la imposición de las medidas disciplinarias correspondientes;
 III. Dar respuesta a las consultas que les formulen las servidoras y servidores públicos del H. Ayuntamiento del Municipio de Aguascalientes;
