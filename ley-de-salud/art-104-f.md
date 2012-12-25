@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 24 DE DICIEMBREDE 2012)
+ARTÍCULO 104 F.- Los Comités Hospitalarios de Bioética, de Ética en la Investigación y de Bioseguridad se sujetarán a la legislación y reglamentos de la materia, así como a la coordinación y a los criterios que establezca la Comisión Estatal de Bioética.
+Dichos comités serán interdisciplinarios y deberán estar integrados por el personal de atención de la salud y por profesionales de otras disciplinas que cuenten-con capacitación o conocimientos en bioética, siendo imprescindible contar con representantes del núcleo afectado o de personas usuarias de los servicios de salud, hasta el número convenido de sus miembros, quienes podrán estar adscritos o no a la unidad de salud o institución.

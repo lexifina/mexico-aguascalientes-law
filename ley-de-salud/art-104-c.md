@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 24 DE DICIEMBREDE 2012)
+ARTÍCULO 104 C.- El personal de atención a la salud debe atender con profesionalismo y entrega a todas las personas que demanden sus servicios sin distinción de edad, sexo, nacionalidad, religión, ideología política, posición socio-económica, padecimientos, sin permitir cualquier forma de discriminación, ni escatimar el tiempo que se requiera, o el espacio necesario para ello.
