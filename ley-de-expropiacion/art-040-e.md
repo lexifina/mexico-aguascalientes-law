@@ -1,2 +1,0 @@
-(ADICIONADO, P.O. 17 DE OCTUBRE DE 2011)
-ARTICULO 40 E.- Por la especialidad de la materia de la presente ley, y por ser de interés general, en contra del procedimiento, de la determinación de utilidad pública y del decreto de expropiación no procederá el recurso establecido en la Ley del Procedimiento Administrativo para el Estado de Aguascalientes, ni el juicio de nulidad establecido en la Ley del Procedimiento Contencioso Administrativo para el Estado de Aguascalientes.
