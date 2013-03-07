@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 4 DE MARZO DE 2013)
+ARTÍCULO 1306 TER.- El H. Cabildo mediante acuerdo aprobado, que se publique en el Periódico Oficial del Estado, puede decretar el establecimiento de zonas comerciales, que consistirán en lugares determinados en los cuales para el fomento del turismo y la actividad comercial se eximirá a los establecimientos mercantiles del cumplimiento de la fracción cuarta del artículo anterior y se podrán ofrecer estímulos para el establecimiento de negocios.

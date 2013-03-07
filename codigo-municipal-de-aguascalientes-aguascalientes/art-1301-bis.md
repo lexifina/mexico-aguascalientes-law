@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 4 DE MARZO DE 2013)
+ARTÍCULO 1301 BIS.- Los horarios de los establecimientos mercantiles o lugares con venta y/o consumo de bebidas alcohólicas, que no estén previstos por el artículo anterior, en atención a su funcionalidad y características especiales, serán establecidos por la autoridad municipal, con otros giros semejantes.
+Los establecimientos mercantiles o lugares que tengan restricción para la entrada de personas menores de edad, podrán solicitar a la Dirección Reglamentación, la realización de eventos especiales privados fuera de su horario de funcionamiento, sin venta y/o consumo de bebidas alcohólicas, con las condiciones y modalidades que la autoridad municipal le establezca y que podrá autorizarle de manera discrecional.

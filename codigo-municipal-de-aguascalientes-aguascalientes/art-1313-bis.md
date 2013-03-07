@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 4 DE MARZO DE 2013)
+ARTÍCULO 1313 BIS.- Una vez autorizada la reposición, la persona interesada deberá realizar el pago oportuno que establece la Ley de Ingresos del Municipio de Aguascalientes correspondiente al ejercicio fiscal vigente; al otorgársela deberá ser apercibida e indicarle que en caso de falsedad o mal uso, la autoridad municipal tiene la facultad potestativa de cancelar en definitiva su licencia.

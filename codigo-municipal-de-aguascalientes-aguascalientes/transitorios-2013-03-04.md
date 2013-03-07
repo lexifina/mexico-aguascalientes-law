@@ -1,0 +1,6 @@
+P.O. 4 DE MARZO DE 2013.
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al día hábil siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan a las presentes reformas y adiciones al Libro Séptimo y Noveno del Código Municipal de Aguascalientes.
+TERCERO.- Se concederá un plazo de seis meses a partir de la fecha de su publicación, para que todos los establecimientos mercantiles o lugares, que se rijan bajo las disposiciones del Libro Séptimo y Noveno del Código Municipal de Aguascalientes, regularicen su situación conforme a las presentes reformas y adiciones.
+CUARTO.- Para el cumplimiento de lo dispuesto por el artículo transitorio anterior, la autoridad municipal tomará en consideración las condiciones socioeconómicas, los usos, costumbres y legislación aplicable al momento en que se otorgaron las licencias y/o permisos de los establecimientos mercantiles y/o lugares, para exigir el cumplimiento de las presentes disposiciones o eximirles de su obligatoriedad.
+QUINTO.- Las autoridades municipales señaladas en el presente Dictamen, deberán de implementar las acciones tendientes para el debido cumplimiento de las reformas y adiciones al Libro Séptimo y Noveno del Código Municipal de Aguascalientes.

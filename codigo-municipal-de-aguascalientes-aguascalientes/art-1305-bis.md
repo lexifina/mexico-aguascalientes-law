@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 4 DE MARZO DE 2013)
+ARTÍCULO 1305 BIS.- Para la realización de cambio de domicilio del establecimiento mercantil, industrial o de servicios reglamentados o especiales, la persona interesada debe cumplir con todos y cada uno de los requisitos necesarios como si se tratase de una solicitud de licencia nueva, realizar el pago de los derechos correspondientes y contar con la autorización de la autoridad municipal competente.

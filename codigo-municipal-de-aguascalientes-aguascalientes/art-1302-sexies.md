@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 4 DE MARZO DE 2013)
+ARTÍCULO 1302 SEXIES.- En el caso de las anticipaciones de horario, se atenderá a los itinerarios y circunstancias, siendo el caso de Juegos Olímpicos, Copa Mundial de Fútbol, o cualquier otro evento de importancia y de gran interés general, por lo cual la autoridad municipal, podrá autorizar la apertura y funcionamiento de los establecimientos o lugares, fuera de su horario común a que se refiere este Título.

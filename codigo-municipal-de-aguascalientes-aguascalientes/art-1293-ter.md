@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 4 DE MARZO DE 2013)
+ARTÍCULO 1293 TER.- La autoridad municipal en uso de sus facultades y atribuciones, deberá garantizar y vigilar la tranquilidad, seguridad y bienestar de las personas, cuidando que no se altere el orden público o las buenas costumbres, anteponiendo cualquier interés particular que se oponga al bienestar colectivo, para una sana convivencia y un desarrollo armónico.

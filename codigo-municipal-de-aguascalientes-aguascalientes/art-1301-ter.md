@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 4 DE MARZO DE 2013)
+ARTÍCULO 1301 TER.- Para la autorización de cualquier espectáculo público, en el que se permita la venta y/o consumo de bebidas alcohólicas, previa licencia o permiso, ésta deberá realizarse en vaso de plástico desechable o de cualquier material similar que pueda ser reciclado, que no implique peligro para quienes acudan al evento o espectáculo, prohibiéndose los vasos de vidrio, metal o de barro. Se deberán respetar los horarios previstos en el presente capítulo o en el que determine la autoridad municipal.
