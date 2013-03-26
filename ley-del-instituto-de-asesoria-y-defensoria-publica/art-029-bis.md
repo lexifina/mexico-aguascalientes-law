@@ -1,0 +1,6 @@
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(ADICIONADO, P.O. 25 DE MARZO DE 2013)
+ARTICULO 29 BIS.- El Instituto contará con una Unidad de Investigaciones, que se integrará por los investigadores, técnicos y peritos, en función permanente, que determine la Junta de Gobierno con base al presupuesto, los cuales prestarán el servicio de recolección de datos de prueba, asesoría técnica y científica que sea necesaria para sustentar el caso y se ejerza efectiva y debidamente los servicios de asesoría y defensoría.
+La Unidad de Investigación Criminal será coordinada por el titular de la coordinación de defensoría pública, quien controlará y dará seguimiento a las actividades de los investigadores y peritos que presten su servicios y apoyo al defensor.
+Para el cumplimiento de esta función, el Instituto podrá celebrar convenios para la contratación externa y temporal de investigadores y peritos, en los términos de esta ley.
+El personal de esta Unidad estará a disposición de defensas particulares, para aquellos casos en que, previa solicitud y estudio social y económico, los imputados no puedan cubrir honorarios de investigadores o peritos particulares.

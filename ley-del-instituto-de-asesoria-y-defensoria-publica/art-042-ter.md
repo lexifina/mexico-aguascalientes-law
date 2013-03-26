@@ -1,0 +1,3 @@
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(ADICIONADO, P.O. 25 DE MARZO DE 2013)
+ARTICULO 42 TER.- El Servicio Profesional de Carrera del Instituto garantizará la igualdad de oportunidades laborales, así como la estabilidad, permanencia, remuneración adecuada, capacitación y garantías de seguridad social para los asesores y defensores públicos, investigadores, peritos y personal técnico, en los términos que señale la Ley del Servicio Civil de Carrera del Estado de Aguascalientes y demás disposiciones normativas aplicables.

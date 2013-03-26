@@ -1,0 +1,3 @@
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(ADICIONADO, P.O. 25 DE MARZO DE 2013)
+ARTICULO 31 BIS.- El Instituto contará con una Unidad de Estudios y Capacitación, dependiente de la Dirección General, que ejecutará programas de estudio y capacitación de asesores y defensores; realizará investigaciones jurídicas de apoyo; desarrollará publicaciones jurídicas cuando sea procedente; brindará asesoría y apoyo a las demás áreas y a los asesores y defensores públicos sobre estrategias de litigación; desarrollará estudios legislativos y jurisprudenciales, y creará y actualizará un sistema de documentación para lograr una eficiente labor de asesoría y defensoría.
