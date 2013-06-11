@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- El primer informe anual que se rinda en términos del presente Decreto ante el Congreso del Estado deberá presentarse en el mes de diciembre del 2013, salvo lo relacionado con las evaluaciones del servicio profesional cuya información se integrará hasta el informe anual que se presente en el mes de diciembre del 2014.

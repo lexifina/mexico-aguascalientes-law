@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Se deroga la Ley de la Comisión Estatal de los Derechos Humanos contenida en el Decreto número 46 publicado en el Periódico Oficial del Estado el 10 de febrero del 2003 y se deroga toda disposición contraria al presente Decreto.
