@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- El personal con el que deberá iniciar sus funciones la Universidad, será contratado inicialmente por obra determinada, y el proceso de contratación definitiva se realizará en términos de la normatividad que al efecto se expida.

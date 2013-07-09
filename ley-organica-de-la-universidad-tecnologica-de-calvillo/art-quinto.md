@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- Para el inicio de la operación de la Universidad, las Secretaría de Educación Pública y el Gobierno del Estado de Aguascalientes, proveerán los medios presupuestarios necesarios para el cumplimiento del objeto del presente Decreto.
