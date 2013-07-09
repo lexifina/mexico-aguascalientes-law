@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- El Consejo Estatal de Protección Civil y el Comité Estatal de Emergencias, se deberán Instalar en un plazo no mayor de sesenta días a partir del día siguiente de la publicación de esta Ley.

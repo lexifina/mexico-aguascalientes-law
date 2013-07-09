@@ -1,0 +1,1 @@
+ARTÍCULO SÉPTIMO.- Se deberán de modificar las reglas de operación del Fondo de Desastres Naturales para el Estado de Aguascalientes en un plazo no mayor (sic) 60 días contados a partir del día siguiente de la publicación.

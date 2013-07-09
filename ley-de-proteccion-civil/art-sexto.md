@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- Los Municipios dispondrán de un plazo de un año a partir de la expedición de esta Ley para integrar sus Sistemas Municipales de Protección Civil, expedir el Programa y Reglamento Municipal correspondientes, instalar y poner en operación el Consejo y Coordinación Municipal de Protección Civil.
