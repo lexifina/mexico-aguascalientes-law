@@ -16,3 +16,4 @@ Aguascalientes, Ags., 17 de junio de 2011.
 Carlos Lozano de la Torre.
 EL JEFE DE GABINETE,
 Lic. Antonio Javier Aguilera García.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.

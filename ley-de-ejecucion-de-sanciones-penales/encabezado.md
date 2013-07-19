@@ -1,4 +1,4 @@
-LEY DE EJECUCION DE SANCIONES PENALES DEL ESTADO DE AGUASCALIENTES
+LEY DE EJECUCIÓN DE SANCIONES PENALES DEL ESTADO DE AGUASCALIENTES
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 17 de junio de 2011.
 CARLOS LOZANO DE LA TORRE, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
 Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
