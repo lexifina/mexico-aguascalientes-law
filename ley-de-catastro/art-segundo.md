@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Se abroga la Ley de Catastro del Estado publicada el 13 de diciembre de 2010 en la Primera Sección del Periódico Oficial del Estado, con la única salvedad de los preceptos que en dicha Ley crean el Instituto Catastral de Aguascalientes.
