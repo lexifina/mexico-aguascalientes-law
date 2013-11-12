@@ -1,3 +1,4 @@
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (ADICIONADO, P.O. 25 DE MARZO DE 2013)
 ARTICULO 29 TER.- Los investigadores que integren permanente o temporalmente la Unidad de Investigaciones del Instituto, contarán con las siguientes obligaciones:
 I. En los casos que sea procedente, acudir al lugar de los hechos para ayudar en la formulación de una hipótesis preliminar;
