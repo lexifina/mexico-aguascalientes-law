@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
