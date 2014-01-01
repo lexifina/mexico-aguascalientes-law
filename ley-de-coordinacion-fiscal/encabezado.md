@@ -1,4 +1,4 @@
-LEY DE COORDINACION FISCAL DEL ESTADO DE AGUASCALIENTES
+LEY DE COORDINACIÓN FISCAL DEL ESTADO DE AGUASCALIENTES
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 3 de noviembre de 1996.
 OTTO GRANADOS ROLDAN, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
 Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
