@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)
+ARTICULO 70 F.- Los contribuyentes a que se refiere este Capítulo, además de las obligaciones señaladas en los otros artículos del mismo y en las demás disposiciones fiscales, deberá cumplir con lo siguiente:
+a) Empadronarse para los efectos de este impuesto dentro de los diez días hábiles siguientes a la fecha de inicio de sus operaciones, ante la Secretaría de Finanzas del Estado, mediante aviso que será presentado en las formas y ante las oficinas que para tal efecto autorice dicha autoridad.
+b) Llevar un registro pormenorizado de las ventas que realice respecto de los bienes a que se refiere el presente capítulo, por cada establecimiento, local, agencia o sucursal en que se efectúen, identificando los montos de cada una de dichas operaciones y las cantidades que integran la base del impuesto.
+c) Expedir comprobantes que reúnan los requisitos establecidos en el Código Fiscal del Estado de Aguascalientes, sin que se traslade en forma expresa y por separado el impuesto establecido en este Capítulo.
+d) Pagar el impuesto determinado a su cargo, mediante declaración que será presentada ante la oficina que para tales efectos autorice la Secretaría de Finanzas del Estado, a más tardar el día diecisiete del mes siguiente a aquel a que corresponda el impuesto.

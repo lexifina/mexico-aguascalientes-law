@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)
+ARTICULO 133 BIS.- Los contribuyentes del impuesto sobre nóminas, podrán dictaminar por contador público registrado el cumplimiento de sus obligaciones fiscales referidas en el capítulo VII de la Ley de Hacienda del Estado de Aguascalientes, de acuerdo con las reglas de carácter general que para tal efecto emita la Secretaría de Finanzas del Estado.
+Para tal efecto, mediante escrito libre los contribuyentes manifestarán ante la Secretaría de Finanzas del Estado que optan por presentar el dictamen a que se refiere el párrafo anterior, en un plazo no mayor de 30 días hábiles, contados a partir de la fecha del escrito respectivo.
