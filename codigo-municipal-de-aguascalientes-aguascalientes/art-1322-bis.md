@@ -10,7 +10,8 @@ VII. Permitir dentro del establecimiento mercantil las conductas que tiendan a l
 VIII. Permitir la celebración de apuestas de cualquier tipo, dentro del establecimiento mercantil;
 IX. Permitir el ingreso o permanencia de la clientela en el establecimiento mercantil o lugar después del horario autorizado;
 X. Utilizar la vía pública para la realización de las actividades propias del giro, salvo autorización de la autoridad municipal competente;
-XI. Permitir el consumo de bebidas alcohólicas en los enseres de los establecimientos mercantiles colocados en vía pública, salvo la autorización de la Dirección de Reglamentación;
+(REFORMADA, P.O. 13 DE ENERO DE 2014)
+XI. Permitir el consumo de bebidas alcohólicas en los enseres de los establecimientos mercantiles colocados en vía pública, salvo la autorización de la Dirección de Reglamentos;
 XII. Realizar venta o permitir consumo de bebidas alcohólicas a personas con uniforme escolar, policías o militares uniformados; y
 XIII. Dar mal uso a los colores y símbolos nacionales así como retratos o estatuas de héroes nacionales, en la decoración de sus establecimientos mercantiles.
 (ADICIONADO [N. DE E. REUBICADA SU DENOMINACIÓN ANTES EN EL CAPÍTULO III], P.O. 4 DE MARZO DE 2013)

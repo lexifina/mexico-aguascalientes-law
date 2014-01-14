@@ -6,4 +6,5 @@ III. Contrato de arrendamiento en caso de no ser propietario u otro documento qu
 IV. Comprobante del domicilio particular actual del solicitante;
 V. Comprobar que cuentan con contrato de suministro de Internet;
 VI. Fotografías del exterior y de las instalaciones del negocio; y
-VII. Constancia del número de equipos de cómputo que se registren ante la Dirección de Reglamentación.
+(REFORMADA, P.O. 13 DE ENERO DE 2014)
+VII. Constancia del número de equipos de cómputo que se registren ante la Dirección de Reglamentos.
