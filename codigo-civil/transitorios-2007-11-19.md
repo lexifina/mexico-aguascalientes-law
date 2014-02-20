@@ -1,4 +1,0 @@
-P.O. 19 DE NOVIEMBRE DE 2007.
-DECRETO No. 351.
-ARTÍCULO PRIMERO.- La Dirección General de Servicios Periciales de la Procuraduría General de Justicia del Estado y el Instituto de Salud del Estado de Aguascalientes, tendrán 30 días hábiles para elaborar el Reglamento a que hace alusión el Artículo 307 C del presente Decreto. Una vez publicado en el Periódico Oficial del Estado de Aguascalientes dicho Reglamento, se podrá iniciar con la realización de la prueba relativa.
-ARTÍCULO SEGUNDO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.

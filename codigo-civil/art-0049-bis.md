@@ -1,2 +1,0 @@
-(ADICIONADO, P.O. 6 DE MARZO DE 2000)
-Artículo 49 Bis.- Los registros, constancias y actas relacionados con aquél, realizados conforme a las presentes disposiciones, hacen prueba plena en todo lo que el oficial del Registro Civil en el desempeño de sus funciones, da testimonio de haber pasado en su presencia sin perjuicio de que el registro y documentación relacionados pueda ser redargüida de falsa.

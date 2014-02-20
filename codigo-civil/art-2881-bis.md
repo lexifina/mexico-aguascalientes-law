@@ -1,2 +1,0 @@
-(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE SEPTIEMBRE DE 2010)
-Artículo 2881 BIS.- El principio de legitimación consiste en otorgar certeza y seguridad jurídica sobre los derechos inscritos, los cuales gozan de una presunción de veracidad, que se mantiene hasta en tanto no se demuestre la discordancia entre el registro y la realidad. El derecho registrado se presume que existe y que pertenece a su titular en la forma expresada por el asiento o folio real respectivo.

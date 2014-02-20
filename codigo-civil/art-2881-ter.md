@@ -1,2 +1,0 @@
-(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE SEPTIEMBRE DE 2010)
-Artículo 2881 TER.- El principio de consentimiento es la declaración de la voluntad del titular registral o interesado, por la que autoriza al registrador a practicar las inscripciones para que se transmita el dominio o se constituya un derecho real que lo transfiere y del que lo adquiere, o por lo menos del primero. Para cancelar dichas inscripciones por consentimiento de las partes, se estará a lo dispuesto por el Artículo 2907.
