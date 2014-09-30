@@ -15,11 +15,11 @@ DIPUTADO PRESIDENTE,
 J. Jesús Hernández Valdivia.
 DIPUTADO SECRETARIO,
 Laura Patricia Romo Castorena.
-DIPUTADO PRESIDENTE (SIC),
+DIPUTADO PRESIDENTE,
 Humberto Godínez Pazarán.
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 Aguascalientes, Ags., 27 de junio de 2001.
 Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 Lic. Abelardo Reyes Sahagún.
-N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
