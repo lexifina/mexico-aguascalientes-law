@@ -1,3 +1,4 @@
+N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE ARTÍCULO QUEDARÁ DEROGADO A PARTIR DEL 1 DE ENERO DE 2016.
 (REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)
 ARTICULO 36 C.- El presente impuesto se causará por el uso o tenencia de vehículos que son objeto de este Apartado.
 El presente impuesto se causará por el uso o tenencia de los vehículos señalados en el Artículo 36 A de esta ley; la base del impuesto será el valor total del vehículo señalado en la factura de primera enajenación.

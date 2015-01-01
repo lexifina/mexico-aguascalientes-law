@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)
+ARTICULO 131 TER.- En el caso de que con motivo de sus facultades de comprobación, las autoridades fiscales soliciten informes, datos, documentos, la presentación de la contabilidad o parte de ella, del contribuyente, responsable solidario o tercero, deberán presentarse dentro de los siguientes plazos:
+a) Los comprobantes o declaraciones de pago de contribuciones, libros o registros que forman parte de la contabilidad, solicitados en el curso de una visita domiciliaria, deberán presentarse de inmediato, así como los diagramas y el diseño de sistema de registro electrónico, en su caso.
+b) Seis días contados a partir del siguiente a aquel en que se notificó la solicitud respectiva, cuando se trate de documentos que deba tener en su poder el contribuyente conforme a la legislación aplicable y le sean solicitados durante el desarrollo de la visita domiciliaria, o en el caso de la revisión en las oficinas de las autoridades y
+c) Diez días contados a partir del siguiente a aquel en que se le notificó la solicitud respectiva, en los demás casos.
+Las autoridades fiscales podrán, por una única vez, ampliar hasta en seis días más, los plazos antes señalados, cuando justifique su petición.

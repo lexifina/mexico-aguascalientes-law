@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)
+ARTICULO 65 BIS.- Son responsables en la comisión de las infracciones previstas en este Código las personas que realicen los supuestos que en este Capítulo se consideran como tales, así como las que omitan el cumplimiento de obligaciones previstas por las disposiciones fiscales, incluyendo a aquellas que lo hagan fuera de los plazos establecidos.
+Cuando sean varios los responsables, cada uno deberá pagar el total de la multa que se imponga.

@@ -1,3 +1,4 @@
+N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE ARTÍCULO QUEDARÁ DEROGADO A PARTIR DEL 1 DE ENERO DE 2016.
 (REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)
 ARTICULO 36 B.- Es objeto de este impuesto, la tenencia o uso de los siguientes vehículos automotores: automóviles, motocicletas, ómnibus, camiones y tractocamiones, nuevos y de hasta nueve años modelo anterior.
 Para los efectos de este Apartado, se consideran:

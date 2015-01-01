@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)
+ARTICULO 100 TER.- El contribuyente que habiendo efectuado el pago de una contribución determinada por él mismo o por la autoridad, interponga oportunamente los medios de defensa que el presente Código y demás leyes establezcan y obtenga resolución firme que le sea favorable total o parcialmente, tendrá derecho a la devolución correspondiente.
+Si la devolución se hubiera efectuado y no procediera, se causarán recargos en los términos del artículo 46 de este Código, sobre las cantidades devueltas indebidamente, a partir de la fecha de la devolución.
+La obligación de devolver las cantidades pagadas indebidamente, prescribe en el término de cinco años. Dicho término se interrumpe con cada gestión de cobro que el contribuyente realice a través de la presentación de la solicitud de devolución ante la autoridad competente.

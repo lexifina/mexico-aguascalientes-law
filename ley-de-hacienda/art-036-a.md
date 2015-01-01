@@ -1,6 +1,8 @@
+N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE ARTÍCULO QUEDARÁ DEROGADO A PARTIR DEL 1 DE ENERO DE 2016.
 (REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)
 ARTICULO 36 A.- Están obligados al pago de este impuesto las personas físicas y morales, tenedoras o usuarias de los vehículos a que se refiere este Apartado, que circulen de manera habitual por la circunscripción territorial del Estado de Aguascalientes y tenga su domicilio en el mismo.
-Los contribuyentes pagarán el Impuesto por año de calendario durante los tres primeros meses del ejercicio fiscal respectivo ante las oficinas autorizadas.
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)
+Los contribuyentes pagarán el Impuesto por año de calendario durante los tres primeros meses del ejercicio fiscal respectivo ante las oficinas autorizadas por la Secretaría de Finanzas del Estado, y en las formas por ella aprobadas, conjuntamente con los derechos por servicios de control vehicular por el refrendo anual del registro del vehículo en el Padrón Vehicular del Estado.
 En los casos de vehículos nuevos o importados, el impuesto a que se refiere el presente Apartado deberá calcularse y enterarse a más tardar durante los treinta días naturales siguientes a aquel en que se adquirió o importó el vehículo ante las oficinas autorizadas.
 Para aquellos vehículos que circulen con placas de transporte público federal, el impuesto se pagará en la Secretaría de Finanzas del Estado cuando el contribuyente acredite tener registrado su domicilio fiscal ante la misma. No obstante lo dispuesto en este párrafo, los contribuyentes que se encuentren inscritos en el citado registro para efectos del pago de otras contribuciones, deberán anotar su clave correspondiente en los formatos de pago de este impuesto.
 (REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)
