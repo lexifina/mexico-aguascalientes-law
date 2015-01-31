@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- El personal y mobiliario adscrito a la Dirección General de Prevención del Delito de la Secretaría de Seguridad Pública, pasarán a ser la estructura orgánica y mobiliario del Centro Estatal de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana.

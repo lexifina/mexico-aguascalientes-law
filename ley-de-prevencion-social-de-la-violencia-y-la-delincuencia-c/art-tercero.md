@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- El Poder Ejecutivo deberá expedir el Reglamento del Centro Estatal de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, en un término de ciento ochenta días naturales a partir de su instalación.
