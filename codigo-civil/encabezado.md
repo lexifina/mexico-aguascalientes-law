@@ -1,11 +1,8 @@
-[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
-CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
-Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
-EL CIUDADANO CONTADOR PUBLICO FRANCISCO JAVIER BARRIO TERRAZAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
-QUE EL HONORABLE CONGRESO DEL ESTADO SE HA SERVIDO EXPEDIR EL SIGUIENTE
-DECRETO:
-DECRETO NO. 850/95 XVIII P.E.
-LA QUINCUAGESIMASEPTIMA H. LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, REUNIDA EN SU DÉCIMO OCTAVO PERIODO EXTRAORDINARIO DE SESIONES, DENTRO DEL TERCER AÑO DE EJERCICIO CONSTITUCIONAL
-DECRETA:
-Unico.- Se expide el Código Municipal para el Estado de Chihuahua para quedar en los siguientes términos:
-CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
+CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
+Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
+JESUS M. RODRIGUEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes, sabed:
+Que el H. Congreso del Estado me ha enviado para su promulgación y publicación lo siguiente:
+"Estados Unidos Mexicanos.- H. XXXVII Legislatura del Estado de Aguascalientes.
+El H. Congreso del Estado en sesión ordinaria celebrada hoy, ha tenido a bien expedir el siguiente
+CODIGO CIVIL
+DISPOSICIONES PRELIMINARES.
