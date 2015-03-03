@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Se abroga el Código Electoral del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado deAguascalientes (sic) el 26 de enero del año 2009, mediante Decreto número 149, así como sus reformas y adiciones.

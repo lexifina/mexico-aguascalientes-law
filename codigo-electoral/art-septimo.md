@@ -1,0 +1,1 @@
+ARTÍCULO SÉPTIMO.- La Sala Administrativa y Electoral del Poder Judicial del Estado conocerá de los recursos establecidos en este Decreto, en tanto no se haga la instalación formal del Tribunal Electoral del Estado, instalación que se dará al día siguiente que los magistrados electorales rindan la protesta de ley ante el Senado de la República.

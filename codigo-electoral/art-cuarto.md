@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- En tanto el Consejo General del Instituto Nacional Electoral realiza la designación del Consejero Presidente y los consejeros electorales del Consejo General del Instituto Estatal Electoral, los actuales consejeros electorales continuarán en funciones y ejercerán las facultades y atribuciones que les correspondan conforme a este Decreto.

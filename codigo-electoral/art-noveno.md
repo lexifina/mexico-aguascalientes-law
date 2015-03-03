@@ -1,0 +1,3 @@
+ARTÍCULO NOVENO.- En tanto no inicie su vigencia la autonomía de la Fiscalía General del Estado, las referencias al Fiscal General del Estado y a la Fiscalía General del Estado contenidas en el presente Decreto, se entenderán hechas al Procurador General de Justicia del Estado y a la Procuraduría General de Justicia del Estado, respectivamente.
+En tanto no inicie su vigencia la autonomía de la Fiscalía General del Estado, el nombramiento del Fiscal Especial en Delitos Electorales se realizará en términos del artículo 40 de la Ley Orgánica del Ministerio Público del Estado de Aguascalientes.
+Una vez que asuma sus funciones el Fiscal General del Estado, se procederá en términos del artículo 295 de este Código a fin de realizar el nombramiento correspondiente.

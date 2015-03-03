@@ -1,0 +1,1 @@
+ARTÍCULO OCTAVO.- Una vez que las elecciones de Gobernador, diputados y ayuntamientos sean concurrentes con las elecciones federales en forma definitiva, quedará derogado el Título Cuarto "De la Jornada Electoral en Elecciones no Concurrentes" del Libro Tercero de este Código.

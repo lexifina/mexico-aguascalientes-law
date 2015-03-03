@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- El Consejo General del Instituto Estatal Electoral dictará los acuerdos necesarios para aplicar las disposiciones de este Decreto, y dentro de los ciento veinte días de su inicio de vigencia, deberá aprobar los reglamentos que en términos del presente Decreto le competa.
