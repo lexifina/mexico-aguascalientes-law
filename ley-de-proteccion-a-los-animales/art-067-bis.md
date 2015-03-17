@@ -1,4 +1,4 @@
-(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)
+(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)
 ARTICULO 67 Bis.- Se crea el Fondo para la Protección a los Animales del Estado de Aguascalientes, que dependerá de la Secretaría, cuyos recursos se destinarán a:
 (ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2003)
 I.- El fomento de estudios e investigaciones para mejorar los mecanismos para la protección a los animales y especies de fauna silvestre;
