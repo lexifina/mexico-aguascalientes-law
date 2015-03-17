@@ -1,0 +1,3 @@
+P.O. 16 DE MARZO DE 2015.
+DECRETO NÚMERO 160, POR EL QUE SE REFORMAN LA FRACCIÓN II, ASIMISMO SE ADICIONAN LAS FRACCIONES IV Y V AL ARTÍCULO 746 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES.
+ARTÍCULO ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
