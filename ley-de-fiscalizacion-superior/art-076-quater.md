@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 23 DE MARZO DE 2015)
+ARTÍCULO 76 QUATER.- Cuando el Órgano Superior de Fiscalización, advierta cualquiera de las conductas contenidas en el Artículo 76 Bis de esta Ley, dará vista al órgano de control que corresponda con el fin de que dicho órgano de control desahogue el procedimiento e imponga en su caso, la sanción que corresponda.
+En caso de que sin causa justificada, el órgano de control correspondiente no inicie el procedimiento mencionado en el párrafo que antecede, el Órgano Superior de Fiscalización iniciará el procedimiento e impondrá las sanciones que en su caso procedan de acuerdo con el Artículo que antecede.
