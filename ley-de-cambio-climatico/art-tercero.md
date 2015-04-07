@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- El Poder Ejecutivo del Estado en un término no mayor de ciento ochenta días hábiles contados a partir de la entrada en vigor de la presente Ley, expedirá el reglamento de esta Ley y emitirá los Decretos o Acuerdos necesarios para el cumplimiento de su objeto.

@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- La Comisión Intergubernamental de Cambio Climático deberá quedar instalada en un término que no excederá de noventa días hábiles, contados a partir del inicio de vigencia del presente Decreto.
