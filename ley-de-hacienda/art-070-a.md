@@ -3,7 +3,7 @@ ARTICULO 70 A.- Es objeto de este impuesto la venta final de bebidas en envase c
 1. Bebidas con contenido alcohólico: las bebidas alcohólicas y las bebidas refrescantes con contenido alcohólico.
 2. Bebidas alcohólicas: las que tengan una graduación alcohólica de más de 3°G.L., hasta 55°G.L., incluyendo el aguardiente y los concentrados de bebidas alcohólicas aun cuando tengan una graduación alcohólica mayor.
 3. Bebidas refrescantes: las elaboradas con un mínimo de 50% a base de vino de mesa, producto de la fermentación natural de frutas, pudiéndose adicionar agua, bióxido de carbono o agua carbonatada, jugo de frutas, extracto de frutas, aceites esenciales, ácido cítrico, azúcar, ácido benzoico o ácido sórbico o sus sales como conservadores, así como aquéllas que se elaboran de destilados alcohólicos diversos de los antes señalados.
-4. Bebidas alcohólicas a granel: Las que se encuentren envasadas en recipientes cuya capacidad exceda a 5 litros.
+4. (DEROGADO, P.O. 25 DE MAYO DE 2015)
 5. Alcohol: La solución acuosa de etanol con las impurezas que la acompañan, con graduación mayor de 55°G.L., a una temperatura de 15°C.
 6. Alcohol desnaturalizado: La solución acuosa de etanol con las impurezas que la acompañan, con una graduación mayor de 55°G.L., a una temperatura de 15°C, con la adición de las sustancias desnaturalizantes autorizadas por la Secretaría de Salud.
 7. Mieles incristalizables: El producto residual de la fabricación del azúcar, cuando referido a 85° brix a 20° centígrados, los azúcares fermentados expresados en glucosa no excedan del 61 %.
