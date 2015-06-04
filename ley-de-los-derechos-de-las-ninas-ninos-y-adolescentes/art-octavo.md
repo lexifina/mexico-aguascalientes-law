@@ -1,0 +1,1 @@
+ARTÍCULO OCTAVO.- Las referencias que esta Ley hace a la Fiscalía General del Estado, se entenderán referidas a la Procuraduría de Justicia del Estado, hasta en tanto entre en vigor la autonomía constitucional de dicha Fiscalía.

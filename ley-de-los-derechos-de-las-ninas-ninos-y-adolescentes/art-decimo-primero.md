@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO PRIMERO.- En tanto se crea la Procuraduría de Protección Local y se reforman los ordenamientos a que se alude el artículo cuarto transitorio, los procedimientos que estén en curso seguirán tramitándose conforme a las disposiciones legales aplicables en el momento en que se hubiesen iniciado.
