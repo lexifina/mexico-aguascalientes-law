@@ -1,4 +1,4 @@
-LEY DE INTEGRACION SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD
+LEY DE INTEGRACIÓN SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de febrero de 2000.
 FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes, sabed:
 Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
