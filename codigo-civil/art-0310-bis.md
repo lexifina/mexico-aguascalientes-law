@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 23 DE AGOSTO DE 2010)
-Artículo 310 bis.- En caso de divorcio necesario, si uno de los cónyuges careciere de bienes propios, o teniéndolos sean notoriamente menores a los del otro cónyuge, y se hubiere dedicado la mayor parte de su vida matrimonial al cuidado del hogar y en su caso a la atención de los hijos, tendrá derecho a recibir del otro cónyuge una compensación. El monto será determinado por el Juez competente al momento de dictar sentencia de divorcio, tomando en cuenta la masa patrimonial del cónyuge que deba otorgarla, sin que esta pueda exceder del cincuenta por ciento de los bienes adquiridos durante el matrimonio.
+Artículo 310 bis.- (DEROGADO, P.O. 22 DE JUNIO DE 2015)
