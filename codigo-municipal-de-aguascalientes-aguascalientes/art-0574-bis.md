@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 20 DE JULIO DE 2015)
+ARTÍCULO 574 BIS.- Todo correctivo disciplinario que se aplique a las mujeres policías operativas, además de los lineamientos señalados en el presente código considerarán las circunstancias personales, las jornadas que efectúa en los ámbitos públicos y privados, su condición de maternidad, a fin de que se aplique el enfoque de género y la igualdad sustantiva.
