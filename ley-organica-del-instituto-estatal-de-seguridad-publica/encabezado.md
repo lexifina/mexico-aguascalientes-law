@@ -1,4 +1,4 @@
-LEY ORGANICA DEL INSTITUTO ESTATAL DE SEGURIDAD PUBLICA
+LEY ORGÁNICA DEL INSTITUTO ESTATAL DE SEGURIDAD PÚBLICA
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 6 de marzo de 2000.
 FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
 Que por el H. Congreso del Estado, se me ha comunicado lo siguiente:
