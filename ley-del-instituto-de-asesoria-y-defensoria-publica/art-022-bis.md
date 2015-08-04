@@ -1,12 +1,3 @@
-(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)
-ARTICULO 22 BIS.- A los Defensores Públicos Especializados en adolescentes corresponden, además de las atribuciones señaladas en los artículos anteriores que procedan, las siguientes:
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
-(REFORMADA, P.O. 20 DE MAYO DE 2013)
-I.- Ejercer la defensa legal de los adolescentes a quienes se atribuya la realización de un hecho punible descrito por alguna figura típica prevista en el Código Penal para el Estado de Aguascalientes o alguna otra norma, en igualdad de circunstancias que su contraparte, desde el momento en el que sean presentados ante el Ministerio Público Especializado en Adolescentes y mientras estén sujetos a cualquiera de las fases del Sistema Estatal de Justicia para Adolescentes;
-II.- Asistir al adolescente sujeto a la aplicación de la Ley del Sistema de Justicia para Adolescentes, especialmente en aquellos momentos en los que por decisión de la autoridad, se modifique su situación jurídica o se pongan en riesgo sus derechos o garantías;
-III.- Mantener una comunicación constante con el adolescente, sus padres, tutores, o quien ejerza la patria potestad, o custodia, para informarles del devenir de la investigación, el proceso o la medida;
-IV.- Informar de inmediato al adolescente sujeto a la aplicación de la Ley del Sistema de Justicia para Adolescentes, sobre su situación jurídica, así como los derechos y garantías que le otorgan las disposiciones legales aplicables;
-V.- Pugnar para que en todo momento, se respeten los derechos y garantías de los adolescentes a quienes defiende, y hacer del conocimiento inmediato de las autoridades correspondientes, cuando no se respeten tales derechos y garantías, o exista inminencia de que así suceda;
-VI.- Promover soluciones o formas alternativas al proceso, así como los modos simplificados de terminación en los casos en que proceda;
-VII.- Solicitar al Ministerio Público para Adolescentes, el no ejercicio de la acción de remisión ante el Juez de Preparación para Adolescentes, cuando no se encuentren reunidos los elementos necesarios para ello o en los supuestos que establece la propia Ley del Sistema de Justicia para Adolescentes; y
-VIII.- Realizar todos los trámites o gestiones necesarios para una defensa eficaz conforme a lo previsto en la Ley del sistema de Justicia para Adolescentes.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+(REFORMADO, P.O. 3 DE AGOSTO DE 2015)
+ARTICULO 22 BIS.- Los Defensores Públicos en materia de ejecución de penas y en materia de justicia penal para adolescentes, ejercerán las facultades asignadas por la legislación nacional única aplicable, así como las facultades administrativas en términos de las disposiciones reglamentarias.
