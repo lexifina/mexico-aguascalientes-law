@@ -1,2 +1,5 @@
 P.O. 22 DE JUNIO DE 2015.
 ARTÍCULO ÚNICO.- El presente Decreto iniciará su vigencia a los treinta días hábiles siguientes al de su publicación en el Periódico Oficial del Estado de Aguascalientes, quedando sin efecto todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(ADICIONADO, P.O. 3 DE AGOSTO DE 2015)
+Por lo que hace a los juicios de divorcio en trámite, será potestativo para cualquiera de las partes acogerse a las reformas establecidas en el presente Decreto, para lo cual se tendrá que presentar la propuesta de convenio referido en el Artículo 289 del Código Civil. En caso de que los cónyuges no logren un acuerdo respecto a dicho convenio, las cuestiones controvertidas se sustanciarán vía incidental en términos de lo dispuesto por el Artículo 295 del Código Civil, y al resolverlas el Juez deberá considerar las pruebas que, en su caso, haya admitido o desahogado antes de la presentación de la propuesta de convenio y que tengan relación con los puntos controvertidos.
