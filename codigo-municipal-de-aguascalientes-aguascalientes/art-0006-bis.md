@@ -1,7 +1,7 @@
 (ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)
 ARTÍCULO 6°-BIS.- Toda mujer que se encuentre en el Municipio de Aguascalientes tiene derecho al reconocimiento, goce, ejercicio y protección de todos sus derechos humanos. Estos derechos comprenden, entre otros:
-l. El derecho a que se respete su vida.
-ll. El derecho a que se respete su integridad física, psíquica y moral.
+I. El derecho a que se respete su vida.
+II. El derecho a que se respete su integridad física, psíquica y moral.
 III. El derecho a su libertad y seguridad personales.
 IV. El derecho a no ser sometida a torturas.
 V. El derecho a la igualdad de protección ante la Ley.

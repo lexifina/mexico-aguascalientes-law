@@ -1,7 +1,7 @@
 (REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)
 ARTÍCULO 138 TER.- El Consejo para la Igualdad sustantiva en materia Laboral tendrá como atribuciones las siguientes:
-(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)
-I. Implementar políticas sociales, laborales y culturales que justifiquen y alienten las relaciones humanas basadas en el respeto de sus derechos fundamentales;
+(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)
+I. Implementar políticas sociales, laborales y culturales que justifiquen y alienten las relaciones humanas basadas en el respeto de los derechos humanos y sus garantías para su protección;
 (ADICIONADA, P.O. 20 DE FEBRERO DE 2012)
 II. Establecer las políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales;
 (ADICIONADA, P.O. 20 DE FEBRERO DE 2012)
@@ -14,8 +14,8 @@ V. Diseñar programas que atiendan el impacto de la violencia en las víctimas y
 VI. Establecer políticas y lineamientos en materia de igualdad laboral entre mujeres y hombres;
 (REFORMADA, P.O. 20 DE JULIO DE 2015)
 VII. Garantizar la igualdad de oportunidades para mujeres y hombres dentro del ámbito laboral, mediante proyectos e instrumentos compensatorios como acciones afirmativas, que aceleren la igualdad de las mujeres en relación con los hombres, mismas que no se consideraran discriminatorias;
-(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)
-VIII. Promover la igualdad entre mujeres y hombres y contribuir a la erradicación de todo tipo de discriminación en términos del ámbito laboral;
+(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)
+VIII. Promover la igualdad entre mujeres y hombres y contribuir a la erradicación de todo tipo de discriminación en términos del ámbito laboral sin importar su origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
 (ADICIONADA, P.O. 20 DE FEBRERO DE 2012)
 IX. Fomentar que los procesos de contratación sean equitativos para mujeres y hombres;
 (ADICIONADA, P.O. 20 DE FEBRERO DE 2012)

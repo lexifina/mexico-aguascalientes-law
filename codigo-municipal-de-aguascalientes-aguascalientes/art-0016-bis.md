@@ -7,7 +7,8 @@ II. Establecer las acciones y medidas que se deberán tomar para la reeducación
 III. Implementar cursos y talleres de prevención y protección contra la violencia de género.
 (REFORMADA, P.O. 20 DE JULIO DE 2015)
 IV. Proporcionar a las víctimas de violencia la asesoría necesaria para conocer su situación jurídica y sus derechos y de ser necesario la psicoterapia que disminuya el impacto de la violencia vivida;
-V. Promover la cultura de respeto a los derechos fundamentales de las mujeres.
+(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)
+V. Promover la cultura de respeto a los derechos humanos.
 (REFORMADA, P.O. 20 DE JULIO DE 2015)
 VI. Garantizar la seguridad e integridad física de las personas que viven violencia y que acudan a las autoridades municipales, diseñando para tales efectos las estrategias de proximidad policial que sean necesarias; y
 (ADICIONADA, P.O. 20 DE JULIO DE 2015)
