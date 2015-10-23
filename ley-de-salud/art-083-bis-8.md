@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)
-ARTICULO 83 Bis 8.- Los beneficiarios del Sistema de Protección Social en Salud tienen derecho a recibir bajo ningún tipo de discriminación los servicios de salud, los medicamentos y los insumos esenciales requeridos para el diagnóstico y tratamiento de los padecimientos, en las unidades médicas acreditadas de su elección del Régimen Estatal de Protección Social en Salud.
+ARTICULO 83 Bis 8.- (DEROGADO, P.O. 22 DE OCTUBRE DE 2015)

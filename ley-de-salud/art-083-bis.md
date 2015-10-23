@@ -4,9 +4,3 @@ I. Elaboración de información científica sobre las causas del suicidio y su d
 II Establecer y difundir ampliamente líneas de comunicación de contacto directo, atendidas por especialistas, para asistencia a víctimas potenciales y recibir denuncias preventivas de terceros;
 III. Formular recomendaciones a las autoridades de los municipios a fin de capacitar a los comerciantes de objetos comúnmente utilizados para auto infringirse lesiones con el propósito de identificar a suicidas potenciales y dar aviso a las autoridades sanitarias; y
 IV. Coordinación con el Instituto de Educación de Aguascalientes para cruzar información sobre posibles casos de depresión detectados en las escuelas.
-(ADICIONADO CON LOS CAPÍTULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2004)
-TITULO QUINTO BIS
-REGIMEN ESTATAL DE PROTECCION SOCIAL EN SALUD
-(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2004)
-CAPITULO I
-Disposiciones Generales

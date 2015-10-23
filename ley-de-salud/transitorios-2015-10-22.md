@@ -1,0 +1,5 @@
+P.O. 22 DE OCTUBRE DE 2015.
+ARTÍCULO PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO.- La Junta de Gobierno del REPSS deberá sesionar por primera vez, dentro de los 60 días siguientes a la entrada en vigencia del presente Decreto, y expedir su reglamento en los 60 días posteriores a su primera sesión.
+ARTÍCULO TERCERO.- El REPSS contará con los recursos humanos, materiales y financieros que le sean transferidos por parte de la Secretaría de Finanzas del Estado de Aguascalientes y la Oficialía Mayor, en coordinación con el Instituto de Servicios de Salud del Estado de Aguascalientes. Además contará con los inmuebles que para tal efecto le sean transferidos u otorgados por parte del Gobierno del Estado de Aguascalientes, de conformidad con las disposiciones legales aplicables.
+ARTÍCULO CUARTO.- El personal que, en virtud de lo dispuesto por este decreto cambie de adscripción, conservará sus derechos laborales conforme a la ley, así mismo, operará la figura de sustitución de patrón en relación con las demandas planteadas con anterioridad.

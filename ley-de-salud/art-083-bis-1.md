@@ -1,2 +1,5 @@
-(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)
-ARTICULO 83 Bis 1.- El Régimen Estatal de Protección Social en Salud es un mecanismo por el cual el Estado garantizará el acceso efectivo, oportuno, de calidad, sin desembolso al momento de utilización y sin discriminación a los servicios médico-quirúrgicos, farmacéuticos y hospitalarios que satisfagan de manera integral las necesidades de salud, mediante la combinación de intervenciones de promoción de la salud, prevención, diagnóstico, tratamiento y de rehabilitación, seleccionadas en forma prioritaria según criterios de seguridad, eficacia, costo, efectividad, adherencia a normas éticas profesionales y aceptabilidad social.
+(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2015)
+TITULO QUINTO BIS
+(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2015)
+CAPITULO I
+ARTICULO 83 Bis 1.- (DEROGADO, P.O. 22 DE OCTUBRE DE 2015)
