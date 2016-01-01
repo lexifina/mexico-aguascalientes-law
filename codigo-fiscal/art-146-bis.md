@@ -1,12 +1,10 @@
-(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)
-ARTICULO 146 BIS.- Cuando los contribuyentes, los responsables solidarios o terceros con ellos relacionados, se opongan, impidan u obstaculicen físicamente el inicio o desarrollo del ejercicio de las facultades de las autoridades fiscales, éstas podrán aplicar indistintamente como medidas de apremio, las siguientes:
-I.- Imponer la multa que corresponda en los términos de este Código.
-II.- Auxilio de la fuerza pública.
-III.- Trabar el embargo precautorio de los bienes o de la negociación del contribuyente.
-IV.- Denuncia respectiva, en su caso, por desobediencia a un mandato legítimo de autoridad competente; y
-V.- Clausura del establecimiento para el supuesto de que los contribuyentes no estén inscritos en el Padrón de Contribuyentes del Estado.
-En los casos, en que la autoridad practique el embargo precautorio deberá levantar acta circunstanciada en la que precise de qué manera el contribuyente se opuso, impidió u obstaculizó físicamente el inicio o desarrollo del ejercicio de las facultades de las autoridades fiscales.
-Para efectos de este artículo, los cuerpos de seguridad o policiales del Estado, deberán prestar en forma expedita el apoyo que solicite la autoridad fiscal, en los términos de los ordenamientos que los regulan.
-El apoyo a que se refiere el párrafo anterior consistirá en efectuar las acciones necesarias para que las autoridades fiscales ingresen al domicilio fiscal, establecimientos, sucursales, locales, puestos fijos o semifijos, lugares en donde se almacenen mercancías y en general cualquier local o establecimiento que se utilicen para el desempeño de las actividades de los contribuyentes.
-CAPITULO V
-Del Procedimiento Administrativo de Ejecución
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)
+ARTICULO 146 BIS.- Las autoridades fiscales podrán emplear las medidas de apremio que se indican a continuación, cuando los contribuyentes, los responsables solidarios o terceros relacionados con ellos, impidan de cualquier forma o por cualquier medio el inicio o desarrollo de sus facultades, observando estrictamente el siguiente orden:
+I.- Solicitar el auxilio de la fuerza pública.
+Para los efectos de esta Fracción, los cuerpos de seguridad o policiales deberán prestar en forma expedita el apoyo que solicite la autoridad fiscal.
+El apoyo a que se refiere el párrafo anterior consistirá en efectuar las acciones necesarias para que las autoridades fiscales ingresen al domicilio fiscal, establecimientos, sucursales, oficinas, locales, puestos fijos o semifijos, lugares en donde se almacenen mercancías y en general cualquier local o establecimiento que utilicen para el desempeño de sus actividades los contribuyentes, así como para brindar la seguridad necesaria al personal actuante.
+II.- Imponer la multa que corresponda en los términos de este Código.
+III.- Practicar el aseguramiento precautorio de los bienes, depósitos bancarios, componentes de ahorro o inversión o cualquier otro depósito, de la negociación del contribuyente o responsable solidario, respecto de los actos, solicitudes de información o requerimientos de documentación dirigidos a éstos, conforme a lo establecido en el Artículo 146 TER de este Código.
+IV.- Solicitar a la autoridad competente se proceda por desobediencia o resistencia, por parte del contribuyente, responsable solidario o tercero relacionado con ellos, a un mandato legítimo de autoridad competente.
+Las autoridades fiscales no aplicarán la medida de apremio prevista en la Fracción I, cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos, no atiendan las solicitudes de información o los requerimientos de documentación que les realicen las autoridades fiscales, o al atenderlos no proporcionen lo solicitado; cuando se nieguen a proporcionar la contabilidad con la cual acrediten el cumplimiento de las disposiciones fiscales a que estén obligados, o cuando destruyan o alteren la misma.
+No se aplicarán medidas de apremio cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos, manifiesten por escrito a la autoridad, que se encuentran impedidos de atender completa o parcialmente la solicitud realizada por causa de fuerza mayor o caso fortuito, y lo acrediten exhibiendo las pruebas correspondientes.
