@@ -1,4 +1,4 @@
-LEY DE LA UNIVERSIDAD TECNOLOGICA DEL NORTE DE AGUASCALIENTES
+LEY DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE AGUASCALIENTES
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de junio de 2000.
 FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
 Que por el H. Congreso del Estado, se me ha comunicado lo siguiente:
