@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)
+ARTÍCULO 111 A.- Corresponde a las autoridades asegurar la conservación, mantenimiento, protección, restitución, y desarrollo de los árboles urbanos plantados o nacidos dentro del Estado, a fin de lograr un equilibrio ecológico propicio para el sano desarrollo de sus habitantes. Quedan exceptuados de la aplicación del presente Capítulo los árboles de regulación Federal o que pertenezcan a terrenos forestales, así como los árboles plantados en macetones o contenedores que se puedan trasladar a otros sitios y cuyo manejo no implique riesgo alguno.
+Las autoridades Estatal y municipales fomentarán la conservación y la integración de los árboles urbanos en todo proyecto de construcción y remodelación que se realice en sus territorios.

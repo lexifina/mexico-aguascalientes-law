@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)
+ARTÍCULO 111 L.- La suspensión, extinción, nulidad, revocación y caducidad de las autorizaciones, se dictará por la autoridad municipal correspondiente, previa audiencia que se conceda a los interesados para que rindan las pruebas de su intención y aleguen lo que a su derecho convenga, conforme a los procedimientos establecidos en la presente Ley, y en su caso, en la reglamentación municipal correspondiente.

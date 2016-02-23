@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)
+ARTÍCULO 111 G.- Toda persona que desee realizar trabajos de poda y derribo del arbolado urbano, deberá contar con la autorización expedida por las autoridades municipales. En caso de derribo, deberá comprobar previa y plenamente su imposibilidad para la integración del proyecto o la causa justificada, de acuerdo con juicio de peritos o dictamen de protección civil. La autoridad municipal competente deberá establecer claramente la compensación ambiental.
