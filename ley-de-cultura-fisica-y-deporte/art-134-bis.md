@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 25 DE ENERO DE 2010)
-Artículo 134 bis.- Los jugadores, deportistas, técnicos, directivos y demás personas relacionadas con el ámbito de la disciplina deportiva, deberán actuar conforme a las disposiciones y lineamientos que, para erradicar la violencia en la celebración de espectáculos deportivos, emita la Comisión y a las disposiciones reglamentarias y estatutarias emitidas por las Asociaciones Deportivas Estatales respectivas.
+Artículo 134 bis.- (DEROGADO, P.O. 21 DE MARZO DE 2016)
