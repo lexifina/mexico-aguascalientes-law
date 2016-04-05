@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- El Titular del Poder Ejecutivo y los Ayuntamientos del Estado, en el ámbito de sus respectivas competencias y con apego a las disposiciones contenidas en el presente ordenamiento, expedirán las normas reglamentarias dentro de los 120 días naturales siguientes a partir de la entrada en vigor del presente Decreto.
