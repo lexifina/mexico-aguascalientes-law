@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 23 DE MAYO DE 2016)
+Artículo 58 E.- Cuando la autoridad jurisdiccional imponga la medida cautelar consistente en la presentación periódica ante el Juez o ante autoridad distinta que aquél designe, el Juez de Control dará aviso inmediato a la Unidad Estatal de Medidas Cautelares y Salidas Alternas, a efecto de estar en posibilidades de ejecutarla.
+Al dictarse la medida cautelar de presentación periódica, el sometido acudirá ante la Unidad Estatal de Medidas Cautelares y Salidas Alternas, con la periodicidad que el Juzgador haya determinado, a efecto de informar sobre sus actividades.
+La Unidad Estatal de Medidas Cautelares y Salidas Alternas, requerirá al imputado plasmar su firma en el libro de gobierno designado para ello o el depósito de huella de forma electrónica; lo anterior para acreditar el cumplimiento a esta obligación.
+En caso de incumplimiento a esta imposición, la Unidad Estatal de Medidas Cautelares y Salidas Alternas informará oportunamente a la autoridad jurisdiccional y a las partes el estatus de cumplimiento.
+La presentación a que se refiere este Artículo se hará sin perjuicio de que el imputado pueda ser requerido en cualquier momento por el juzgador.

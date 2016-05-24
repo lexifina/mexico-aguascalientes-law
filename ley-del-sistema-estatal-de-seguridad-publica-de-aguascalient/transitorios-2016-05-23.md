@@ -1,0 +1,7 @@
+P.O. 23 DE MAYO DE 2016.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 337.- REFORMAS A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO.- El presente Decreto Iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO.- El Poder Ejecutivo deberá expedir la normatividad reglamentaria necesaria para la total implementación de las funciones otorgadas mediante este Decreto a sus autoridades subordinadas en un periodo no mayor de sesenta días naturales siguientes a la publicación del presente Decreto.
+ARTÍCULO TERCERO.- El catálogo de puesto, el manual de organización y el manual de procedimientos, deberán expedirse en un periodo no mayor de sesenta días naturales siguientes a la publicación del presente Decreto.
+ARTÍCULO CUARTO.- Se deberán hacer las modificaciones a las partidas presupuestales correspondientes a la Secretaría de Seguridad Pública del Estado, para el efecto de que la misma cuente con la suficiencia presupuestaria para que se cumpla con las facultades otorgadas en esta reforma, en un periodo no mayor a los sesenta días naturales siguientes a la publicación del presente Decreto.
+ARTÍCULO QUINTO.- En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, la referencia a dicha Fiscalía contenida en el presente Decreto, se entenderá hecha a la Procuraduría General de la República.

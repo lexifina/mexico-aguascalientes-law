@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 23 DE MAYO DE 2016)
+Artículo 58 M.- Cuando la autoridad jurisdiccional imponga la medida cautelar consistente en la suspensión temporal en el ejercicio de una determinada actividad profesional o laboral, la Unidad Estatal de Medidas Cautelares y Salidas Alternas se encargará de girar oficio a la autoridad que faculte al imputado a ejercer la actividad profesional o laboral de que se trate, a efecto de que suspendan los efectos de la documentación que lo acredite, mientras dure la imposición de la medida cautelar.

@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 23 DE MAYO DE 2016)
+Artículo 58 H.- Cuando la autoridad jurisdiccional imponga la medida cautelar consistente en el sometimiento al cuidado o vigilancia de una persona o institución determinada o internamiento en institución determinada, la persona o institución que se queda al cuidado del imputado, será responsable de emitir informe periódico a la Unidad Estatal de Medidas Cautelares y Salidas Alternas.
+En caso de ser una institución la que se queda al cuidado del imputado, la Unidad Estatal de Medidas Cautelares y Salidas Alternas, solicitará informe periódico mediante oficio o, en su caso, personal de dicha unidad se constituirá en la institución que lo tenga a su cargo a fin de verificar los avances.

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 23 DE MAYO DE 2016)
+Artículo 58 O.- En los casos de las medidas cautelares consistentes en la exhibición de garantía económica, embargo de bienes y la inmovilización de cuentas y demás valores que se encuentren dentro del sistema financiero, la Unidad Estatal de Medidas Cautelares y Salidas Alternas tendrá la participación que señale la autoridad jurisdiccional en la medida específica que se dicte, en atención a la naturaleza de la misma.

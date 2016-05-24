@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 23 DE MAYO DE 2016)
+Artículo 58 L.- Cuando la autoridad jurisdiccional imponga la medida cautelar consistente en la suspensión temporal en el ejercicio del cargo cuando se atribuye la comisión de un delito a servidores públicos, la Unidad Estatal de Medidas Cautelares y Salidas Alternas girará oficio a la institución a la que se encuentre adscrito el imputado, para que sea suspendido del cargo de manera inmediata y, una vez hecho esto, remita a la citada unidad la documentación necesaria para acreditar el cumplimiento de la medida impuesta.
