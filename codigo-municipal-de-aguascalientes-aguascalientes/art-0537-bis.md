@@ -6,3 +6,5 @@ III.- Recomendar a la Secretaría de Medio Ambiente y Desarrollo Sustentable las
 IV.- Presentar propuestas, proyectos o recomendaciones a la Secretaría de Medio Ambiente y Desarrollo Sustentable e informar los acuerdos y avances a la ciudadanía;
 V.- Difundir a la sociedad los trabajos, las recomendaciones, opiniones y evaluaciones realizadas por el Consejo, a través de los medios disponible (sic) en la Secretaría de Medio Ambiente y Desarrollo Sustentable; y
 VI.- Promover una cultura ambiental entre los diversos sectores de la sociedad, a través de los medios electrónicos disponibles en la Secretaría de Medio Ambiente y Desarrollo Sustentable.
+(ADICIONADA, P.O. 11 DE ABRIL DE 2016)
+VII.- Expedir su reglamento interno.

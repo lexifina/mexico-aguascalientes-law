@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 11 DE ABRIL DE 2016)
+ARTÍCULO 522 BIS.- Previo a la autorización de un sitio para la disposición final a que se refiere el artículo anterior, la SEMADESU, SEDUM, SOPMA y el IMPLAN se coordinarán para revisar las características del predio y su viabilidad, considerando los criterios señalados en el artículo anterior.
+Tratándose de predios que no sean propiedad del Municipio, el IMPLAN notificará a los propietarios sobre el interés de utilizar su predio como sitio de disposición final de los residuos a que se hace referencia en el artículo anterior.
+Una vez aceptado por el propietario del predio el destino del mismo, la SOPMA firmará un convenio de comodato con el propietario para el uso del mismo y será responsable de la operación y funcionamiento hasta que concluya su tiempo de vida útil, debiendo realizar acciones para su rehabilitación en los términos acordados con el propietario en el convenio.
