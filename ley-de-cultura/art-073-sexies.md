@@ -1,0 +1,8 @@
+(ADICIONADO, P.O. 8 DE AGOSTO DE 2016)
+Artículo 73 Sexies.- El Consejo Asesor del Museo Espacio tendrá las siguientes atribuciones:
+I. Garantizar la permanencia y consolidación del Museo Espacio, mediante una cuidadosa selección de artistas y propuestas curatoriales pertenecientes al circuito del arte internacional para integrar un mínimo de dos exposiciones con estas características cada año, de conformidad con los presupuestos autorizados;
+II. Asesorar al Coordinador del Museo Espacio, en la elaboración de los proyectos que se integrarán al plan anual de actividades del Instituto, de conformidad con los presupuestos autorizados;
+III. Examinar el informe semestral, y el informe anual de actividades del Museo Espacio que serán integrados al informe anual del Instituto;
+IV. Someter a consideración de la Junta Directiva el Manual de Lineamientos y Políticas para Incrementar el Acervo del Museo, en el cual deberá determinarse qué obras de valor artístico son susceptibles de adquisición, ya sea por medio de donación o compra, así como la finalidad de las mismas. Dentro de dichos lineamientos se establecerá la facultad del Consejo para emitir dictamen para la adquisición de obras, respecto de su valor artístico, económico, la verificación de su autenticidad, así como la conveniencia o no de su adquisición; y
+V. Emitir dictamen sobre el acervo existente, respecto de su valor artístico, económico y la verificación de su autenticidad.
+El Consejo Asesor sesionará de manera ordinaria dos veces al año, y de manera extraordinaria cuando sea convocado por el Presidente, las decisiones serán tomadas por mayoría. El presidente del Consejo tendrá voto de calidad en caso de empate y funcionará de acuerdo con el reglamento interior.
