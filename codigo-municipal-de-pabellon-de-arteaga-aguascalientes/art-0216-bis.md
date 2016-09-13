@@ -1,0 +1,15 @@
+(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2016)
+ARTICULO 216 BIS.- Corresponde a la Dirección Jurídica:
+I.- Asesorar jurídicamente al Presidente Municipal, al Secretario del Ayuntamiento y a los demás directores y funcionarios de la Administración Pública Municipal;
+II.- Elaborar y revisar en su caso los proyectos de iniciativas de leyes, reglamentos, bandos, códigos o disposiciones de carácter general que emita el Ayuntamiento, así como las reformas a los mismos;
+III.- Revisar todos los documentos de carácter jurídico del municipio previo a la firma del presidente municipal;
+IV.- Vigilar el cumplimiento de los preceptos constitucionales, legales y reglamentarios, por parte los funcionarios de la Administración Pública Municipal:
+V.- Tramitar, substanciar y dejar en estado de resolución los recursos administrativos interpuestos en contra de actos y resoluciones del Presidente Municipal o de los titulares de las dependencias de la Administración Pública;
+VI.- Intervenir en auxilio de Síndico Municipal en todos los asuntos litigiosos en que el Municipio sea parte y en los juicios de amparo que se interpongan en contra de cualquier autoridad del municipio;
+VII.- Recopilar y mantener actualizada la normatividad vigente en materia municipal y particularmente la relacionada con el Municipio de Pabellón de Arteaga;
+VIII.- Tramitar la publicación en el Periódico Oficial del Estado de los acuerdos o disposiciones administrativas del municipio que por ley deben publicarse;
+IX.- Participar en la elaboración y supervisar jurídicamente el contenido de los convenios, contratos y demás instrumentos jurídicos y administrativos relativos a la coordinación con la administración pública federal, el Estado, otros municipios o con los particulares; y
+X.- Lo demás que señalen la Ley, el presente Código o le encomiende el H: Ayuntamiento por conducto del Presidente Municipal.
+(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)
+SECCIÓN QUINTA
+De la Dirección de Obras Públicas y Desarrollo Urbano
