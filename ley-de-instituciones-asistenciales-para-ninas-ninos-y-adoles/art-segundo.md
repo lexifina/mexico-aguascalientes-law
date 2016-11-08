@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- El Comité Interinstitucional para la Regulación y Vigilancia de las Instituciones Asistenciales deberá instalarse en un plazo que no podrá exceder de 60 sesenta días hábiles, contados a partir del día siguiente al inicio de vigencia del presente Decreto.
