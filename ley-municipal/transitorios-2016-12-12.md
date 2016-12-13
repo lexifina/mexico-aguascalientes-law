@@ -1,0 +1,7 @@
+P.O. 12 DE DICIEMBRE DE 2016.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 17.- SE REFORMAN LOS ARTÍCULOS 18, 22 Y 107 DE LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO.- Quedan derogadas todas las disposiciones normativas o reglamentarias que se opongan al presente Decreto.
+ARTÍCULO TERCERO.- Los Ayuntamientos de los municipios del Estado de Aguascalientes, deberán en un plazo no mayor a 30 días naturales, contados a partir de la entrada en vigor del presente decreto, reformar sus disposiciones municipales con el objeto de adecuarlas al mismo.
+ARTÍCULO CUARTO.- Los Presidentes Municipales, Regidores y Síndicos que resultaron electos en la elección constitucional del año 2016, iniciaran sus funciones el 1º de enero del año 2017 y concluirán su período constitucional el 14 de octubre del año 2019, los cuales tendrán derecho a la reelección consecutiva por un período más; y los electos en el año 2019 iniciarán sus funciones el 15 de octubre de ese mismo año y concluirán su período constitucional el 14 de octubre del año 2021, tal y como lo establece el ARTÍCULO CUARTO TRANSITORIO del Decreto Número 69 publicado en el Periódico Oficial del Estado de Aguascalientes del 28 de julio de 2014.
+ARTÍCULO QUINTO.- Para la Protesta de Ley materia de la presente reforma, los Ayuntamientos deberán ajustarse a los períodos constitucionales correspondientes.
