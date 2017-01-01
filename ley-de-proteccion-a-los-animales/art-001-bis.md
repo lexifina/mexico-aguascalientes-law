@@ -1,5 +1,5 @@
 (REFORMADO, P.O. 23 DE FEBRERO DE 2009)
-ARTICULO 1o Bis.- En el Estado de Aguascalientes goza de plena vigencia y aplicación la Declaratoria de los Derechos de los Animales emitida por la Organización de las Naciones Unidas (ONU), de la cual forma parte México, emitida el 15 de octubre de 1978, por lo cual, la misma es de observancia y aplicación obligatoria para todas las autoridades y habitantes del Estado.
+ARTICULO 1o BIS.- En el Estado de Aguascalientes goza de plena vigencia y aplicación la Declaratoria de los Derechos de los Animales emitida por la Organización de las Naciones Unidas (ONU), de la cual forma parte México, emitida el 15 de octubre de 1978, por lo cual, la misma es de observancia y aplicación obligatoria para todas las autoridades y habitantes del Estado.
 Las autoridades competentes y la sociedad en general deberán observar los siguientes principios:
 I. Todo animal tiene derecho a vivir y ser respetado;
 II. Ningún ser humano puede exterminar a los animales o explotarlos para realizar trabajos más allá de aquéllos que por sus características de especie pueda llevarlos a cabo, teniendo la obligación de poner sus conocimientos y atención a los animales;
