@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 9 DE ENERO DE 2017)
+ARTÍCULO 342 BIS.- Son faltas contra la sana convivencia entre vecinos en zonas habitacionales:
+I. Producir ruido dentro y fuera de la casa habitación de un propio domicilio que por su volumen provoque malestar público a los vecinos de colonias o fraccionamientos con aparatos de sonido y que éste exceda de los 55 decibeles en un horario de las 06:00 horas a las 21:59 horas.
+Se exceptúa de lo anterior, aquel ruido proveniente de fuentes fijas estatuidas en Escuelas con ocasión de ceremonias, festivales y eventos, en las cuales se permitirá la emisión hasta 100 decibeles siempre que no rebasen de cuatro horas dichos eventos.
+II. Producir ruido dentro y fuera de la casa habitación de un propio domicilio que por su volumen provoque malestar público a los vecinos del fraccionamiento con aparatos de sonido y que éste exceda de los 50 decibeles en un horario de las 22:00 horas a las 05:59 horas.
+Cabe señalar que la sanción correspondiente en caso de reincidencia independientemente se hará efectiva independientemente si la denuncia corresponde a otro hecho distinto por el que se realizó la primera queja e invariablemente si la segunda queja o denuncia la realiza el mismo vecino que denunció o quejó la primera ocasión o persona distinta.

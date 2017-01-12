@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 9 DE ENERO DE 2017)
+ARTÍCULO 342 TER.- Para acreditar el rebase reglamentario de los decibeles así como la sonoridad del ruido emitido desde el bien inmueble, los elementos de Seguridad Pública en conjunto con los inspectores de la Secretaría de Medio Ambiente y Desarrollo Sustentable del Municipio de Aguascalientes, estarán habilitados y contarán con la autorización de cada Secretaría para efecto de llevar a cabo:
+1. Las mediciones de niveles sonoros que se realizarán utilizando sonómetros, sonómetros integradores - promediadores y calibradores sonoros sobre los instrumentos destinados a medir niveles de sonido audible.
+2. Las mediciones de vibraciones se realizarán utilizando acelerómetros y analizadores de frecuencia, según los procedimientos establecido reglamentariamente.

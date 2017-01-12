@@ -6,7 +6,8 @@ III.- Aplicar los instrumentos de política ambiental de competencia municipal p
 IV.- Elaborar, revisar y actualizar un diagnóstico ambiental que corresponda a cada administración municipal, para que de él deriven los programas relativos;
 V.- Vigilar el cumplimiento de las Normas Oficiales Mexicanas expedidas por la Federación aplicables al ámbito de competencia municipal;
 VI.- Prevenir y controlar la contaminación atmosférica por fuentes fijas que funcionen como establecimientos comerciales o de servicios de competencia municipal;
-VII.- Prevenir y controlar la contaminación visual, por ruido, vibraciones, energía térmica, energía lumínica, radiaciones electromagnéticas y olores perjudiciales, provenientes de fuentes fijas que funcionen como establecimientos comerciales o de servicios de competencia municipal;
+(REFORMADA, P.O. 9 DE ENERO DE 2017)
+VII.- Prevenir y controlar la contaminación visual, por ruido, vibraciones, energía térmica, energía lumínica, radiaciones electromagnéticas y olores perjudiciales, provenientes de fuentes fijas que funcionen como establecimientos comerciales o de servicios de competencia municipal; así como aquellas producidas en zonas habitacionales que se generen con motivo de una fuente fija proveniente de una casa habitación;
 VIII.- Aplicar las disposiciones jurídicas relativas a la gestión, prevención y control de los efectos sobre el ambiente, ocasionados por el manejo de residuos sólidos urbanos, de conformidad con las leyes Federales, Estatales y demás disposiciones en materia ambiental;
 IX.- Expedir el permiso ambiental de funcionamiento;
 X.- Analizar y en su caso autorizar las solicitudes de derribo, extracción o reubicación de árboles y arbustos en el Municipio, excepto aquellos que sean de competencia Federal, por tratarse de terrenos forestales en términos de la legislación aplicable;
