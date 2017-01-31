@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- La Comisión deberá reunirse por primera ocasión, a más tardar en un plazo máximo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, así como expedir el Programa Estatal de Lucha Contra la Trata de Personas, a más tardar a los 60 días naturales posteriores a la primera reunión.

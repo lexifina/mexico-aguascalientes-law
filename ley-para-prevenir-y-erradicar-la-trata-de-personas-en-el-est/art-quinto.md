@@ -1,0 +1,2 @@
+ARTÍCULO QUINTO.- La Fiscalía General del Estado de Aguascalientes, deberá en un plazo máximo de 180 días naturales, contados a partir de la entrada en vigor del presente decreto, capacitar por primera ocasión a su personal, en lo establecido por el presente decreto.
+Una vez expedido el Reglamento de la presente Ley, en los términos del Artículo Cuarto Transitorio, volver a capacitarlos en su contenido.

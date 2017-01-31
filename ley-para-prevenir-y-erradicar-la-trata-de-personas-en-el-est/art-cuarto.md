@@ -1,0 +1,1 @@
+ARTICULO CUARTO.- El Titular del Poder Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley, en un plazo máximo de 180 días naturales, contados a partir del cumplimiento de lo dispuesto en el Primer Párrafo del Artículo Tercero Transitorio, por parte del H. Congreso del Estado.
