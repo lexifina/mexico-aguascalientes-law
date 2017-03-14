@@ -1,2 +1,2 @@
-ARTÍCULO SEGUNDO.- .
+ARTÍCULO SEGUNDO.- ...
 T R A N S I T O R I O S :
