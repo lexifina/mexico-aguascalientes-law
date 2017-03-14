@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 27 DE FEBRERO DE 2017)
+Artículo 22 Quáter.- Los recursos para cubrir adeudos del ejercicio fiscal anterior, previstos en el proyecto de Presupuesto de Egresos, podrán ser hasta por el 2 por ciento de los Ingresos totales del Estado. Para el caso de los Municipios, los recursos para cubrir los adeudos del ejercicio fiscal anterior, previstos en el proyecto de Presupuesto de Egresos, podrán ser hasta por el 2 por ciento de los Ingresos totales del respectivo Municipio.
