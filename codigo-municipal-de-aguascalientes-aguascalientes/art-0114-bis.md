@@ -51,9 +51,6 @@ XLVII.- Proponer en la Ley de Ingresos para el Municipio de Aguascalientes, est�
 XLVIII.- Emitir recomendaciones a las autoridades federales, estatales y municipales, con el propósito de promover el cumplimiento de la legislación ambiental;
 XLIX.- Definir de manera anual los principios, objetivos y metas, mediante los cuales se habrá de formular, conducir y evaluar la política ambiental en el Municipio, así como los instrumentos y procedimiento para su aplicación; y
 L.- Las demás que le otorgue el presente Código y demás ordenamientos aplicables en la materia.
-TÍTULO TERCERO
-DE LA NORMATIVIDAD INTERNA MUNICIPAL
-CAPÍTULO I
-De las Normas que Regulan las Actividades de los Trabajadores al Servicio del Gobierno Municipal
-APARTADO PRIMERO
-Disposiciones Generales del Trabajo
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE MARZO DE 2017)
+APARTADO DÉCIMO SÉPTIMO
+De la Secretaría de Economía Social y Turismo Municipal
