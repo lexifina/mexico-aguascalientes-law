@@ -1,4 +1,4 @@
-LEY DE HACIENDA DEL MUNICIPIO DE SAN JOSE DE GRACIA, AGS.
+LEY DE HACIENDA DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGS.
 Ley publicada en la Sección Décima Cuarta del Alcance del Periódico Oficial del Estado de Aguascalientes, el martes 31 de diciembre de 1985.
 RODOLFO LANDEROS GALLEGOS, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
 Que por el H. Congreso del Estado se me ha comunicado lo siguiente:

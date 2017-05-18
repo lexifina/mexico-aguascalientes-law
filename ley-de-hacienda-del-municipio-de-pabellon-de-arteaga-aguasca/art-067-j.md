@@ -1,6 +1,6 @@
 (ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)
 ARTICULO 67 J.- La determinación del crédito fiscal individual de cada contribuyente, se calculará aplicando las siguientes fórmulas:
-(VEASE ARCHIVO ANEXO)
+(VEÁSE ARCHIVO ANEXO)
 En Donde
 CFla= Crédito Fiscal Individual Habitacional
 Se constituye como la tarifa individualizada que corresponderá pagar a cada uno de los beneficiarios del servicio de alumbrado público, tratándose de beneficiarios de casa habitación.
