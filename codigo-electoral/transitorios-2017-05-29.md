@@ -1,0 +1,7 @@
+P.O. 29 DE MAYO DE 2017.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 91.- SE ADICIONAN, SE REFORMAN Y DEROGAN, DIVERSOS ARTÍCULOS Y FRACCIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE ESTADO (SIC) DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO.- El Consejo General del Instituto Estatal Electoral deberá adecuar sus reglamentos correspondientes en un plazo no mayor a 60 días naturales contados a partir del inicio de vigencia del presente Decreto.
+ARTÍCULO TERCERO.- Las asociaciones políticas constituidas previamente a la publicación del presente Decreto, deberán efectuar el refrendo correspondiente a más tardar a los dieciocho meses contados a partir de la publicación de la presente reforma.
+ARTÍCULO CUARTO.- El Contralor Interno del Instituto Estatal Electoral que se encuentra actualmente en funciones, concluirá su encargo el último día del año 2018, por lo que el Congreso del Estado deberá realizar todos los actos tendientes al nombramiento de un nuevo Contralor Interno, que iniciará sus funciones el primer día del año 2019.
+ARTÍCULO QUINTO.- Para las elecciones locales no concurrentes de los años 2019 y 2022 los partidos políticos y candidatos independientes nombraran a un representante propietario y un suplente ante las mesas directivas de casilla.
