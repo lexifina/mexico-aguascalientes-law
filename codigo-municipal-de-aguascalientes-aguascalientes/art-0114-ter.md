@@ -21,9 +21,3 @@ XVIII. Emitir el estudio de impacto socioeconómico que tendrá la instalación 
 XIX. Proyectar la vocación turística de nuestra ciudad y generar programas que promuevan el flujo de visitantes a nuestro Municipio;
 XX. Promover el turismo local en el territorio Municipal, y
 XXI. Y las demás que le confieran las leyes de la materia.
-TÍTULO TERCERO
-DE LA NORMATIVIDAD INTERNA MUNICIPAL
-CAPÍTULO I
-De las Normas que Regulan las Actividades de los Trabajadores al Servicio del Gobierno Municipal
-APARTADO PRIMERO
-Disposiciones Generales del Trabajo
