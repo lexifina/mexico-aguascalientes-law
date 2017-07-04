@@ -1,4 +1,3 @@
-[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]
 (ADICIONADO, P.O. 22 DE AGOSTO DE 2016)
 ARTICULO 5o TER.- Corresponde a la Subprocuraduría:
 I. Apoyar las funciones de la Procuraduría, a fin de que ésta cumpla de manera eficaz, con las disposiciones en materia de protección, defensa y bienestar de los animales y al adecuado ordenamiento territorial del Estado;

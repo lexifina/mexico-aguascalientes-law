@@ -1,4 +1,4 @@
-P.O. 27 DE FEBRERO DE 2017
+P.O. 27 DE FEBRERO DE 2017.
 [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 64.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARÍA".]
 ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor a los 15 días naturales de su publicación en el Periódico Oficial del Estado de Aguascalientes, salvo por lo dispuesto en los Artículos Segundo al Octavo Transitorios siguientes.
 ARTÍCULO SEGUNDO.- El porcentaje a que hace referencia el Artículo 22 de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, relativo al nivel de aportación al fideicomiso para realizar acciones preventivas o atender daños ocasionados por desastres naturales, corresponderá a un 2.5 por ciento para el año 2017, 5.0 por ciento para el año 2018, 7.5 por ciento para el año 2019 y, a partir del año 2020 se observará el porcentaje establecido en el artículo citado.

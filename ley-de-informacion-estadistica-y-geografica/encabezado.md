@@ -1,4 +1,4 @@
-LEY DE INFORMACION ESTADISTICA Y GEOGRAFICA DEL ESTADO DE AGUASCALIENTES
+LEY DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA DEL ESTADO DE AGUASCALIENTES
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el 12 de febrero de 2001.
 FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
 Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
