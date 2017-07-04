@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 3 DE JULIO DE 2017)
+ARTICULO 1560 BIS Y.- Cuando por infracción a las disposiciones establecidas en el presente capítulo se hubieren ocasionado daños y perjuicios al denunciante de los hechos, independientemente de la sanción que la autoridad municipal aplique al infractor, el interesado puede solicitar al municipio, la formulación de un dictamen técnico con el fin de que el interesado lo haga valer ante la autoridad competente.

@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 3 DE JULIO DE 2017)
+ARTICULO 1560 BIS U.- Cuando en las actas de verificación, se encuentren circunstancias hechos u omisiones que puedan constituir infracciones a las leyes, al Código Municipal y demás ordenamientos aplicables a la materia, la Secretaría deberá notificar por conducto del Departamento al presunto infractor el inicio del procedimiento, para que éste, dentro del plazo de 10 días hábiles, exponga lo que a su derecho convenga y ofrezca pruebas que considere convenientes en relación con las actuaciones realizadas por parte de la autoridad.
+Además de notificar el inicio del procedimiento administrativo, la Secretaría podrá ordenar las medidas de seguridad que procedan conforme a la ley y el presente código.

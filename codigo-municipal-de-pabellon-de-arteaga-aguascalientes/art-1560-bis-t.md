@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 3 DE JULIO DE 2017)
+ARTICULO 1560 BIS T.- Si con motivo de una visita de verificación las autoridades administrativas conocieran del incumplimiento a las disposiciones de las leyes, del Código Municipal o los Reglamentos por parte del particular se procederá a levantar el acta correspondiente en los términos previstos por el presente código y la Ley del Procedimiento Administrativo del Estado.
+De no encontrar violaciones a las leyes, al Código Municipal o a los reglamentos vigentes se hará constar tal circunstancia en el acta dejando el original al particular, entendiendo con ello concluida la verificación, y se remitirá copia de todo lo actuado al expediente del establecimiento.
+En caso de que las violaciones detectadas sean competencia de una autoridad estatal o federal, la Secretaría turnará mediante oficio la información correspondiente.

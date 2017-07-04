@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 3 DE JULIO DE 2017)
+ARTICULO 1560 BIS M.- El propietario del establecimiento deberá acompañar a la solicitud para el registro correspondiente, copia de los documentos que contengan la información a que hace referencia el artículo 1560 BIS I del presente código, así como cualquier otra documentación que le requiera el Departamento en apego a la normatividad municipal, el presente capítulo y demás disposiciones legales aplicables.
