@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- El Titular del Poder Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley, en un plazo máximo de 90 días hábiles, contados a partir de la fecha de la publicación del presente Decreto en el Periódico Oficial del Estado de Aguascalientes.

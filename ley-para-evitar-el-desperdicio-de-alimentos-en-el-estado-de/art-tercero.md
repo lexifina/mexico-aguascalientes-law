@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- Una vez que sea expedido el Reglamento a que hace referencia el Artículo Segundo Transitorio, en un plazo máximo de 90 días hábiles, la Secretaría deberá Reformar, Adicionar, o en su caso Expedir los manuales conducentes.
