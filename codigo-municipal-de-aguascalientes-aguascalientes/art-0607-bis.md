@@ -1,5 +1,5 @@
 (ADICIONADO, P.O. 4 DE AGOSTO DE 2014)
-ARTICULO 607 BIS.- Para el correcto desempeño de las actividades de la Comisión de Honor y Justicia, el Secretario Técnico al que se refiere el artículo 605 fracción II del presente ordenamiento legal, tendrá las siguientes facultades y obligaciones:
+ARTÍCULO 607 BIS.- Para el correcto desempeño de las actividades de la Comisión de Honor y Justicia, el Secretario Técnico al que se refiere el artículo 605 fracción II del presente ordenamiento legal, tendrá las siguientes facultades y obligaciones:
 I.- Representar legalmente ante cualquier instancia a la Comisión, en los procedimientos judiciales y administrativos con todos los derechos procesales que las disposiciones legales otorgan en cumplimiento de sus funciones. Rindiendo informe de ellos al Director de Asuntos Jurídicos del Municipio.
 II.- Suscribir escritos y desahogar los trámites que correspondan a los casos urgentes relativos a términos, interposición de recursos y recepción de toda clase de notificaciones;
 III.- Realizar y llevar a cabo las notificaciones emanadas por acuerdo de la Comisión de Honor y Justicia.
