@@ -1,5 +1,5 @@
 (ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)
-ARTÍCULO 104 E.- los centros para la atención de la salud del sector público, social o privado del Sistema Estatal de Salud, de acuerdo con su grado de complejidad y nivel de resolución, bajo la responsabilidad de los directores o titulares respectivos y de conformidad con las disposiciones aplicables, contarán con los siguientes comités:
+ARTICULO 104 E.- los centros para la atención de la salud del sector público, social o privado del Sistema Estatal de Salud, de acuerdo con su grado de complejidad y nivel de resolución, bajo la responsabilidad de los directores o titulares respectivos y de conformidad con las disposiciones aplicables, contarán con los siguientes comités:
 I. Un Comité Hospitalario de Bioética, para:
 a. La resolución de los problemas derivados de la prestación de los servicios de salud a que se refiere el Título Quinto de esta ley;
 b. El análisis, discusión y apoyo en la toma de decisiones respecto a los problemas bioéticos que se presenten en la práctica clínica o en la docencia que se imparta en el área de salud;
