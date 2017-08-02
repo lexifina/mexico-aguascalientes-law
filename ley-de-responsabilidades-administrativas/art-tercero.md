@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- Una vez que entre en vigor la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, todas las menciones a la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes previstas en las demás Leyes, así como en cualquier disposición jurídica, se entenderán referidas a dicha Ley.

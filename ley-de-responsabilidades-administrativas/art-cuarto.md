@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- Los procedimientos administrativos iniciados por las autoridades locales con anterioridad a la entrada en vigor de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, serán concluidos conforme a la normatividad vigente a su inicio.
