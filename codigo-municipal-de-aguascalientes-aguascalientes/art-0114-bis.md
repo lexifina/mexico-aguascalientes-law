@@ -28,29 +28,35 @@ XXIV.- Formular, ejecutar y vigilar el programa de ordenamiento ecológico y coa
 XXV.- Determinar, en el ámbito de su competencia, o solicitar ante el Estado y la Federación, según sea el caso, la limitación, modificación o suspensión de actividades comerciales, industriales, de servicios, de desarrollo urbano y turístico, que puedan causar deterioro ambiental o alteración del equilibrio ecológico;
 XXVI.- Vigilar en coordinación con la Federación y el Estado, el adecuado uso y aprovechamiento de los recursos naturales presentes en el territorio municipal;
 XXVII.- Fijar y aplicar medidas de prevención y control de emergencias ecológicas y contingencias ambientales, así como participar y coadyuvar con las entidades federales y estatales conforme a las políticas y programas que para tal efecto se establezcan;
+(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE AGOSTO DE 2017)
 XXVIII.- Formular el Plan de Acción Climática Municipal (PACMUN), coordinar su implementación y actualizarlo cada seis años;
+(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE AGOSTO DE 2017)
 XXIX.- Crear e implementar el Plan Municipal de Contingencia Ambiental;
-XXX.- Establecer los criterios ambientales relacionados con la mitigación y adaptación a los efectos que tiene en la zona urbana el calentamiento global;
-XXXI.- Establecer medidas para la preservación y restauración del equilibrio ecológico y la protección ambiental en los centros de población;
-XXXII.- Difundir la política municipal en materia ambiental e informar sobre la calidad del ambiente en el municipio;
-XXXIII.- Promover espacios de participación de la sociedad en materia ambiental;
-XXXIV.- Implementar programas en materia de educación y comunicación ambiental que favorezcan la conservación y el aprovechamiento sustentable de los recursos naturales y la biodiversidad en el municipio;
-XXXV.- Celebrar convenios con la Federación, el Estado, otros Municipios y con personas físicas o morales, para la realización de acciones en materia de difusión, protección, conservación y aprovechamiento sustentable de los recursos naturales, biodiversidad y medio ambiente, en el ámbito de su competencia, previa autorización del Cabildo;
-XXXVI.- Ejercer las atribuciones y funciones que en materia ambiental le hayan sido transferidas por la Federación o el Estado al Municipio, a través de convenios y acuerdos;
-XXXVII.- Promover y establecer la entrega de premios y reconocimientos a quienes realicen esfuerzos destacados para la preservación y restauración del equilibrio ecológico y la protección al ambiente en el municipio;
-XXXVIII.- Establecer y mantener actualizado un sistema de información ambiental, transparente y de fácil acceso a la ciudadanía;
-XXXIX.- Integrar el registro municipal de emisiones y transferencia de contaminantes al aire y agua, respecto de materiales, sustancias y residuos de competencia municipal;
-XL.- Promover la integración de ecotecnologías en establecimientos comerciales, industriales y de servicios;
-XLI.- Promover inversiones públicas y privadas, destinadas a proyectos para la protección del ambiente y el aprovechamiento sustentable de los recursos naturales en el territorio municipal;
-XLII.- Colaborar con los organismos competentes para la aplicación de las disposiciones jurídicas para prevenir y controlar la contaminación de las aguas que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población, así como de los cauces bajo custodia del Municipio;
-XLIII.- Ordenar y realizar visitas u operativos de inspección y vigilancia para verificar el cumplimiento de las disposiciones jurídicas aplicables a su competencia;
-XLIV.- Determinar las infracciones a este Código que en materia ambiental se establezcan;
-XLV.- Emitir los acuerdos y resoluciones correspondientes al procedimiento administrativo de inspección y vigilancia, imponiendo las medidas correctivas y de seguridad, así como las sanciones que en su caso procedan, verificando el cumplimiento de dichas medidas y proveyendo lo necesario para la ejecución de sanciones;
-XLVI.- Ordenar e imponer las medidas técnicas correctivas o de urgente aplicación que correspondan, señalando los plazos para su cumplimiento; así como las medidas de seguridad procedentes, proveyendo lo necesario para obtener la ejecución de estas últimas, indicando, en su caso, las acciones necesarias para subsanar las irregularidades que motivaron la imposición de las medidas de seguridad y los plazos para su realización, a fin de que una vez cumplidas se ordene el retiro de las mismas;
-XLVII.- Proponer en la Ley de Ingresos para el Municipio de Aguascalientes, estímulos fiscales a quien incluya en sus edificaciones sistemas captadores de agua pluvial, plantas tratadoras de agua, así como aditamentos que capturen energía, o bien, realice acciones de mejora ambiental adicionales a las previstas como obligatorias en la normatividad;
-XLVIII.- Emitir recomendaciones a las autoridades federales, estatales y municipales, con el propósito de promover el cumplimiento de la legislación ambiental;
-XLIX.- Definir de manera anual los principios, objetivos y metas, mediante los cuales se habrá de formular, conducir y evaluar la política ambiental en el Municipio, así como los instrumentos y procedimiento para su aplicación; y
-L.- Las demás que le otorgue el presente Código y demás ordenamientos aplicables en la materia.
+(ADICIONADA, P.O. 21 DE AGOSTO DE 2017)
+XXX.- Requerir y apercibir al infractor; propietario o poseedor del bien inmueble el cumplimiento a las disposiciones previstas en el Apartado Séptimo del Capítulo VIII del Título Tercero del presente Código;
+XXXI.- Establecer los criterios ambientales relacionados con la mitigación y adaptación a los efectos que tiene en la zona urbana el calentamiento global;
+(ADICIONADA, P.O. 21 DE AGOSTO DE 2017)
+XXXII.- Ordenar la práctica de visitas domiciliarias de tipo preventivo precisadas en el artículo 342 SEXIES del presentes (sic) Código, para efecto de llevar a cabo las mediciones de ruido así como detectar la fuente emisora que lo produce. De todo ello se levantará acta circunstanciada;
+XXXIII.- Establecer medidas para la preservación y restauración del equilibrio ecológico y la protección ambiental en los centros de población;
+XXXIV.- Difundir la política municipal en materia ambiental e informar sobre la calidad del ambiente en el municipio;
+XXXV.- Promover espacios de participación de la sociedad en materia ambiental;
+XXXVI.- Implementar programas en materia de educación y comunicación ambiental que favorezcan la conservación y el aprovechamiento sustentable de los recursos naturales y la biodiversidad en el municipio;
+XXXVII.- Celebrar convenios con la Federación, el Estado, otros Municipios y con personas físicas o morales, para la realización de acciones en materia de difusión, protección, conservación y aprovechamiento sustentable de los recursos naturales, biodiversidad y medio ambiente, en el ámbito de su competencia, previa autorización del Cabildo;
+XXXVIII.- Ejercer las atribuciones y funciones que en materia ambiental le hayan sido transferidas por la Federación o el Estado al Municipio, a través de convenios y acuerdos;
+XXXIX.- Promover y establecer la entrega de premios y reconocimientos a quienes realicen esfuerzos destacados para la preservación y restauración del equilibrio ecológico y la protección al ambiente en el municipio;
+XL.- Establecer y mantener actualizado un sistema de información ambiental, transparente y de fácil acceso a la ciudadanía;
+XLI.- Integrar el registro municipal de emisiones y transferencia de contaminantes al aire y agua, respecto de materiales, sustancias y residuos de competencia municipal;
+XLII.- Promover la integración de ecotecnologías en establecimientos comerciales, industriales y de servicios;
+XLIII.- Promover inversiones públicas y privadas, destinadas a proyectos para la protección del ambiente y el aprovechamiento sustentable de los recursos naturales en el territorio municipal;
+XLIV.- Colaborar con los organismos competentes para la aplicación de las disposiciones jurídicas para prevenir y controlar la contaminación de las aguas que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población, así como de los cauces bajo custodia del Municipio;
+XLV.- Ordenar y realizar visitas u operativos de inspección y vigilancia para verificar el cumplimiento de las disposiciones jurídicas aplicables a su competencia;
+XLVI.- Determinar las infracciones a este Código que en materia ambiental se establezcan;
+XLVII.- Emitir los acuerdos y resoluciones correspondientes al procedimiento administrativo de inspección y vigilancia, imponiendo las medidas correctivas y de seguridad, así como las sanciones que en su caso procedan, verificando el cumplimiento de dichas medidas y proveyendo lo necesario para la ejecución de sanciones;
+XLVIII.- Ordenar e imponer las medidas técnicas correctivas o de urgente aplicación que correspondan, señalando los plazos para su cumplimiento; así como las medidas de seguridad procedentes, proveyendo lo necesario para obtener la ejecución de estas últimas, indicando, en su caso, las acciones necesarias para subsanar las irregularidades que motivaron la imposición de las medidas de seguridad y los plazos para su realización, a fin de que una vez cumplidas se ordene el retiro de las mismas;
+XLIX.- Proponer en la Ley de Ingresos para el Municipio de Aguascalientes, estimulas fiscales a quien incluya en sus edificaciones sistemas captadores de agua pluvial, plantas tratadoras de agua, así como aditamentos que capturen energía, o bien, realice acciones de me jora ambiental adicionales a las previstas como obligatorias en la normatividad;
+L.- Emitir recomendaciones a las autoridades federales, estatales y municipales, con el propósito de promover el cumplimiento de la legislación ambiental;
+LI.- Definir de manera anual los principios, objetivos y metas, mediante los cuales se habrá de formular, conducir y evaluar la política ambiental en el Municipio, así como los instrumentos y procedimiento para su aplicación; y
+LII.- Las demás que le otorgue el presente Código y demás ordenamientos aplicables en la materia.
 (ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE MARZO DE 2017)
 APARTADO DÉCIMO SÉPTIMO
 De la Secretaría de Economía Social y Turismo Municipal
