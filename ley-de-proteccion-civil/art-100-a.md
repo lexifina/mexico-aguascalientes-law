@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 16 DE OCTUBRE DE 2017)
+ARTÍCULO 100-A.- El Consejo Estatal, a propuesta del Secretario Ejecutivo y previa aportación de opiniones de los integrantes del Sistema Estatal de Seguridad Pública, implementará un Programa Estatal de Prevención e Investigación de Incendios, en concordancia con el Programa Nacional de Prevención de Incendios Forestales, el cual deberá contar con un Protocolo de Acción ante la actualización de dichos siniestros.

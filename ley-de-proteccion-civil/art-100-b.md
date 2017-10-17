@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 16 DE OCTUBRE DE 2017)
+ARTÍCULO 100-B.- Las Instituciones de Seguridad Pública del Estado y de los Municipios, así como la Fiscalía General y el personal de Protección Civil, brindarán capacitación a su personal sobre incendios intencionales, perfiles y modos de operar de los infractores, así como en su caso sobre los métodos de investigación específicos para los tipos penales protectores del equilibrio ecológico.
