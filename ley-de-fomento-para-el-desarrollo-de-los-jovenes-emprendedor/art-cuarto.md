@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- La Secretaría de Desarrollo Económico del Estado de Aguascalientes, deberá expedir las reglas de operación a que se refiere el Artículo 14, en un plazo máximo de 120 días hábiles, contados a partir de la entrada en vigor del presente Decreto.

@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- El Ejecutivo del Estado deberá expedir y publicar el Reglamento de esta Ley dentro de un plazo máximo de sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
