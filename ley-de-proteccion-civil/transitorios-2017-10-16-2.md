@@ -1,0 +1,4 @@
+P.O. 16 DE OCTUBRE DE 2017.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 160.- SE REFORMA EL ARTÍCULO 78 DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente día (sic) de su publicación en El Periódico Oficial del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO.- Se exhorta a las diversas instituciones que conforman el Sistema Educativo Estatal, a elaborar en los términos expuestos y de acuerdo a la normatividad aplicable, un Programa Interno de Protección Civil, ello con apoyo de la Coordinación Estatal de Protección Civil, para así salvaguardar la integridad física de la comunidad educativa y proteger las instalaciones, bienes muebles e información, patrimonio de las instituciones educativas, ante la ocurrencia de cualquier situación de emergencia.
