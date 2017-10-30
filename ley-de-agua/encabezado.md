@@ -1,3 +1,4 @@
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
