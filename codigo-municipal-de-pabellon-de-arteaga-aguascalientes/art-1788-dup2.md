@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 24 DE ABRIL DE 2006)
+ARTICULO 1788.- La violación de los artículos relativos a la celebración de actos mediante autorización expresa, traerá como consecuencia la suspensión inmediata de los mismos, además de la imposición de una sanción pecuniaria de 40 a 100 días de salario mínimo, que se hará efectiva por conducto de la Tesorería del Patronato.

@@ -31,7 +31,8 @@ XXV.- Tener a su cargo los libros o sistemas de contabilidad que se utilicen int
 XXVI.- Vigilar la recaudación de los fondos de CAPAPA y su correcta aplicación;
 XXVII.- Aplicar las sanciones que correspondan, por la comisión de las infracciones previstas en el presente Código, en materia de agua potable y alcantarillado;
 XXVIII.- Celebrar, junto con el Presidente los convenios, contratos y demás actos jurídicos, así como las convocatorias para licitaciones;
-XXIX.- Suscribir, junto con el Presidente o Tesorero, los títulos de crédito, en los términos de la ley, excepto en calidad de avales; y
+(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)
+XXIX.- Suscribir, junto con el Presidente o Director de Finanzas y Administración, los títulos de crédito, en los términos de la ley, excepto en calidad de avales, y
 XXX.- Las demás que le señale el Consejo Directivo, este Código, la ley de la materia y el Código Municipal.
 (ADICIONADA, P.O. 15 DE OCTUBRE DE 2007)
 SECCION CUARTA
