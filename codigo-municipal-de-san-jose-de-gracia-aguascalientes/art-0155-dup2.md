@@ -1,0 +1,38 @@
+(ADICIONADO, P.O. 30 DE OCTUBRE DE 2017)
+ARTÍCULO 155 CUAR (SIC).- Corresponde a la DIRECCIÓN DE DESARROLLO URBANO Y PLANEACIÓN lo siguiente:
+I. Realizar diagnósticos sobre la problemática pública en el Municipio, en materia de desarrollo urbano.
+II. Elaborar el proyecto de Plan Municipal de Desarrollo, así como sus modificaciones o adiciones;
+III. Coordinar la elaboración de los programas de desarrollo urbano de la cabecera y comunidades del Municipio de San José de Gracia, Ags.;
+IV. Aplicar las normas jurídicas de contenido ecológico y de preservación, cuidado, vigilancia y control del medio ambiente municipales;
+V. Preparar los proyectos de programas y esquemas en materia de desarrollo urbano para presentarlos al Ayuntamiento a través del Presidente Municipal;
+VI. Promover la creación de reservas territoriales en el Municipio;
+VII. Organizar los Programas Operativos Anuales;
+VIII. Preparar los proyectos derivados de los Programas Operativos Anuales;
+IX. Instrumentar los procesos de consulta ciudadana para la preparación de planes y programas municipales;
+X. Realizar diagnósticos municipales;
+XI. Recopilar y mantener actualizada la información estadística necesaria para la planeación municipal;
+XII. Relacionar la Administración Pública Municipal con los ciudadanos, a fin de que estos participen en el proceso de planeación democrática del desarrollo;
+XIII. Construir y operar las bases de datos estadísticos municipales;
+XIV. Proponer la nomenclatura de calles, parques y demás espacios públicos, así como la numeración oficial de los predios y expedir las constancias relativas;
+XV. Participar en la elaboración de los proyectos de reglamentación de zonificación y usos del suelo, de construcciones y de protección al ambiente;
+XVI. Ejercer las atribuciones que le otorga el Código Urbano del Estado al Municipio; en cuanto a la creación de condominios, creación de fraccionamientos y su municipalización, así como el control del cumplimiento de las obligaciones de los fraccionadores y promoventes de los condominios;
+XVII. Coordinar la participación del Comité de Desarrollo Urbano y Rural en cuanto a las atribuciones que le otorga el Código Urbano y la Ley Municipal del Estado de Aguascalientes;
+XVIII. Administrar el control urbano con el otorgamiento de las autorizaciones de compatibilidad urbanística, alineamiento, anuncios, subdivisiones, fusión y relotificación de predios y fraccionamientos, así como las licencias para construcción, remodelación y demolición de fincas, realización de obras, edificaciones y reparaciones en la vía pública y la expedición de números oficiales conforme a lo estipulado en el Código Urbano;
+XIX. Fijar los requisitos técnicos y arquitectónicos a que deberán sujetarse las construcciones e instalaciones en predios y uso de la vía pública;
+XX. Llevar un registro de peritos, así como asignar peritajes por servicio social en los casos que prevé este Código;
+XXI. Inspeccionar obras, edificios y construcciones en general;
+XXII. Verificar el uso que se está dando a un predio, edificio o construcción, y que éste se ajuste a las características previamente registradas;
+XXIII. Acordar las medidas que fueren procedentes en relación con las edificaciones peligrosas, que generen insalubridad o causen molestias;
+XXIV. Ordenar la realización de visitas de inspección y la aplicación de medidas de seguridad;
+XXV. Imponer las sanciones por violación a las normas en materia de desarrollo urbano;
+XXVI. Solicitar el auxilio de la fuerza pública, cuando fuese necesario para hacer cumplir sus determinaciones;
+XXVII. Expedir normas técnicas complementarias para el debido cumplimiento en lo relativo a las construcciones;
+XXVIII. Proponer y vigilar el establecimiento del registro de programas y esquemas de desarrollo urbano en el Gobierno Municipal;
+XXIX. Realizar acciones tendientes a la educación ambiental en el Municipio, en su caso, en colaboración con las instituciones educativas y culturales;
+XXX. Fomentar las acciones tendientes a un adecuado aprovechamiento de los recursos naturales en el Municipio, buscando en todo el desarrollo municipal sustentable;
+XXXI. Promover campañas de reciclaje ecológico y de limpieza de ríos y afluentes y demás lugares afectados por basuras o desechos;
+XXXII. Autorizar, ordenar, controlar y retirar el mobiliario urbano;
+XXXIII. Expedir autorización de uso de suelo a estacionamientos públicos;
+XXXIV. Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+SECCIÓN DÉCIMO SEGUNDA
+Dirección de Turismo

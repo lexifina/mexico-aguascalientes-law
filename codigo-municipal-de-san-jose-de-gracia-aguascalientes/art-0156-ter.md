@@ -1,15 +1,11 @@
-(ADICIONADO, P.O. 16 DE FEBRERO DE 2015)
-ARTÍCULO 156 TER.- Corresponde a la Dirección de Desarrollo Agropecuario lo siguiente:
-I. Promover proyectos productivos en el área rural del Municipio.
-II. Proponer al H. Ayuntamiento a través del Presidente Municipal programas y planes de trabajo que tiendan a promover el desarrollo rural integral y agropecuario del Municipio;
-III. Gestionar recursos y aplicarlos a los proyectos y programas agropecuarios en el Municipio;
-IV. Establecer una estrecha coordinación y comunicación con las dependencias y organismos públicos y privados que tengan como finalidad apoyar el desarrollo rural;
-V. Organizar y coordinar los fondos de apoyo provenientes de los programas productivos destinados a fortalecer a las comunidades rurales;
-VI. Promover los proyectos orientados al desarrollo rural y agropecuario a través de programas de colaboración y participación del Municipio, el Estado y la Federación;
-VII. Organizar foros temáticos para identificar las demandas del sector en forma conjunta con las instituciones y/o dependencias que corresponda;
-VIII. Promover cursos de capacitación que incidan en el desarrollo de lascomunidades (sic) rurales;
-IX. Llevar a cabo la aprobación y realización de acciones conjuntas con el Consejo Municipal de Desarrollo Agropecuario, a efecto de beneficiar a los sectores y grupos marginados que son prioritarios, tales como jóvenes, mujeres madres de familia, adultos mayores, y personas con capacidades diferentes;
-X. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)
+ARTÍCULO 156 TER.- Para ser Secretario de Cultura y Deporte del Municipio de San José de Gracia, Ags., se requiere de lo siguiente:
+I. Ser ciudadano en pleno uso de sus derechos políticos y civiles y ser vecino del Municipio de San José de Gracia;
+II. Contar con título de licenciatura debidamente registrado.
+III. Ser persona de reconocida solvencia moral, tener un modo honesto de vivir y la capacidad necesaria para desempeñar dicho cargo, a juicio del Ayuntamiento;
+IV. No estar inhabilitado para desempeñar cargo, empleo o comisión pública;
+V. No haber sido sentenciado por delito intencional que merezca pena privativa de libertad; y,
+VI. No haber sido sancionado administrativamente por actos de violencia de género, de violencia familiar o discriminación.
 TÍTULO TERCERO
 DE LA ADMINISTRACION PÚBLICA DESCENTRALIZADA Y DESCONCENTRADA
 CAPÍTULO I
