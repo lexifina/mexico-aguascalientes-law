@@ -17,8 +17,7 @@ VI.- Los vehículos destinados para el transporte de hasta quince pasajeros, pic
 VII.- Tratándose de tractores destinados a actividades agrícolas.
 (REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)
 Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el usuario o el tenedor del mismo deberán pagar el impuesto correspondiente dentro de los quince días siguientes a aquél en que tenga lugar el hecho de que se trate.
-N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.]
 (ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)
 SECCION TERCERA
 De la Base

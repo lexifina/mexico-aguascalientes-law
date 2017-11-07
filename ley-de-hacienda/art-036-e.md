@@ -8,8 +8,7 @@ Las autoridades municipales competentes, solamente registrarán vehículos cuyos
 IV.- Quien aparezca como propietario en el Registro del Padrón Vehicular del Estado de Aguascalientes, mientras el nuevo adquirente, o el nuevo tenedor o usuario, no hayan realizado el pago del Impuesto correspondiente.
 (ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)
 V.- El que enajene un vehículo, cuando a la fecha de la enajenación no se haya realizado el cambio de propietario.
-N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, LA PRESENTE SECCIÓN QUEDARÁ DEROGADA A PARTIR DEL 1 DE ENERO DE 2016.]
 (ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)
 SECCION SEGUNDA
 Del Objeto
