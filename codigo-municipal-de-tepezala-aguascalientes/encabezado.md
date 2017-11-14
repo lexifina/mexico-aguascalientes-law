@@ -1,4 +1,4 @@
-CODIGO MUNICIPAL
+CÓDIGO MUNICIPAL DE TEPEZALÁ, DEL ESTADO DE AGUASCALIENTES
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de marzo de 2010.
 GOBIERNO DEL ESTADO
 PRESIDENCIA MUNICIPAL
