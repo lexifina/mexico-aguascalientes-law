@@ -8,7 +8,8 @@ C) Aunado a la solicitud, el solicitante deberá de anexar a esta:
 2. Copia simple de las escrituras y/o del contrario (sic) de arrendamiento del predio donde se colocará la estructura.
 3. Proyecto ejecutivo.
 4. Memoria de cálculo de la instalación eléctrica, firmada por un perito especializado e instalaciones eléctricas con registro vigente en la SEDUM.
-5. Dictamen de la dirección y/o departamento de Protección Civil Municipal que señale que la instalación de la estructura es segura en materia de sus competencias.
+(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2017)
+5. Dictamen de la Coordinación Municipal de Protección Civil que señale que la instalación de la estructura es segura en materia de sus competencias.
 6. Proveer las coordenadas geográficas de la ubicación de la radiobase a fin de integrarlas al Sistema de Información Geográfico correspondiente.
 D) No será expedida la constancia cuando ya exista dentro de un radio de 400 metros otra instalación de este tipo.
 E) Cuando se solicita la constancia en zona o monumento histórico, arqueológico o artístico, aunado a los requisititos que establece este artículo, deberá de contar con la autorización del Instituto correspondiente.
