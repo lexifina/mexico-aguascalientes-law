@@ -1,5 +1,4 @@
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
-[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 7 DE DICIEMBRE DE 2016 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 5 DE DICIEMBRE DE 2016.]
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 AURELIO L. GONZALEZ, Gobernador Constitucional del Estado libre y soberano de Aguascalientes, a sus habitantes, sabed:
 Que por el Congreso del Estado se me ha comunicado lo siguiente:
