@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2017)
+Artículo 71-A.- Los Comités de Participación Ciudadana son organismos ciudadanizados, auxiliares de la Secretaría y que se constituyen para lograr la mejora y evaluación de programas y acciones del desarrollo social, que atañen a una cuadra, manzana, barrio, colonia, fraccionamiento o comunidad determinada; así como fomentar la participación social, voluntaria, ordenada y responsable del ciudadano en la toma de decisiones gubernamentales.

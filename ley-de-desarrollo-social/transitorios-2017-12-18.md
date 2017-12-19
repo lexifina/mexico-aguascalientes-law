@@ -1,0 +1,8 @@
+P.O. 18 DE DICIEMBRE DE 2017.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 211.- SE CONFIRMA EN SUS TÉRMINOS EL DECRETO NÚMERO 214, APROBADO POR LA LXII LEGISLATURA DEL CONGRESO DEL ESTADO DE AGUASCALIENTES, QUE REFORMA Y ADICIONA LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO.- El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- La Secretaría contará con un plazo de 90 días para establecer los lineamientos, indicadores, y programas necesarios para generar el sistema de información único que refiere el apartado del Padrón Único de Beneficiarios.
+ARTÍCULO TERCERO.- La Secretaría contará con un plazo de 90 días para emitir los lineamientos, formatos y mecanismos relativos a la operación de la recepción de denuncias ciudadanas, en lo concerniente a lo establecido en el presente Decreto.
+ARTÍCULO CUARTO.- La Secretaría enviará a la Comisión de Desarrollo Social del Congreso del Estado en un plazo no mayor a 45 días, la terna de la persona que se designará como Secretario Técnico del Consejo Estatal de Evaluación de la Política de Desarrollo Social del Estado de Aguascalientes.
+ARTÍCULO QUINTO.- A partir de la designación del Secretario Técnico se contará con un plazo de 30 días para integrar la lista de diez perfiles a fin de designar a los tres representantes de organismos sociales y civiles; en ambos casos la Comisión de Desarrollo Social del Congreso del Estado no podrá tardar más de diez días para las designaciones correspondientes.
+ARTÍCULO SEXTO.- El secretario Técnico del Consejo que se nombre por vez primera durará en su encargo hasta el 30 de diciembre del 2019.
