@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2017)
+ARTÍCULO 146 BIS.- El Órgano de Control Interno estará integrado por la Autoridad Substanciadora, así como de la Unidad de Investigación y Recepción de Quejas y Denuncias, notificadores, así como por el personal administrativo y demás servidores públicos que se requieran para satisfacer las necesidades del servicio y que se establezcan en el presupuesto de egresos.
