@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2017)
+ARTÍCULO 615 TER.- En el momento de la citación para la audiencia única, el notificador requerirá al o los integrantes operativos para que designe domicilio para oír y recibir notificaciones, apercibiéndosele de que, en caso de no designar, no ser cierto el domicilio señalado o no dar aviso del cambio, las subsecuentes notificaciones, aún las de carácter personal, le serán hechas en los estrados del Palacio Municipal, así como en los estrados de la Secretaría de Seguridad Pública Municipal.
+A las notificaciones derivadas del presente procedimiento le será aplicable lo dispuesto por el apartado de notificaciones establecido en el Código de Procedimientos Civiles vigente en el Estado de Aguascalientes, en lo que no contravenga el presente procedimiento.
+En caso de que el integrante operativo se negare a firmar la notificación, el notificador podrá dar fe de dicha conducta y así asentarlo en la cédula da notificación. Dicha negativa no afectará la validez de la notificación realizada.
+Ésta disposición será aplicable a cualquiera de las notificaciones que se realicen durante el procedimiento previsto en este apartado.

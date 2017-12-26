@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2017)
+ARTICULO 615 QUINQUIES.- El Presidente a través del Secretario Técnico dirigirá el desarrollo de la audiencia única y dictará los acuerdos de mero trámite en la misma, cuidando en todo momento el cumplimiento de las formalidades esenciales, de igual manera cuenta con atribuciones para certificar toda clase de documentos que obren en los archivos de la Comisión del Servicio Profesional de Carrera.
+Contra las determinaciones dictadas por el Presidente a través del Secretario Técnico durante la audiencia única, procederá la interposición de incidentes para revocar dichas determinaciones de manera verbal, en forma inmediata al acto que lo motiva y se resolverá sin sustanciación alguna, por el Presidente de la Comisión; contra la resolución del incidente no habrá recurso alguno.
+(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)
+CAPÍTULO III
+De la Comisión de Normatividad Interna
