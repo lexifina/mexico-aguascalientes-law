@@ -1,0 +1,3 @@
+P.O. 25 DE DICIEMBRE DE 2017.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 213.- SE REFORMAN LOS ARTÍCULOS 3°, 59, 111B Y 111C; SE ADICIONA EL ARTÍCULO 3°, Y SE DEROGA INCISO (SIC) DEL ARTÍCULO 59 Y ARTÍCULO 182, DE LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES".]
+ARTICULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, salvo lo relativo al Inciso f) del Apartado A de la Fracción IV del Artículo 59, y el Inciso f) del Apartado A de la Fracción IV del Artículo 182, cuya (sic) contenido quedará Derogado a partir del 1° de enero de 2019.

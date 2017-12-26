@@ -11,5 +11,6 @@ VIII. Autorizar las solicitudes respecto de los trabajos de derribo de árboles 
 IX. Crear y promover programas de capacitación e inducción para el personal encargado de realizar los trabajos de plantación, poda, derribo, o trasplante de árboles urbanos;
 X. Promover la construcción y mantenimiento de la infraestructura en áreas verdes donde exista arbolado urbano, dentro del ámbito competencial correspondiente;
 XI. Participar, cuando sea necesario, en la atención de emergencias y contingencias suscitadas en los árboles urbanos, de acuerdo con los programas de protección civil;
-XII. Promover campañas para arborizar las áreas urbanas que carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas, conforme a los estudios pertinentes; y
+(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)
+XII. Arborizar y promover entre los particulares campañas para dicho fin, en las áreas urbanas de su competencia que carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas, conforme a los estudios pertinentes; y
 XIII. Las demás que otorguen otras disposiciones legales o reglamentarias aplicables.
