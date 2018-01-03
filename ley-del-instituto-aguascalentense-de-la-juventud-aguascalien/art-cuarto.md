@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- El Ejecutivo del Estado de Aguascalientes deberá expedir el Reglamento Interior del Instituto Aguascalentense de la Juventud, dentro de los noventa días siguientes a la instalación de su Junta de Gobierno.

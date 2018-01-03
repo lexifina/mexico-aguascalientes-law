@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- Por única ocasión, el titular del Instituto Aguascalentense de la Juventud ejercerá sus funciones hasta el día 30 de septiembre del año 2019, pudiendo ser ratificado de acuerdo con esta Ley.

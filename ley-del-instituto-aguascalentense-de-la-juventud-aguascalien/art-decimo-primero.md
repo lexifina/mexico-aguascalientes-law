@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO PRIMERO.- Para los efectos legales a que haya lugar, toda referencia hecha por cualquier norma al Instituto de la Juventud del Estado de Aguascalientes se entenderá hecha al Instituto Aguascalentense de la Juventud.

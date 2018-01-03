@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Para el inicio de actividades del Instituto Aguascalentense de la Juventud, la Junta de Gobierno deberá quedar integrada a más tardar dentro de los treinta días siguientes a la publicación del presente Decreto.

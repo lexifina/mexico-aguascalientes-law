@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO SEGUNDO.- Se deberá llevar a cabo la inscripción del Instituto Aguascalentense de la Juventud en los términos que establece la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, ante el Registro Público de la Propiedad y del Comercio.

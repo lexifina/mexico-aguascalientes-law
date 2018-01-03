@@ -1,0 +1,2 @@
+ARTÍCULO NOVENO.- El Ejecutivo del Estado de Aguascalientes proveerá al Instituto Aguascalentense de la Juventud, por conducto de la Secretaría de Finanzas del Estado de Aguascalientes, los recursos para la instalación y operación del mismo, considerando el Presupuesto de Egresos del Estado de Aguascalientes, para el Ejercicio Fiscal del Año 2018.
+Asimismo deberá llevar a cabo la transferencia de recursos humanos y materiales, con la colaboración de la Secretaría de Administración del Estado de Aguascalientes, respecto de la "Casa del Adolescente".

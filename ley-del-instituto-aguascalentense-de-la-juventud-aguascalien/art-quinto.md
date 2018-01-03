@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- El Instituto Aguascalentense de la Juventud deberá emitir la convocatoria para la instalación del Comité Consultivo para la Juventud de Aguascalientes dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto.
