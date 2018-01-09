@@ -40,5 +40,9 @@ XVIII. Expedir y firmar la acreditación correspondiente a todas aquellas person
 XIX. Las que sean inherentes a su función y necesarias para el cumplimiento del presente Libro;
 (ADICIONADA, P.O. 4 DE MARZO DE 2013)
 XX. Rendir el informe correspondiente en forma mensual a la Comisión Permanente de Control Reglamentario y Espectáculos o cuando así lo requiera la Comisión; y
-(ADICIONADA, P.O. 4 DE MARZO DE 2013)
-XXI. Las que le confiera el presente Libro y demás disposiciones jurídicas aplicables.
+(REFORMADA, P.O. 8 DE ENERO DE 2018)
+XXI. Ordenar la práctica de visitas domiciliarias de tipo preventivo precisadas en el artículo 342 QUINQUIES del presente Código, para efecto de llevar a cabo las mediciones de ruido, así como detectar la fuente emisora que lo produce, de todo ello se levantará acta circunstanciada;
+(ADICIONADA, P.O. 8 DE ENERO DE 2018)
+XXII. Requerir y apercibir al infractor, propietario o poseedor del bien inmueble, el cumplimiento a las disposiciones previstas en el Apartado Séptimo del Capítulo VIII, Título Tercero, Libro Segundo del presente Código;
+(ADICIONADA, P.O. 8 DE ENERO DE 2018)
+XXIII. Las demás que otorgue el presente Código y las leyes de la materia o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.

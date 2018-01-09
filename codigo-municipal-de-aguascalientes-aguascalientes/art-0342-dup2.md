@@ -1,2 +1,0 @@
-(ADICIONADO, P.O. 9 DE ENERO DE 2017)
-ARTÍCULO 342 CUATER.- Bastará la denuncia popular a la Secretaría de Seguridad Pública Municipal así como en la Secretaría de Medio Ambiente y Desarrollo Sustentable para efecto de que los elementos de dichas Secretarías o los inspectores de la Secretaría del Medio Ambiente y Desarrollo Sustentable se constituyan en el domicilio señalado así como aquél del que emana el ruido, a fin de llevar a cabo las mediciones sonoras y de vibración para efecto de acreditar el rebase en los niveles de decibeles permitidos.

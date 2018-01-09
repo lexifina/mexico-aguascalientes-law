@@ -1,0 +1,2 @@
+(REFORMADO, P.O. 8 DE ENERO DE 2018)
+ARTÍCULO 342 QUATER.- Bastará la denuncia y/o queja del o las personas afectadas, a la Secretaría de Seguridad Pública Municipal y/o a la Dirección de Reglamentos Municipales, para efecto de que los elementos de policía y/o los verificadores respectivamente, se constituyan en el domicilio causante del ruido, a fin de llevar a cabo las mediciones sonoras y de vibración para efecto de acreditar el rebase en los niveles de decibeles permitidos, establecidos en la NOM-081-SEMARNAT/1994.
