@@ -1,0 +1,4 @@
+P.O. 29 DE ENERO DE 2018.
+[N. DE E. TRANSITORIOS DE LAS "REFORMAS Y ADICIONES A LOS ARTÍCULOS 12, 342, 324 Y 367 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES, Y DEL ARTÍCULO 39 DEL REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA MUJER DE AGUASCALIENTES. (ACOSO CALLEJERO)".]
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+SEGUNDO.- La Secretaría de Finanzas Publicas deberá prever las adecuaciones necesarias al Presupuesto de Egresos actual, así como a los subsecuentes, a fin de que el Instituto Municipal de la Mujer de Aguascalientes esté en posibilidades de impartir por sí mismo, o a través de los servicios de alguna organización de la sociedad civil especializada, los cursos de concientización en materia de acoso callejero dirigidos a infractores.
