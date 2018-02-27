@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- Los procesos de Plebiscito y de Referéndum a que se refiere esta Ley, sólo podrán ser solicitados y, en su caso, convocados con relación a actos o normas que se dicten a partir del día siguiente al que entre en vigor esta Ley.

@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- A la entrada en vigencia de la presente Ley, quedará Abrogada la Ley de Participación Ciudadana del Estado de Aguascalientes, publicada el 26 de noviembre de 2001, en el Periódico Oficial del Estado de Aguascalientes, a través del Decreto Número 207 de la LVII Legislatura del H. Congreso del Estado de Aguascalientes.
