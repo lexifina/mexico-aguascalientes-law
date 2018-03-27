@@ -6,6 +6,6 @@ III.- Las donaciones, herencias, legados y aportaciones que le otorgan los parti
 IV.- Los fondos públicos o privados obtenidos para el financiamiento de programas específicos;
 V.- Las acciones, derechos o productos que adquiera por cualquier otro título lega (sic), Y
 VI.- Los demás bienes, servicios, derechos y aprovechamientos que fijen las Leyes y Reglamentos o que provengan de otros fondos o aportaciones.
-(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 12 DE SEPTIEMBRE DE 2016)
-SECCIÓN DÉCIMA SEGUNDA (SIC)
+(REFORMADA [N. DE E. EN SU NUMERACIÓN], P.O. 26 DE MARZO DE 2018)
+SECCIÓN DÉCIMO PRIMERA
 De la Subdelegación de INAPAM

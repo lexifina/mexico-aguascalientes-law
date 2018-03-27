@@ -1,0 +1,4 @@
+P.O. 26 DE MARZO DE 2018.
+[N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA".]
+ARTÍCULO PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- Se derogan todas las disposiciones jurídicas de carácter reglamentario municipal que se opongan al contenido del presente acuerdo.

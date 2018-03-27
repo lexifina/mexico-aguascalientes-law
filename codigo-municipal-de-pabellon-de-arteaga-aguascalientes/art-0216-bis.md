@@ -5,7 +5,8 @@ II.- Elaborar y revisar en su caso los proyectos de iniciativas de leyes, reglam
 III.- Revisar todos los documentos de carácter jurídico del municipio previo a la firma del presidente municipal;
 IV.- Vigilar el cumplimiento de los preceptos constitucionales, legales y reglamentarios, por parte los funcionarios de la Administración Pública Municipal:
 V.- Tramitar, substanciar y dejar en estado de resolución los recursos administrativos interpuestos en contra de actos y resoluciones del Presidente Municipal o de los titulares de las dependencias de la Administración Pública;
-VI.- Intervenir en auxilio de Síndico Municipal en todos los asuntos litigiosos en que el Municipio sea parte y en los juicios de amparo que se interpongan en contra de cualquier autoridad del municipio;
+(REFORMADA, P.O. 26 DE MARZO DE 2018)
+VI.- Intervenir en auxilio del Síndico Municipal en todos los asuntos litigiosos en que el Municipio sea parte y en los juicios de amparo que se interpongan en contra de cualquier autoridad del municipio;
 VII.- Recopilar y mantener actualizada la normatividad vigente en materia municipal y particularmente la relacionada con el Municipio de Pabellón de Arteaga;
 VIII.- Tramitar la publicación en el Periódico Oficial del Estado de los acuerdos o disposiciones administrativas del municipio que por ley deben publicarse;
 IX.- Participar en la elaboración y supervisar jurídicamente el contenido de los convenios, contratos y demás instrumentos jurídicos y administrativos relativos a la coordinación con la administración pública federal, el Estado, otros municipios o con los particulares; y
