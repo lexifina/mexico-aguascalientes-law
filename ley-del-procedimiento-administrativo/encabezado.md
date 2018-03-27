@@ -1,3 +1,4 @@
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE AGUASCALIENTES
 Ley publicada en la Sección Segunda del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 14 de febrero de 1999.
 FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, sabed:

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE MARZO DE 2018)
+ARTICULO 39 A.- Las notificaciones por estrados se harán fijando durante cinco días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación o publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales; dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado o publicado según corresponda; la autoridad dejará constancia de ello en el expediente respectivo.
