@@ -1,0 +1,3 @@
+P.O. 16 DE ABRIL DE 2018.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 262.- SE REFORMAN LOS ARTÍCULOS 2°, 3°, 4°, 5°, 11, 12, 13, 15, 18, 22, 23, 24, 25, 26, 27, 28, 35, 37, 40, 47, 64, 71, 109. SE ADICIONAN LOS ARTÍCULOS 2° Y 71 Y SE DEROGA LA FRACCIÓN XI DEL ARTÍCULO 2°, DE LA LEY DE ADQUISICIONES; ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor a los sesenta días hábiles siguientes al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
