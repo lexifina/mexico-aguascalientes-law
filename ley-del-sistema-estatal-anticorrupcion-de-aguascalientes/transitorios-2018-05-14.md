@@ -1,0 +1,3 @@
+P.O. 14 DE MAYO DE 2018.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 274.- SE REFORMAN LOS ARTÍCULOS 9°, 10, 13, 18, 21, 36, 37, 39 Y 48, EL PRIMER PÁRRAFO Y LA FRACCIÓN X DEL ARTÍCULO 49; LOS ARTÍCULOS 50, 54, 55, 56 Y 64 DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE AGUASCALIENTES".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.

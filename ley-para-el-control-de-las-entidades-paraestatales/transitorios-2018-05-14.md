@@ -1,0 +1,7 @@
+P.O. 14 DE MAYO DE 2018.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 297.- SE REFORMAN LOS ARTÍCULOS 2°, 4°, 6°, 7°, 8°, 9°, 19, 22, 23, 26, 31, 34, 36, 41, 42, 43, 45, 46, 47, 49, 50 Y 51; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 14; UNAS FRACCIONES XV Y XVI AL ARTÍCULO 45 A; Y UN ARTÍCULO 45 B, A LA LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- La Contraloría del Estado deberá expedir, en un término no mayor a 90 días contados a partir de la entrada en vigor, los Lineamientos relativos al funcionamiento de los Órganos Internos de Control y Evaluación.
+ARTÍCULO TERCERO.- Las Entidades Paraestatales de la Administración Pública Estatal deberán expedir las reformas y adiciones a sus respectivas disposiciones reglamentarias en un periodo no mayor a 120 días contados a partir de la entrada en vigor del presente Decreto.
+ARTÍCULO CUARTO.- La Contraloría del Estado deberá publicar en el Periódico Oficial del Estado de Aguascalientes en un término no mayor a 30 días contados a partir de la entrada en vigencia del presente Decreto, la relación de las entidades paraestatales que formen parte de la Administración Pública correspondiente del año en curso.
+ARTÍCULO QUINTO.- Quedan sin efecto todas aquellas disposiciones que se contrapongan con el presente Decreto.
