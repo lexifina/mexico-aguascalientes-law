@@ -1,5 +1,5 @@
-(ADICIONADO, P.O. 14 DE MAYO DE 2018)
-ARTICULO 45 B.- Las funciones de las Autoridades que integran al Órgano Interno de Control y Evaluación serán las siguientes:
+(ADICIONADO, P.O. 14 DE MAYO DE 2018) (F. DE E., P.O. 28 DE MAYO DE 2018)
+ARTICULO 45 B.- Las funciones de las Autoridades que integran al Órgano Interno de Control serán las siguientes:
 A. Autoridad Auditora:
 I. Elaborar, someter a consideración de la Junta de Gobierno y ejecutar el programa anual de auditorías a las diversas áreas que conforman la entidad paraestatal;
 II. Realizar auditorías para verificar y evaluar los sistemas de control interno, de registros contables y apego a las normas y procedimientos establecidos; asimismo practicar auditorías y revisiones que permitan evaluar el desempeño de la entidad paraestatal;
@@ -9,7 +9,8 @@ V. Asistir y participar en los procedimientos para la adquisición y prestación
 VI. Comprobar mediante revisiones o inspección directa y selectiva, el cumplimiento por parte de la entidad paraestatal sobre el correcto ejercicio del gasto público;
 VII. Llevar a cabo las acciones necesarias para la implementación de las Normas Generales de Control Interno en la Administración Pública Estatal en apego al Sistema Estatal Anticorrupción;
 VIII. Rendir informe trimestral a su Junta de Gobierno sobre el estado que guardan los asuntos de su competencia;
-IX. Expedir certificaciones de los documentos que obren en los archivos de la entidad paraestatal;
+(F. DE E., P.O. 28 DE MAYO DE 2018)
+IX. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos;
 X. Elaborar y proporcionar los informes que le solicite la Contraloría del Estado y demás información correspondiente; y
 XI. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
 B. Autoridad Investigadora:
@@ -25,7 +26,8 @@ IX. Concluida la investigación, en su caso, elaborar y suscribir el informe de 
 X. Tramitar el recurso de inconformidad que se promueva contra la calificación de faltas no graves, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
 XI. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Investigadora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
 XII. Habilitar días y horas inhábiles para la práctica de diligencias;
-XIII. Ordenar medidas de apremio y dictar medidas cautelares;
+(F. DE E., P.O. 28 DE MAYO DE 2018)
+XIII. Ordenar medidas de apremio y solicitar medidas cautelares;
 XIV. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
 XV. Realizar, por sí o a través del personal a su cargo, todo tipo de notificaciones;
 XVI. Rendir informe trimestral a su Junta de Gobierno sobre el estado que guardan los asuntos de su competencia;
@@ -48,4 +50,5 @@ IX. Habilitar días y horas inhábiles para la práctica de diligencias;
 X. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
 XI. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos;
 XII. Resolver los recursos de inconformidad interpuestos en contra de las resoluciones recaídas en los procedimientos de adquisición previstos en la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes, además de todos y cada uno de los recursos administrativos que sean considerados y procedentes en materia de adquisiciones; y
-XII (SIC). Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
+(F. DE E., P.O. 28 DE MAYO DE 2018)
+XIII. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.

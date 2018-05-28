@@ -1,5 +1,5 @@
-(ADICIONADO, P.O. 14 DE MAYO DE 2018)
-ARTICULO 45 A.- Para el ejercicio de sus funciones, el Órgano Interno de Control y Evaluación, se conformará de la siguiente manera:
+(ADICIONADO, P.O. 14 DE MAYO DE 2018) (F. DE E., P.O. 28 DE MAYO DE 2018)
+ARTICULO 45 A.- Para el ejercicio de sus funciones, el Órgano Interno de Control, se conformará de la siguiente manera:
 I. Autoridad Auditora;
 II. Autoridad Investigadora; y
 III. Autoridad Substanciadora y Resolutora.
