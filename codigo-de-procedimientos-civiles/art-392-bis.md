@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 11 DE JUNIO DE 2018)
+ARTICULO 392 BIS.- La caducidad de la instancia operará de pleno derecho, sea porque se decrete de oficio o a petición de parte, cualquiera que sea el estado del juicio, desde el primer auto que se dicte en el mismo y hasta la citación para oír sentencia, en aquellos casos en que hayan transcurrido 120 días contados naturales a partir del día siguiente a aquel en que surtió efectos la notificación de la última resolución judicial dictada, y que no hubiere promoción de cualquiera de las partes, dando impulso al procedimiento para su trámite, solicitando la continuación para la conclusión del mismo.
+La figura de la caducidad de la instancia no operará en los juicios del orden familiar.

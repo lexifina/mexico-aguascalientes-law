@@ -1,4 +1,3 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADO, P.O. 6 DE MAYO DE 2013)
 Artículo 58 B.- El proceso penal será acusatorio y oral, y se regirá por los siguientes principios:
 I.- El proceso penal tendrá por objeto el esclarecimiento de los hechos, proteger al inocente, procurar que el culpable no quede impune y que los daños causados por el delito se reparen;

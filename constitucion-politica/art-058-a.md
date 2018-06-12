@@ -1,4 +1,3 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADO, P.O. 6 DE MAYO DE 2013)
 Artículo 58 A.- El Sistema de Justicia Penal Acusatorio tendrá por objeto dirimir los conflictos mediante la aplicación de la ley, bajo los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos y el Derecho Internacional de los Derechos Humanos del que el Estado Mexicano sea parte.
 El Sistema de Justicia promoverá la solución pacífica de los conflictos a través de los mecanismos de justicia alternativa y restaurativa que establezca la ley.

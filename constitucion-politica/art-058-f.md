@@ -1,3 +1,2 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADO, P.O. 6 DE MAYO DE 2013)
 Artículo 58 F.- Toda persona imputada de un hecho punible, y toda víctima u ofendido por un hecho punible, gozarán de los derechos establecidos en la Constitución Política de los Estados Unidos Mexicanos, el Derecho Internacional de los Derechos Humanos del que el Estado Mexicano sea parte, y los demás que establezcan las leyes.

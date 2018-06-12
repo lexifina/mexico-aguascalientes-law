@@ -1,4 +1,3 @@
-[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]
 (ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2016)
 Artículo 82 B.- El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades de los tres Poderes, las dependencias, entidades y organismos constitucionales autónomos del Estado y sus Municipios, competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 I.- La ley creará un Comité Coordinador del Sistema Estatal Anticorrupción, que estará integrado por los titulares de los organismos siguientes:

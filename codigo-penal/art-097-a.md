@@ -9,9 +9,20 @@ V. Existan antecedentes o actos de amenazas, violencia o lesiones de cualquier t
 VI. El cuerpo de la víctima sea expuesto, depositado o arrojado en lugar público;
 VII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de su vida;
 VIII. Que el activo haya obligado a la víctima a ejercer la prostitución, o haya ejercido actos de trata de personas en agravio de la víctima;
-IX. Cuando la víctima se haya encontrado en estado de indefensión, entendiéndose ésta como la situación de desprotección real o incapacidad que imposibilite su defensa;
+IX. (DEROGADA, P.O. 11 DE JUNIO DE 2018)
 X. Cuando el sujeto activo abuse de su cargo público para la comisión del delito.
 A quién cometa el delito de feminicidio se sancionará con prisión de cuarenta a sesenta años, de 500 a 1000 días multa así como el pago total de la reparación de los daños y perjuicios ocasionados.
 Se impondrá además de la pena, la pérdida de derechos con respecto a la víctima y ofendidos, incluidos los de carácter sucesorio.
 Cuando la víctima tenga hijos menores de edad que queden en la orfandad, el responsable deberá indemnizar en concepto de reparación del daño a los representantes de los menores con el doble de la indemnización a que alude el artículo 58 del presente Código.
-En caso de que no se acredite el feminicidio se aplicarán las reglas del homicidio doloso.
+(REFORMADO, P.O. 11 DE JUNIO DE 2018)
+Cuando en los hechos no concurran las razones de género previstas en el presente Artículo, al que dolosamente prive de la vida a una mujer por cualquier medio, se le impondrán de 8 a 20 años de prisión y de 25 a 250 días multa, así como el pago total de la reparación de los daños y perjuicios ocasionados. Lo anterior salvo que:
+I. Se cometan con:
+a) Premeditación;
+b) Ventaja;
+c) Alevosía;
+d) Traición; o
+e) Brutal ferocidad;
+II. La víctima sea menor de 15 años de edad; o
+III. La víctima se dedique al ejercicio de las labores periodísticas, y el resultado se provoque con motivo del ejercicio de su profesión;
+(ADICIONADO, P.O. 11 DE JUNIO DE 2018)
+En los casos a que se refieren las Fracciones I a la III, se aplicará al responsable de 15 a 40 años de prisión, de 150 a 500 días multa y pago total de la reparación de los daños y perjuicios ocasionados.

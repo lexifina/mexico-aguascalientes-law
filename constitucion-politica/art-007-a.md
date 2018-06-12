@@ -1,5 +1,5 @@
-(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2015)
-Artículo 7o. A.- El Gobierno organizará un sistema de planeación del desarrollo estatal que garantice equidad y justicia en el crecimiento de la economía, impulse la competitividad fomentando la independencia y la democratización política, social y cultural del Estado. La competitividad se entenderá como el conjunto de condiciones necesarias para generar un mayor crecimiento económico, promoviendo la inversión y la generación de empleo.
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE JUNIO DE 2018)
+Artículo 7o. A.- El Gobierno organizará un sistema de planeación del desarrollo estatal que garantice equidad y justicia en el crecimiento de la economía e impulse la competitividad fomentando la independencia y la democratización política, social y cultural del Estado. La competitividad se entenderá como el conjunto de condiciones necesarias para generar un mayor crecimiento económico, promoviendo la inversión y la generación de empleo.
 (REFORMADO, P.O. 8 DE AGOSTO DE 2016)
 La mejora regulatoria es una política de Estado obligatoria para todas las autoridades estatales y municipales en sus respectivos ámbitos de competencia, cuyo objetivo es elevar la competitividad y productividad, así como garantizar la obtención de beneficios superiores a sus costos, el máximo bienestar para la sociedad y la transparencia.
 (REFORMADO, P.O. 8 DE AGOSTO DE 2016)

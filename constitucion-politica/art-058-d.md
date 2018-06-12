@@ -1,9 +1,6 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADO, P.O. 6 DE MAYO DE 2013)
 Artículo 58 D.- Las sentencias que pongan fin a los procedimientos orales deberán ser explicadas por el Juez de Juicio Oral en audiencia pública previa citación de las partes.
 Corresponde al Poder Judicial la imposición de las penas, su ejecución, modificación y duración. Toda pena deberá ser proporcional al delito que sancione, a la afectación de las víctimas del delito y el daño bien jurídico tutelado.
 El sistema penitenciario se organizará sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 Las leyes preverán mecanismos alternativos de solución de controversias. En la materia penal regularán su aplicación, determinarán los casos que serán resueltos de esta manera, asegurarán la reparación del daño y establecerán los casos en los que se requerirá supervisión judicial.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 Se contará con un servicio de defensoría pública de calidad para la población y la ley garantizará las condiciones para un servicio profesional de carrera para los defensores. Las percepciones de los defensores públicos no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público.
