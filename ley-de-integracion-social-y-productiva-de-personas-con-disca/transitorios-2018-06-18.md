@@ -1,0 +1,4 @@
+P.O. 18 DE JUNIO DE 2018.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 318.- SE REFORMAN LAS FRACCIONES VIII, IX Y X DEL ARTÍCULO 7°, LAS FRACCIONES L).- M).- Y N.- Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 8°, LA FRACCIÓN IV DEL ARTÍCULO 16; EL ARTÍCULO 47; Y EL PRIMER PÁRRAFO DEL ARTÍCULO 56. SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 7°, UNA FRACCIÓN Ñ).- Y UN TERCER PÁRRAFO AL ARTÍCULO 8°, Y UN ARTÍCULO 11 A, A LA LEY DE INTEGRACIÓN SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD".]
+ARTÍCULO PRIMERO.- El presente Decreto iniciará su vigencia el día siguiente de su publicación el en (sic) Periódico Oficial del Estado, con excepción de la Reforma relativa al Artículo 56, la cual entrará en vigor el 1° de enero de 2019.
+ARTÍCULO SEGUNDO.- Se exhorta a los Ayuntamientos de los Municipios del Estado a realizar las Reformas a sus disposiciones reglamentarias a efecto de dar cumplimiento a lo dispuesto por este Decreto.
