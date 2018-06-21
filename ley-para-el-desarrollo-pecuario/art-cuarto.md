@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- El Congreso del Estado, al momento de expedir el Presupuesto de Egresos para el ejercicio inmediato siguiente a la entrada en vigor de la presente Ley, deberá destinar una partida presupuestaria que se destinará a cumplir los propósitos de esta Ley.

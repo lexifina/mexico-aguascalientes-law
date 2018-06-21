@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- En los asuntos que se encuentren pendientes en trámite, se seguirá aplicando la Ley Abrogada hasta su conclusión en tanto que no se oponga a las disposiciones contenidas en la presente Ley.

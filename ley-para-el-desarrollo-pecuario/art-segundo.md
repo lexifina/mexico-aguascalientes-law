@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Se abroga la Ley de Desarrollo Ganadero para el Estado de Aguascalientes, contenida en el Decreto 184, publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 23 de Julio de 2001.

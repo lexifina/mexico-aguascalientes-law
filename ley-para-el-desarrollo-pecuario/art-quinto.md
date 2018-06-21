@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- El Congreso del Estado, al momento de emitir la Ley de Ingresos para el ejercicio inmediato siguiente a la entrada en vigor de la presente Ley, contemplará la facultad de la Secretaría de Finanzas del Estado de recibir el pago de las sanciones pecuniarias a las que refiere el artículo 196 de esta Ley.
