@@ -1,0 +1,6 @@
+P.O. 25 DE JUNIO DE 2018.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 329.- SE REFORMAN LOS ARTÍCULOS 2°, 8°, 9°, 10 Y EL ARTÍCULO 51 DE LA LEY DE FOMENTO A LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- La Comisión para el Fortalecimiento de las Organizaciones de la Sociedad Civil del Estado de Aguascalientes, deberá realizar las adecuaciones a su Reglamento Interno, en un plazo de 120 días naturales contados a partir de la publicación del presente Decreto, en el Periódico Oficial del Estado de Aguascalientes, a fin de prever lo siguiente:
+I. Definir los criterios de representatividad, antigüedad, membrecía y desempeño de las Organizaciones con registro en el Padrón, con que debe realizarse la Convocatoria para la conformación y renovación de los representantes de las Organizaciones que integren la Comisión; y
+II. Especificar los requisitos que debe contener la Convocatoria que debe emitir la Comisión para el Fortalecimiento de las Organizaciones de la Sociedad Civil, tanto para su conformación como para su renovación.
