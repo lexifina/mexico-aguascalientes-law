@@ -5,7 +5,7 @@ En la audiencia se recibirán, admitirán y desahogarán las pruebas que proceda
 (REFORMADO, P.O. 22 DE AGOSTO DE 2016)
 El juez tendrá veinticuatro horas para dictar resolución donde confirme, modifique o revoque la orden de protección, atendiendo al peligro existente, el tipo de medida implementada y al interés superior de la víctima, en la resolución se podrá:
 (REFORMADA, P.O. 9 DE JULIO DE 2018)
-l. Prolongar las órdenes de protección de emergencia o preventivas hasta por sesenta días naturales; o
+I. Prolongar las órdenes de protección de emergencia o preventivas hasta por sesenta días naturales; o
 II. Prolongar las órdenes de protección de naturaleza civil por el tiempo que determine el juez.
 (ADICIONADO, P.O. 22 DE AGOSTO DE 2016)
 El juez durante el desahogo de la audiencia deberá evitar cualquier circunstancia que propicie la revictimización de la mujer violentada.
