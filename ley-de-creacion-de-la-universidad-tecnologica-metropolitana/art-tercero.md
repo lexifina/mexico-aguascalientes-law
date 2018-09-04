@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- El Ejecutivo del Estado deberá emitir el nombramiento del Rector de la Universidad Tecnológica Metropolitana de Aguascalientes para su presentación en la sesión de instalación del Consejo Directivo de la propia Universidad.

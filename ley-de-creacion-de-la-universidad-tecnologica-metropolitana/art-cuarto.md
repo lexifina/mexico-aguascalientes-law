@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- El Consejo Directivo de la Universidad Tecnológica Metropolitana de Aguascalientes deberá quedar instalado dentro de los 30 días hábiles posteriores a la entrada en vigor del presente Decreto.

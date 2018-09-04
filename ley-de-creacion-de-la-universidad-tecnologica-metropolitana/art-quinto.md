@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- El Consejo Directivo de la Universidad Tecnológica Metropolitana de Aguascalientes deberá expedir el Reglamento Interno de la propia Universidad y demás normatividad institucional necesaria a que se refiere la presente Ley en un término que no exceda de 120 días naturales.
