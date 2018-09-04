@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)
+ARTICULO 659 TER.- El H. Ayuntamiento, a través del Cabildo y el Departamento de Ecología, mantendrá un sistema permanente de información y vigilancia sobre las áreas protegidas en el territorio municipal, para lo cual coordinará sus acciones con el Gobierno del Estado, la Federación y otros municipios. Así mismo, establecerá sistemas de evaluación y seguimientos de las acciones que emprenda.
