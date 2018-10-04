@@ -11,7 +11,8 @@ VIII.- Trasladar y custodiar a los infractores o presuntos delincuentes, a los l
 IX.- Cumplir los mandamientos escritos de autoridad competente que ordenen su intervención;
 X.- Velar porque en los planes parciales de urbanización y en las acciones urbanísticas las vialidades resuelvan en lo posible los conflictos y prevean las posibles dificultades que en el futuro plantee el crecimiento de la ciudad en materia de vialidad y tránsito;
 XI.- Instalar los señalamientos viales y el equipamiento urbano que se considere necesario para garantizar un adecuado, ágil y seguro, flujo vial;
-XII.- Aplicar la Ley de Vialidad y sus disposiciones reglamentarias en el ámbito de competencia municipal;
+(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)
+XII.- Aplicar la Ley de Movilidad y sus disposiciones reglamentarias en el ámbito de competencia municipal;
 XIII.- Cuidar que las vialidades permitan el tránsito fluido y seguro de los vehículos automotores y de las personas;
 XIV.- Cumplir con la tarea de educación vial que corresponde al Ayuntamiento. Capacitar a los ciudadanos y funcionarios en materia de prevención de desastres;
 XV.- Formular y proponer los Atlas de Riesgos municipales;
