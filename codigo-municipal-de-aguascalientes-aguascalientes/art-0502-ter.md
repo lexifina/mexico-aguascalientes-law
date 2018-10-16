@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 11 DE ABRIL DE 2016)
-ARTÍCULO 502 TER- Corresponde al Municipio, a través de la SEMADESU, la administración, manejo y vigilancia de las áreas naturales protegidas de competencia municipal, por lo que el H. Ayuntamiento deberá prever en el presupuesto de egresos correspondiente para el ejercicio fiscal próximo inmediato, los recursos necesarios para garantizar la operación y el logro de los objetivos previstos en la declaratoria.
+ARTÍCULO 502 TER- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)

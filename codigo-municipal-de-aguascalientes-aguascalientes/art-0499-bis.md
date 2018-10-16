@@ -1,4 +1,1 @@
-(ADICIONADO, P.O. 11 DE ABRIL DE 2016)
-ARTÍCULO 499 BIS.- Las categorías de las áreas naturales protegidas municipales son:
-I.- Parques urbanos.- son áreas de uso público de los centros de población que contribuyen a regular y preservar el balance ambiental entre las áreas urbanas e industriales con la naturaleza; en ellas se protegen elementos naturales o culturales y se repercute benéficamente en el medio ambiente. Estas áreas traen como beneficio la regulación del clima dentro de la ciudad y funcionan como espacios de recreación y/o contemplación para las personas; y
-II.- Zonas de Conservación Ecológica de los Centros de Población.- son áreas dentro de la mancha urbana que presentan reductos de vegetación original en buen estado de conservación, representadas por especies propias de la región y que se recomienda sean conservadas como parte del patrimonio natural.
+ARTÍCULO 499 BIS.- (DEROGADO POR EL TRANSITORIO DÉCIMO DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, P.O. 15 DE OCTUBRE DE 2018)
