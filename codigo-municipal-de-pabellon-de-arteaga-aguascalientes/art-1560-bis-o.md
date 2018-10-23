@@ -1,5 +1,5 @@
 (ADICIONADO, P.O. 3 DE JULIO DE 2017)
-ARTÍCULO 1560 BIS O.- Las chatarreras que regula el presente Capítulo deberán observar las disposiciones siguientes:
+ARTICULO 1560 BIS O.- Las chatarreras que regula el presente Capítulo deberán observar las disposiciones siguientes:
 I.- Los locales comerciales deberán contar, como mínimo, con los siguientes requisitos:
 a).- No estar construidos con materiales inflamables;
 b).- Contar con los servicios sanitarios adecuados;
