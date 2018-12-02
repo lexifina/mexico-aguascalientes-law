@@ -1,0 +1,5 @@
+P.O. 3 DE SEPTIEMBRE DE 2018.
+[N. DE E. TRANSITORIOS DEL "DECRETO 380.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor a los noventa días naturales siguientes de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO.- Se exhorta a la Procuraduría Estatal de Medio Ambiente y a los Municipios del Estado, para que en sus respectivas esferas competenciales, lleven (sic) cabo campañas masivas para dar a conocer la prohibición de la realización de mutilaciones con fines estéticos o de practicidad, así como las sanciones a quienes realicen dichas prácticas.
+ARTÍCULO TERCERO.- Se exhorta a los Ayuntamientos, para que en caso, realicen las Reformas, Adiciones y/o Derogaciones pertinentes en su marco normativo, a fin de que la infracción contemplada en el Artículo 79 Fracción II de la Ley de Protección a los Animales para el Estado de Aguascalientes, sea considerada respectivamente como falta administrativa, y con ello objeto de sanción.
