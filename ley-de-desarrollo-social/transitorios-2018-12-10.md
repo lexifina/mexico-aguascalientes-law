@@ -1,0 +1,5 @@
+P.O. 10 DE DICIEMBRE DE 2018.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 388, EXPEDIDO POR LA LXIII LEGISLATURA.- SE ADICIONA UN OCTAVO PÁRRAFO, RECORRIÉNDOSE LOS PÁRRAFOS SUBSECUENTES, AL ARTÍCULO 4º DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES, (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL, DECRETO)".]
+ARTICULO PRIMERO.- El Artículo Primero del presente Decreto iniciará su vigencia el día siguiente de la publicación en el Periódico Oficial del Estado de Aguascalientes, de la Declaratoria Constitucional respectiva, en términos del Artículo 94 de la Constitución Política del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO.- El Artículo Segundo del presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, no obstante lo dispuesto por el Artículo Tercero Transitorio.
+ARTÍCULO TERCERO.- EI titular del Poder Ejecutivo del Estado, en un plazo máximo de 180 días hábiles contados a partir de la publicación de este Decreto, dispondrá lo necesario para crear uno o varios programas que cumplan con las reformas establecidas en el mismo.
