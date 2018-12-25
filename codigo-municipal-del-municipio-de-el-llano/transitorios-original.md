@@ -9,3 +9,4 @@ Salvador Martín del Campo, Presidente Municipal de El Llano; Regidores: C. Abel
 Por lo que tiene el honor de comunicarlo, para su conocimiento y efectos legales conducentes. En tal ver, promulga y ordena se dé publicidad para su debido cumplimiento. 1º de diciembre de 2010.- Salvador Martin del Campo.- Rúbrica.
 En cumplimiento a lo ordenado por el Presidente Municipal de El Llano, Aguascalientes, con fundamento en los artículos 120, fracción VII de la Ley Municipal por el Estado de Aguascalientes; tengo a bien solicitar la publicación del presente.
 El Secretario del H. Ayuntamiento Profra. Josefina Gallegos Vázquez.- Rúbrica.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
