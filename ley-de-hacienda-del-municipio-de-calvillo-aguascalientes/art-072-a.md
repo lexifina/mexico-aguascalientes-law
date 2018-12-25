@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2018)
+ARTICULO 72 A.- El objeto de este derecho será el servicio de alumbrado público que se preste por parte del Municipio, en las vías públicas, calles callejones, parques, plazas, jardines y todos aquellos lugares de uso común, y los ingresos que se perciban por su recaudación se destinarán al pago de dicho servicio y en su caso, a su mantenimiento y mejoramiento, en colaboración con los contribuyentes beneficiados.
