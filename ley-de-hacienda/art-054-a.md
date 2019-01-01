@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)
+ARTICULO 54 A.- Es objeto de este impuesto la realización de juegos con apuestas y sorteos, independientemente del nombre con el que se les designe, que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, así como la realización de juegos o concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en el desarrollo de aquéllos utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares, que se efectúen en el territorio del Estado.
+Quedan comprendidos en los juegos con apuestas, aquéllos en los que solo se reciban, capten, crucen o exploten apuestas. Asimismo, quedan comprendidos en los sorteos, los concursos en los que se ofrezcan premios y en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
+(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE DICIEMBRE DE 2018)
+SECCIÓN SEGUNDA
+De los sujetos

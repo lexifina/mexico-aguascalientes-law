@@ -7,9 +7,12 @@ Cuando la autoridad fiscal ejerza las facultades de determinación estimativa pr
 III.- Si la contabilidad y documentación del contribuyente no permite reconstruir ninguna de las operaciones realizadas, la Secretaría de Finanzas del Estado además de la facultad prevista en la Fracción inmediata anterior, podrá optar por considerar como base del impuesto los ingresos que correspondan a una ocupación promedio del 60% durante el periodo sujeto a revisión, de conformidad con las tarifas utilizadas por el prestador de servicios de hospedaje en dicho periodo. En caso de que la Autoridad Fiscal Estatal no pueda determinar el valor de las contraprestaciones en el periodo sujeto a revisión, aplicará el factor deflacionario al valor de las contraprestaciones que perciba en el momento en que se ejerzan las facultades de determinación estimativa hasta el periodo sujeto a revisión, conforme al valor de actualización a que se refiere la Ley de Ingresos del Estado vigente en el ejercicio fiscal en que se determine estimativamente el ingreso correspondiente. Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes anterior al en que se apliquen las facultades de determinación estimativa entre el citado índice correspondiente a cada mes del periodo sujeto a revisión.
 Al ingreso determinado estimativamente por alguno de los procedimientos anteriores, se le aplicará la tasa o tarifa impositiva que corresponda.
 Las facultades descritas en el presente Artículo son independientes y no excluyen la aplicación de las facultades de determinación estimativa previstas (sic) el Código Fiscal del Estado de Aguascalientes.
-(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2013)
+(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2018)
 CAPITULO V
-Del Impuesto Sobre Loterías, Rifas, Sorteos, Concursos y Juegos con Apuestas
+De los Impuestos por la Obtención de Premios, Realización y Participación en Loterías, Rifas, Sorteos, Concursos y Juegos con Apuestas
+(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)
+SUBCAPÍTULO I
+Del Impuesto Sobre Loterías, Rifas, Premios y Concursos
 (REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)
 SECCION PRIMERA
 Del Objeto

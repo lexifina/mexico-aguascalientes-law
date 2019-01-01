@@ -1,9 +1,4 @@
-(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)
-ARTICULO 47 BIS.- Para los efectos de este impuesto, se incluyen dentro de los juegos con apuestas permitidas, independientemente del nombre con el que se les designe, aquellos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares, independientemente de que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
-Igualmente se consideran juegos con apuestas aquellos en los que el participante deba estar presente en el juego, activamente o como espectador, y aquellos juegos en los que el participante haga uso de máquinas que utilicen algoritmos desarrollados en sistemas electrónicos o cualquier otro método mecánico, electrónico o electromagnético en el que la obtención del premio no dependa de factores controlables o susceptibles de ser conocidos o dominados por el participante.
-Asimismo, quedan comprendidos en los juegos con apuestas, los de apuestas remotas, también conocidos como libros foráneos, autorizados por autoridad competente, para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la Ley, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video y audio.
-Igualmente, quedan comprendidos en los juegos con apuestas, aquéllos establecimientos autorizados por autoridad competente, en los que se reciban, capten, crucen o exploten apuestas.
-Para los efectos de este impuesto, se considera apuesta el monto susceptible de apreciarse en moneda nacional que se arriesga en un juego de los que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, con la posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada deberá ser superior a ésta.
+ARTICULO 47 Bis.- (DEROGADO, P.O. 10 DE DICIEMBRE DE 2018)
 (REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)
 SECCION SEGUNDA
 De los Sujetos
