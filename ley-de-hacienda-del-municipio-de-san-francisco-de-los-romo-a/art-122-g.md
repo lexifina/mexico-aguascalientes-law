@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)
-ARTICULO 122 G.- Para calcular el costo total anual aplicable en un ejercicio, se considerará el costo total del año inmediato anterior, a aquél para el cual se aplicará la contribución, incrementado en un porcentaje igual al índice de inflación esperado por el Gobierno Federal en su programa económico para ese mismo Ejercicio Fiscal, adicionado como los costos de los nuevos proyectos, expansión y crecimiento natural del servicio.
+ARTICULO 122 G.- (DEROGADO, P.O. 18 DE FEBRERO DE 2019)

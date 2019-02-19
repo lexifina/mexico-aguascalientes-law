@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)
-ARTICULO 122 E.- El costo total del servicio de alumbrado público, se distribuirá entre los propietarios y poseedores de predios urbanos en la forma que se señala en este Capítulo. En caso de arrendamiento, el arrendador podrá trasladar al arrendatario el costo de esta contribución.
+(REFORMADO, P.O. 18 DE FEBRERO DE 2019)
+ARTICULO 122 E.- El Presidente Municipal podrá realizar descuentos al costo de los Derechos por el Servicio de Alumbrado Público en los porcentajes y supuestos que sean previstos en la Ley de Ingresos.

@@ -1,3 +1,2 @@
-(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)
-ARTICULO 122 C.- La Tesorería Municipal determinará el crédito fiscal que corresponda a cada contribuyente, recaudará la contribución y aplicará, en su caso, la facultad económico-coactiva, para hacerla efectiva.
-El Ayuntamiento podrá celebrar convenios con instituciones públicas o privadas para el cobro de los Derechos por el Servicio de Alumbrado Público.
+(REFORMADO, P.O. 18 DE FEBRERO DE 2019)
+ARTICULO 122 C.- El Ayuntamiento está facultado para determinarla (sic) forma del cobro de este derecho, previéndose en la correspondiente Ley de Ingresos o mediante el convenio que establezca con la Comisión Federal de Electricidad.

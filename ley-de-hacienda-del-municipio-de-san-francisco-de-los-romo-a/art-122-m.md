@@ -1,5 +1,4 @@
-(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)
-ARTICULO 122 M.- El Presidente Municipal podrá realizar descuentos al costo de los Derechos por el Servicio de Alumbrado Público en los porcentajes y supuestos que sean previstos en la Ley de Ingresos.
+ARTICULO 122 M.- (DEROGADO, P.O. 18 DE FEBRERO DE 2019)
 (ADICIONADO CON LA SECCIÓN Y ARTÍCULO QUE LO INTEGRAN, P.O. 5 DE MARZO DE 2012)
 CAPITULO XV
 Por el Uso, Goce, Aprovechamiento o Explotación de Bienes de Dominio Público

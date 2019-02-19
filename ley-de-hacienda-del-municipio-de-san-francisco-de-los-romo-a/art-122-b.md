@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)
-ARTICULO 122 B.- Las personas físicas o morales, habitantes o residentes, propietarias o poseedoras de predios, construidos o no, ubicados en las zonas urbanas, rurales o poblaciones del Municipio, están obligadas a contribuir para el sostenimiento del servicio de alumbrado público, a través del pago de los derechos correspondientes en la forma y términos que se establecen en este Capítulo.
+(REFORMADO, P.O. 18 DE FEBRERO DE 2019)
+ARTICULO 122 B.- Serán sujetos del pago de derecho de alumbrado público, los propietarios o poseedores de predios que se encuentren en el territorio de éste Municipio de San Francisco de los Romo, consumidores de energía eléctrica clasificados en las Categorías tarifas DB1, DB2, PDBT, GDBT, GDMTH, GDMTO, DIST, DIT.

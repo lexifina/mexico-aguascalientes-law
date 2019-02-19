@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)
-ARTICULO 122 A.- Se considera servicio de alumbrado público a la actividad técnica que realiza el Ayuntamiento consiste en iluminar las avenidas, calles, plazas, parques, áreas públicas comerciales e industriales, edificios públicos y demás lugares de uso común, de manera permanente, regular y continua, encaminado a la satisfacción de la necesidad colectiva de iluminación la cual se constituye de interés general, el cual se presta sin aspiración alguna de lucro.
+(REFORMADO, P.O. 18 DE FEBRERO DE 2019)
+ARTICULO 122 A.- El objeto de este derecho será el servicio de alumbrado público que se preste por parte del Municipio, en las vías públicas, calles, callejones, parques, plazas, jardines y todos aquellos lugares de uso común, y los ingresos que se perciban por su recaudación se destinaran al pago de dicho servicio y en su caso, a su mantenimiento y mejoramiento, en colaboración con los contribuyentes beneficiados.
