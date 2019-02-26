@@ -9,6 +9,3 @@ VI.- Constituirse como cuerpo asesor del Ayuntamiento en las actividades cultura
 VII.- Coordinar la recopilación de la memoria histórica de los barrios y colonias de la cabecera municipal y de las comunidades rurales del municipio;
 VIII.- Dictaminar y valorar los trabajos que presenten los cronistas para su difusión o ciudadanos a título personal a efecto de proponer al ayuntamiento su publicación o difusión por cualquier otro medio, y
 IX.- Las demás que le confiera ayuntamiento y otras disposiciones jurídicas aplicables.
-(REFORMADO, P.O. 24 DE ABRIL DE 2006)
-CAPITULO SEGUNDO
-Del Ayuntamiento
