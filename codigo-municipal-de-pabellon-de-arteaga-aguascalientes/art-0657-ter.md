@@ -1,6 +1,10 @@
-(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)
-ARTICULO 657 TER.- Las organizaciones sociales, públicas o privadas y demás personas interesadas, podrán promover ante el municipio el establecimiento de áreas naturales protegidas municipales destinadas a la preservación o educación ambiental, en terrenos de su propiedad o mediante contrato con terceros. El Departamento de Ecología evaluará la petición para que en su caso se promueva ante el ayuntamiento la expedición de la declaratoria respectiva, presentando el estudio previo justificativo, mediante la cual se establecerá el manejo del área por parte del promovente, con la participación de dicha dependencia conforme a sus atribuciones.
-Asimismo, los sujetos señalados en el párrafo anterior podrán destinar voluntariamente los predios que les pertenezcan a acciones de conservación de los ecosistemas y su biodiversidad. Para tal efecto podrán solicitar al municipio el reconocimiento respectivo. El ayuntamiento emitirá un certificado que contendrá, por lo menos el nombre del promovente, la denominación del área respectiva, ubicación, superficie y colindancias, el régimen de manejo a que se sujetará y en su caso, el plazo de vigencia. Dichos predios se considerarán como áreas productivas dedicadas a una función de interés público. Para obtener la declaratoria o reconocimiento a que se refiere este artículo, el interesado deberá presentar al Departamento de Ecología la información siguiente:
+(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2019)
+ARTICULO 657 TER.- Las organizaciones sociales, públicas o privadas y demás personas interesadas, podrán promover ante el municipio el establecimiento de Áreas Naturales Protegidas municipales destinadas a la preservación o educación ambiental, en terrenos de su propiedad o mediante contrato con terceros. El IMBIO evaluará la petición para que en su caso se promueva ante el Ayuntamiento la expedición de la declaratoria respectiva, presentando el estudio previo justificativo, mediante la cual se establecerá el manejo del Área Natural Protegida por parte del promovente, con la participación de dicha dependencia conforme a sus atribuciones.
+(REFORMADO, P.O. 4 DE MARZO DE 2019)
+Asimismo, los sujetos señalados en el párrafo anterior podrán destinar voluntariamente los predios que les pertenezcan a acciones de conservación de los ecosistemas y su biodiversidad. Para tal efecto podrán solicitar al municipio el reconocimiento respectivo.
+(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE MARZO DE 2019)
+El Ayuntamiento mediante sesión de cabildo, en un plazo de tres meses a partir de recibida completa la documentación contemplada en el presente artículo, emitirá un certificado denominado Área Municipal Destinada Voluntariamente a la Conservación que contendrá, por lo menos el nombre del promovente, la denominación del área respectiva, ubicación, superficie y colindancias, el régimen de manejo a que se sujetará y en su caso, el plazo de vigencia. Dichos predios se considerarán como áreas productivas dedicadas a una función de interés público. Para obtener la declaratoria o reconocimiento a que se refiere este artículo, el interesado deberá presentar al IMBIO la información siguiente:
+(ADICIONADA [CON SUS INCISOS], P.O. 3 DE SEPTIEMBRE DE 2018)
 I.- Datos generales:
 a).- Persona física (propietario):
 a.1).- Nombre (s);
@@ -24,6 +28,7 @@ c.12).- Clave lada;
 c.13).-Teléfono y extensión;
 c.14).-Teléfono móvil (opcional), y
 c.15).- Correo electrónico (para recibir notificaciones).
+(ADICIONADA [CON SUS INCISOS], P.O. 3 DE SEPTIEMBRE DE 2018)
 II.- Manifestación de la voluntad para destinar voluntariamente el predio a la conservación:
 a).- Denominación del predio;
 a.1).- Nombre del área a certificada (sic);
@@ -57,6 +62,7 @@ c.8).- Flora registrada en el área a certificar;
 c.9).- Clima;
 c.10).-Topografía, y
 c.11).- Hidrografía,
+(ADICIONADA [CON SUS INCISOS], P.O. 3 DE SEPTIEMBRE DE 2018)
 III.- Documentos anexos:
 a).- Copia simple de identificación oficial vigente para personas físicas y representantes legales;
 b).- Copia simple del acta constitutiva para el caso de personas morales;

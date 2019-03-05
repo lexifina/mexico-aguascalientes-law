@@ -9,7 +9,8 @@ VI.- Clave Única de Registro de Población (CURP) del solicitante;
 VII.- Nombre y fotografía reciente del solicitante y domicilio para recibir notificaciones,
 VIII.- Tratándose de personas morales, escritura constitutiva; Registro Federal de Contribuyentes (RFC);
 IX.- Tratándose de personas físicas, Registro Federal de Contribuyentes (RFC);
-X.- Permiso ambiental de funcionamiento emitido por el Departamento de Ecología del municipio conforme a lo establecido en las leyes en materia ecológica;
+(REFORMADA, P.O. 4 DE MARZO DE 2019)
+X.- Permiso ambiental de funcionamiento emitido por el IMBIO del municipio conforme a lo establecido en las leyes en materia ambiental;
 XI.- Plan de manejo de desechos sólidos y medidas de seguridad certificado por la Unidad de Protección Civil y Servicio de Bomberos mismo que deberá ser renovado cada año;
 XII.- Ubicación exacta del lugar donde se pretende establecer el giro solicitado, anexando croquis de la ubicación del mismo;
 XIII.- Evidencia fotográfica tanto del interior como del exterior del establecimiento, y

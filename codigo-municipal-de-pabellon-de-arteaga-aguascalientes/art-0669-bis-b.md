@@ -1,0 +1,20 @@
+(ADICIONADO, P.O. 4 DE MARZO DE 2019)
+ARTICULO 669 BIS B.- Son obligaciones de los propietarios, poseedores, encargados de su custodia o terceras personas que tengan relación con los animales, las siguientes:
+I.- Proporcionarles buenas condiciones de salud, alimento, bebida, albergue, espacio suficiente, ventilación, luz natural, protección de las inclemencias del tiempo, descanso e higiene tanto del lugar en el que vive como del animal mismo, evitándoles temor, angustia, molestias, dolor y cualquier forma de sufrimiento;
+II.- Llevar a los animales ante los médicos veterinarios, para que se les proporcionen las medidas preventivas y curativas de salud;
+III.- Inmunizar, mediante los mecanismos y métodos autorizados, a los animales contra toda enfermedad transmisible;
+IV.- Responsabilizarse de los apareamientos del animal, procurando las condiciones adecuadas para su reproducción, auxiliándose y asesorándose, de médicos veterinarios;
+V.- Llevar a cabo el procedimiento en hospitales o clínicas veterinarias especializadas para este fin o dentro de las campañas que realice el Ayuntamiento, el Gobierno Estatal, los médicos veterinarios colegiados o agremiados y las instituciones universitarias en caso de proceder a la esterilización;
+VI.- Realizar las adecuaciones necesarias en las azoteas del bien inmueble para protegerlos de las inclemencias del tiempo, evitar caídas al vacío o que causen molestias a los vecinos, por ladridos constantes, malos olores, ruidos, caídas de plumas o desechos;
+VII.- Dotar a los perros de una identificación con datos de contacto del responsable, tales como placa de identificación, chip o tatuaje que siempre deben portar;
+VIII.- Sujetar con pechera, correa o cadena que no sea de picos al transitar por las vías públicas;
+IX.- Identificar y registrar en el CCYBA a los perros considerados como agresivos o entrenados para el ataque, señalando su raza y condiciones por las que sea necesario su registro, dando aviso en caso de su venta, donación, robo, extravió o muerte;
+X.- Levantar las heces que defeque y depositarlas en un recipiente apropiado o destinado para ello, al transitar por la vía pública con su mascota;
+XI.- Registrar a los perros de ataque o de alta peligrosidad de acuerdo a lo dispuesto en el presente ordenamiento;
+XII.- Colocar letreros, anuncios o cualquier simbología de aviso en lugar visible para el público en general, en los espacios donde habitualmente permanece el animal, en el que se advierta la peligrosidad cuando este sea de los agresivos, potencialmente peligrosos o de ataque;
+XIII.- Reparar los daños, indemnizar los perjuicios y cumplir con las sanciones dispuestas por este ordenamiento y la legislación civil o penal del estado, cuando el animal ocasione algún daño a las personas, las cosas o a otros animales;
+XIV.- Hacerse responsables del trato que los menores o incapaces les den a los animales, tratándose de padres, tutores o los que ejerzan la patria potestad, haciéndose acreedores a las sanciones correspondientes y a resarcir los daños y perjuicios en los casos en que el animal cause daños a terceros y a las cosas o a otros animales, lo anterior con apego a lo establecido en este ordenamiento, a la Ley de Protección a los animales del Estado de Aguascalientes, el Código Penal del Estado de Aguascalientes o, en su caso, la legislación aplicable vigente;
+XV.- Presentar de inmediato al CCyBA, el animal de su propiedad, que tenga en posesión o bajo su custodia cuando haya causado alguna lesión o muerte o solicitar al personal del centro su traslado, para su estricto control epidemiológico;
+XVI.- Tramitar y contar con las licencias federales, estatales y municipales en los términos del presente Capítulo;
+XVII.- Tramitar la licencia municipal o permiso específico, independientemente de la licencia general que tenga el local cerrado o abierto en caso de que se lleven a cabo otras actividades relacionadas con animales, y
+XVIII. Cumplir con las disposiciones establecidas en la legislación vigente aplicable en la materia, en el presente Código y las que las autoridades municipales dispongan para el control y protección de los animales.

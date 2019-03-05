@@ -1,16 +1,20 @@
 (ADICIONADO, P.O. 18 DE JUNIO DE 2007)
 ARTICULO 827 BIS.- Son atribuciones del Secretario de Acuerdos las siguientes:
-I.- Asistir al Presidente de la Comisión de Honor y Justicia en todo lo referente al desarrollo de las audiencias llevadas a cabo durante el procedimiento disciplinario seguido en contra de los elementos operativos;
+(REFORMADA, P.O. 4 DE MARZO DE 2019)
+I.- Asistir al Presidente del Consejo de Honor y Justicia en todo lo referente al desarrollo de las audiencias llevadas a cabo durante el procedimiento disciplinario seguido en contra de los elementos operativos;
 II.- Contar con fe pública respecto de las actuaciones que se realicen dentro de las audiencias, así como de las diligencias que se tengan que realizar fuera de ellas, con motivo del procedimiento disciplinario que por sus circunstancias así lo exigiera, por lo que de manera enunciativa y no limitativa gozará de fe pública para:
 a).- Expedir copias certificadas que le sean solicitadas por diversas autoridades o por los litigantes en el procedimiento disciplinario que corresponda;
 b).- Cotejar documentos;
-c).- Realizar certificaciones de diversa índole, que se relacionen con las actuaciones de la Comisión de Honor y Justicia; y
+(REFORMADO, P.O. 4 DE MARZO DE 2019)
+c).- Realizar certificaciones de diversa índole, que se relacionen con las actuaciones del Consejo de Honor y Justicia; y
 d).- Levantar constancias y fe de hechos;
 IV.- Autorizar conforme a la ley, autos, decretos, resoluciones y en general todas las diligencias en que interviniere;
 V.- Recibir todas las promociones que le presenten, anotando el día y la hora en el documento, o asentar cualquier comparecencia, debiendo anotar en las mismas los elementos señalados al principio de esta fracción;
-VI.- Dar cuenta al Presidente de la Comisión de Honor y Justicia, dentro de las veinticuatro horas siguientes a su presentación de los ocursos y peticiones que se hagan en los procedimientos disciplinarios;
+(REFORMADA, P.O. 4 DE MARZO DE 2019)
+VI.- Dar cuenta al Presidente del Consejo de Honor y Justicia, dentro de las veinticuatro horas siguientes a su presentación de los ocursos y peticiones que se hagan en los procedimientos disciplinarios;
 VII.- Sellar y foliar los autos que se vayan formando durante el desarrollo del procedimiento disciplinario;
 VIII.- Vigilar que se hagan y en su caso hacer, las notificaciones y citaciones en la forma y términos que señale este Código;
-IX.- Auxiliar al Presidente de la Comisión de Honor y Justicia en la elaboración de los proyectos de resoluciones que se dé en el procedimiento disciplinario, así como de las resoluciones definitivas;
+(REFORMADA, P.O. 4 DE MARZO DE 2019)
+IX.- Auxiliar al Presidente del Consejo de Honor y Justicia en la elaboración de los proyectos de resoluciones que se dé en el procedimiento disciplinario, así como de las resoluciones definitivas;
 X.- Participar en las audiencias con voz informativa y mediante la lectura de aquellas constancias que le ordene el Presidente; y
 XI.- Las demás que le otorgaren, este Código y las leyes de aplicación Supletoria.

@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 4 DE MARZO DE 2019)
+ARTICULO 669 BIS E.- Se procederá a revocar la licencia municipal de funcionamiento a los lugares en los que se compruebe que se da la sobreexplotación de las hembras con fines puramente comerciales, asimismo, se procederá a la revocación, cuando se practique la endogamia.
+Queda estrictamente prohibido propiciar el apareamiento de los animales en la vía o espacios públicos, especialmente de perros considerados potencialmente peligrosos. Si esto ocurre reiteradamente en algún espacio privado, se presumirá que se trata de un criadero, por lo que los habitantes o poseedores del lugar tendrán que cumplir con lo dispuesto para este efecto en el presente ordenamiento.
+Queda estrictamente prohibido someter al animal a prácticas de cruzas selectivas, ingesta de determinadas sustancias u otras estrategias que tengan como objetivo modificar la estatura, el tamaño de la cabeza o cualquier otra modificación de la naturaleza propia de las especies.
+Queda estrictamente prohibido ofrecer o solicitar el apareamiento de los animales, en cualquier evento organizado por personas físicas, morales o autoridades.

@@ -1,0 +1,9 @@
+(ADICIONADO, P.O. 4 DE MARZO DE 2019)
+ARTICULO 669 BIS D.- En los locales destinados a la cría y venta de animales, se deberá cumplir con lo dispuesto en las Normas Oficiales Mexicanas, leyes estatales y federales en la materia, el presente ordenamiento, las disposiciones que la autoridad municipal establezca para la protección de los animales y con los siguientes requisitos:
+I.- Disponer de comida, agua, espacios para dormir y moverse con comodidad, evitando el hacinamiento y procurando la temperatura apropiada. Quedando estrictamente prohibido tener a los animales permanentemente enjaulados y sacarlos únicamente para el apareamiento. Se deberá contar con espacios suficientemente amplios con luz natural para que deambulen y tengan oportunidad de esparcimiento;
+II.- Proporcionar el cuidado diario, quedando estrictamente prohibido dejarlos sin la atención debida durante los días no laborables;
+III.- Llevar a cabo todo procedimiento quirúrgico en hospital o clínica autorizados;
+IV.- Vender los animales desparasitados, vacunados y libres de toda enfermedad y con certificado médico expedido en el momento de la venta, por el médico veterinario que sea el responsable del criadero. En el caso de perros y gatos si son mayores a 6 meses deberán estar esterilizados;
+V.- Vender los animales con la suficiente maduración biológica que les permita sobrevivir separados de su madre;
+VI.- Tener un control de producción y llevar un registro de camadas, y
+VII.- En el caso de que no se logre su venta o que ya no sean útiles para la reproducción, buscarles alojamiento y cuidados mediante entrega responsable cumpliendo con los requisitos establecidos en el presente Código, quedando estrictamente prohibido abandonarlos en la vía pública o sacrificarlos por el hecho de que ya no sean útiles para la reproducción.

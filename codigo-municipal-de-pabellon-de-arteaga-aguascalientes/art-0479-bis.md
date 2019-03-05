@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 4 DE MARZO DE 2019)
+ARTICULO 479 BIS.- Dentro del ámbito territorial del Municipio queda prohibido que se entregue al consumidor final, ya sea a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, bolsas de plástico no biodegradables para transportar mercancías y que no cumplan con las normas oficiales mexicanas que determinen los criterios en materia de eficiencia ambiental y tecnológica, y en materia de generación, manejo y disposición final.
+Se exceptúan de esta prohibición las bolsas de plástico que constituyan el envase o empaque primario de alimentos, que sea necesario por razones higiénicas o porque su uso ayude a conservar los mismos.

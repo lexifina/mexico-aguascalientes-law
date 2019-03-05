@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 3 DE JULIO DE 2017)
-ARTICULO 1560 BIS F.- El registro comporta el padrón de las chatarreras ubicados dentro del Municipio con el propósito de llevar un mejor control sobre su funcionamiento y operación. Con esta medida, se pretende garantizar seguridad y certeza jurídica a los propietarios, dependientes representantes y administradores de las chatarreras, así como también a quienes participan como proveedores y/o compradores.
+(REFORMADO, P.O. 4 DE MARZO DE 2019)
+ARTICULO 1560 BIS F.- El registro comprende el padrón de los CARSU ubicados dentro del Municipio con el propósito de llevar un mejor control sobre su funcionamiento y operación. Con esta medida, se pretende garantizar seguridad y certeza jurídica a los propietarios, dependientes representantes y administradores de los CARSU, así como también a quienes participan como proveedores y/o compradores.

@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 3 DE JULIO DE 2017)
-ARTICULO 1560 BIS P.- Dentro de las chatarreras se prohíbe la compra, venta y el acopio de recipientes metálicos contenedores de Gas L.P., recipientes contenedores de líquidos inflamables y/o corrosivos, llantas o neumáticos y acumuladores automotrices.
+(REFORMADO, P.O. 4 DE MARZO DE 2019)
+ARTICULO 1560 BIS P.- En los CARSU se prohíbe la compra, venta y acopio de recipientes metálicos contenedores de Gas L.P., contenedores de líquidos inflamables y/o corrosivos, llantas y acumuladores.

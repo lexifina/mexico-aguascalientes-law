@@ -1,4 +1,3 @@
-(ADICIONADO, P.O. 3 DE JULIO DE 2017)
+(REFORMADO, P.O. 4 DE MARZO DE 2019)
 ARTICULO 1560 BIS H.- El registro estará conformado por una base de datos integrada por la información que cada propietario proporcione y la que se obtenga de las demás autoridades municipales y de otros órdenes de gobierno.
-La Secretaría, basándose en los datos que los propietarios de las chatarreras le proporcionen, así como en la información que obtenga de otras autoridades municipales y estatales, inscribirá a cada establecimiento en el Registro según corresponda.
-En caso de que la información proporcionada a la Secretaría por el propietario, para los efectos de los párrafos anteriores, sea falsa, se procederá a la clausura temporal o definitiva en los términos que prescriba la normatividad que para tal efecto establezca el presente código y demás leyes aplicables.
+La Secretaría, basándose en los datos que los propietarios de los CARSU le proporcionen, así como en la información que obtenga de otras autoridades municipales y estatales, inscribirá a cada establecimiento en el Registro según corresponda.

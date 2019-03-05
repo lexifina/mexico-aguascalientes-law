@@ -32,12 +32,12 @@ XVIII.- Producir la muerte del animal por un medio que le cause dolor, sufrimien
 XIX.- Provocar la muerte de animales mediante la estrangulación, asfixia, aplicación de cloruro de potasio, a golpes, utilizando electricidad, ácidos, fuego, instrumentos punzocortantes o cualquier otro dispositivo o procedimiento que les pueda provocar dolor innecesario, sufrimiento o prolonguen su agonía;
 XX.- Utilizar para el trabajo a los animales desnutridos, enfermos, cojos, heridos, con lesiones por mataduras o en etapa de gestación o aquellos impedidos para el trabajo debido a su poca o avanzada edad, y
 XXI.- Utilizar a los vehículos tirados por animales para trasladar mercancías, personas u objetos de un peso desproporcionado a la talla y condiciones del animal.
-(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2011)
+(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2019)
 LIBRO CUARTO
-DE LA REGLAMENTACIÓN DE LA SEGURIDAD PÚBLICA
-(REFORMADO, P.O. 24 DE ABRIL DE 2006)
+DE LA SEGURIDAD PÚBLICA MOVILIDAD MUNICIPAL
+(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2019)
 TITULO PRIMERO
 DE LA SEGURIDAD PUBLICA
-(REFORMADO, P.O. 24 DE ABRIL DE 2006)
+(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2019)
 CAPITULO PRIMERO
 De Disposiciones Generales

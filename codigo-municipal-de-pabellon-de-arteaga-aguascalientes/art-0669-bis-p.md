@@ -1,0 +1,9 @@
+(ADICIONADO, P.O. 4 DE MARZO DE 2019)
+ARTICULO 669 BIS P.- Todo acto de entrega de adopción responsable que se lleve a cabo en el municipio debe realizarse sin fines de lucro. El CCYBA, las asociaciones protectoras, los rescatistas u otras organizaciones en pro de los animales deberán observar los siguientes lineamientos:
+I.- Entregar a los animales a personas que acrediten buena disposición, sentido de responsabilidad y las condiciones necesarias para darles un trato adecuado y digno, orientándolos respecto de las obligaciones que contraen de acuerdo al presente reglamento;
+II.- Llevar un registro y seguimiento de los animales entregados y datos de las personas a los que se les asignaron para su identificación; así como documentación que valide la entrega del animal disponible para ser solicitado en cualquier momento por la UPA;
+III.- No entregar animales potencialmente peligrosos;
+IV.- Entregar a los animales desparasitados, vacunados y libres de toda enfermedad y con cartilla de vacunación expedida por un médico veterinario.
+En el caso de animales mayores a 6 meses de edad, deberán ser entregados esterilizados, haciendo además el seguimiento de éstos para que en el caso de que se detecte alguna forma de maltrato sean recuperados de inmediato;
+V.- Entregar los animales con la suficiente maduración biológica que les permita sobrevivir separados de su madre, y
+VI.- Al momento de la entrega responsable del animal se deberá firmar por ambas partes y en dos tantos una carta compromiso de adopción o similar, adjuntando copia de identificación vigente del adoptante y comprobante (sic) domicilio, orientándolos respecto a las obligaciones que contraen con la legislación vigente, los riesgos de su liberación y medios de contacto de ambas partes para dar seguimiento de estos y que en el caso de que se detecte alguna forma de maltrato sean recuperados de inmediato;

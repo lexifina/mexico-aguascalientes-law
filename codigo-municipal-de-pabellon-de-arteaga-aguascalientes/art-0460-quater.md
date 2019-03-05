@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 4 DE MARZO DE 2019)
+ARTICULO 460 QUATER.- Será obligación del fraccionador o promovente llevar a cabo las labores de manejo y mantenimiento de las áreas verdes públicas del fraccionamiento, condominio o desarrollo inmobiliario especial de nueva creación, en estricto apego al programa que para tal efecto haya sido autorizado por el Instituto Municipal de Biodiversidad y Protección Ambiental como parte del Comité Técnico de Municipalización y Urbanización y hasta que haya sido entregado formalmente al Municipio.

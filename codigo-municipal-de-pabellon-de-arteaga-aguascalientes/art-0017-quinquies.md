@@ -16,6 +16,3 @@ XIII.- Impulsar, promover y apoyar a los deportistas destacados a efecto de faci
 XIV. Organizar seminarios, mesas redondas, páneles y foros en donde se discuta la problemática en materia deportiva y para la capacitación de entrenadores, deportistas y árbitros;
 XV.- Proponer la realización de certámenes, torneos, encuentros, competencias y otros eventos en donde se propicie la participación de equipos o deportistas individuales, o la incorporación de equipos o deportistas pabellonenses en eventos que se realicen en otros municipios, y
 XVI.- Las demás que le confiera el ayuntamiento u otras disposiciones jurídicas aplicables.
-(REFORMADO, P.O. 24 DE ABRIL DE 2006)
-CAPITULO SEGUNDO
-Del Ayuntamiento
