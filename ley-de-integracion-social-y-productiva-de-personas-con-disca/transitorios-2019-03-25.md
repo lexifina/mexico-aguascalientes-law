@@ -1,0 +1,3 @@
+P.O. 25 DE MARZO DE 2019.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 127.- SE REFORMAN LOS ARTÍCULOS 6° Y 7° PRIMER PÁRRAFO, Y LOS INCISOS N) Y Ñ) DEL ARTÍCULO 8° DE LA LEY DE INTEGRACIÓN SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO ÚNICO.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
