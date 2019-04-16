@@ -1,5 +1,5 @@
 P.O. 27 DE OCTUBRE DE 2017.
-[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 164.- LEY ÓRGANICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES".]
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 164.- LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES".]
 ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor el día primero de enero del año dos mil dieciocho.
 ARTÍCULO SEGUNDO.- Con la entrada en vigor del presente Decreto, se abroga la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado el 28 de diciembre del 2010 en el Periódico Oficial del Estado de Aguascalientes, mediante Decreto Número 19.
 ARTÍCULO TERCERO.- Para los efectos legales a que haya lugar, la Secretaría de la Juventud será sustituida por el Instituto de la Juventud del Estado de Aguascalientes en el cumplimiento de sus obligaciones y el ejercicio de sus atribuciones en su respectiva materia.
