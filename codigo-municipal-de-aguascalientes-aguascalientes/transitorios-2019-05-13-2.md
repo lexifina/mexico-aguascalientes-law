@@ -1,0 +1,4 @@
+P.O. 13 DE MAYO DE 2019.
+[N. DE E. TRANSITORIOS DE LA "REFORMA ARTÍCULO 150, SE ADICIONA EL ARTÍCULO 161-BIS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES, REFORMA AL REGLAMENTO DEL ARCHIVO GENERAL MUNICIPAL DE AGUASCALIENTES".]
+PRIMERO.- Las presentes reformas entrarán en vigor el 16 de junio de 2019, salvo las relativas a actualizar el Registro Nacional de Archivos, cuyo cumplimiento estará sujeto a la disponibilidad de la plataforma correspondiente por parte del Archivo General de la Nación.
+SEGUNDO.- La o el Jefe del Archivo elaborará un programa de administración de riesgos a desarrollar en el segundo semestre del año 2019. En el transcurso de los primeros 30 días a partir de la entrada en vigor de las presentes reformas al Reglamento del Archivo General Municipal de Aguascalientes, presentará dicho programa al Director de Recursos Materiales quien gestionará su financiamiento y supervisará su ejecución.
