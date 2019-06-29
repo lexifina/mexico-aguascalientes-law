@@ -1,0 +1,5 @@
+P.O. 28 DE JUNIO DE 2019.
+[N. DE. E. TRANSITORIOS DEL "DECRETO NÚMERO.-181. ARTÍCULO ÚNICO.- SE REFORMAN LOS ARTÍCULOS 2°, 3°; 49 BIS; 49 TER; 49 QUINQUIES; SE ADICIONA EL ARTÍCULO 3° Y ARTÍCULO 49 TER; Y SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 49 BIS, TODOS DE LA LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS".]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO.- El Fidecomiso del Fondo de Estabilización, deberá realizar las modificaciones necesarias al Contrato del Fideicomiso que derivan del presente Decreto, en un plazo no mayor a noventa días naturales.
+ARTÍCULO TERCERO.- Los recursos que a partir de la entrada en vigor del presente Decreto se encuentren en el Patrimonio del Fideicomiso del Fondo de Estabilización que se deben aplicar conforme a los fines del fideicomiso, se sujetarán a las disposiciones del presente Decreto.
