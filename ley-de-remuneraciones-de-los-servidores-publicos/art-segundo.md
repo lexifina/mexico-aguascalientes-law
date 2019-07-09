@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO. Se Abroga la Ley de Remuneraciones de los Servidores Públicos para el Estado de Aguascalientes y sus Municipios, publicada en el Periódico Oficial del Estado de Aguascalientes el 25 de diciembre de 2017, mediante Decreto número 216.
