@@ -18,5 +18,3 @@ XV. Propiciar mecanismos que permitan la presentación formal de quejas y propue
 XVI. Impulsar programas de capacitación en materia de mejora regulatoria entre los servidores públicos involucrados de las dependencias;
 XVII. Fomentar el conocimiento por parte de la sociedad en general, de la normatividad estatal y municipal asociada con trámites y servicios públicos; y
 XVIII. Las demás que señalen las leyes o el H. Ayuntamiento.
-CAPÍTULO III
-De la Secretaría del H. Ayuntamiento y Dirección General de Gobierno
