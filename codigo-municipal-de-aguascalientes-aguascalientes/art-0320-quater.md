@@ -1,6 +1,6 @@
-(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2008)
-ARTÍCULO 320-QUATER.- Cuando el menor sea sancionado con arresto, en ningún caso, lo purgará en una celda con personas mayores de edad.
+(REFORMADO, P.O. 19 DE AGOSTO DE 2019)
+ARTÍCULO 320-QUATER.- Cuando el menor de edad sea resguardado por el departamento de psicología y trabajo social adscrito a la Dirección de Justicia Municipal, en ningún caso se internará en ninguna celda con personas mayores de edad.
 Para efectos del presente artículo, el Juez Municipal clasificará la custodia preventiva del menor de la siguiente manera:
-I.- En el caso de menores de 18 años pero mayores de 16, se internarán en celdas preventivas.
-II.- En el caso de menores de 16 años pero mayores de 12, se confinarán en áreas de observación.
-III.- En el caso de menores de 12 años, se remitirán a las áreas de psicología y trabajo social de la Dirección de Justicia Municipal.
+I.- En el caso de menores de 18 años pero mayores de 16, se internarán en zonas de resguardo en las que en ningún caso podrán estar internados con personas mayores de edad, dando aviso en todos los casos a quienes ejerzan la custodia o la patria potestad del menor.
+II.- En el caso de menores de 16 años pero mayores de 12, se pondrán a disposición de la Procuraduría de Protección de Niñas, Niños y Adolescentes, dando en todos los casos aviso a quienes ejerzan la patria potestad o tutela del menor.
+III.- En el caso de menores de 12 años, estos se consideran como niñas o niños, se dará aviso inmediatamente a la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes, en términos de los artículos 81 y 82 de la Ley de los Derechos de Las Niñas, Niños y Adolescentes del Estado de Aguascalientes, poniéndolos bajo su resguardo.
