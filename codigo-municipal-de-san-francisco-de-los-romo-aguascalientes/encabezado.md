@@ -1,4 +1,4 @@
-CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO
+CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO DEL ESTADO DE AGUASCALIENTES
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 EXPOSICION DE MOTIVOS
 [...]
