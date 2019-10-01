@@ -1,0 +1,4 @@
+P.O. 30 DE SEPTIEMBRE DE 2019.
+[N. DE E. TRANSITORIOS DE LA "REFORMA AL ARTÍCULO 15 FRACCIÓN XVIII, ARTÍCULO 605 INCISO E), ARTÍCULO 606 FRACCIÓN V, ARTÍCULO 614 ADICIONANDO EL INCISO E), ARTÍCULO 616 INCISO H), ARTÍCULO 619, ADICIÓN DEL ARTÍCULO 619 BIS, ARTÍCULO 620 Y ARTÍCULO 621 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+PRIMERO: La presente reforma al artículo 15 fracción XVIII, artículo 605 Inciso E), artículo 606 fracción V, Artículo 614 adicionando el Inciso E), artículo 616 Inciso H), artículo 619, adición Del artículo 619 BIS, artículo 620 y artículo 621 del Código Municipal de Aguascalientes, iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+SEGUNDO: Se designaran 60 días naturales para la elaboración del Reglamento Interno y su Protocolo de Actuación.
