@@ -1,0 +1,1 @@
+ARTÍCULO PRIMERO.- El presente Decreto iniciará su vigencia, para el caso de los Municipios, el 15 de octubre de 2019; para la Administración Pública Estatal Centralizada y Estatal, así como Organismos Públicos Autónomos, el 1º de octubre de 2022; para el Poder Legislativo, el 15 de septiembre de 2018; y, para el Poder Judicial, a partir del 1º. de enero de 2019.
