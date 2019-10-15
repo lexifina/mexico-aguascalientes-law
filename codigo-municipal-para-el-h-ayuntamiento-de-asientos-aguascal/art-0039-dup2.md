@@ -1,0 +1,9 @@
+ARTÍCULO 39° Cuarter (SIC).- El Ayuntamiento implementará, el programa municipal para la prevención, atención, sanción y erradicación, de la violencia el cual deberá contener:
+I. Los objetivos generales y específicos;
+II. Las estrategias a seguir;
+III. Las líneas de acción;
+IV. Los recursos asignados;
+V. Las metas cuantitativas y cualitativas;
+VI. Los responsables de su ejecución;
+VII. Los mecanismos de evaluación y;
+VII (SIC). El subprograma de capacitación.

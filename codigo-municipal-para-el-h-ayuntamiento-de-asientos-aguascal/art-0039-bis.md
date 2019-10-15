@@ -1,0 +1,1 @@
+ARTÍCULO 39° Bis.- El objeto del presente apartado es regular y garantizar la igualdad de género entre mujeres y hombres, la no discriminación, y todos aquellos derechos contenidos en la Constitución Política de los Estados Unidos Mexicanos.

@@ -1,0 +1,26 @@
+ARTÍCULOS TRANSITORIOS
+PRIMERO.- El presente Código Municipal, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias municipales que se opongan a lo dispuesto en el presente Código Municipal.
+Dado en sesión de cabildo a los diez días del mes de septiembre del año dos mil diecinueve.- PUBLÍQUESE.
+ING. LORENZO MARTÍN CARRILLO LARA
+PRESIDENTE MUNICIPAL
+LIC. SONIA CARRANZA MENDOZA
+SÍNDICO DEL AYUNTAMIENTO
+C. MA. DEL REFUGIO MOTA GONZÁLEZ
+PRIMERA REGIDORA
+PROFR. ULISES OSIEL GALINDO
+SEGUNDO REGIDOR
+C. BELÉN MOLINA RODRÍGUEZ
+TERCERA REGIDORA
+C. IGNACIO SALAS GUERRA
+CUARTO REGIDOR
+C. DAVID MEDRANO VEGA
+QUINTO REGIDOR
+C. HORTENSIA GUEL ESQUIVEL
+SEXTA REGIDORA
+C. J. JESÚS REYES SILVA
+SÉPTIMO REGIDOR
+C. SILVIA MOTA
+OCTAVA REGIDORA
+PROFR. ANTONIO GALLEGOS ESPINOSA
+SECRETARIO DEL H. AYUNTAMIENTO

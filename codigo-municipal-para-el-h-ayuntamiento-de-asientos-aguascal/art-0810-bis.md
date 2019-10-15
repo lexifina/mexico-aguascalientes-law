@@ -1,0 +1,1 @@
+ARTÍCULO 810° Bis.- Restaurant Bar, es el establecimiento dedicado a la venta y consumo de bebidas alcohólicas acompañada de comida prepara (sic) y/o botanas pudiendo funcionar con un horario de las 11:00 a las 23:00 horas, permitiendo el libre acceso a trovadores y músicos con el permiso correspondiente de la Secretaría del H. Ayuntamiento y de los propietarios del lugar.

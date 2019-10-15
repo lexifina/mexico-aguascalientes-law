@@ -1,0 +1,1 @@
+ARTÍCULO 50° Bis.- Para el desempeño de sus funciones, el síndico contará con un cuerpo de colaboradores integrado por lo menos de tres licenciados en derecho, un contador o administrador, así como de dos auxiliares. Para todos los efectos legales, se entiende que el síndico es el superior jerárquico de sus colaboradores y que éstos son empleados municipales.
