@@ -2,7 +2,7 @@
 ARTÍCULO 142 BIS.- Corresponde a la Secretaría Particular lo siguiente:
 I. Elaborar y mantener actualizada la agenda del Presidente Municipal;
 II. Atender a los funcionarios, comisionados, representantes de grupos y demás personas que soliciten entrevista con el Presidente Municipal;
-III. Coordinar la atención ciudadana;
+III. (DEROGADA, P.O. 30 DE OCTUBRE DE 2019)
 IV. Organizar, programar y dar seguimiento a las giras y eventos del PresidenteMunicipal (sic) y a los acuerdos que se deriven de las mismas, canalizando las solicitudes a las áreas correspondientes;
 V. Encargarse de las relaciones públicas de la Presidencia Municipal;
 VI. Representar o designar a quien representará al Presidente Municipal, previoacuerdo (sic) con él mismo, en los eventos que se le encomiende en la atención a los ciudadanos;
