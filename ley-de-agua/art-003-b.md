@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)
+ARTICULO 3o B.- Es facultad del Gobernador del Estado, expedir el Plan Hidráulico para el Estado de Aguascalientes, como instrumento rector en el tratamiento y atención de la problemática del suministro de agua en nuestra Entidad Federativa.
+Para lo cual, será competencia del Instituto, elaborar, modificar y actualizar la propuesta del Plan Hidráulico para el Estado de Aguascalientes, de acuerdo con la Ley de Planeación del Desarrollo Estatal y Regional para el Estado de Aguascalientes, mediante una Planeación de largo plazo.
+En las dependencias y organismos de los tres Poderes así como en los órganos constitucionales autónomos del Estado, se llevará a cabo una campaña permanente de uso racional del agua, los cuales permitirán a la población en general de acuerdo a su rango de edad conocer medidas específicas para el ahorro y evitar el desperdicio del recurso hídrico.
