@@ -4,5 +4,3 @@ También se considerará suplantación de la identidad cuando el titular otorgue
 (REFORMADO, P.O. 11 DE JUNIO DE 2018)
 Al responsable de Suplantación de la Identidad se aplicarán de 4 a 12 años de prisión y de 200 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 La pena de prisión y días de multa se aumentará hasta en una mitad en sus mínimos y sus máximos cuando el sujeto activo se aproveche de su profesión; de su calidad como servidor público; o se valga de su empleo dentro de cualquier institución crediticia para la comisión de la conducta.
-CAPÍTULO XIII
-Tipos Penales Protectores de la Seguridad y Normal Funcionamiento de las Vías de Comunicación y de los Medios de Transporte
