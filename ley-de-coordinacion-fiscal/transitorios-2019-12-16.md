@@ -1,0 +1,3 @@
+P.O. 16 DE DICIEMBRE DE 2019.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 272.- ARTÍCULO ÚNICO.- SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN V DEL CUARTO PÁRRAFO DEL ARTÍCULO 3º DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
