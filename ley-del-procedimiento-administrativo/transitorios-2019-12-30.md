@@ -1,0 +1,3 @@
+P.O. 30 DE DICIEMBRE DE 2019.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 296.- ARTÍCULO ÚNICO.- SE REFORMA EL ARTÍCULO 4º, FRACCIÓN X; 25, 28, 51, SEGUNDO PÁRRAFO Y 92, SEGUNDO PÁRRAFO DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
