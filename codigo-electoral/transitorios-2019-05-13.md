@@ -1,0 +1,6 @@
+P.O. 13 DE MAYO DE 2019.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 149.- SE REFORMA EL CÓDIGO ELECTORAL PARA EL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO.- El presente Decreto es publicado en el Periódico Oficial del Estado de Aguascalientes en términos del Cuarto Párrafo de la Fracción II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, e iniciará su vigencia el 15 de octubre de 2019, por lo que sus disposiciones no serán aplicativas de manera alguna para el Proceso Electoral Local 2018-2019 que se encuentra en curso.
+ARTÍCULO SEGUNDO.- Se Derogan todas las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+ARTÍCULO TERCERO.- Dentro de los treinta días naturales siguientes, contados a partir de la entrada en vigor del presente Decreto, el Pleno del Tribunal Electoral deberá Reformar, Adicionar y/o Derogar el Reglamento Interior del Tribunal Electoral del Estado de Aguascalientes, de conformidad con este primero.
+ARTÍCULO CUARTO.- Una vez que entre en vigencia el presente Decreto, y que a su vez cese en sus funciones el actual Contralor Interno del Tribunal Electoral del Estado de Aguascalientes, el Congreso del Estado deberá realizar todos los actos tendientes al nombramiento de un nuevo Contralor Interno de dicho órgano constitucional autónomo.
