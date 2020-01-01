@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)
-ARTICULO 67 M.- El Presidente Municipal podrá realizar descuentos al costo de los Derechos por el Servicio de Alumbrado Público en los porcentajes y supuestos que sean previstos en la Ley de Ingresos.
+ARTICULO 67 M.- (DEROGADO, P.O. 16 DE DICIEMBRE DE 2019)

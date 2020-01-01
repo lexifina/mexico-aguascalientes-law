@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)
-ARTICULO 67 A.- Se considera servicio de alumbrado público a la actividad técnica que realiza el Ayuntamiento consistente en iluminar las avenidas, calles, plazas, parques, áreas públicas comerciales e industriales, edificios públicos y demás lugares de uso común, de manera permanente, regular y continua, encaminado a la satisfacción de la necesidad colectiva de iluminación, la cual se constituye de interés general y se presta sin aspiración alguna de lucro.
+(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)
+ARTICULO 67 A.- El servicio de alumbrado público estará a cargo de este Municipio de Rincón de Romos y será suministrado dentro del territorio del mismo, quedando determinada la forma de recaudación de la aportación social del alumbrado público (ASAP), según lo establezca el convenio del Municipio con la Comisión Federal de Electricidad.

@@ -1,2 +1,3 @@
-(REFORMADO, P.O. 18 DE FEBRERO DE 2019)
-ARTICULO 122 A.- El objeto de este derecho será el servicio de alumbrado público que se preste por parte del Municipio, en las vías públicas, calles, callejones, parques, plazas, jardines y todos aquellos lugares de uso común, y los ingresos que se perciban por su recaudación se destinaran al pago de dicho servicio y en su caso, a su mantenimiento y mejoramiento, en colaboración con los contribuyentes beneficiados.
+(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)
+ARTICULO 122 A.- El servicio de alumbrado público estará a cargo de este Municipio de San Francisco de los Romo y será suministrado dentro del territorio del mismo, conforme a lo siguiente:
+I. El Municipio de San Francisco de los Romo determinara la forma de recaudación de la aportación social del alumbrado público, (ASAP), a través del convenio que establezca con la Comisión Federal de Electricidad.
