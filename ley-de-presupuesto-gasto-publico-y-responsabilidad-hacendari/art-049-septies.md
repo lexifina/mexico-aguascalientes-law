@@ -3,7 +3,8 @@ Artículo 49 Septies.- El Fondo de Inversiones Pública (sic) Productivas y Prog
 I. El Titular de la CPLAP, quien lo presidirá;
 II. El Titular de la Secretaría, quien será el Secretario Técnico del Comité;
 III. El Titular de la Secretaría General de Gobierno;
-IV. El Titular de la Coordinación General de Gabinete;
+[FE. DE E. P.O. 15 DE ENERO DE 2020]
+IV. El Titular de la Secretaría de Finanzas;
 V. El Titular de la Contraloría del Estado; y
 VI. El Titular de la Secretaría de Administración.
 Las reglas de operación, lineamientos y demás disposiciones que resulten necesarios para el adecuado funcionamiento del Fondo serán emitidas y aprobadas por el Comité Técnico.
