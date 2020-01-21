@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO. Se abroga la Ley Orgánica de la Fiscalía General del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes el lunes 22 de junio de 2015, mediante el Decreto Número 203 de la LXII Legislatura, así como todas aquellas disposiciones normativas y reglamentarias que se contrapongan al presente Decreto.

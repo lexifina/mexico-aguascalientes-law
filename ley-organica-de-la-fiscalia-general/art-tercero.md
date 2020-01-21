@@ -1,0 +1,2 @@
+ARTÍCULO TERCERO. El Fiscal General deberá expedir el reglamento de la presente Ley y el reglamento del Servicio Profesional de Carrera, en un término no mayor a ciento veinte días naturales, contados a partir del día siguiente a la entrada en vigor del presente Decreto.
+Hasta en tanto no sean expedidas las disposiciones reglamentarias a las que refiere el párrafo anterior, serán aplicables las que se encuentren vigentes al momento de la entrada en vigor del presente Decreto.

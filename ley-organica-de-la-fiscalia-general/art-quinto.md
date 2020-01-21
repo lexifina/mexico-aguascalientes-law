@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO. La Fiscalía General deberá realizar las modificaciones administrativas y reglamentarias que se requieran para cumplir con lo ordenado por el presente Decreto y por la Ley que a través de él se expide.
