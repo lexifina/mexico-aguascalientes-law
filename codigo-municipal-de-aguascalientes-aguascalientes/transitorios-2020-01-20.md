@@ -1,0 +1,3 @@
+P.O. 20 DE ENERO DE 2020.
+[N. DE E. TRANSITORIO DE LA "REFORMA AL ARTÍCULO 26 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+ÚNICO: La presente reforma al artículo 26 del Código Municipal de Aguascalientes, iniciará su vigencia a los 90 días hábiles después de su publicación en el Periódico Oficial del Estado de Aguascalientes; así mismo se instruye a la Coordinación General de Gobierno Digital del Municipio de Aguascalientes para que capacite al personal de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno del Municipio de Aguascalientes y se tomen las medidas necesarias para ejecutar la presente reforma.
