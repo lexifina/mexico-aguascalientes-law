@@ -18,9 +18,3 @@ VIII.- Proponer las fechas en que se deban realizar actos de homenaje o reconoci
 IX.- Establecer bases y lineamientos para ser sujeto de algún premio, reconocimiento o condecoración por parte del gobierno municipal, y
 (REFORMADA, P.O. 4 DE MARZO DE 2019)
 X.- Los demás que le señalen las leyes, los reglamentos, el presente código o le sean encomendados por el H. Ayuntamiento.
-(REFORMADO, P.O. 24 DE ABRIL DE 2006)
-TITULO TERCERO
-DE LA PRACTICA CAPITULAR
-(REFORMADO, P.O. 24 DE ABRIL DE 2006)
-CAPITULO PRIMERO
-De la Instalación del H. Ayuntamiento
