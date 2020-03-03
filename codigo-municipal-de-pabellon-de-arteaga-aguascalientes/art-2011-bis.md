@@ -41,3 +41,11 @@ m) Por abandonarlos en el interior de las fincas sin los cuidados necesarios, po
 n) Por producir la muerte del animal por un medio que le cause dolor, sufrimiento o que le prolongue su agonía;
 ñ) Por utilizar para el trabajo a los animales desnutridos, enfermos, cojos, heridos, con lesiones por mataduras o en etapa de gestación o aquellos impedidos para el trabajo debido a su poca o avanzada edad, y
 o) Por utilizar a los vehículos tirados por animales para trasladar mercancías, personas u objetos de un peso desproporcionado a la talla y condiciones del animal.
+(ADICIONADO, P.O. 2 DE MARZO DE 2020)
+p) Por utilizar para el trabajo a los animales desnutridos, enfermos, cojos, heridos, con lesiones por mataduras o en etapa de gestación o aquellos impedidos para el trabajo debido a su poca o avanzada edad;
+(ADICIONADO, P.O. 2 DE MARZO DE 2020)
+q) Por utilizar a los vehículos tirados por animales para trasladar mercancías, personas u objetos de un peso desproporcionado a la talla y condiciones del animal;
+(ADICIONADO, P.O. 2 DE MARZO DE 2020)
+r) A los establecimientos comerciales y de servicios que entreguen al consumidor final, ya sea a título gratuito, de manera onerosa o con motivo de cualquier acto comercial bolsas, envases y embalajes de plástico, unicel y de otros materiales no reciclables utilizados en la prestación de sus servicios y que no acaten lo previsto en artículo 479 BIS, y
+(ADICIONADO, P.O. 2 DE MARZO DE 2020)
+s) Por detonar o encender cohetes, juegos pirotécnicos, o elevar aeróstatos en fiestas particulares, festividades religiosas, cívicas, políticas y sociales tanto públicas como privadas con excepción de lo previsto en artículo 683 BIS.

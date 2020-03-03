@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 2 DE MARZO DE 2020)
+ARTICULO 683 BIS.- Se prohíbe detonar o encender cohetes, juegos pirotécnicos, o elevar aeróstatos en fiestas particulares, festividades religiosas, cívicas, políticas y sociales tanto públicas como privadas.
+Quedan excluidos los artificios pirotécnicos para señales de auxilio, emergencias, uso de las Fuerzas Armadas, de Seguridad y/o Defensa Civil, los artificios pirotécnicos para la lucha antigranizo y los destinados al uso industrial o minero o el que toda otra actividad productiva o extractiva pudiere hacer de materiales explosivos siempre que sean utilizados en el ejercicio de dichas funciones.

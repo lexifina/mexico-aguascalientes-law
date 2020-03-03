@@ -1,0 +1,7 @@
+(ADICIONADO, P.O. 2 DE MARZO DE 2020)
+ARTICULO 684 QUATER.- Para tramitar el refrendo del dictamen ambiental, las personas físicas o morales obligadas deberán cumplir con los requisitos siguientes:
+I. Solicitud debidamente requisitada y firmada, y
+II. Copia del pago de derechos del refrendo.
+El trámite de refrendo deberá de solicitarse y/o tramitarse durante los meses de enero a marzo de cada año; quienes lo tramiten de manera extemporánea, para efectos del pago de derechos correspondientes se entenderá como primera vez; respecto a los requisitos se le tomarán por cumplidos con base en las constancias del expediente que tuviere integrado.
+Para efectos de la expedición de solicitud del refrendo del dictamen, se consultará el registro de la base de archivo de la Dirección de Obras Públicas y Desarrollo Urbano, con la finalidad de constatar que en los años inmediatos anteriores se haya efectivamente expedido el citado dictamen a favor del solicitante. En caso de no encontrarse documentación alguna, le será requerida al solicitante por escrito cumplimente los requisitos del presente Reglamento; caso en el cual, el término para su expedición correrá a partir de que se encuentre debidamente integrado el expediente respectivo.
+Una vez cumplidos los requisitos, la autoridad ambiental municipal integrará el expediente respectivo. Cuando se trate del trámite de dictamen por primera vez, se procederá a realizar visita al establecimiento para corroborar la información integrada en el expediente, dejando constancia de ello.

@@ -1,4 +1,9 @@
-(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)
-ARTICULO 481 BIS.- Para los actos de inspección y vigilancia, el personal autorizado por la Dirección de Servicios Públicos Municipales y Mantenimiento, deberá estar provisto del documento oficial que lo acredite como tal.
-(ADICIONADO, P.O. 19 DE FEBRERO DE 2007)
-El personal autorizado a que se refiere el artículo anterior, al realizar las visitas de inspección o verificación, se apegará a lo dispuesto por las normas relativas establecidas en el presente Código.
+(REFORMADO, P.O. 2 DE MARZO DE 2020)
+ARTICULO 481 BIS.- Para los actos de inspección y vigilancia, el personal autorizado por el Instituto Municipal de Biodiversidad y Protección Ambiental, deberá estar provisto del documento oficial que lo acredite como tal.
+Las inspecciones ambientales que realice la autoridad municipal con motivo de la aplicación de este Código se sujetarán a las siguientes bases:
+I.- El inspector ambiental, al iniciar la inspección, deberá identificarse y exhibir la orden escrita correspondiente, la cual contendrá el objeto, fundamento legal y motivo de la visita, la dirección del inmueble sujeto a inspección, la fecha de expedición y la firma de la autoridad que suscribe;
+II.- El inspector ambiental practicará la visita con el titular del derecho de que se trate o con su representante legal, en su caso, dentro de las setenta y dos horas siguientes a la expedición de la orden;
+III.- De toda visita se levantará acta circunstanciada por duplicado, en la que se hará constar: lugar, fecha, nombre del titular del derecho de que se trate o de su representante legal, la presencia de dos testigos, y resultado de la inspección; anotando con precisión las observaciones que hubiere, así como cada una de las violaciones cometidas al presente Reglamento, en su caso;
+IV.- El Inspector Ambiental comunicará al interesado el contenido del acta y le dejará una copia, haciendo constar en la misma las infracciones que detecte, y
+V.- El acta deberá ser firmada por el Inspector Ambiental, por la persona con quien se practicó la diligencia y por los testigos; en caso de negativa, se asentará tal circunstancia, sin que esto afecte su valor probatorio.
+Para el desarrollo de las visitas, los inspectores ambientales podrán solicitar el auxilio de la fuerza pública si lo estiman necesario.

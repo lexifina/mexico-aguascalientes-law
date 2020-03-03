@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 2 DE MARZO DE 2020)
+ARTICULO 655 BIS. El Municipio a través del IMBIO establecerá un sistema de información ambiental dentro del portal web institucional, que tendrá por objeto organizar, actualizar y difundir información ambiental municipal a los ciudadanos del Municipio, con la finalidad de mantenerlos informados sobre los programas y acciones que se ejecuten en relación al medio ambiente.
