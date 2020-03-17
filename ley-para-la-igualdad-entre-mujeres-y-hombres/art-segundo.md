@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Una vez que entre en vigor el presente Decreto, se Abroga la Ley de Igualdad entre Mujeres y Hombres del Estado de Aguascalientes, Expedida en virtud del Decreto Número 191 de la LXI Legislatura del H. Congreso del Estado de Aguascalientes, publicado en la Primera Sección de (sic) Periódico Oficial del Estado de Aguascalientes, el lunes 23 de abril de 2012.

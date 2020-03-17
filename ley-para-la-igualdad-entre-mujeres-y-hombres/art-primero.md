@@ -1,0 +1,1 @@
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de (sic) publicación en el Periódico Oficial del Estado de Aguascalientes, salvo lo relativo a los Artículos 47, 49 y 50, que entrarán en vigor a los 180 días naturales contados a partir de la referida publicación.
