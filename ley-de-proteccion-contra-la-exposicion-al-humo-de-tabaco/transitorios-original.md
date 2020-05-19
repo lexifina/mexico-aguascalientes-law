@@ -65,11 +65,13 @@ CAPÍTULO TERCERO
 LA VIGILANCIA DEL CUMPLIMIENTO DE LA LEY
 Artículo 8°.- La aplicación de la presente ley estará a cargo de las siguientes autoridades:
 I. Al Gobierno del Estado de Aguascalientes;
-II. A la Secretaría de Salud del Estado de Aguascalientes, a través del ISSEA;
+(REFORMADA, P.O. 18 DE MAYO DE 2020)
+II. A la Secretaría de Salud del Estado de Aguascalientes, así como al ISSEA;
 III. A los Ayuntamientos de los Municipios del Estado;
 IV. A la Secretaría de Seguridad Pública del Estado y Secretarías y Direcciones de Seguridad Pública y Vialidad de los Municipios; y
-V. Los Jueces Municipales; y
-VI. Las demás autoridades que designe la Secretaría de Salud.
+(REFORMADA, P.O. 18 DE MAYO DE 2020)
+V. Los Jueces Municipales.
+VI. (DEROGADA, P.O. 18 DE MAYO DE 2020)
 Artículo 9°.- En la vigilancia del cumplimiento de esta Ley coadyuvarán activamente:
 I. Las personas responsables de los establecimientos y vehículos de transporte a los que se refiere esta Ley;
 II. Los usuarios de los espacios cerrados de acceso al público como oficinas, establecimientos mercantiles, industrias y empresas;
@@ -81,27 +83,34 @@ I. Colocar en todos los accesos a los espacios libres de humo de tabaco, Un ceni
 II. Retirar los ceniceros de los lugares, espacios o mesas donde esté prohibido fumar;
 III. Supervisar la prohibición de fumar en el lugar o espacio a su cargo;
 IV. Adoptar las medidas necesarias para prevenir, disuadir o impedir que se fume en donde está prohibido;
-V. Para obtener el reconocimiento como Espacio 100% Libre de Humo de Tabaco, el establecimiento solicitante recibirá de manera gratuita asesoría para cumplir con el protocolo respectivo por parte de la Secretaría de Salud a través de la Dirección del Área de Salud Mental y Adicciones con el apoyo del Consejo Estatal Contra las Adicciones y la Dirección de Regulación Sanitaria, donde en medida de sus ingresos asignados para el caso específico o por la Ley de Ingresos apoyarán con materiales; y
+(REFORMADA, P.O. 18 DE MAYO DE 2020)
+V. Para obtener el reconocimiento como Espacio 100% Libre de Humo de Tabaco, el establecimiento solicitante recibirá de manera gratuita asesoría para cumplir con el protocolo respectivo elaborado por el ISSEA con el apoyo del Consejo Contra las Adicciones en el Estado de Aguascalientes, donde en medida de sus ingresos asignados para el caso específico o por la Ley de Ingresos apoyarán con materiales; y
 VI. En caso de incumplimiento a las disposiciones contenidas en esta Ley, por una persona dentro de un espacio libre de humo de tabaco, se iniciará el protocolo para impedir que lo haga, en caso de ser servidor público y estar en oficinas de una dependencia o institución se iniciará el procedimiento administrativo correspondiente por el Órgano Interno de Control, o en caso contrario se aplicará la sanción a la persona responsable del espacio protegido.
 La señalética a la que se refiere la Fracción I de este Artículo, deberá cumplir con las leyendas establecidas en la Ley General y será complementada por la autoridad sanitaria federal y la responsable en el estado de Aguascalientes.
 Artículo 11.- Para asegurar el derecho a la protección a la salud de las personas, será obligación del titular o responsable del espacio libre de humo de tabaco, iniciará (sic) el protocolo cuando se detecte a una persona fumando en el lugar, en primera instancia se le pedirá que deje de fumar y apague su cigarro, cualquier otro producto de tabaco o dispositivo que se le asemeje a este, que haya encendido, de hacer caso omiso a la petición, exigirle se retire del espacio 100% libre de humo de tabaco, si opone resistencia, buscar la asistencia de la autoridad correspondiente, en este caso solicitar el apoyo de la policía, a efecto de que ponga a disposición al infractor ante el Juez Municipal competente.
 La obligación del propietario, la persona responsable o del encargado del espacio libre de humo de tabaco, terminará al momento de que reporte a la autoridad competente o en su caso a la policía, para lo cual el responsable solicitará y deberá de contar con el número de reporte o denuncia, para lo cual la autoridad competente o la policía está obligada a emitir.
-Artículo 12.- Corresponde a la Secretaría de Salud a través de la Dirección de Regulación Sanitaria, la vigilancia del cumplimiento de esta ley y demás disposiciones legales aplicables; mediante visitas de verificación sanitaria o informes de verificación de acuerdo con lo establecido en el Título Décimo Quinto de la Ley de Salud y sus reglamentos.
-Artículo 13.- Corresponde a la Secretaría de Salud a través de la Dirección de Regulación Sanitaria la aplicación de medidas de seguridad consistentes en la suspensión de trabajos o servicios, el aseguramiento de productos para proteger la salud de la población, independientemente de las sanciones que correspondan.
+(REFORMADO, P.O. 18 DE MAYO DE 2020)
+Artículo 12.- Corresponde al ISSEA la vigilancia del cumplimiento de esta ley y demás disposiciones legales aplicables; mediante visitas de verificación sanitaria o informes de verificación de acuerdo con lo establecido en el Título Décimo Quinto de la Ley de Salud y sus reglamentos.
+(REFORMADO, P.O. 18 DE MAYO DE 2020)
+Artículo 13.- Corresponde al ISSEA la aplicación de medidas de seguridad consistentes en la suspensión de trabajos o servicios, el aseguramiento de productos para proteger la salud de la población, independientemente de las sanciones que correspondan.
 Artículo 14.- Las autoridades estatales y municipales, coadyuvarán en el ámbito de su competencia, en la prohibición de la venta de tabaco en todas sus formas y presentaciones a menores de edad, en farmacias, boticas, escuelas y hospitales
 Artículo 15.- Los integrantes de las Asociaciones de Padres de Familia deberán coadyuvar en la vigilancia de manera individual o colectiva, para que se cumpla la prohibición de fumar en las aulas, bibliotecas, auditorios y demás instalaciones a las que acuden los alumnos, el personal docente y administrativo, pudiendo dar aviso a la policía en caso de detectar a una persona fumando en las instalaciones para que sean ellos quienes pongan a disposición del Juez Municipal.
 CAPÍTULO CUARTO
 LAS AUTORIDADES COMPETENTES Y SUS ATRIBUCIONES
-Artículo 16.- La Secretaría de Salud a través del ISSEA, será la responsable de la difusión, atención, aplicación, cumplimiento y sanción de la presente Ley. En caso de crear programas articulados con otras Dependencias, Institutos, Asociaciones Civiles, Organismos o Poderes Públicos, el Instituto tendrá la autoridad de coordinar los programas.
-Artículo 17.- La Secretaría de Salud a través del ISSEA obtendrá un poder amplio para dictar las medidas administrativas necesarias para el cumplimiento de los objetivos de esta Ley.
-Artículo 18.- La Secretaría de Salud a través de la Dirección de Regulación Sanitaria ejercerá las atribuciones y acciones de regulación, control y fomento sanitarios que correspondan en el ámbito de su competencia y tendrá las siguientes facultades:
+(REFORMADO, P.O. 18 DE MAYO DE 2020)
+Artículo 16.- El ISSEA, será la responsable de la difusión, atención, aplicación, cumplimiento y sanción de la presente Ley. En caso de crear programas articulados con otras Dependencias, Institutos, Asociaciones Civiles, Organismos o Poderes Públicos, el Instituto tendrá la autoridad de coordinar los programas.
+(REFORMADO, P.O. 18 DE MAYO DE 2020)
+Artículo 17.- El ISSEA obtendrá un poder amplio para dictar las medidas administrativas necesarias para el cumplimiento de los objetivos de esta Ley.
+(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2020)
+Artículo 18.- El ISSEA ejercerá las atribuciones y acciones de regulación, control y fomento sanitarios que correspondan en el ámbito de su competencia y tendrá las siguientes facultades:
 I. Conocer de los reportes y denuncias presentadas por los ciudadanos y usuarios de los establecimientos donde se prohíbe fumar tabaco y sus derivados, que se describen en el Artículo 7° de esta Ley;
 II. Determinar en qué establecimiento colocará monitores para conocer científicamente el nivel de exposición al humo de tabaco en que se encuentran los consumidores y usuarios;
 III. Realizar visitas de verificación sanitaria a los establecimientos por oficio, denuncia ciudadana u operativos de vigilancia, para certificar del cumplimiento de esta Ley;
 IV. Sancionar a los propietarios, administradores, encargados o responsables de los establecimientos que no cumplan con las restricciones de esta Ley;
 V. Informar a los Órganos Interno (sic) de Control de las Dependencias e Institutos que integran el Gobierno del Estado de Aguascalientes y Municipios, de la violación a la presente Ley, por servidores públicos adscritos a sus áreas de trabajo, a efecto de que se inicie el procedimientos (sic) administrativo correspondiente; y
 VI. Vigilar la publicidad sobre el objeto de la presente Ley le competa y demás disposiciones jurídicas aplicables. (Sic)
-Artículo 19.- La Secretaría de Salud en coordinación con el ISSEA, y a través de la Dirección del Área de Salud Mental y Adicciones, ejercerá las siguientes facultades:
+(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2020)
+Artículo 19.- El ISSEA, y a través de la Dirección del Área de Salud Mental y Adicciones, ejercerá las siguientes facultades:
 I. Fortalecer la coordinación y la gestión estratégica entre el estado, los municipios y diversos actores de la sociedad civil mediante el desarrollo de capacidades técnicas y operativas para la planeación, implementación, monitoreo y evaluación del Programa contra el Tabaquismo;
 II. Realizar en conjunto con la iniciativa privada campañas permanentes de información, concientización y difusión para prevenir el uso y consumo de tabaco;
 III. Generar espacios comunitarios polivalentes de manera que niñas, niños, jóvenes, mujeres y hombres puedan hacer uso de las líneas telefónicas nacionales y estatales de información para evitar el consumo de tabaco;
@@ -160,7 +169,8 @@ VI. La promoción e implementación (sic) fomento de los Espacios 100 % Libres d
 VII. Las acciones implementadas se realizarán con absoluto respeto a los derechos humanos.
 CAPÍTULO SÉPTIMO
 LA PARTICIPACIÓN Y DENUNCIA CIUDADANA
-Artículo 32.- La Secretaría de Salud a través del ISSEA, promoverá la participación ciudadana en la presente materia de prevención del tabaquismo y el control de los productos del tabaco, mediante las siguientes acciones:
+(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2020)
+Artículo 32.- El ISSEA, promoverá la participación ciudadana en la presente materia de prevención del tabaquismo y el control de los productos del tabaco, mediante las siguientes acciones:
 I. Promoción de los espacios que protegen la salud contra la exposición al humo de tabaco;
 II. Promoción de la salud comunitaria;
 III. Educación e información para protección de la salud;
@@ -173,13 +183,16 @@ IX. Fomentar el incremento de Clínicas de Cesación de Tabaco; y
 X. Coordinación con los Ayuntamientos.
 Artículo 33.- Toda persona podrá presentar ante la autoridad competente una denuncia en caso de que observe el incumplimiento de las obligaciones establecidas en esta Ley, su reglamento y demás disposiciones aplicables.
 Artículo 34.- La autoridad competente salvaguardará la identidad e integridad de la persona denunciante; así como queda prohibido para toda autoridad, empresa, organización, asociación, entidad o persona, tomar represalia o discriminar a la quien haya presentado reporte, denuncia o información que fundamente el incumplimientos (sic) a la presente Ley.
-Artículo 35.- La Secretaría de Salud a través del ISSEA promoverá e involucrará la participación de la Sociedad Civil en la difusión de la denuncia para el cumplimiento integral de la presente Ley. Para ello:
+(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2020)
+Artículo 35.- El ISSEA promoverá e involucrará la participación de la Sociedad Civil en la difusión de la denuncia para el cumplimiento integral de la presente Ley. Para ello:
 I. Realizar talleres de capacitación sobre la nocividad del consumo y la exposición al humo de tabaco; y
 II. Informar sobre las diferentes estrategias de control de tabaco.
-Artículo 36.- La Secretaria de Salud a través del ISSEA, instalará una línea telefónica con acceso gratuito, y una aplicación electrónica amigable para que los ciudadanos puedan efectuar denuncias, quejas, sugerencias, de los Espacios 100% Libres de Humo de Tabaco, así como el incumplimiento de esta Ley. Por otra parte también podrá recibir orientación sobre los tratamientos para dejar de fumar.
+(REFORMADO, P.O. 18 DE MAYO DE 2020)
+Artículo 36.- El ISSEA instalará una línea telefónica con acceso gratuito, y una aplicación electrónica amigable para que los ciudadanos puedan efectuar denuncias, quejas, sugerencias, de los Espacios 100% Libres de Humo de Tabaco, así como el incumplimiento de esta Ley. Por otra parte también podrá recibir orientación sobre los tratamientos para dejar de fumar.
 CAPÍTULO OCTAVO
 LAS INFRACCIONES, SANCIONES Y SU PROCEDIMIENTO ADMINISTRATIVO
-Artículo 37.- Constituyen infracciones a los efectos de esta Ley, toda acción u omisión en su cumplimiento, así como quien permita, fomente o tolere que alguna de estas conductas, sean desarrolladas por cualquier persona. La Secretaría de Salud a través de la Dirección de Regulación Sanitaria fiscalizará el cumplimiento de la Ley.
+(REFORMADO, P.O. 18 DE MAYO DE 2020)
+Artículo 37.- Constituyen infracciones a los efectos de esta Ley, toda acción u omisión en su cumplimiento, así como quien permita, fomente o tolere que alguna de estas conductas, sean desarrolladas por cualquier persona. El ISSEA verificará el cumplimiento de esta Ley.
 Artículo 38.- Las infracciones según su gravedad estarán sujetas a una combinación de sanciones administrativas, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
 Artículo 39.- Al imponer una sanción, la Autoridad Sanitaria o los Jueces Municipales fundamentarán y motivarán sus resoluciones, tomando en cuenta:
 I. Los daños que se hayan producido o puedan producirse en la salud de las personas;
@@ -197,7 +210,8 @@ Artículo 42.- Se sancionará al establecimiento que incumpla con la presente Le
 Artículo 43.- A la persona que dificulte u obstruya la visita de verificación sanitaria, así como la aplicación de sellos como medidas sanitarias de suspensión, clausura temporal o definitiva del establecimiento que determine la autoridad sanitaria, se le aplicará una multa de cuatro a diez mil veces el valor diario de la UMA, vigente al momento de la infracción, misma que determina la Ley General.
 Artículo 44.- En caso de reincidencia se aplicará el doble de la sanción económica impuesta, se entiende por reincidencia la infracción cometida dos o más veces a las disposiciones de esta ley, dentro del periodo de un año, contado a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior.
 Artículo 45.- Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente de diez hasta diez mil veces el valor diario de la UMA vigente.
-Artículo 46.- La recaudación de las sanciones económicas derivadas de la violación a la presente ley, será destinada de manera etiquetada al Programa Contra el Tabaquismo y relacionados al consumo y exposición al humo de tabaco, implementados por la Secretaría de Salud y serán remitidos al ISSEA.
+(REFORMADO, P.O. 18 DE MAYO DE 2020)
+Artículo 46.- La recaudación de las sanciones económicas derivadas de la violación a la presente ley, será destinada de manera etiquetada al Programa Contra el Tabaquismo y relacionados al consumo y exposición al humo de tabaco, implementado por el ISSEA.
 Artículo 47.- Se procederá de acuerdo con la gravedad de la infracción a la clausura temporal o definitiva, parcial o total en base a las características y actividades que realiza el establecimiento aplicando lo señalado en la Ley de Salud.
 Artículo 48.- Se sancionará con arresto hasta por 36 horas de acuerdo con la normatividad municipal aplicable, a lo dispuesto por el Artículo 276 de la Ley de Salud y al Artículo 40 del presente ordenamiento.
 Artículo 49.- Cuando por motivo de la aplicación de esta Ley, se desprenda la posible comisión de uno o más delitos, la autoridad correspondiente formulará la denuncia o querella ante el Agente del Ministerio Público del Orden Común sin perjuicio de la sanción administrativa que proceda.
@@ -222,3 +236,4 @@ DIPUTADO PRIMER SECRETARIO
 ERICA PALOMINO BERNAL
 DIPUTADA SEGUNDA SECRETARIA
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 27 de septiembre de 2019.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Lic. Ricardo Enrique Morán Faz.- Rúbrica.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
