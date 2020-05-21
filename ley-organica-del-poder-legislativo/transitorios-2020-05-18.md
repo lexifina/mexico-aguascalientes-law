@@ -1,0 +1,4 @@
+P.O. 18 DE MAYO DE 2020.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 332.- ARTÍCULO PRIMERO.- SE ADICIONAN LOS PÁRRAFOS CUARTO, QUINTO Y SEXTO AL ARTÍCULO 9°; UN PÁRRAFO SEGUNDO AL ARTÍCULO 108; UN PÁRRAFO SEGUNDO AL ARTÍCULO 128 Y ASÍ MISMO SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 152 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES".]
+PRIMERO.- La presente reforma iniciará su vigencia al momento que lo haga la reforma al Reglamento de la Ley Orgánica del Poder Legislativo, a que hace referencia el Artículo siguiente.
+SEGUNDO.- La comisión de Reglamentos y Prácticas Parlamentarias a más tardar dentro de los 15 días siguientes a la aprobación del presente Decreto, elaborará y presentará la iniciativa que modifique el Reglamento de la Ley Orgánica del Poder Legislativo, para reglamentar la materia del presente Decreto.
