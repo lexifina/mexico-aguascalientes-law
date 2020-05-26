@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO. Se abroga la Ley de Educación del Estado de Aguascalientes, publicada el 11 de marzo del año 2014 en el Periódico Oficial del Estado de Aguascalientes y se derogan todas las disposiciones contenidas en las leyes secundarias y quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general contrarias a este Decreto.

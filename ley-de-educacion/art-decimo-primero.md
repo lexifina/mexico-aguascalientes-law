@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO PRIMERO. Se abroga la Ley Orgánica del Instituto de Crédito Educativo y Becas del Estado de Aguascalientes publicada en el Periódico Oficial del Estado de Aguascalientes, el 22 de diciembre de 1991 por la Quincuagésima Cuarta Legislatura del H. Congreso del Estado de Aguascalientes.

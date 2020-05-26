@@ -1,0 +1,1 @@
+ARTÍCULO OCTAVO. El Programa Educativo Estatal previsto en el artículo 104 de este Decreto se presentará en un plazo no mayor a sesenta días contados a la entrada en vigor del mismo. Dicho Programa se actualizará en el caso de los cambios de administración del Poder Ejecutivo Estatal y observará lo establecido en la Ley de Educación para el Estado de Aguascalientes.

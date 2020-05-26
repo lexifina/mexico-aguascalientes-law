@@ -1,0 +1,1 @@
+ARTÍCULO SÉPTIMO. El sistema integral de formación, capacitación y actualización del Estado de Aguascalientes, previsto en el artículo 90 de este Decreto deberá instalarse antes de finalizar el año 2020.

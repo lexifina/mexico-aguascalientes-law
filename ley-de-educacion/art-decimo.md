@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO. Se abroga la Ley Orgánica del Instituto de Profesionalización para el Docente del Estado de Aguascalientes, publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de mayo de 2018 en virtud del Decreto Número 296 de la Sexagésima Tercera Legislatura.
