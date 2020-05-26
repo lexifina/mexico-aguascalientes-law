@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO. El Director General del Instituto de Educación de Aguascalientes deberá inscribir el presente ordenamiento en el Registro Público de la Propiedad y del Comercio del Estado en el libro correspondiente a las Entidades Paraestatales.

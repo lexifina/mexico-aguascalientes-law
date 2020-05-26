@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO. Se abroga la Ley del Instituto de Educación de Aguascalientes, emitida por virtud del Decreto Número 182, publicado en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 07 de junio de 1992, así como sus reformas y adiciones.

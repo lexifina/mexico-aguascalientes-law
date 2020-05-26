@@ -1,0 +1,1 @@
+ARTÍCULO OCTAVO. El Consejo Interior del Instituto de Educación de Aguascalientes deberá realizar las adecuaciones necesarias a la demás normatividad interna aplicable a este Organismo Descentralizado, con motivo de la entrada en vigor de la presente Ley.

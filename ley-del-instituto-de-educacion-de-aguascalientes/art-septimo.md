@@ -1,0 +1,1 @@
+ARTÍCULO SÉPTIMO. El Consejo Interior del Instituto de Educación de Aguascalientes deberá expedir las adecuaciones al Reglamento Interior del Instituto de Educación de Aguascalientes, a que se refiere la presente ley en un término que no exceda de 120 días naturales.
