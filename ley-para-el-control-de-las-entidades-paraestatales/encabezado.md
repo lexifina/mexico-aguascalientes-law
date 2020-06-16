@@ -1,5 +1,4 @@
 LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES
-[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 28 DE MAYO DE 2018.]
 Ley publicada en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 20 de marzo de 1988.
 MIGUEL ANGEL BARBERENA VEGA, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
 Que por el H. Congreso del Estado se me ha comunicado lo siguiente:

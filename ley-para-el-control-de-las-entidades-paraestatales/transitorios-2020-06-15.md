@@ -1,0 +1,3 @@
+P.O. 15 DE JUNIO DE 2020.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 349.- SE REFORMA E ARTÍCULO 11 DE LA LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
