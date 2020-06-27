@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO. El Ejecutivo del Estado, en un plazo de treinta días a partir del nombramiento del Titular de la Comisión, deberá expedir el Reglamento de ésta y armonizar las disposiciones reglamentarias que correspondan conforme a lo dispuesto en la presente Ley.

@@ -1,0 +1,2 @@
+ARTÍCULO SÉPTIMO. Los servidores públicos que integren la Fiscalía Especializada y la Comisión de Búsqueda deberán estar certificados dentro del año posterior a su creación.
+La Comisión Estatal de Búsqueda de Personas del Estado de Aguascalientes podrá, a partir de que entre en funcionamiento, ejercer las atribuciones que esta Ley y la Ley General le confieren con relación a los procesos de búsqueda que se encuentren pendientes.

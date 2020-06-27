@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO. Dentro de los noventa días posteriores a la entra (sic) en vigor de la presente Ley, la Fiscalía General del Estado deberá hacer las adecuaciones necesarias a su Reglamento a fin de atender con lo mandatado en el Capítulo Segundo del Título Tercero de esta Ley.
