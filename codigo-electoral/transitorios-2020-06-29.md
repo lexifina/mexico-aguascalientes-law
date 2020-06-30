@@ -1,0 +1,6 @@
+P.O. 29 DE JUNIO DE 2020.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 360.- ARTÍCULO ÚNICO.- REFORMAS, ADICIONES Y DEROGACIONES AL CÓDIGO ELECTORAL PARA EL ESTADO DE AGUASCALIENTES".]
+PRIMERO.- El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- El Instituto Estatal Electoral deberá expedir un formato para la recolección del consentimiento de niñas, niños y adolescentes, y en su caso el correspondiente a quien ejerza la patria potestad sobre los mismos, a efecto de dar cumplimiento a lo señalado en el presente Decreto, a más tardar 30 días antes del inicio del periodo de precampañas.
+TERCERO.- Para efectos del Artículo 74 párrafo tercero del Código Electoral que se reforma por el presente Decreto, el Proceso Electoral Local correspondiente a las elecciones a celebrarse en el año 2021, el Consejo declarará por única ocasión el inicio del Proceso electoral en la primera semana del mes de noviembre de 2020.
+CUARTO.- Los procesos y asuntos que se encuentren en trámite por el Instituto o el Tribunal a la entrada en vigor del presente decreto, deberán resolverse conforme a la legislación vigente al momento de su inicio.

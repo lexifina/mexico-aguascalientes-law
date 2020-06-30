@@ -1,0 +1,5 @@
+P.O. 29 DE JUNIO DE 2020.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 358.- ARTÍCULO ÚNICO.- SE REFORMAN LOS ARTÍCULOS 2°, FRACCIÓN XIV; Y 3°, PÁRRAFOS PRIMERO Y SEGUNDO; Y SE ADICIONA UNA FRACCIÓN XI AL PÁRRAFO CUARTO DEL ARTÍCULO 3° DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO.- Por lo que respecta al 23% proporcional del Impuesto Sobre la Renta por enajenaciones de bienes inmuebles dentro del territorio del Estado de Aguascalientes, previsto en el párrafo segundo del Artículo 3° de la presente Ley, recibido desde el mes de enero de 2020, a la fecha de la publicación del presente Decreto, el Titular del Ejecutivo, a través de la Secretaría de Finanzas, procederá (sic) realizar la distribución a los Municipios conforme a lo dispuesto en la fracción XI del citado artículo, en un plazo de 5 días hábiles posteriores a la presente publicación.
+ARTÍCULO TERCERO.- Quedan sin efecto aquellas disposiciones que se opongan al presente Decreto.

@@ -1,4 +1,10 @@
-(ADICIONADO, P.O. 29 DE MAYO DE 2017)
-ARTÍCULO 156 A.- Son sujetos de reelección consecutiva los servidores públicos de elección popular propietarios o suplentes que hayan ocupado el cargo.
-Se entenderá que los servidores públicos de elección popular suplentes, y que no hayan ocupado el cargo, podrán optar por la elección en el mismo.
-Quien hubiese sido reelecto de manera consecutiva como diputado, presidente municipal, regidor o síndico, con el carácter de propietario, no podrá ser reelecto para el siguiente período con el carácter de suplente del mismo cargo de elección popular.
+(REFORMADO, P.O. 29 DE JUNIO DE 2020)
+ARTÍCULO 156 A.- Pueden optar por la reelección consecutiva los servidores públicos propietarios o suplentes de elección popular, que hayan ocupado el cargo, de conformidad con lo siguiente:
+I. Se entenderá que los servidores públicos de elección popular suplentes, y que no hayan ocupado el cargo, podrán optar por la elección en el mismo;
+II. Quien hubiese sido reelecto de manera consecutiva como diputado, presidente, regidor o síndico, con el carácter de propietario, no podrá ser reelecto para el siguiente período con el carácter de suplente del mismo cargo de elección popular;
+III. Los integrantes del Ayuntamiento que pretendan la reelección deberán ser registrados para el municipio en que fueron electos previamente;
+IV. En caso de las planillas de ayuntamientos podrán ser integradas con las candidaturas que participen en elección consecutiva, junto con las candidaturas que no se coloquen en tal supuesto;
+V. Los diputados que pretendan su reelección, pueden contender por la misma o por diversa demarcación electoral por la cual fueron electos;
+VI. La postulación y solicitud del registro solo podrá ser realizada por el mismo partido político, o bien por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia o, en el caso de diputados, hayan renunciado a su adscripción a un grupo parlamentario durante la primera mitad de su mandato;
+VII. El ciudadano que ocupe un cargo de elección popular al momento del inicio del proceso electoral, y que haya sido postulado en el anterior por algún partido político o coalición, podrá reelegirse por la vía independiente, siempre y cuando haya perdido o renunciado a su militancia antes de la mitad de su mandato y satisfaga los demás requisitos previstos en este código, y
+VIII. Tratándose de quienes hayan sido electos como candidatos independientes, y opten por reelegirse por la misma calidad, deberán seguir el procedimiento para adquirir la calidad de aspirantes y, en su momento, obtener nuevamente el apoyo ciudadano en los términos de este Código.

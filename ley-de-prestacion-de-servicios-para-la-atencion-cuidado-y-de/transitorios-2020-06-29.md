@@ -1,0 +1,5 @@
+P.O. 29 DE JUNIO DE 2020.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 353.- ARTÍCULO ÚNICO.- REFORMAS Y ADICIONES A LA LEY DE PRESTACIÓN DE SERVICIOS PARA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL PARA EL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO. - El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo establecido en el Artículo 39, que entrará en vigor el 01 de enero de 2021.
+ARTÍCULO SEGUNDO. - El Poder Ejecutivo y los Ayuntamientos del Estado deberán adecuar las normas reglamentarias que hayan sido expedidas en términos del Artículo Segundo Transitorio del Decreto 325 de la LXII Legislatura, publicado en fecha 04 de abril de 2016 en el Periódico Oficial del Estado, al contenido del presente Decreto, en un plazo que no exceda de 180 días naturales.
+ARTÍCULO TERCERO. - Los Centros de Atención contarán con el plazo de un año contado a partir de la entrada en vigor del Artículo 39, para adecuar sus instalaciones y equipamiento a fin de cumplir con lo prescrito en dicho Artículo.
