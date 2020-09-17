@@ -1,0 +1,3 @@
+P.O. 14 DE SEPTIEMBRE DE 2020.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 385.- ÚNICO.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 3° DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en (sic) al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
