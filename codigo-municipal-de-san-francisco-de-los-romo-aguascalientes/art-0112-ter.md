@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2020)
+ARTICULO 112 TER.- Con la finalidad de optimizar los procedimientos recaudatorios, el Director de Finanzas y Administración se apoyará en el Coordinador del Área de Ingresos, el cual tendrá la facultad de instituir los mecanismos de programación necesarios, información, control, y mejoramiento de la recaudación de los ingresos municipales y en general coadyuvar con aquellas actividades que sean inherentes con el propósito de puesto.
