@@ -1,5 +1,5 @@
 LEY DE ESTACIONAMIENTOS DE VEHÍCULOS PARA LOS MUNICIPIOS DEL ESTADO DE AGUASCALIENTES
-Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Aguascalientes, el 9 de abril de 1989.
+Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 9 de abril de 1989.
 INGENIERO MIGUEL ANGEL BARBERENA VEGA, Gobernador Constitucional del
 Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
 Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
