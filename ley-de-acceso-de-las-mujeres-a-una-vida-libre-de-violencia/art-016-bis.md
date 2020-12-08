@@ -1,4 +1,4 @@
-(ADICIONADO, P.O. 19 DE JUNIO DE 2017)
-Artículo 16 bis.- La violencia política de género, es la definida como tal en el Código Electoral del Estado de Aguascalientes, ordenamiento que además establece las acciones y omisiones que la constituyen.
+(REFORMADO, P.O. 7 DE DICIEMBRE DE 2020)
+Artículo 16 bis.- Las conductas, acciones y omisiones que constituyan violencia política en contra de las mujeres en razón de género conforme a las disposiciones del Código Electoral para el Estado de Aguascalientes, se sancionarán en los términos establecidos en el mismo, así como el Código Penal para el Estado de Aguascalientes y la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, según corresponda.
 CAPÍTULO III
 De la Prevención, Atención y Sanción
