@@ -12,3 +12,4 @@ DIPUTADO PRIMER SECRETARIO
 ERICA PALOMINO BERNAL
 DIPUTADA SEGUNDA SECRETARIA
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 17 de enero de 2020.- Martin Orozco Sandoval.- Rúbrica.- La Secretaria General de Gobierno, Mtra. Siomar Eline Estrada Cruz.- Rúbrica.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
