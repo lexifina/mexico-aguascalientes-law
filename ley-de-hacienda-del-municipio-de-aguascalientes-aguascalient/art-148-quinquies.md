@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)
+ARTICULO 148 QUINQUIES.- El objeto de este derecho será el Servicio Integral de Iluminación Municipal, el que se presta en calles, plazas, jardines y todos aquellos lugares de uso común, y los ingresos que se perciban por su recaudación se destinarán al pago de dicho servicio y, en su caso, a su mantenimiento y mejoramiento, en colaboración con los contribuyentes beneficiados.

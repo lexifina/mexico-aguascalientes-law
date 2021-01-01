@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2020)
+ARTICULO 148 OCTIES.- Para efectos del cobro de este servicio, el Municipio podrá celebrar convenios con la compañía o empresa suministradora del servicio de energía eléctrica en el Municipio. En estos casos se deberá incluir el importe de este servicio, en el documento que para tal efecto expida la compañía o la empresa, debiéndose pagar conjuntamente con el recibo de energía eléctrica, en el plazo y en las oficinas autorizadas por esta última.
