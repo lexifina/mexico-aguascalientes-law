@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 22 DE FEBRERO DE 2021)
+ARTÍCULO 84 A. La Fiscalía General contará con un Centro de Evaluación y Control de Confianza, el cual gozará de autonomía técnica operativa, de decisión y gestión para establecer los lineamientos, programas, mecanismos y modelos de actuación para coordinar, programar, colaborar y aplicar las evaluaciones periódicas de control de confianza de conformidad con las disposiciones legales vigentes y con base en lo establecido por el Centro Nacional de Certificación y Acreditación y en consecuencia emitir el certificado correspondiente.

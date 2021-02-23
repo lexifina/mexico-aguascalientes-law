@@ -1,0 +1,4 @@
+P.O. 22 DE FEBRERO DE 2021.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 477.- SE REFORMAN LOS ARTÍCULOS 9° FRACCIÓN IV, INCISO F); 78, FRACCIÓN VIII; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 6°; EL INCISO H) A LA FRACCIÓN IV DEL ARTÍCULO 9°; Y LA SECCIÓN NOVENA AL CAPÍTULO IV DEL TÍTULO TERCERO, MISMA QUE INCLUYE LOS ARTÍCULOS 84 A, 84 B, 84 C Y 84 D, A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALÍENTES".]
+ARTICULO PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+ARTICULO SEGUNDO. El Fiscal General deberá realizar las modificaciones administrativas y reglamentarias que se requieran para cumplir con lo ordenado por el presente Decreto, en un término no mayor a ciento ochenta días naturales, contados a partir del día siguiente a la entrada en vigor del presente Decreto.
