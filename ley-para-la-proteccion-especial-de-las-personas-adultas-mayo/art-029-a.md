@@ -5,8 +5,12 @@ II. Contratar personas adultas mayores, conforme a su oficio, habilidad o profes
 III. Propiciar la colaboración y participación de instituciones públicas y privadas en acciones y programas que la Administración Pública Estatal y las Administraciones Municipales emprendan para la atención de las personas adultas mayores;
 IV. Proponer la realización de estudios en el área de su competencia que contribuyan a mejorar la planeación y programación de las medidas y acciones para elevar la calidad de vida de las personas adultas mayores;
 V. Establecer ventanillas de atención preferente para las personas adultas mayores, en las gestiones que éstas realicen;
-VI. Participar en la atención, información, investigación y mejoramiento de los programas enfocados al bienestar de los adultos mayores; y
-VII. Las demás que le confiera el Ejecutivo del Estado, las leyes y reglamentos de la materia.
+(REFORMADA, P.O. 1 DE MARZO DE 2021)
+VI. Participar en la atención, información, investigación y mejoramiento de los programas enfocados al bienestar de los adultos mayores;
+(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MARZO DE 2021)
+VII. Coadyuvar con la Secretaría de la Familia en el fomento, promoción e impulso de las políticas públicas en materia de familia destinadas a generar el bienestar de los adultos mayores; y
+(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE MARZO DE 2021)
+VIII. Las demás que le confiera el Ejecutivo del Estado, las leyes y reglamentos de la materia.
 TÍTULO QUINTO
 DEL CONSEJO ESTATAL DE SALUD PARA LA ATENCIÓN DEL ADULTO MAYOR
 CAPÍTULO ÚNICO
