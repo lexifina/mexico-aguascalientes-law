@@ -1,0 +1,8 @@
+(ADICIONADO, P.O. 15 DE MARZO DE 2021)
+ARTÍCULO 350 TER.- Tratándose de adquisiciones por invitación, para que una cotización pueda ser discutida y en su caso aprobada por el Comité, debe cubrir los siguientes requisitos:
+I.- Que no sea una compra efectuada fuera del procedimiento, esto es, que el usuario realice motu proprio y en forma directa la adquisición, y posteriormente solicite ante el Departamento de Compras y Servicios Generales sólo el trámite administrativo para pago;
+II.- Que la solicitud de adquisición se formalice a través de una requisición de compras, y que ésta sea registrada exclusivamente ante el Departamento de Compras y Servicios Generales de la Dirección de Finanzas y Administración.
+III.- Que sea cotizada por el Departamento de Compras y Servicios Generales de la Dirección de Finanzas y Administración, en apego al sistema de compras establecido y autorizado;
+IV.- Que el Departamento de Compras y Servicios Generales entregue la documentación correspondiente al Secretario Técnico del Comité, con anticipación a la sesión en la que se vaya a discutir;
+V.- Que el Secretario Técnico del Comité, reciba y entregue al Presidente del Comité, por lo menos tres cotizaciones, salvo el caso en el que no exista en el Municipio igual número de proveedores, o se trate de Artículos con precio controlado, y
+VI.- Que las cotizaciones provengan de proveedores inscritos previamente en el Padrón Municipal de Proveedores, a excepción hecha de proveedores únicos o que la compra se requiera de inmediato, o cuando exista ventaja competitiva significativa en el precio y/o servicio. Se podrá seguir el procedimiento de invitación a cuando menos tres personas por excepción cuando se presenten algunos de los siguientes supuestos:

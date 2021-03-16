@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 15 DE MARZO DE 2021)
+ARTÍCULO 350 BIS.- Previo al inicio de los procedimientos de contratación previstos en las fracciones I y II del artículo 39 del Reglamento de Adquisiciones, Arrendamientos y Servicios del Municipio, el Departamento de Compras y Servicios Generales, dentro del padrón de proveedores, deberá solicitar las cotizaciones respecto del bien, arrendamiento o servicio objeto de la contratación, a efecto de buscar las mejores condiciones para el Municipio.

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 15 DE MARZO DE 2021)
+ARTICULO 349 QUÁTER.- Las contrataciones de adquisiciones, arrendamientos o prestación de servicios no podrán fraccionarse para simular y evadir los topes establecidos en este Reglamento, considerando que el presupuesto de cada dependencia se ejercerá por cada una de éstas y no de manera consolidada a nivel municipal, salvo los casos en que la Dirección así lo determiné. Los montos máximos establecidos en el presente artículo serán considerados sin el Impuesto al Valor Agregado.
