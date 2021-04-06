@@ -1,0 +1,3 @@
+P.O. 5 DE ABRIL DE 2021.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 520.- SE REFORMAN LAS FRACCIONES VIII, IX, XI, Y XII Y SE ADICIONAN LAS FRACCIONES VII, XIV, XV Y XVI TODAS DEL ARTÍCULO 1° DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES".]
+ÚNICO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
