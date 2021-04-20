@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO. El Centro de Conciliación Laboral del Estado de Aguascalientes entrará en funciones en términos de lo dispuesto por el Artículo Cuarto Transitorio del Decreto Número 446, publicado en el Periódico Oficial del Estado de Aguascalientes en fecha 8 de febrero de 2021.

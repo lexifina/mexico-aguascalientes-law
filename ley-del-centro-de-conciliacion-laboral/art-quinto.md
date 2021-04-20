@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO. La Junta de Gobierno del Centro de Conciliación Laboral del Estado de Aguascalientes deberá expedir el Reglamento Interior del Centro de Conciliación Laboral del Estado de Aguascalientes dentro de los noventa días naturales siguientes a su instalación.

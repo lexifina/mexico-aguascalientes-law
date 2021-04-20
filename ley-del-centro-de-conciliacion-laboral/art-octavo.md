@@ -1,0 +1,1 @@
+ARTÍCULO OCTAVO. La persona titular del Poder Ejecutivo del Estado o la persona titular de la Dirección General del Centro de Conciliación Laboral del Estado de Aguascalientes, según corresponda, llevarán a cabo las gestiones necesarias para garantizar la operación del Centro de Conciliación Laboral del Estado de Aguascalientes.

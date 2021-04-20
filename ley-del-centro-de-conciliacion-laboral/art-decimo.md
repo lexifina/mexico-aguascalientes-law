@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO. Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado para los ejecutores de gasto correspondientes, para el presente ejercicio fiscal.

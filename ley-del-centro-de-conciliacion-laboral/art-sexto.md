@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO. La implementación del Servicio Profesional de Carrera será conforme a los lineamientos y manuales que para tal efecto expida la Junta de Gobierno del Centro de Conciliación Laboral del Estado de Aguascalientes.

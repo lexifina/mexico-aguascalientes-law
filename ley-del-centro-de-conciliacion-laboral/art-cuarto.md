@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO. La Junta de Gobierno del Centro de Conciliación Laboral del Estado de Aguascalientes deberá instalarse en un plazo no mayor a quince días hábiles, contados a partir del día de la designación de la persona titular de la Dirección General del referido Centro de Conciliación.

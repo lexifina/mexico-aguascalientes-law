@@ -1,0 +1,1 @@
+ARTÍCULO NOVENO. Los Poderes Ejecutivo y Legislativo del Estado de Aguascalientes realizarán las asignaciones presupuestales que resulten necesarias a fin de dotar de los recursos humanos, materiales y financieros que permitan el cumplimiento del presente Decreto.

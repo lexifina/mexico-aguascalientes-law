@@ -1,0 +1,1 @@
+ARTÍCULO SÉPTIMO. Las convocatorias a concurso para la selección de las personas conciliadoras del Centro de Conciliación Laboral del Estado de Aguascalientes serán de carácter abierto y garantizarán el derecho de participar en igualdad de oportunidades.

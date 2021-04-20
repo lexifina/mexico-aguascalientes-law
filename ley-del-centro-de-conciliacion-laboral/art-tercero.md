@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO. La persona titular del Poder Ejecutivo del Estado designará, dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto, a la persona titular de la Dirección General del Centro de Conciliación Laboral del Estado de Aguascalientes.
