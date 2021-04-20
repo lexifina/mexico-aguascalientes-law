@@ -1,0 +1,5 @@
+P.O. 19 DE ABRIL DE 2021.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 528.- SE REFORMAN LOS ARTÍCULOS 11, FRACCIONES XII Y XIII; 15, FRACCIONES I Y II; 23, SEGUNDO PÁRRAFO; 30 BIS, FRACCIONES I, II, IV Y V; 40; Y 42; SE ADICIONA LA FRACCIÓN II AL ARTÍCULO 3°, LA FRACCIÓN XIV AL ARTÍCULO 11, LA FRACCIÓN III AL ARTÍCULO 15, UN SEGUNDO PÁRRAFO AL ARTÍCULO 20, EL ARTÍCULO 22; Y SE DEROGA EL ARTÍCULO 41, TODOS DE LA LEY DEL INSTITUTO DE ASESORÍA Y DEFENSORÍA PÚBLICA DEL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO.- El Poder Ejecutivo, contará con un plazo de 180 días naturales para realizar las adecuaciones normativas y reglamentarias que resulten necesarias para el cumplimiento del presente Decreto.
+ARTÍCULO TERCERO.- El Poder Ejecutivo, conforme a disponibilidad financiera, deberá considerar lo conducente en los subsecuentes Presupuestos de Egresos, a efecto de dar cumplimiento a lo dispuesto en el mismo.
