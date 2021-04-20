@@ -1,0 +1,3 @@
+P.O. 19 DE ABRIL DE 2021.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 533.- SE REFORMA EL ARTÍCULO 43, PRIMER PÁRRAFO, DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
