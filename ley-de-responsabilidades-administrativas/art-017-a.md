@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 19 DE ABRIL DE 2021)
+Artículo 17 A.- La información relacionada con las declaraciones de situación patrimonial y de intereses, podrá ser solicitada y utilizada por el Ministerio Público, los Tribunales o las autoridades judiciales en el ejercicio de sus respectivas atribuciones, el servidor público interesado o bien, cuando las Autoridades investigadoras, substanciadoras o resolutoras lo requieran con motivo de la investigación o la resolución de procedimientos de responsabilidades administrativas.
