@@ -1,0 +1,3 @@
+P.O. 10 DE MAYO DE 2021.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 549.- SE REFORMAN LAS FRACCIONES III Y IV Y SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 13 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
