@@ -1,0 +1,3 @@
+P.O. 24 DE MAYO DE 2021.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 552.- SE REFORMAN LAS FRACCIONES XIX Y XX DEL ARTÍCULO 16 Y LA FRACCIÓN II DEL ARTÍCULO 90 Y SE ADICIONA UNA FRACCIÓN XXI AL ARTÍCULO 16 DE LA LEY DE TURISMO DEL ESTADO DE AGUASCALIENTES".]
+ARTICULO ÚNICO.- El presente Decreto entrara en vigor el (sic) día siguiente de su publicación en el periodo Oficial del Estado de Aguascalientes.
