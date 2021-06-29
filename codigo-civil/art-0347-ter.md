@@ -4,3 +4,5 @@ Artículo 347 Ter.- Los integrantes de la familia están obligados a evitar cond
 También se considera como violencia familiar la conducta inquisitiva y reiterada de uno de los integrantes de la familia para con otro, cuando sea grave y por ende motivo de inestabilidad emocional o perturbe su actividad cotidiana.
 (ADICIONADO, P.O. 22 DE AGOSTO DE 2016)
 De igual manera, comete violencia familiar el integrante de la familia que lleve a cabo la conducta de alienación parental, según se define en el Artículo 434 del presente Código.
+(ADICIONADO, P.O. 28 DE JUNIO DE 2021)
+Queda prohibido que los padres o quienes ejercen la tutela, patria potestad, guarda y custodia o convivencia, así como cualquier miembro de la familia, utilice como método correctivo o disciplinario, el castigo corporal entendido como el uso de la fuerza física que tenga por objeto causar cierto grado de dolor o malestar, sobre niñas, niños y adolescentes.
