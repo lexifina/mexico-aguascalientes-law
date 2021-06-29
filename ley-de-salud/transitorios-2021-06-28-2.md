@@ -1,0 +1,3 @@
+P.O. 28 DE JUNIO DE 2021.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 567.- SE REFORMAN LAS FRACCIONES V Y VI DEL ARTÍCULO 72 Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 72 DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
