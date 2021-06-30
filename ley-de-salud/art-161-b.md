@@ -6,7 +6,5 @@ III.- La educación e instrucción a la familia y a la comunidad sobre la forma 
 IV.- La investigación de las causas de la farmacodependencia, así como del consumo de estupefacientes y psicotrópicos y de las acciones para controlarlas;
 V.- Campañas de información y sensibilización basadas en estudios científicos, alertando de manera adecuada sobre los efectos y daños físicos, así como psicológicos del consumo de estupefacientes y psicotrópicos; y
 VI.- La superación de la farmacodependencia, a través del fomento de la participación comunitaria y familiar, y el reconocimiento de la importancia de los grupos de ayuda mutua.
-TITULO DECIMO TERCERO
-SALUBRIDAD LOCAL
-CAPITULO I
-Disposiciones Comunes
+(ADICIONADO, P.O. 29 DE JUNIO DE 2021)
+La Secretaría de Salud contará con un Centro Estatal Especial para el tratamiento, atención y rehabilitación de los farmacodependientes, para la supervisión y coordinación de las instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia de conformidad con la Ley General de Salud, esta Ley y las normas aplicables.
