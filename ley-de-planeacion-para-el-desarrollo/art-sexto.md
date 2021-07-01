@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO. Por única ocasión, el Director General del Instituto de Planeación del Estado de Aguascalientes deberá expedir la convocatoria para designar a quienes fungirán como representantes de los Sectores Empresarial, Industrial, Desarrollo Territorial, Ambiental, Social, Salud y Educativo, a más tardar dentro de los quince días siguientes a su nombramiento.

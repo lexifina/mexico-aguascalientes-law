@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO. El Instituto de Planeación del Estado de Aguascalientes, asumirá las relaciones de trabajo del personal que se le transfiera, respetando los derechos laborales que la ley les confiere y hubiesen adquirido en su actual situación.

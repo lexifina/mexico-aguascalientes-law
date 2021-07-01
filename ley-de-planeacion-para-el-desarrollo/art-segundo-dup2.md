@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO. A la entrada en vigor del presente Decreto, se abroga la Ley de Planeación del Desarrollo Estatal y Regional del Estado de Aguascalientes, publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes de fecha 08 de junio de 2009, así como todas sus reformas y adiciones.

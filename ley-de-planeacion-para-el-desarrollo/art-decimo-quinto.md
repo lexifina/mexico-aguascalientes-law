@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO QUINTO. Se deberá llevar a cabo la inscripción del Instituto de Planeación del Estado de Aguascalientes en los términos que establece la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, ante el Registro Público de la Propiedad y del Comercio.

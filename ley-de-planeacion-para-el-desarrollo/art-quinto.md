@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO. Para el inicio de actividades del Instituto de Planeación del Estado de Aguascalientes, su Junta de Gobierno deberá quedar instalada a más tardar dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto.

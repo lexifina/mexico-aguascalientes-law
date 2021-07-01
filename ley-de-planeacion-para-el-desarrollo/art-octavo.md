@@ -1,0 +1,1 @@
+ARTÍCULO OCTAVO. La Junta de Gobierno del Instituto de Planeación del Estado de Aguascalientes deberá expedir el Reglamento Interior de dicho Instituto, dentro de los ciento ochenta días siguientes a su instalación.

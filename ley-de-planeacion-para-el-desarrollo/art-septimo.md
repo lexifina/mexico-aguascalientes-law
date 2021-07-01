@@ -1,0 +1,1 @@
+ARTÍCULO SÉPTIMO. El Titular del Poder Ejecutivo del Estado deberá expedir el Reglamento de la Ley de Planeación para el Desarrollo del Estado de Aguascalientes y las disposiciones normativas necesarias para el cumplimiento de este Decreto, dentro de los ciento ochenta días siguientes a su entrada en vigor.

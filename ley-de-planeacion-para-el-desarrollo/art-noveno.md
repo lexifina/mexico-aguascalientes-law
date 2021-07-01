@@ -1,0 +1,1 @@
+ARTÍCULO NOVENO. Los derechos, obligaciones y recursos materiales y financieros pertenecientes y/o asignados a la Coordinación General de Planeación y Proyectos (CPLAP), pasarán a formar parte del Instituto de Planeación del Estado de Aguascalientes.

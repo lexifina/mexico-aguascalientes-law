@@ -1,0 +1,1 @@
+ARTÍCULO PRIMERO. El presente Decreto entrará en vigor el 1° de julio de 2021, con excepción de lo señalado en el artículo Décimo Segundo Transitorio, el cual entrará en vigor al día siguiente de la publicación de este Decreto en el Periódico Oficial del Estado de Aguascalientes.

@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO. El Titular del Poder Ejecutivo del Estado deberá nombrar al Director General del Instituto de Planeación del Estado de Aguascalientes, a más tardar dentro de los quince días siguientes a la entrada en vigor del presente Decreto.
