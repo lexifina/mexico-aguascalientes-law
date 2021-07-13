@@ -6,7 +6,8 @@ II.- El Coordinador Jurídico de la Secretaría de Seguridad Pública Municipal,
 III.- El Regidor Presidente de la Comisión Permanente de Seguridad Pública.
 IV.- El Titular del Estado Mayor.
 V.- El Titular de la Dirección de Prevención del Delito.
-VI.- El Titular de Justicia Municipal.
+(REFORMADA, P.O. 12 DE JULIO DE 2021)
+VI.- El Director de Juzgados Cívicos.
 VII.- El Titular de la Dirección de Parques y Jardines.
 VIII.- El Titular de la Dirección de Limpia.
 IX.- El Titular de la Dirección de Alumbrado.
