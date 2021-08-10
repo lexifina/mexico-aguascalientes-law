@@ -9,8 +9,12 @@ e) Por tener perros, gatos, aves, roedores u otros animales encerrados en habita
 f) Por utilizar perros para el cuidado de lotes baldíos, casas deshabitadas, giros comerciales o cualquier otro espacio sin que se les proporcionen los cuidados necesarios;
 g) Por tener perros afuera de las fincas sin los cuidados necesarios para su protección y de las personas que transiten por la vía pública;
 h) Por mantenerlos atados en condiciones que afecten su necesidad de movilidad, de tal manera que tengan que permanecer parados o sentados, rodeados de sus propias heces o sujetos con materiales que les causen sufrimiento y daño;
-i) Por mantener perros o gatos permanentemente enjaulados o amarrados, y
-j) Por molestar y azuzar a los animales;
+(REFORMADO, P.O. 9 DE AGOSTO DE 2021)
+i) Por tener dentro de la zona urbana animales de granja tales como ganado vacuno, caprino bovino, equino, porcino, avícola y cunícola sin la autorización municipal correspondiente;
+(REFORMADO, P.O. 9 DE AGOSTO DE 2021)
+j) Por molestar y azuzar a los animales, y
+(ADICIONADO, P.O. 9 DE AGOSTO DE 2021)
+k) Por tener más de tres perros o más de tres gatos en casas habitación en zonas urbanas o más de cinco perros o más de cinco gatos en casas habitación en zonas rurales.
 II.- Multa de once a veinte unidades de medida y actualización:
 a) A los establecimientos fijos por no acreditar mediante documentación el destino final de sus residuos en los lugares autorizados por la Dirección de Servicios Públicos y Mantenimiento;
 b) Por hacinar animales de cualquier especie en alguna finca o terreno de tal manera que se puedan provocar molestias o afectar la salud de los vecinos o daños a los mismos animales;

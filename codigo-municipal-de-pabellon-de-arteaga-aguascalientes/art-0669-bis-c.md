@@ -6,8 +6,11 @@ III.- Tener perros, gatos, aves, roedores u otros animales encerrados en habitac
 IV.- Utilizar perros para el cuidado de lotes baldíos, casas deshabitadas, giros comerciales o cualquier otro espacio sin supervisión diaria y sin que se les proporcionen los cuidados establecidos en el presente reglamento;
 V.- Tener perros afuera de las fincas sin los cuidados necesarios para su protección y de las personas que transiten por la vía pública;
 VI.- Mantener a los animales por razones de seguridad, atados durante más de 8 horas en condiciones que afecten su necesidad de movilidad, de tal manera que tengan que permanecer parados o sentados o rodeados de sus propias heces o sujetos con materiales que les causen sufrimiento y daño;
-VII.- Tener perros o gatos enjaulados. Esto podrá llevarse a cabo únicamente de forma transitoria en los casos establecidos en el presente ordenamiento;
-VIII.- Tener gatos amarrados;
+(REFORMADA, P.O. 9 DE AGOSTO DE 2021)
+VII.- Tener perros o gatos enjaulados o amarrados;
+(REFORMADA, P.O. 9 DE AGOSTO DE 2021)
+VIII.- Tener más de tres perros o más de tres gatos en casas habitación en zonas urbanas o más de cinco perros o más de cinco gatos en casas habitación en zonas rurales.
+En todo caso deben contar con las condiciones adecuadas para su alojamiento, evitando molestias e incomodidades a los vecinos por ruidos y malos olores, así como riesgos sanitarios y de seguridad;
 IX.- Hacinar animales de cualquier especie en alguna finca o terreno de tal manera que pueda provocar molestias o afectar la salud de los vecinos o daños a los mismos animales;
 X.- Efectuar prácticas dolorosas o realizar cualquier intervención quirúrgica por personas que no sean médicos veterinarios;
 XI.- Arrojar animales vivos en recipientes para su cocción o freimiento;
@@ -55,5 +58,8 @@ LII.- Producir la muerte del animal por un medio que le cause dolor, sufrimiento
 LIII.- Provocar la muerte sin causa justificada de un animal;
 LIV.- Causar dolor, sufrimiento o lesiones por cualquier acto u omisión intencional o imprudencial que pueda poner en peligro la vida del animal, que afecten su bienestar o que le produzca la muerte y en general cualquier acto de crueldad con los animales;
 LV.- Llevar a cabo cualquier conducta o gestión en redes sociales o utilizando medios de comunicación, mediante las que se solicite alguna cantidad de dinero con el argumento de sostener a un animal u ofrecerlo en entrega responsable. Las personas que lleven a cabo estas conductas se harán acreedoras a una sanción administrativa, independientemente de la denuncia que pudiera formularse en caso de que se presuma la existencia de un delito, quedando exceptuadas las adopciones debidamente autorizadas por el Ayuntamiento en los términos del presente ordenamiento, y
-LVI.- Las demás prohibiciones que se deriven de la legislación vigente aplicable en la materia, las Normas Oficiales Mexicanas, el presente Código o las que las autoridades municipales dispongan para la protección de los animales.
-En los casos en que se provoque un daño a la salud del animal o la muerte, además de las sanciones administrativas, se estará a lo dispuesto en lo previsto en el Código Penal para el Estado Libre y Soberano de Aguascalientes y se deberá realizar la denuncia correspondiente.
+(ADICIONADA, P.O. 9 DE AGOSTO DE 2021)
+LVI.- Tener dentro de la zona urbana animales de granja tales como ganado vacuno, caprino, bovino, equino, porcino, avícola y cunícola, sin la autorización municipal correspondiente, y
+(REFORMADA, P.O. 9 DE AGOSTO DE 2021)
+LVII.- Las demás prohibiciones que se deriven de la legislación vigente aplicable en la materia, las normas oficiales mexicanas, el presente Código o las que las autoridades municipales dispongan para la protección de los animales.
+En los casos en que se provoque un daño a la salud del animal o la muerte, además de las sanciones administrativas, se estará a lo previsto en el Código Penal para el Estado Libre y Soberano de Aguascalientes y se deberá realizar la denuncia correspondiente.
