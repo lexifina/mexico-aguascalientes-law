@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- Los sujetos obligados deberán implementar su Sistema Institucional, dentro de un término de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.

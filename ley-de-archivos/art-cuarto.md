@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- Los sujetos obligados deberán llevar a cabo las adecuaciones reglamentarias necesarias para el cumplimiento de la Ley de Archivos del Estado de Aguascalientes, dentro de un término de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.

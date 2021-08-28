@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- Los integrantes del Consejo Estatal deberán llevar a cabo su sesión de instalación, a más tardar, dentro de los sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto.

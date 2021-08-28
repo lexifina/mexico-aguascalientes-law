@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- A partir de la entrada en vigor del presente Decreto, se abroga la Ley de Archivos del Estado de Aguascalientes publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 29 de septiembre de 2014, así como sus reformas y adiciones subsecuentes y demás disposiciones normativas derivadas con motivo de aquella.
