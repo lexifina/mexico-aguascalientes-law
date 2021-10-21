@@ -1,0 +1,5 @@
+P.O. 18 DE OCTUBRE DE 2021.
+[N. DE E. TRANSITORIOS DEL "REGLAMENTO DE BIODIVERSIDAD Y PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA, AGUASCALIENTES".]
+ARTICULO PRIMERO. En todo lo no previsto por el presente reglamento, se estará a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Constitución Política del Estado Libre y Soberano de Aguascalientes, la Ley Estatal de Protección al Ambiente, la Ley de Protección a los animales del estado de Aguascalientes y demás disposiciones jurídicas aplicables.
+ARTICULO SEGUNDO. El presente reglamento entrara en vigor al día siguiente de su publicación en el Periódico Oficial del estado.
+ARTICULO TERCERO. Se derogan los artículos 407,408 y del 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540, 541, 542, 543, 544, 545 hasta el 557 del Código Municipal de San José de Gracia y todas las disposiciones, reglamentos o acuerdos administrativos que contravengan lo dispuesto por el presente Reglamento.
