@@ -9,5 +9,3 @@ I. Prolongar las órdenes de protección de emergencia o preventivas hasta por s
 II. Prolongar las órdenes de protección de naturaleza civil por el tiempo que determine el juez.
 (ADICIONADO, P.O. 22 DE AGOSTO DE 2016)
 El juez durante el desahogo de la audiencia deberá evitar cualquier circunstancia que propicie la revictimización de la mujer violentada.
-CAPÍTULO V
-Del Sistema Estatal para la Erradicación de la Violencia de Género Contra las Mujeres

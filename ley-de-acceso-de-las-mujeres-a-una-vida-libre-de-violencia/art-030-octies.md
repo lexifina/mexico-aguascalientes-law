@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2021)
+Artículo 30 octies.- Por ninguna circunstancia las autoridades previstas en el artículo 29 de la presente Ley notificarán de sus actuaciones a la persona agresora a través de la víctima. Cualquier notificación es responsabilidad exclusiva de la autoridad. Las autoridades que intervengan en el cumplimiento de una orden, también serán las responsables de informar a la autoridad ordenadora sobre su implementación de forma periódica.
