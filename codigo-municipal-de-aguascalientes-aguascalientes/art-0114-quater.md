@@ -11,9 +11,6 @@ VIII.- Promover e implementar políticas de transparencia proactiva y apertura g
 IX.- Brindar asesoría, apoyo técnico y capacitaciones a las Dependencias, para propiciar la cultura de la transparencia y accesibilidad al interior del sujeto obligado;
 X.- Dar vista a la instancia competente de la probable responsabilidad por el incumplimiento de las obligaciones previstas en la Ley General de Transparencia y Acceso a la Información Pública, así como de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios, y
 XI.- Las demás que se desprendan de la normatividad aplicable.
-TÍTULO TERCERO
-DE LA NORMATIVIDAD INTERNA MUNICIPAL
-CAPÍTULO I
-De las Normas que Regulan las Actividades de los Trabajadores al Servicio del Gobierno Municipal
-APARTADO PRIMERO
-Disposiciones Generales del Trabajo
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE NOVIEMBRE DE 2021)
+APARTADO DÉCIMO NOVENO
+De la Coordinación General de Salud

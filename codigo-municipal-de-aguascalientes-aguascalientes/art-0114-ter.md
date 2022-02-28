@@ -21,3 +21,6 @@ XVIII. Emitir el estudio de impacto socioeconómico que tendrá la instalación 
 XIX. Proyectar la vocación turística de nuestra ciudad y generar programas que promuevan el flujo de visitantes a nuestro Municipio;
 XX. Promover el turismo local en el territorio Municipal, y
 XXI. Y las demás que le confieran las leyes de la materia.
+(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2021)
+APARTADO DÉCIMO OCTAVO
+De la Coordinación Transparencia y Acceso a la Información del Municipio de Aguascalientes
