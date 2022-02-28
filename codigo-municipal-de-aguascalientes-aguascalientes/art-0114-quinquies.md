@@ -11,9 +11,6 @@ VIII. Promover, fortalecer y apoyar las acciones en materia de salubridad local 
 IX. Vigilar en la esfera de su competencia el cumplimiento de la Ley de Salud del Estado de Aguascalientes y de las demás disposiciones legales de la materia, así como instrumentar y desarrollar programas municipales que procuren el cumplimiento de este fin;
 X. Coordinarse con las autoridades estatales y federales en materia de salud a efecto de instrumentar y desarrollar programas para el mejoramiento de los niveles de salud y bienestar en el Municipio; y
 XI. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
-TÍTULO TERCERO
-DE LA NORMATIVIDAD INTERNA MUNICIPAL
-CAPÍTULO I
-De las Normas que Regulan las Actividades de los Trabajadores al Servicio del Gobierno Municipal
-APARTADO PRIMERO
-Disposiciones Generales del Trabajo
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE FEBRERO DE 2022)
+APARTADO VIGÉSIMO
+Del Instituto Municipal de Salud Mental
