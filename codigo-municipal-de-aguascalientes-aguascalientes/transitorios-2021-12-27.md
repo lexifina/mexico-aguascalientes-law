@@ -1,0 +1,4 @@
+P.O. 27 DE DICIEMBRE DE 2021.
+[N. DE E. TRANSITORIOS POR EL QUE SE "REFORMA A LAS FRACCIONES IX Y XVI; Y ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 82 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES, EN EL QUE SE ADICIONA LA FRACCIÓN XVI QUE CONTENDRÁ LA COMISIÓN DE SALUD; ASÍ COMO TAMBIÉN EL ARTÍCULO 84, PRIMER PÁRRAFO DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+PRIMERO. - Se instruye al Secretario del H. Ayuntamiento y Director General de Gobierno para que de conformidad a las facultades que me confiere el Código Municipal del Municipio de Aguascalientes, someta a consideración, análisis y discusión y en su caso aprobación del H. Ayuntamiento Constitucional Municipal de Aguascalientes, el presente dictamen.
+SEGUNDO. - Las modificaciones al presente Código entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
