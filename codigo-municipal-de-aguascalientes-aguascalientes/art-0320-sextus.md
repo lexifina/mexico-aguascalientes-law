@@ -1,5 +1,1 @@
-(ADICIONADO, P.O. 19 DE AGOSTO DE 2019)
-ARTÍCULO 320-SEXTUS.- Cuando se trate de un menor infractor reincidente en ingresos a la Dirección de Justicia Municipal, será obligación del Gobierno Municipal a través del Dif (sic) Municipal, así como cualquier otra dependencia municipal involucrada en atención a menores y adolescentes ya establecido en el Protocolo de Atención Integral a Menores Infractores realizar una visita al domicilio particular del menor para realizar una inspección de las condiciones en que vive el menor y tomar las medidas necesarias para dar apoyo a los Padres, tomando en consideración cada caso se procederá a:
-I.- Canalizar para su atención a las dependencias de los gobiernos Municipal, Estatal y Federal según sea el caso; o bien, con Instituciones de Educación Superior públicas o privadas con las que se tenga convenio de colaboración celebrado;
-II.- Dar parte al Ministerio Público de los hechos para que se inicie el procedimiento que corresponda. O bien,
-III.- El Municipio, en caso de ser necesario pondrá en funcionamiento el Protocolo de Atención Integral a Menores Infractores.
+ARTÍCULO 320-SEXTUS.- (DEROGADO, P.O. 30 DE AGOSTO DE 2021)

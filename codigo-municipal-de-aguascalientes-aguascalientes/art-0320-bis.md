@@ -1,3 +1,1 @@
-(REFORMADO, P.O. 19 DE AGOSTO DE 2019)
-ARTÍCULO 320-BIS.- En caso de que la infracción sea cometida por un menor de dieciséis años, la autoridad administrativa correspondiente pondrá a disposición de la Procuraduría de Protección de Niñas, Niños y Adolescentes de Estado de Aguascalientes al menor para su resguardo y atención en términos del artículo 84 de la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Aguascalientes.
-En todos los casos se dará aviso a quien ejerza la patria potestad o custodia de los menores infractores en términos del artículo citado en el párrafo anterior.
+ARTÍCULO 320-BIS.- (DEROGADO, P.O. 30 DE AGOSTO DE 2021)
