@@ -24,3 +24,9 @@ ARTÍCULO DÉCIMO. Se autoriza al Ejecutivo del Estado para que, en el ejercicio
 ARTÍCULO DÉCIMO PRIMERO. El Consejo Directivo del Instituto deberá sesionar dentro de los treinta días siguientes a la entrada en vigor del presente decreto para realizar su instalación.
 En dicha sesión el Consejo Directivo del Instituto deberá aprobar la estructura orgánica, el presupuesto para el ejercicio fiscal del año 2020 y el Reglamento Interior del Instituto del Agua del Estado.
 ARTÍCULO DECIMO SEGUNDO. En congruencia con lo dispuesto en el presente Decreto, quedan derogadas y por tanto se dejan sin efecto las disposiciones que se contravengan al mismo.
+P.O. 28 DE MARZO DE 2022 Y F. DE E. P.O. 11 DE ABRIL DE 2022.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 96.- SE REFORMA EL ARTÍCULO 92 B, ASÍ COMO LA FRACCIÓN III DEL ARTÍCULO 125 DE LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES".]
+ARTICULO ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+P.O. 4 DE ABRIL DE 2022 Y F. DE E. P.O. 11 DE ABRIL DE 2022.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 103.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 34 DE LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
