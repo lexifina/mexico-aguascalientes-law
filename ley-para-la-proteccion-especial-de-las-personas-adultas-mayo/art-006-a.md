@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 18 DE ABRIL DE 2022)
+ARTÍCULO 6 A.- El lugar idóneo para una persona adulta mayor es su hogar. Sólo en caso de prescripción médica, decisión personal o por falta de las condiciones propicias del lugar en donde vive, los familiares o cónyuge de la persona adulta mayor podrán solicitar su ingreso a alguna institución asistencial pública o privada, dedicada a la atención y cuidado de las personas adultas mayores.
