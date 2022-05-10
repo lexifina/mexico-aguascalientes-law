@@ -1,6 +1,5 @@
 [N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
-[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 9 DE JULIO DE 2020.]
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de marzo de 2015.
 CARLOS LOZANO DE LA TORRE, Gobernador Constitucional del Estado de Aguascalientes, a sus habitantes sabed:
 Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
