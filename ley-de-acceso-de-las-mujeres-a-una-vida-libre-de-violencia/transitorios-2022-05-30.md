@@ -1,0 +1,4 @@
+P.O. 30 DE MAYO DE 2022.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 131.- SE REFORMAN LOS ARTÍCULOS 1º, 2º FRACCIONES I, III, IV, V Y VI, ARTÍCULO 4º FRACCIONES IX Y X, ARTÍCULO 8º FRACCIONES I, III Y V, ARTÍCULO 48 FRACCIÓN XIII Y ARTÍCULO 49; Y SE ADICIONAN LA FRACCIÓN XI AL ARTÍCULO 4° DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO.- Dentro de los noventa días naturales siguientes al inicio de vigencia del presente Decreto, deberán realizarse las adecuaciones conducentes al Reglamento de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes.

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 30 DE MAYO DE 2022)
+Artículo 516 Bis.- Cuando la guarda y custodia del menor recaiga en una casa de asistencia pública, será el Sistema para el Desarrollo Integral de la Familia, a través de la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes, tal como lo establece la Ley General de los Derechos de Niñas, Niños y Adolescentes, en su artículo 26 fracción II; quien podrá otorgar como medida de protección una Familia de Acogida.
