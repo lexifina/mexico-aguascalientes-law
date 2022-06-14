@@ -1,3 +1,2 @@
-(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)
-ARTICULO 633 TER.- El H. Ayuntamiento por conducto del Presidente Municipal, coordinará y supervisará las acciones que realicen los funcionarios de CAPAPA, así como de los integrantes del Consejo Directivo, vigilando que se cumplan las funciones establecidas en este Código y las que se deriven de la ley que regula la prestación de los servicios de agua potable, alcantarillado y saneamiento en el Estado de Aguascalientes y de la Ley Nacional de Aguas.
-En las juntas del Consejo Directivo, deberá estar presente un miembro del H. Ayuntamiento, previamente designado por éste.
+(REFORMADO, P.O. 13 DE JUNIO DE 2022)
+ARTICULO 633 TER.- El Presidente Municipal coordinará y supervisará las acciones que realicen los funcionarios de la CAPAPA, así como los integrantes del Consejo Directivo, a fin de vigilar el cumplimiento de las funciones establecidas en este Código y las que se deriven de la Ley de Aguas Nacionales, la Ley de Agua para el Estado y demás regulación aplicable a la materia. En las juntas del Consejo Directivo, deberá estar presente un miembro del H. Ayuntamiento, previamente designado por éste.

@@ -34,6 +34,6 @@ XXVIII.- Celebrar, junto con el Presidente los convenios, contratos y demás act
 (REFORMADA, P.O. 30 DE OCTUBRE DE 2017)
 XXIX.- Suscribir, junto con el Presidente o Director de Finanzas y Administración, los títulos de crédito, en los términos de la ley, excepto en calidad de avales, y
 XXX.- Las demás que le señale el Consejo Directivo, este Código, la ley de la materia y el Código Municipal.
-(ADICIONADA, P.O. 15 DE OCTUBRE DE 2007)
+(ADICIONADA SU DENOMINACIÓN [N. DE E. REFORMADA], P.O. 13 DE JUNIO DE 2022)
 SECCION CUARTA
-Del Comisario
+Del control de los recursos

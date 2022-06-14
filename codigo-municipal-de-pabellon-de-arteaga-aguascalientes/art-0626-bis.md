@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)
-ARTICULO 626 BIS.- El H. Ayuntamiento a través de la Contraloría Municipal auditará y rendirá informes periódicos sobre el funcionamiento y administración del organismo operador.
+(REFORMADO, P.O. 13 DE JUNIO DE 2022)
+ARTICULO 626 BIS.- El titular del órgano interno de control de la CAPAPA auditará y rendirá informes bimestrales al Presidente del Consejo Directivo así como al Ayuntamiento sobre el funcionamiento y administración del organismo operador.

@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 13 DE JUNIO DE 2022)
+ARTICULO 220 DUODECIES.- Los servidores públicos sujetos al servicio civil podrán incorporarse a través de un examen de conocimientos y aptitudes que se aplicará en las fechas que determine el titular de la Contraloría.
+En caso de que no se acredite el examen, el aspirante continuará desempeñando el cargo, pero su ingreso al servicio solo podrá obtenerse cuando tome los cursos de capacitación correspondientes y resulte aprobados en éstos y en los exámenes de evaluación del desempeño.
+El personal será sujeto de un proceso de capacitación permanente que será organizado por el titular de la Contraloría. En especial, se procurará que el personal de la Contraloría cuente con la certificación de competencias laborales para la ejecución de las atribuciones conocido (sic) como "Estándar de Competencia EC0777".

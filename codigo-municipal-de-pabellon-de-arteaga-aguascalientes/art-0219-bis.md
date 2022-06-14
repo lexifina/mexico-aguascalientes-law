@@ -33,3 +33,6 @@ XV.- Lo demás que señalen las leyes, el presente Código o le encomiende el H.
 (REFORMADA [N. DE E. REUBICADA ANTES SECCIÓN OCTAVA], P.O. 4 DE MARZO DE 2019)
 SECCIÓN NOVENA
 De la Contraloría Municipal
+(ADICIONADA, P.O. 13 DE JUNIO DE 2022)
+SUBSECCION PRIMERA
+De la competencia

@@ -1,3 +1,1 @@
-(ADICIONADO, P.O. 15 DE MARZO DE 2021)
-ARTICULO 349 TER.- La compra urgente autorizada por el presidente municipal, solo se tramitará para la adquisición de bienes y servicios que sean necesarios para hacer frente a contingencias ocasionadas por caso fortuito, fuerza mayor, cuando se ponga en peligro la seguridad, la salud pública del municipio, de algún servicio público o que de no contar con los mismos se pueda ver afectado el normal desempeño o funcionamiento de las dependencias de la administración pública municipal.
-Bastará con la solicitud presentada por la dependencia, en donde se justifique fundamente y motive los extremos previstos en el párrafo anterior ante la Dirección la cual de manera mancomunada con el presidente municipal en su caso emitirá la autorización correspondiente.
+ARTICULO 349 TER.- (DEROGADO, P.O. 13 DE JUNIO DE 2022)

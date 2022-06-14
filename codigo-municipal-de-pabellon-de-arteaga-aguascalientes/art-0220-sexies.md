@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 13 DE JUNIO DE 2022)
+ARTICULO 220 SEXIES.- Cuando en la fecha de cierre para la recepción de propuestas no se haya alcanzado el número suficiente de sustentantes para integrar la terna o las postulaciones desechadas tornen insuficiente el número de proposiciones, el Presidente Municipal podrá determinar las medidas que considere oportunas para alcanzar la cifra de idónea de aspirantes para la eventual integración de la terna.

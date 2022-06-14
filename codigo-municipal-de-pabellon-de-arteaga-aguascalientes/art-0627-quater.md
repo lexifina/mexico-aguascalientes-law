@@ -10,8 +10,12 @@ VII.- No excusarse de intervenir en asuntos propios del Consejo Directivo en que
 VIII.- Intervenir por sí, o por interpósita persona o por medio de empresas en las que tenga alguna participación, en contrataciones de obras públicas de CAPAPA;
 IX.- La falta de veracidad en toda clase de informes; y
 X.- No denunciar los delitos respecto de los cuales tenga conocimiento en razón de su encargo.
-La denuncia de cualquiera de las causas de remoción puede ser presentada ante el Presidente Municipal por cualquier ciudadano o usuario, debiendo verificarse la causa denunciada por el medio o conducto que el Presidente Municipal estime conveniente, según la gravedad de la denuncia, pudiendo ordenar, la auditoria externa de CAPAPA, sin perjuicio de las practicadas por el Contralor Municipal y/o el Comisario.
-Para la remoción de cualquiera de los integrantes del Consejo Directivo que incurra en cualquiera de las causas antes señaladas, bastará con la verificación hecha por el Presidente Municipal, y dictamen sobre la denuncia, debiendo convocar al H. Ayuntamiento para que dictamine y en su caso nombre a quien deba sustituirlo.
+(REFORMADO, P.O. 13 DE JUNIO DE 2022)
+La denuncia de cualquiera de las causas de remoción puede ser presentada por cualquier ciudadano ante el titular del órgano interno de control de la CAPAPA, el cual procederá en los términos que señale la normatividad aplicable.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JUNIO DE 2022)
+El titular del órgano interno de control deberá dar vista al Presidente Municipal con las denuncias presentadas siempre que considere que existe mérito para ello. El Presidente Municipal, según la gravedad de la denuncia, podrá ordenar la práctica de auditorías externas, sin perjuicio de las practicadas por el órgano interno de control de la CAPAPA.
+(REFORMADO, P.O. 13 DE JUNIO DE 2022)
+Con base en la verificación hecha y en el dictamen sobre la denuncia, el Presidente Municipal podrá tomar las medidas provisionales que estime pertinentes, e incluso podrá convocar al Ayuntamiento para que determine si es procedente la sustitución del funcionario investigado y los términos en que ello deba ser realizado.
 (ADICIONADA, P.O. 15 DE OCTUBRE DE 2007)
 SECCION SEGUNDA
 Del Consejo Consultivo

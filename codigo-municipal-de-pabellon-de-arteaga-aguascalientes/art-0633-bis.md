@@ -1,2 +1,3 @@
-(ADICIONADO, P.O. 15 DE OCTUBRE DE 2007)
-ARTICULO 633 BIS.- Es responsabilidad de los funcionarios de CAPAPA, administrar, cuidar y mantener el desarrollo de los recursos financieros y humanos, así como el patrimonio y comunicación social de CAPAPA a su cargo cuando los funcionarios no cumplan con esta disposición, se procederá conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado.
+(REFORMADO, P.O. 13 DE JUNIO DE 2022)
+ARTICULO 633 BIS.- Es responsabilidad de los funcionarios de la CAPAPA, administrar y preservar el manejo y destino de los recursos financieros, humanos y sociales que integren el patrimonio del ente paramunicipal, que por razón de su encargo les hayan sido confiados.
+Cualquier contravención al deber anterior será sancionado conforme lo establezca el presente Código y las leyes en materia de responsabilidades administrativas de los servidores públicos.
