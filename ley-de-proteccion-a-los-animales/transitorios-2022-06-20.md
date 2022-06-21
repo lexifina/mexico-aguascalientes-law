@@ -1,0 +1,3 @@
+P.O. 20 DE JUNIO DE 2022.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 143.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 79 Y SE ADICIONA UN SEGUNDO PÁRRAFO A DICHA FRACCIÓN DE LA LEY DE PROTECCIÓN A LOS ANIMALES DEL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO ÚNICO.- El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
