@@ -1,0 +1,6 @@
+P.O. 4 DE JULIO DE 2022.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 152.- SE REFORMAN LOS ARTÍCULOS 3°-A, 8°, 9°, 12, 27, 35, 93, 94, 139 Y 142 DE LA LEY DEL AGUA PARA EL ESTADO DE AGUASCALIENTES".]
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+Artículo Segundo. Las disposiciones referentes a la designación de la persona titular del órgano interno de control se aplicarán en la siguiente ocasión en la que deba nombrarse a dicho servidor público. Por lo tanto, los servidores públicos en funciones al momento de la entrada en vigor del presente Decreto, continuarán desempeñando el encargo hasta la terminación del periodo para el que hubieren sido designados.
+Artículo Tercero. La persona titular del Poder Ejecutivo contará con un periodo de ciento ochenta días naturales para proveer las acciones necesarias para ajustar la integración del Consejo Directivo del Instituto del Agua del Estado de Aguascalientes conforme a lo ordenado en el artículo 8o y 9o de la Ley que se reforma.
+Artículo Cuarto. La persona titular del Poder Ejecutivo, deberá adecuar las disposiciones reglamentarias al tenor del presente Decreto, a más tardar en el lapso de treinta días contados a partir de su entrada en vigor.

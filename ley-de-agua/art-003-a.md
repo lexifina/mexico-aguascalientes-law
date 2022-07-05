@@ -1,10 +1,9 @@
-(ADICIONADO, P.O. 15 DE ABRIL DE 2019)
-ARTICULO 3o A.- La política hídrica estatal se sustentará en los siguientes principios rectores:
-I. El agua es un recurso vital, limitado y finito; su cuidado, preservación y sostenibilidad competen de forma compartida al Estado y a la sociedad;
-II. Las autoridades deberán garantizar el derecho humano al agua, particularmente de quienes viven en situación de marginación o vulnerabilidad;
-III. Los usos del agua serán regulados por el Estado, considerando el manejo sustentable de este recurso;
-IV. Las autoridades fomentarán el aprovechamiento eficiente del agua, promoviendo su reúso;
-V. La gestión integral del agua y el fomento a la cultura del agua tendrán como base la participación informada y responsable de los usuarios;
-VI. El uso doméstico del agua se considerará preferente en la distribución de este recurso;
-VII. La contaminación de los recursos hídricos conllevará la responsabilidad de restaurar su calidad, conforme a la normatividad aplicable; y
-VIII. Las autoridades implementarán las acciones necesarias para que el desarrollo de los centros urbanos, se realice promoviendo el ordenamiento territorial y los mecanismos necesarios para proporcionar los servicios públicos de conformidad con esta Ley, procurando en todo momento el equilibrio hídrico.
+(REFORMADO, P.O. 4 DE JULIO DE 2022)
+ARTICULO 3o-A. En la determinación y aplicación de la política hídrica estatal se atenderá, enunciativamente, a las siguientes directrices y principios fundamentales:
+I. El agua es un recurso natural ilimitado y un bien público fundamental para la vida y la salud; por lo tanto, el Estado reconoce al derecho fundamental al agua como un elemento indispensable para la existencia humana y como una condición previa para la realización de otros derechos. En consecuencia, el cuidado, preservación y sostenibilidad de dicho recurso competen en forma compartida a la autoridad y a los particulares en la forma que determinen las leyes;
+II. Las autoridades garantizarán el derecho fundamental al agua, particularmente de quienes viven en situación de marginación o vulnerabilidad, de forma que, hasta el máximo de las circunstancias fácticas y jurídicas, se asegure la disponibilidad, calidad, accesibilidad e información adecuada para el disfrute de ese derecho en condiciones de no discriminación;
+III. Los usos del agua serán regulados por el Estado, a fin de propiciar el empleo eficiente y sustentable de este recurso, promoviendo por todos los medios una política pública de reúso del agua;
+IV. La gestión integral del agua y el fomento de cultura relativa a su cuidado y preservación, se basarán sobre la participación informada y responsable de los usuarios, el respeto de los derechos fundamentales y la consecución de los aspectos de mejora pretendidos mediante la implementación de las políticas públicas determinadas por las autoridades competentes en este campo;
+V. La prestación del servicio doméstico del agua tendrá preferencia en la distribución de este recurso respecto del resto de los usos previstos en esta Ley;
+VI. La contaminación de los recursos hídricos conllevará la responsabilidad de restaurar su calidad, conforme a la normatividad aplicable, por lo que la autoridad estará expedita para prevenir y sancionar las acciones y omisiones que puedan tener efectos nocivos sobre la calidad y disponibilidad del agua; y
+VII. Las autoridades implementarán las acciones necesarias para que el desarrollo de los centros urbanos se realice promoviendo el ordenamiento territorial y los mecanismos necesarios para proporcionar los servicios públicos, procurando en todo momento el equilibrio hídrico de conformidad con esta Ley.
