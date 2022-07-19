@@ -26,7 +26,11 @@ b) Ventaja;
 c) Alevosía;
 d) Traición; o
 e) Brutal ferocidad;
-II. La víctima sea menor de 15 años de edad; o
-III. La víctima se dedique al ejercicio de las labores periodísticas, y el resultado se provoque con motivo del ejercicio de su profesión;
-(ADICIONADO, P.O. 11 DE JUNIO DE 2018)
-En los casos a que se refieren las Fracciones I a la III, se aplicará al responsable de 15 a 40 años de prisión, de 150 a 500 días multa y pago total de la reparación de los daños y perjuicios ocasionados.
+(REFORMADA, P.O. 18 DE JULIO DE 2022)
+II. La víctima sea menor de 15 años de edad;
+(REFORMADA, P.O. 18 DE JULIO DE 2022)
+III. La víctima se dedique al ejercicio de las labores periodísticas, y el resultado se provoque con motivo del ejercicio de su profesión; o
+(ADICIONADA, P.O. 18 DE JULIO DE 2022)
+IV. El hecho se haya cometido aprovechándose de la prestación de un servicio de transporte público, privado o contratado a través de plataformas tecnológicas, se cuente o no con autorización legal para ello.
+(REFORMADO, P.O. 18 DE JULIO DE 2022)
+En los casos a que se refieren las Fracciones I a IV, se aplicará al responsable de 20 a 40 años de prisión, de 150 a 500 días multa y pago total de la reparación de los daños y perjuicios ocasionados.
