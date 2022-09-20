@@ -1,0 +1,3 @@
+P.O. 19 DE SEPTIEMBRE DE 2022.
+[N. DE E. TRANSITORIO DE LA "MODIFICACIÓN AL ARTÍCULO 106 EN SUS FRACCIONES I, II, VII, XVI Y XVII DEL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO (CAMBIANDO LA PALABRA "EQUIDAD" POR "IGUALDAD ENTRE HOMBRES Y MUJERES")".]
+ARTÍCULO ÚNICO.- La presente modificación entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
