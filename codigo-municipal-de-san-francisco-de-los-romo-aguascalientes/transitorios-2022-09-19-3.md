@@ -1,0 +1,5 @@
+P.O. 19 DE SEPTIEMBRE DE 2022.
+[N. DE E. TRANSITORIOS DE LAS "REFORMAS A LOS ARTÍCULOS 99, 108 Y 500, ASÍ COMO LA DEROGACIÓN DE LOS ARTÍCULOS 232 AL 247, 477 AL 493, 496 AL 499, 501 AL 540 Y EL ARTÍCULO SÉPTIMO TRANSITORIO, TODOS DEL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO".]
+PRIMERO.- La presente reforma del Código Municipal de San Francisco de los Romo del Estado de Aguascalientes entra en vigor al día siguiente de su publicación.
+SEGUNDO.- Para el caso de que, en alguna norma, manual, lineamientos, reglamento o código de orden Municipal donde se le confieran facultades y atribuciones a la Dirección de Contraloría Municipal de San Francisco de los Romo, se entenderán conferidas al ahora Órgano Interno de Control de San Francisco de los Romo, Aguascalientes.
+TERCERO.- Queda sin efectos las publicaciones realizadas con antelación, así mismo todo lo no establecido en el artículo 108 del presente ordenamiento debe referenciarse a lo establecido en el Reglamento Interior del Órgano Interno de Control del Municipio de San Francisco de los Romo del Estado de Aguascalientes y en las leyes secundarias de las materias de que se tratase.

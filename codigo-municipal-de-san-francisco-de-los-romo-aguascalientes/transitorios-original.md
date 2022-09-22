@@ -6,7 +6,7 @@ CUARTO.- Los anexos gráficos al presente Código Municipal en lo referente a la
 QUINTO.- Todos los anuncios que se encuentren instalados, colocados o fijados, antes de la Publicación del presente Código Municipal en el Periódico Oficial del Estado y que no cuenten con licencia o permiso, deberán regularizar su situación jurídica en un término de sesenta días hábiles contados a partir de la fecha de publicación del presente Código.
 SEXTO.- Respecto del límite de la jurisdicción federal para el control de los anuncios, en relación a la competencia del Municipio de San Francisco de los Romo, se establece el siguiente:
 Carretera 45 entronque con Carretera desviación a Luis Moya número 71.
-SEPTIMO.- La Dirección de Mejora Regulatoria, Simplificación, Transparencia e Innovación, iniciará funciones a más tardar el mes de Marzo del 2007 y en tanto entra en funciones, lo relativo y aplicable a transparencia y acceso a la información pública será de la competencia de la Contraloría Municipal.
+SEPTIMO.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 OCTAVO.- Se abroga el Reglamento Interior del H. Cabildo del Municipio de San Francisco de los Romo del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado el cuatro de febrero de mil novecientos noventa y seis.
 NOVENO.- Se abroga el Reglamento Interior de Seguridad Pública y Vialidad de San Francisco de los Romo, Ags., publicado en el Periódico Oficial del Estado el veintiuno de diciembre de mil novecientos noventa y siete.
 DECIMO.- Se abroga el Reglamento de Limpia y Aseo Público para el Municipio de San Francisco de los Romo, publicado en el Periódico Oficial del Estado el veintiséis de septiembre de mil novecientos noventa y tres.
