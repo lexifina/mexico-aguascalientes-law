@@ -15,15 +15,18 @@ VII. Incorporar el uso de medios electrónicos, magnéticos o de cualquier tecno
 Artículo 2°. Para efectos de esta Ley, se entenderá por:
 I. Agenda Regulatoria: La propuesta de las regulaciones que los sujetos obligados pretendan expedir;
 II. Análisis de Impacto Regulatorio: La evaluación técnica de la propuesta regulatoria, en donde se justifica su implementación considerando la problemática que se desea resolver, los objetivos que pretende alcanzar, las alternativas consideradas, los impactos regulatorios que se desprenden, los mecanismos de aplicación y de verificación, así como los elementos que, en su caso, haya aportado el proceso de la consulta pública;
-III. Autoridad de Mejora Regulatoria: La Secretaría de Desarrollo Económico y las unidades o áreas de los sujetos obligados, responsables de conducir la política de mejora regulatoria en sus respectivos ámbitos de competencia;
+(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)
+III. Autoridad de Mejora Regulatoria: La Secretaría de Innovación y Gobierno Digital y las unidades o áreas de los sujetos obligados, responsables de conducir la política de mejora regulatoria en sus respectivos ámbitos de competencia;
 IV. Catálogo: El Catálogo Estatal de Regulaciones, Trámites y Servicios;
 V. Consejo Estatal: El Consejo Estatal de Mejora Regulatoria;
 VI. Consejos Municipales: Los Consejos Municipales de Mejora Regulatoria;
-VII. Dictamen: El documento que emite la Secretaría de Desarrollo Económico respecto al Análisis de Impacto Regulatorio;
+(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)
+VII. Dictamen: El documento que emite la Secretaría de Innovación y Gobierno Digital respecto al Análisis de Impacto Regulatorio;
 VIII. Enlace de Mejora Regulatoria: La persona designada por los sujetos obligados para coordinar el cumplimiento de sus obligaciones en materia de mejora regulatoria;
 IX. Estrategia Estatal: La Estrategia Estatal de Mejora Regulatoria;
 X. Expediente para Trámites y Servicios: El conjunto de documentos electrónicos emitidos por los sujetos obligados, que están asociados a las personas físicas y morales, y que pueden ser utilizados por cualquier autoridad competente para resolver trámites y servicios;
-XI. Ley: La Ley de Mejora Regulatoria para el Estado de Aguascalientes;
+(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)
+XI. Ley: La Ley de Mejora Regulatoria y Gestión Empresarial para el Estado de Aguascalientes;
 XII. Ley General: La Ley General de Mejora Regulatoria;
 XIII. Padrón: El Padrón Estatal de Servidores Públicos con nombramiento de inspector, verificador, visitador o supervisor, cuyas competencias sean las de vigilar el cumplimiento de alguna regulación;
 XIV. Programa Estatal: El Programa Estatal de Mejora Regulatoria, a través del cual se establecen acciones de mejora y simplificación;
@@ -33,7 +36,8 @@ XVII. Registro Estatal: Al Registro Estatal de Trámites y Servicios;
 XVIII. Registro de Regulaciones: A la recopilación de la normatividad aplicable vigente;
 XIX. Regulación o regulaciones: Cualquier normativa de carácter general que puede ser denominada ley, reglamento, decreto, acuerdo o demás normas de naturaleza jurídica que expida cualquier sujeto obligado;
 XX. SARE: Al Sistema de Apertura Rápida de Empresas;
-XXI. Secretaría: Secretaría de Desarrollo Económico;
+(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)
+XXI. Secretaría: Secretaría de Innovación y Gobierno Digital;
 XXII. Servicio: Cualquier beneficio o actividad que los sujetos obligados, en el ámbito de su competencia brinden a particulares, previa solicitud y cumplimiento de los requisitos aplicables;
 XXIII. Simplificación: Al procedimiento por medio del cual se propicia la transparencia y la capacidad de síntesis en la elaboración de las regulaciones y procesos administrativos, así como la reducción de plazos y requisitos o la digitalización o abrogación de los trámites que emanan de tales disposiciones de carácter general, que buscan eliminar cargas al ciudadano;
 XXIV. Sistema Estatal: El Sistema Estatal de Mejora Regulatoria;
@@ -112,21 +116,29 @@ V. Las Encuestas, Información Estadística y Evaluación en Materia de Mejora R
 Sección Segunda
 Consejo Estatal de Mejora Regulatoria
 Artículo 15. El Consejo Estatal es la instancia responsable de coordinar la política de mejora regulatoria, integrado por:
-I. El Gobernador del Estado, quien lo presidirá, mismo que en caso de ausencia, será suplido por el Secretario de Desarrollo Económico;
+(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)
+I. El Gobernador del Estado, quien lo presidirá, mismo que en caso de ausencia, será suplido por el Secretario de Innovación y Gobierno Digital;
 II. El Secretario de Desarrollo Económico;
-III. El Secretario General de Gobierno;
+(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)
+III. El Secretario de Planeación del Estado de Aguascalientes;
 IV. El Secretario de Finanzas;
 V. El Secretario de Administración;
 VI. El Contralor del Estado;
 VII. El Coordinador General de Gabinete;
 VIII. El Coordinador General de Planeación y Proyectos;
-IX. Los Presidentes Municipales de los dos municipios que registren el mayor número de Unidades Económicas, según el Instituto Nacional de Estadística y Geografía;
-X. Un representante del sector empresarial;
-XI. Un representante de instituciones académicas en el Estado; y
-XII. Un representante de organizaciones de la sociedad civil.
+(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)
+IX. Los Presidentes Municipales de los cuatro municipios que preferentemente registren el mayor número de Unidades Económicas, según el Instituto Nacional de Estadística y Geografía o conforme a la designación prevista en el Reglamento Interior del Consejo,
+(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)
+X. Dos representantes del sector empresarial;
+(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)
+XI. Un representante de instituciones de Educación Superior en el Estado, y
+(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)
+XII. Un representante de organizaciones no gubernamentales en el Estado.
 Los integrantes descritos en las fracciones X, XI y XII del presente artículo serán designados por el Presidente del Consejo Estatal.
 Los integrantes del Consejo Estatal podrán designar a sus respectivos suplentes, quienes deberán tener el nivel jerárquico inmediato inferior o equivalente y tendrán las mismas atribuciones, con excepción de aquellos designados por el Presidente del Consejo, cuyo suplente podrá ser nombrado también por éste.
 Los integrantes del Consejo tendrán derecho a voz y voto en las sesiones.
+(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)
+El Consejo operará conforme al reglamento interior que apruebe para tales efectos.
 Artículo 16. Serán invitados permanentes del Consejo Estatal y podrán participar con voz, pero sin voto:
 I. Un representante del Poder Judicial del Estado;
 II. Un representante del Poder Legislativo; y
@@ -187,11 +199,14 @@ XVI. Los estándares mínimos para asegurar la correcta implementación de las h
 XVII. Los mecanismos de coordinación para garantizar la congruencia de la regulación que expidan los sujetos obligados en términos de esta Ley;
 XVIII. Los mecanismos que regulen el procedimiento a que se sujete la Protesta Ciudadana; y
 XIX. Los demás que señale esta Ley, otras disposiciones jurídicas aplicables y las necesarias para el cumplimiento de sus objetos.
+(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2022)
 Sección Cuarta
-Secretaría de Desarrollo Económico
+Secretaría de Innovación y Gobierno Digital
 Artículo 22. En materia de Mejora Regulatoria la Secretaría tiene como objetivo promover la mejora de las regulaciones y la simplificación de trámites y servicios, así como la transparencia en la elaboración y aplicación de los mismos, procurando que generen beneficios superiores a sus costos y el máximo beneficio para la sociedad.
-La Secretaría deberá contar en su estructura orgánica, con la Unidad Administrativa encargada de la Mejora Regulatoria y Gestión Empresarial, de acuerdo con el presupuesto establecido para tal efecto.
-Artículo 23. La Secretaría, a través de su Unidad Administrativa encargada de la Mejora Regulatoria y Gestión Empresarial, tendrá las siguientes atribuciones:
+(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)
+La Secretaría en materia de Mejora Regulatoria y la Secretaría de Desarrollo Económico en lo relativo a la Gestión Empresarial, deberán contar en su estructura orgánica, con las Unidades Administrativas necesarias, de acuerdo con el presupuesto establecido para tal efecto.
+(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2022)
+Artículo 23. La Secretaría, a través de su Unidad Administrativa encargada de la Mejora Regulatoria, tendrá las siguientes atribuciones:
 I. Desempeñar las funciones de coordinación, supervisión y ejecución que establece esta Ley, promoviendo la mejora regulatoria y la competitividad en el Estado;
 II. Dictaminar las propuestas regulatorias y los Análisis de Impacto Regulatorio correspondientes;
 III. Proponer al Consejo Estatal la Estrategia Estatal y desarrollar, monitorear, evaluar y dar seguimiento y publicidad a la misma;
@@ -241,7 +256,8 @@ Sección Sexta
 Sujetos obligados
 Artículo 29. Los titulares de los sujetos obligados designarán a un servidor público como enlace titular responsable de coordinar, articular y vigilar el cumplimiento de la política de mejora regulatoria y la Estrategia Estatal al interior de cada sujeto obligado, de conformidad con lo dispuesto en la Ley General, en esta Ley y en las demás disposiciones normativas aplicables.
 Para la coordinación e implementación de la política de la mejora regulatoria, el enlace titular se auxiliará por un enlace operativo, así como por los titulares de las áreas responsables de los trámites y servicios.
-El enlace titular de cada sujeto obligado será el enlace con la Unidad Administrativa de la Mejora Regulatoria de la Secretaría y Gestión Empresarial, por lo que deberán informarle por escrito tal designación.
+(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)
+El enlace titular de cada sujeto obligado será el enlace con la Unidad Administrativa de la Mejora Regulatoria de la Secretaría de Innovación y Gobierno Digital, por lo que deberán informarle por escrito tal designación.
 Artículo 30. Son atribuciones del enlace de mejora regulatoria las siguientes:
 I. Coordinar el proceso de mejora regulatoria al interior del sujeto obligado y supervisar su cumplimiento, de conformidad con la presente Ley y los lineamientos que se emitan para tal efecto;
 II. Elaborar y someter a la opinión de la Secretaria, de acuerdo con el calendario que éste establezca, un programa de mejora regulatoria en relación con su normatividad y trámites, así como reportes semestrales sobre los avances correspondientes;
@@ -488,19 +504,23 @@ TITULO CUARTO
 GESTIÓN EMPRESARIAL
 CAPÍTULO I
 Apertura y Operación de Negocios
-Artículo 84. La Secretaría con el objetivo de generar y promover un mejor clima de negocios, trabajará de manera coordinada con los sujetos obligados en materia de simplificación administrativa y mejora regulatoria en los trámites involucrados con el ciclo de la apertura y operación de negocios. Para ello se apoyará de:
+(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2022)
+Artículo 84. La Secretaría de Innovación y Gobierno Digital con el objetivo de generar y promover un mejor clima de negocios, trabajará de manera coordinada con los sujetos obligados en materia de simplificación administrativa y mejora regulatoria en los trámites involucrados con el ciclo de la apertura y operación de negocios. Para ello se apoyará de:
 I. Centros de Atención Empresarial; y
 II. Ventanilla Digital Empresarial.
 Artículo 85. Los Centros de Atención Empresarial serán las áreas físicas, integradas con los recursos humanos, materiales y tecnológicos que los municipios podrán destinar para la prestación de los servicios de asesoría para trámites o actos administrativos, con la finalidad de brindar una atención integral a los emprendedores, así como a las micro, pequeñas y medianas empresas.
 Artículo 86. La Ventanilla Digital Empresarial será la herramienta tecnológica que permitirá conjuntar en un sólo espacio de manera digital, los trámites relacionados con la apertura y funcionamiento de una empresa.
-Los municipios trabajarán coordinadamente en la Secretaría para implementar la Ventanilla Digital Empresarial, permitiendo la interacción e intercambio de información a fin de hacer eficientes los trámites y servicios.
+(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)
+Los municipios trabajarán coordinadamente en la Secretaría de Innovación y Gobierno Digital para implementar la Ventanilla Digital, permitiendo la interacción e intercambio de información a fin de hacer eficientes los trámites y servicios.
 La Ventanilla Digital Empresarial se vinculará con el Expediente para Trámites y Servicios, a fin de que el empresario presente por única vez los documentos requeridos en todo el proceso.
-La Secretaría emitirá los lineamientos que detallarán el funcionamiento, operación y administración de la Ventanilla Digital Empresarial.
+(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)
+La Secretaría de Innovación y Gobierno Digital emitirá los lineamientos que detallarán el funcionamiento, operación y administración de la Ventanilla Digital.
 CAPÍTULO II
 Apertura de Empresas
 Artículo 87. El SARE es la herramienta que integra y consolida todos los trámites municipales para abrir una micro, pequeña, mediana o grande empresa que realiza actividades de bajo riesgo, a través de un proceso transparente y competitivo para obtener licencias o autorizaciones de funcionamiento.
 Las dependencias y entidades municipales instrumentarán en el ámbito de su competencia el SARE en sus diversas modalidades.
-Artículo 88. El SARE será implementado por los municipios en coordinación con la Secretaría y la Comisión Nacional de Mejora Regulatoria, con base en los acuerdos o convenios signados al respecto, contemplando los siguientes elementos:
+(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2022)
+Artículo 88. El SARE será implementado por los municipios en coordinación con la Secretaría de Innovación y Gobierno Digital y la Comisión Nacional de Mejora Regulatoria, con base en los acuerdos o Convenios signados al respecto contemplando los siguientes elementos:
 I. Ventanilla única de forma física o electrónica en donde se encuentre toda la información, la recepción y la gestión de todos los trámites municipales necesarios para la apertura de una empresa;
 II. Enlazará, en su caso, los trámites federales y/o estatales de apertura, de conformidad con la legislación aplicable, fomentando el uso de las tecnologías de información;
 III. Formato Único de Apertura para la solicitud del trámite, impreso o en forma electrónica, en el que se incluyan todos los requisitos y costos para realizar el trámite. El formato único, en sus diversas modalidades, incluyendo los requisitos y tiempos de respuesta de los trámites iniciados, deberá publicarse en el Periódico Oficial del Estado, así como en las páginas de internet de los municipios y de la Secretaría;
@@ -580,3 +600,4 @@ DIPUTADO PRIMER SECRETARIO
 ERICA PALOMINO BERNAL
 DIPUTADA SEGUNDA SECRETARIA
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 28 de noviembre de 2019.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Lic. Ricardo Enrique Morán Faz.- Rúbrica.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]

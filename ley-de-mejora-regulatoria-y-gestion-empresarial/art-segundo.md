@@ -19,8 +19,9 @@ Sección Segunda
 Consejo Estatal de Mejora Regulatoria
 Sección Tercera
 Estrategia Estatal de Mejora Regulatoria
+(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2022)
 Sección Cuarta
-Secretaría de Desarrollo Económico
+Secretaría de Innovación y Gobierno Digital
 Sección Quinta
 Municipios
 Sección Sexta

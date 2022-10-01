@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)
+Artículo 110 D.- Se entenderá por video vigilancia la captación de imágenes con o sin sonido en lugares públicos o privados con acceso al público, para la investigación de delitos y la documentación de faltas administrativas relacionadas con la seguridad pública en el Estado y en términos de la Ley de Video Vigilancia del Estado de Aguascalientes y demás disposiciones aplicables.

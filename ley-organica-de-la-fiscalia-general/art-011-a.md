@@ -1,0 +1,10 @@
+(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)
+ARTÍCULO 11 A. Conforme al criterio de organización territorial, la Fiscalía General actuará por conducto de las Fiscalías Regionales, a cuya estructura se adscribirán Fiscalías Especializadas, Unidades Auxiliares tanto Sustantivas como Adjetivas, direcciones, jefaturas, agencias o áreas especializadas que ejercerán sus funciones en las circunscripciones territoriales que establezcan las disposiciones aplicables, ello respetando el principio de Racionalidad al que refiere la fracción IV del apartado B del artículo 4° de la presente Ley.
+Las Fiscalías Regionales conforme al acuerdo de creación, atenderán las siguientes bases generales:
+I. Las circunscripciones competencia de las Fiscalías Regionales abarcarán uno o más municipios del Estado, al frente de cada Fiscalía Regional habrá un Fiscal Regional y coordinados ellos por el Vicefiscal de Control Regional, quien ejercerá el mando y autoridad jerárquica sobre los servidores públicos que formen parte de su estructura;
+II. Las sedes de las Fiscalías Regionales serán definidas atendiendo a la incidencia delictiva, densidad de población, las características geográficas del Estado y la correcta distribución de las cargas de trabajo;
+III. Las Fiscalías Regionales contarán con servidores públicos y agencias del Ministerio Público, que ejercerán sus funciones en la circunscripción territorial que determine el Fiscal General conforme a lo dispuesto en esta ley;
+IV. Las Fiscalías Regionales contarán con Agentes del Ministerio Público, Agentes de Policía de Investigación, Peritos y personal administrativo que sea necesario para el cumplimiento de sus funciones de conformidad con las facultades que les otorgue esta ley y su Reglamento; y
+V. El Fiscal General a través del acuerdo de creación, expedirá las normas necesarias para la coordinación y articulación de las Fiscalías Regionales y la Vicefiscalía de Control Regional con los (sic) Unidades centrales a efecto de garantizar la unidad de actuación y dependencia jerárquica.
+CAPÍTULO II
+Fiscalía General

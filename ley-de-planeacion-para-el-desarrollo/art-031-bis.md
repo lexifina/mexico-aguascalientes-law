@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)
+Artículo 31 Bis. Los Programas Institucionales serán elaborados por los entes de la administración pública local; cuyo contenido deberá alinearse a las políticas, objetivos, estrategias y metas planteados en los programas sectoriales de desarrollo, con una vigencia correspondiente al período de cada administración pública estatal. Su revisión, modificación o actualización se realizará a los tres años de su expedición.

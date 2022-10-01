@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)
+Artículo 110 H.- El Estado garantizará el respeto de los derechos humanos y garantías individuales de los ciudadanos video grabados. Las imágenes que hagan reconocibles o identifiquen a los ciudadanos se constituyen en un dato personal que se encuentra regulado, se exige que su tratamiento sea de uso reservado, en referencia a su almacenamiento, uso, obtención, manejo, acceso, aprovechamiento, publicidad y transmisión, en términos de la normatividad aplicable en la materia.

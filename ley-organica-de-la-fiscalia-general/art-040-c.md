@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)
+ARTÍCULO 40 C. La Fiscalía General contará con una Agencia Estatal de Investigación Criminal la cual será el órgano de coordinación operativa de los servicios auxiliares directos de la institución del Ministerio Público.
+La Agencia Estatal de Investigación Criminal tendrá la calidad orgánica y jerárquica de una Vicefiscalía, misma que corresponderá igualmente a la persona designada como su titular; se integrará por Personal Sustantivo Básico o personal adjetivo que se requiera para el ejercicio y cumplimiento de sus atribuciones, facultades y obligaciones.
