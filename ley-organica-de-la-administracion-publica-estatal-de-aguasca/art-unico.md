@@ -1,0 +1,4 @@
+ARTÍCULO ÚNICO. Se expide la "LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL", en los siguientes términos:
+LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
+CAPÍTULO I
+Disposiciones Generales
