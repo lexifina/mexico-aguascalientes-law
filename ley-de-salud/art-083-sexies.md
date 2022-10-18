@@ -6,6 +6,3 @@ III. Analizar y evaluar los resultados del Programa Estatal contra el Suicidio;
 IV. Promover y establecer mecanismos para la coordinación de esfuerzos contra el suicidio;
 V. Ofrecer capacitaciones y trasferencias de modelos preventivos en salud mental a las áreas de psicología de las empresas privadas que se encuentren dentro del Estado; y
 VI. Las demás que establezcan la presente Ley, el Reglamento Interior del Comité y demás disposiciones legales aplicables.
-(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE MARZO DE 2018)
-CAPITULO VIII
-La Insuficiencia Renal

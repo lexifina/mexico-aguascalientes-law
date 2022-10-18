@@ -8,5 +8,9 @@ V. El Instituto Aguascalentense de la Mujer;
 VI. El Instituto del Deporte del Estado de Aguascalientes;
 VII. La Secretaría de la Juventud del Estado de Aguascalientes;
 VIII. El Instituto Cultural de Aguascalientes;
-IX. La Secretaría de Bienestar y Desarrollo Social; y
-X. Radio y Televisión de Aguascalientes.
+(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)
+IX. La Secretaría de Desarrollo Social del Gobierno del Estado de Aguascalientes;
+(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)
+X. Radio y Televisión de Aguascalientes; y
+(ADICIONADA, P.O. 17 DE OCTUBRE DE 2022)
+XI. Un representante de cada uno de los Municipios del Estado.
