@@ -1,0 +1,9 @@
+P.O. 24 DE OCTUBRE DE 2022.
+[N. DE E. TRANSITORIOS DEL "REGLAMENTO DE LA ACADEMIA TAURINA DEL MUNICIPIO DE AGUASCALIENTES "ALFONSO RAMÍREZ EL CALESERO"".]
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- Se Deroga el Reglamento de la Academia Taurina del Municipio de Aguascalientes, publicado en el Periódico Oficial del Estado el 30 de octubre de 2000, así como todas las reformas, adiciones que hubiere sufrido el mismo.
+TERCERO.- El municipio incluirá en la iniciativa del presupuesto de egresos para el ejercicio fiscal 2023, los recursos mínimos para el funcionamiento de la Academia.
+CUARTO.- La Academia iniciará el cumplimiento de sus objetivos y el ejercicio de sus atribuciones previstos en este reglamento, con base en la disponibilidad de recursos que al efecto autorice el H. Ayuntamiento para el ejercicio fiscal del año 2022 o con base en los subsidios y apoyos que obtenga del Gobierno del Estado o de cualquier otra fuente de financiamiento de las autorizadas por este reglamento.
+QUINTO.- En un plazo no mayor a los veinte días naturales, contados a partir de la autorización del presupuesto por parte del Ayuntamiento, se realizará la instalación del Consejo Directivo y se nombrarán a los titulares de las direcciones a que se refiere el artículo 10.
+SEXTO.- El Consejo Directivo de la Academia expedirá su normatividad interna en un plazo no mayor de ciento veinte días hábiles, contados a partir de la fecha de su instalación.
+SÉPTIMO.- Por única ocasión los directores que señalan las fracciones II y III del artículo 10, y los integrantes del Consejo que señala el artículo 11 fracción III durarán en su encargo durante el periodo restante de la presente administración y el comprendido de la siguiente administración municipal con la finalidad de consolidar, fortalecer y dar continuidad a los primeros trabajos y objetivos de la Academia.
