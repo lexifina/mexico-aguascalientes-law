@@ -1,5 +1,6 @@
 [N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
+[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. 31 DE OCTUBRE DE 2022 NO APLICA AL ARTICULADO DEL DECRETO 194 PUBLICADO EN EL P.O. DEL 17 DE OCTUBRE DE 2022.]
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes, sabed:
 Que por el H. Congreso del Estado, se me ha comunicado lo siguiente:
