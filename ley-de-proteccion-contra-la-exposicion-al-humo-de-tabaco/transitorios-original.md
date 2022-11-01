@@ -3,16 +3,25 @@ LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DEL TABACO DEL ESTADO DE AGUASC
 CAPÍTULO PRIMERO
 DISPOSICIONES GENERALES
 Artículo 1°.- La presente Ley es de orden público, interés social y de observancia general en todo el Estado de Aguascalientes.
-Artículo 2°.- La presente Ley tiene por objeto:
+(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2022)
+Artículo 2°.- La presente Ley tiene por objeto, además de proteger los derechos de los no fumadores, a vivir y convivir en espacios cien por ciento libres de humo de tabaco y emisiones, lo siguiente:
 I. La protección eficaz de la población a la exposición al humo de tabaco, basada en evidencia científica que promueve el derecho a la vida, la salud, la integridad física, la seguridad y ambientes saludables, misma protección que se aplicará al consumo de sustancias en los cigarrillos o dispositivos electrónicos que expiden vapores con o sin nicotina en esencias o saborizantes;
 II. Instituir la absoluta prohibición de fumar como medida de control en lugares de trabajo, transporte público, planteles educativos, lugares públicos cerrados y abiertos, lugares de concurrencia colectiva y demás lugares inscritos en el Artículo 7° de esta Ley;
 III. Promover la cesación, desalentar y reducir el inicio en el consumo del tabaco como resultado de cambios en el comportamiento propiciados por la implementación de Espacios 100% Libres de Humo de Tabaco;
 IV. Implementar políticas públicas encaminadas a prevenir la morbimortalidad y bajar los costos médicos, principalmente de las enfermedades relacionadas con el consumo de tabaco como el cáncer de pulmón, la enfermedad pulmonar obstructiva crónica y enfermedades cardiovasculares;
 V. Generar mecanismos de colaboración con asociaciones públicas y privadas involucradas en el control del tabaco, a fin de establecer programas de prevención que permitan disminuir la incidencia de enfermedades derivadas al consumo, inhalación y combustión del humo de tabaco en cualquiera de sus formas;
-VI. Crear los mecanismos de coordinación con instancias y dependencias para el cabal cumplimiento de normas, leyes y reglamentos relacionados con el control del tabaco, así como facilitar la participación y denuncia ciudadana; y
-VII. Establecer las sanciones para quienes incumplan con lo previsto en este ordenamiento.
+(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)
+VI. Crear los mecanismos de coordinación con instancias y dependencias para el cabal cumplimiento de normas, leyes y reglamentos relacionados con el control del tabaco, así como facilitar la participación y denuncia ciudadana;
+(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)
+VII. Establecer las sanciones para quienes incumplan con lo previsto en este ordenamiento; y
+(ADICIONADA, P.O. 31 DE OCTUBRE DE 2022)
+VIII. Instituir medidas para reducir el consumo de tabaco, particularmente en los menores.
 Artículo 3°.- Para los efectos de la presente Ley se entenderá por:
 I. Área Física Cerrada: Todo espacio con acceso al público, cubierto por un techo o que tenga más de una pared, independientemente del material utilizado para su construcción, y de que la estructura sea permanente o temporal;
+(ADICIONADA, P.O. 31 DE OCTUBRE DE 2022)
+I Bis. Cigarrillo: Cigarro pequeño de picadura envuelta en un papel de fumar;
+(ADICIONADA, P.O. 31 DE OCTUBRE DE 2022)
+I Ter. Cigarro o Puro: Rollo de hojas de tabaco, que enciende por un extremo y se fuma por el opuesto;
 II. Denuncia Ciudadana: Hacer del conocimiento a la autoridad competente respecto a los hechos que constituyan una infracción a las disposiciones contenidas en esta Ley, puede ser de manera personal, telefónica o electrónica;
 III. Espacio 100% Libre de Humo de Tabaco: Toda área física cerrada o espacio abierto, al aire libre con acceso al público o lugar de trabajo, de estudio o de transporte público o sitio de concurrencia colectiva; en general al establecimiento donde por razones de orden público e interés general la presente Ley prohíbe fumar, consumir, tener encendido cualquier producto del tabaco, dispositivos electrónicos o dispositivo que se le asemeje, que expidan vapores con o sin nicotina y esencias o saborizantes;
 IV. Espacio Abierto o al Aire Libre: Al espacio accesible al público, o lugares de uso colectivo, el que no tienen techo ni está limitado entre más de una pared o muro, independientemente del material utilizado para su construcción y de que la estructura sea permanente o temporal. Establecimiento donde hay concentración de personas;
@@ -26,7 +35,8 @@ X. ISSEA: Al Instituto de Servicios de Salud del Estado de Aguascalientes;
 XI. Ley: A la presente Ley de Protección Contra la Exposición al Humo del Tabaco del Estado de Aguascalientes;
 XII. Ley de Salud: A la Ley de Salud del Estado de Aguascalientes;
 XIII. Ley General: A la Ley General para el Control del Tabaco;
-XIV. Lugar de Trabajo: A todo espacio utilizado por las personas durante su empleo, jornada laboral, trabajo o comisión, temporal o permanente, incluye además los lugares conexos y anexos que los trabajadores suelen utilizar en el desempeño de su empleo, cargo o comisión entre ellos, con carácter enunciativo pero no limitativo, ascensores, baños, cafeterías, cobertizos, comedores, cubos de escalera, estacionamientos, naves industriales, instalaciones conjuntas, lavabos, pasillos, salones, vestíbulos y edificaciones anexas tales como: casa
+(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)
+XIV. Lugar de Trabajo: A todo espacio utilizado por las personas durante su empleo, jornada laboral, trabajo o comisión, temporal o permanente, incluye además los vehículos oficiales que los servidores públicos utilizan para realizar el trabajo, los lugares conexos y anexos que los trabajadores suelen utilizar en el desempeño de su empleo, cargo o comisión entre ellos, con carácter enunciativo pero no limitativo, ascensores, baños, cafeterías, cobertizos, comedores, cubos de escalera, estacionamientos, naves industriales, instalaciones conjuntas, lavabos, pasillos, salones, vestíbulos y edificaciones anexas tales como: casa
 XV. Municipio: A la división territorial administrativa en que se organiza el estado de Aguascalientes y está regido por un Ayuntamiento;
 XVI. Persona Responsable del Establecimiento: A los propietarios, titulares de la licencia comercial o mercantil, administradores, responsables, gerentes, o persona que tenga a su cargo un lugar público, lugar de trabajo, escolar, medio de transporte público concesionario o permisionario, al titular o poseedor de la tarjeta de circulación en donde se prohíbe fumar, consumir o tener encendido cualquier producto del tabaco o dispositivo que se le asemeje;
 XVII. Policía: A la persona envestida de autoridad que pertenece a una corporación de Seguridad Pública;
@@ -57,7 +67,8 @@ IX. Unidades destinadas al cuidado y atención de los niños, adolescentes o per
 X. En las áreas físicas cerradas de establecimientos mercantiles, locales, tiendas de autoservicios, oficinas bancarias, financieras y comerciales, hoteles, moteles y servicios de hospedaje, expendios fijos o temporales de alimentos y/o bebidas alcohólicas y no alcohólicas, bares, cantinas, merenderos, centros botaneros, discotecas o y cualquier otro establecimiento en el que se proporcione atención al público;
 XI. Sitios donde se almacene o expenda gasolina, gas licuado de petróleo, gas centrifugado, diesel o cualquier otro combustible y/o químicos o productos catalogados como peligrosos por las normas oficiales mexicanas;
 XII. En las áreas físicas cerradas de los Centros de trabajo, empresas e industrias o cualquier otro establecimiento o lugar que sean utilizados por las personas durante su empleo, jornada laboral, trabajo o comisión;
-XIII. Vehículos destinados al transporte público de pasajeros, de transporte escolar, de transporte de personal y en taxis, los conductores de los vehículos referidos, se abstendrán de fumar, consumir o tener encendido cualquier producto del tabaco, además serán responsables de vigilar que los pasajeros acaten dicha prohibición, con la estricta vigilancia de los permisionarios o concesionarios, propietarios y/o inspectores de los medios de transporte, mismos que deberán colocar señalización clara y visible al respecto;
+(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)
+XIII. Vehículos destinados al transporte público de pasajeros, de transporte escolar, de transporte de personal, taxis y vehículos oficiales utilizados por las dependencias y entidades de los Gobiernos Estatal y Municipales, los Poderes Legislativo y Judicial del Estado, así como de los Órganos Constitucionales Autónomos; los conductores de los vehículos referidos, se abstendrán de fumar, consumir o tener encendido cualquier producto del tabaco, además serán responsables de vigilar que los pasajeros acaten dicha prohibición, con la estricta vigilancia de los permisionarios o concesionarios, propietarios y/o inspectores de los medios de transporte, mismos que deberán colocar señalización clara y visible al respecto;
 XIV. Los paraderos y terminales de vehículos del servicio de transporte público;
 XV. En los sanitarios de acceso público, baños públicos, y sanitarios móviles; así como en los sitios de concurrencia colectiva; y
 XVI. Donde las condiciones representen un riesgo sanitario para la salud de la población.
@@ -171,7 +182,8 @@ CAPÍTULO SÉPTIMO
 LA PARTICIPACIÓN Y DENUNCIA CIUDADANA
 (REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2020)
 Artículo 32.- El ISSEA, promoverá la participación ciudadana en la presente materia de prevención del tabaquismo y el control de los productos del tabaco, mediante las siguientes acciones:
-I. Promoción de los espacios que protegen la salud contra la exposición al humo de tabaco;
+(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)
+I. Promoción de los espacios cien por ciento libres de humo de tabaco y emisiones de dispositivos o cigarrillos electrónicos que expiden vapores con o sin nicotina y esencias o saborizantes y de los espacios que protegen la salud contra la exposición al humo de tabaco.
 II. Promoción de la salud comunitaria;
 III. Educación e información para protección de la salud;
 IV. Investigación para la salud y generación de la evidencia;
