@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2022)
+ARTICULO 119 BIS.- Todo lo relacionado con la disposición de órganos, tejidos y células de seres humanos con fines terapéuticos se regirá conforme con lo establecido en la Ley General, sus disposiciones reglamentarias y las normas oficiales mexicanas en la materia, así como en los lineamientos que emita la autoridad sanitaria y demás instrumentos jurídicos aplicables.
