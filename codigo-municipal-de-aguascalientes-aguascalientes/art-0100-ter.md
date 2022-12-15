@@ -14,5 +14,6 @@ XI. Impulsar la participación de las organizaciones privadas dedicadas a la pro
 XII. Contar con un programa de atención y con un área o con servidores públicos que fungirán como autoridad de primer contacto con niñas, niños o adolescentes y que serán el enlace con las instancias locales y federales competentes.
 La instancia a que se refiere el presente artículo coordinará a los servidores públicos municipales cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos de las niñas, niños y adolescentes, contenidos en la presente Ley, a efecto de que se dé vista a la Procuraduría de Protección Local de forma inmediata; y
 XIII. Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que, de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes, se asuman en el Sistema Nacional DIF y el Sistema DIF Estatal.
+(REFORMADO, P.O. 12 DE DICIEMBRE DE 2022)
 APARTADO TERCERO
-De la Coordinación General de Comunicación Social
+De la Secretaría de Comunicación Social.

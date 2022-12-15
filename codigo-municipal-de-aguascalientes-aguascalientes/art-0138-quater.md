@@ -16,8 +16,8 @@ VI. Titular de la Coordinación General de Observatorio Ciudadano de Transparenc
 VII. Presidente(a) del Comité Municipal para el Desarrollo Integral de la Familia;
 (ADICIONADA, P.O. 20 DE FEBRERO DE 2012)
 VIII. Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia;
-(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)
-IX. Titular de la Coordinación General de Comunicación Social;
+(REFORMADA, P.O. 12 DE DICIEMBRE DE 2022)
+IX. Titular de la Secretaría de Comunicación Social;
 (ADICIONADA, P.O. 20 DE FEBRERO DE 2012)
 X. Titular de la Contraloría Municipal;
 (ADICIONADA, P.O. 20 DE FEBRERO DE 2012)
