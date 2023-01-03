@@ -17,5 +17,6 @@ n) Cualquiera otra acción que lesione o dañe la dignidad, integridad o liberta
 Las infracciones cometidas en esta materia se sancionarán, según la gravedad, de acuerdo con las establecidas para cada sujeto de responsabilidad en los siguientes artículos del presente Código, y, además, cuando corresponda el Tribunal deberá considerar las siguientes medidas de reparación integral:
 a) Indemnización de la víctima;
 b) Restitución inmediata en la candidatura o cargo partidista al que fue obligada a renunciar por motivos de violencia;
-c) Disculpa pública, y
+(REFORMADO, P.O. 2 DE ENERO DE 2023)
+c) Disculpa pública dirigida a la ofendida, la cual deberá de ser realizada en los términos previstos en el Lineamiento que para tal efecto emitan en coordinación las autoridades electorales locales, y
 d) Medidas de no repetición

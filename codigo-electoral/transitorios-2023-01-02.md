@@ -1,0 +1,4 @@
+P.O. 2 DE ENERO DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 256.- SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 25 Y EL INCISO C) DEL PÁRRAFO SEGUNDO DEL ARTÍCULO 250 A; ASIMISMO SE ADICIONA LA FRACCIÓN XI DEL ARTÍCULO 25 DEL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO. – El presente decreto entrará en vigor al día siguiente de su publicación en el Periodo Oficial del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO. – Se vincula a las autoridades electorales locales, Fiscalía Especializada en Delitos Electorales, Instituto Estatal Electoral y Tribunal Electoral, a que, en un plazo no mayor de 30 días naturales posteriores a la publicación del presente decreto, emitan los Lineamientos que regulen la Disculpa Pública que se deba ofrecer a las víctimas de Violencia Política de Género, en los términos que como expertos en la materia consideren oportunos.
