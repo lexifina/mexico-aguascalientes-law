@@ -1,8 +1,7 @@
-(ADICIONADO, P.O. 12 DE MARZO DE 2018)
-ARTICULO 83 UNDECIES.- El Comité Interinstitucional de Atención a Enfermos Renales tendrá las siguientes atribuciones:
-I.- Participar y emitir opiniones para la formulación de las políticas públicas en materia de enfermos renales;
-II.- Promover y establecer mecanismos para la coordinación de esfuerzos en materia de atención a enfermos renales;
-(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)
-III.- Elaborar anualmente un informe público que contenga los datos estadísticos, de los pacientes que reciben atención y tratamiento médico con padecimientos de insuficiencia renal, las tasas de mortalidad y morbilidad de este, así como los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia;
-IV.- Promover la realización de estudios de investigación con la finalidad de identificar los factores de riesgo, principales causas, métodos de prevención y tratamiento de la insuficiencia renal; y
-V.- Las demás que establezcan la presente Ley, el Reglamento Interior del Comité y demás disposiciones legales aplicables.
+(REFORMADO, P.O. 17 DE ENERO DE 2023)
+ARTICULO 83 UNDECIES.- El Instituto podrá autorizar, expedir certificados, o cualquier otro documento, con base en la información, comprobación de hechos o recomendaciones técnicas que proporcionen terceros autorizados, de conformidad con lo siguiente:
+I.- El procedimiento para la autorización de terceros tendrá por objeto el aseguramiento de la capacidad técnica y la probidad de dichos agentes;
+II.- Las autorizaciones de los terceros se publicarán en el Periódico Oficial del Estado y señalarán expresamente las materias para las que se otorgan;
+III.- Los dictámenes de los terceros tendrán el carácter de documentos auxiliares del control de la enfermedad renal, pero además tendrán validez general en los casos y con los requisitos establecidos en la Ley Federal sobre Metrología y Normalización, Normas Oficiales Mexicanas y demás disposiciones aplicables; y
+IV.- Los terceros autorizados serán responsables solidarios con los titulares de las autorizaciones o certificados que se expidan con base en sus dictámenes y recomendaciones, del cumplimiento de las disposiciones en materia de enfermedad renal, durante el tiempo y con las modalidades que establezcan las disposiciones reglamentarias de esta Ley y la Ley del Instituto de Atención Integral de Enfermedades Renales del Estado de Aguascalientes.
+El Instituto podrá reconocer centros especializados, de investigación y organizaciones internacionales, federales, estatales y municipales del área de la salud pública o privada, que podrán fungir como terceros autorizados.
