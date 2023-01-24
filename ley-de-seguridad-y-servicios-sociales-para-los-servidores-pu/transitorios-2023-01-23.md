@@ -1,0 +1,5 @@
+P.O. 23 DE ENERO DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 279.- SE REFORMA LA LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES".]
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+Artículo Segundo. El Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado (sic) Aguascalientes, deberá realizar las adecuaciones que resulten necesarias para armonizar sus disposiciones reglamentarias de conformidad con la presente reforma, así como con la realizada mediante el Decreto 185 expedido por la presente Legislatura, dentro del plazo de noventa días contados a partir de la entrada en vigor del presente Decreto.
+Artículo Tercero. Hasta en tanto se realizan las adecuaciones a que se refiere el artículo anterior, las referencias contenidas en las disposiciones reglamentarias aplicables a la Dirección de Prestaciones Económicas, se entenderán hechas a la Dirección de Prestaciones, Afiliación y Medicina prevista en la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado (sic) Aguascalientes.
