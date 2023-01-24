@@ -1,0 +1,3 @@
+P.O. 23 DE ENERO DE 2023.
+[N. DE E. TRANSITORIO DE LAS "REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL Y AL REGLAMENTO DE PANTEONES DEL MUNICIPIO DE AGUASCALIENTES, EN MATERIA DE DEPÓSITO DE RESTOS HUMANOS EN FOSAS, GAVETAS Y NICHOS".]
+ÚNICO.- Las presentes reformas y adiciones iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
