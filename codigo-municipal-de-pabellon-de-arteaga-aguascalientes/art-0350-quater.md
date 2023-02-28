@@ -1,7 +1,8 @@
 (ADICIONADO, P.O. 15 DE MARZO DE 2021)
 ARTÍCULO 350 QUÁTER.- Se podrán contratar adquisiciones, arrendamientos o servicios por adjudicación directa, cuando se esté en alguno de los siguientes casos:
 I.- Existan razones técnicas, científicas o legales justificadas para la adquisición, arrendamiento de bienes muebles o contratación de servicios de marca determinada o bienes usados;
-II.- Se trate de adquisiciones urgentes de bienes perecederos, granos, productos alimenticios, suplementos alimenticios, agua embotellada, servicio de alimentos y banquetes que podrá incluir el mobiliario, logística, personal y lugar donde se organizará el evento;
+(REFORMADA, P.O. 27 DE FEBRERO DE 2023)
+II.- Se trate de adquisiciones urgentes de bienes perecederos, granos, productos alimenticios, suplementos alimenticios;
 III.- Cuando no existan bienes o servicios alternativos o sustitutos técnicamente razonables, o bien, cuando en el mercado sólo exista un posible oferente o el contrato sólo puede celebrarse con una determinada persona por tratarse de obras de arte, titularidad de patentes, derechos de autor u otros derechos exclusivos;
 IV.- Cuando se hubiere rescindido un contrato, en cuyo caso se podrá adjudicar al proveedor que haya obtenido el segundo o ulteriores lugares, siempre que la diferencia en precio con respecto a la proposición inicialmente adjudicada no sea superior a un margen del diez por ciento. Tratándose de contrataciones en las que la evaluación se haya realizado mediante puntos y porcentajes, se podrá adjudicar al segundo o ulterior lugar, dentro del referido margen;
 V.- Cuando de una situación real, peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona del Municipio;
