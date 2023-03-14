@@ -55,9 +55,6 @@ LII.- Promover la instalación y los trabajos del Consejo Consultivo Municipal d
 LIII.- Promover y llevar a cabo el Padrón municipal de mascotas;
 LIV.- Promover y llevar a cabo campañas de esterilización de mascotas, control animal, de adopción y (sic) inspección y vigilancia en la materia, y
 LV.- Las demás que le señalen el presente código y demás normatividad aplicable en la materia.
-(REFORMADO, P.O. 24 DE ABRIL DE 2006)
-TITULO SEGUNDO
-DE LA ADMINISTRACION PUBLICA PARAESTATAL Y DESCONCENTRADA
-(REFORMADO, P.O. 24 DE ABRIL DE 2006)
-CAPITULO PRIMERO
-De los Organismos Descentralizados
+(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 13 DE MARZO DE 2023)
+SECCIÓN DÉCIMA CUARTA
+Del Instituto Municipal de Salud Mental de Pabellón de Arteaga
