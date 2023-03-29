@@ -1,0 +1,4 @@
+P.O. 28 DE MARZO DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 304.- SE REFORMAN LA LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES; Y, LA LEY DE INGRESOS DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2023".]
+ARTÍCULO PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO.- Una vez publicado en el Periódico Oficial, el H. Ayuntamiento de Aguascalientes, tendrán un plazo de 90 días para dar máxima publicidad al presente Decreto, a través de los medios de comunicación radiofónicos, televisivos, periódicos, internet o cualquier otro que sea conveniente para dar a conocer a la población del Municipio de Aguascalientes de manera clara y precisa las reformas del presente Decreto.
