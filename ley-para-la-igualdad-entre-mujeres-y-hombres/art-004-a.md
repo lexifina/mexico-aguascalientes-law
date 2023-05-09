@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 8 DE MAYO DE 2023)
+Artículo 4° A.- La interpretación de esta Ley será conforme con los principios de universalidad, interdependencia, indivisibilidad, complementariedad, integralidad, progresividad y no regresividad, así como favoreciendo en todo tiempo la protección más amplia para las personas, debiendo siempre de optar por la regla de preferencia interpretativa más protectora y garantista, dejando de aplicar aquellas normas que menoscaben derechos y garantías.
