@@ -16,5 +16,9 @@ c) A estar acompañada por quien ella decida, en concordancia con las recomendac
 d) A ser informada de la evolución del parto y de todo lo que ocurre durante el proceso, las causas del dolor en el parto y las estrategias de su manejo desmedicalizado, siempre que no exista contraindicación médica estricta, y en general a que se le haga partícipe de las diferentes actuaciones del personal de salud;
 e) A no ser objeto de procedimientos innecesarios cuando estos sean injustificados, a criterio del médico tratante; y
 f) A realizar apego inmediato, mediante el contacto piel a piel inmediatamente después del nacimiento, siempre y cuando las condiciones médicas de la madre y de la persona recién nacida así lo permitan;
-VI (SIC).- Recibir el certificado de nacimiento o de defunción de su hijo, de forma inmediata, de acuerdo con el procedimiento administrativo que corresponde; y
-VII.– Se garantice mediante atención psicológica su salud mental antes y después del parto.
+(REFORMADA, P.O. 8 DE MAYO DE 2023)
+V.- Recibir el certificado de nacimiento, defunción o de muerte fetal de su hijo o hija, según sea el caso, de forma inmediata, de acuerdo con el procedimiento administrativo que corresponde;
+(REFORMADA, P.O. 8 DE MAYO DE 2023)
+VI.- Se garantice mediante atención psicológica su salud mental antes y después del parto; y
+(ADICIONADA, P.O. 8 DE MAYO DE 2023)
+VII.- A recibir un trato digno y humanitario en caso de muerte fetal o perinatal. Protegiendo el bienestar físico, psíquico y emocional de ella y de las personas que la acompañen.
