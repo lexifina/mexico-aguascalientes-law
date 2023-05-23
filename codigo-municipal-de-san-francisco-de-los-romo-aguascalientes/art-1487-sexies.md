@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 22 DE MAYO DE 2023)
+ARTICULO 1487 SEXIES.- En los casos de la expedición de subdivisiones para la regularización de un asentamiento humano, la disolución de la copropiedad o la donación entre ascendientes y descendientes en primer grado y que no exista el área disponible para otorgar donación al Municipio, está se determinará conforme a lo que decida el Cabildo.
+En todo caso el promotor de la subdivisión podrá proponer al Cabildo, que el área que le corresponda donar se ubique fuera del predio objeto de la donación para integrarla a otra y optimizar e incrementar las áreas para equipamiento urbano consolidado o en otras áreas carentes de ellas.

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 22 DE MAYO DE 2023)
+ARTICULO 1511 QUATERDECIES.- De acuerdo a la clasificación, densidad de construcción y población que se derive de los fraccionamientos, condominios o desarrollos inmobiliarios especiales, y en términos de lo estipulado en el Código Urbano para el Estado, la Dirección de Desarrollo Urbano Municipal, determinará las áreas de donación que conforme a las normas y criterios para la dotación de equipamiento urbano básico e infraestructura, deban transferirle gratuitamente los fraccionadores y promotores.

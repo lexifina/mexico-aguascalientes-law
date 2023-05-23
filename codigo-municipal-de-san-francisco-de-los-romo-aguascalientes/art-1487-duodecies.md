@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 22 DE MAYO DE 2023)
+ARTICULO 1487 DUODECIES.- La Dirección de Desarrollo Urbano Municipal al realizar el procedimiento de revocación de la autorización de una subdivisión, deberá considerar que no se afecten derechos de adquirentes o usuarios de los lotes, así como el que queden inconclusas obras de urbanización y edificación necesarias para dar soporte y funcionalidad a otras etapas concluidas.

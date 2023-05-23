@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 22 DE MAYO DE 2023)
+ARTICULO 1511 QUINDECIES.- EI fraccionador o promotor estará obligado a formalizar las donaciones a favor del Municipio de San Francisco de los Romo, Ags., en los lugares y superficies que de acuerdo al tipo de fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión autorizado le sean señalados, así como a escriturar a su costa las áreas destinadas a vías públicas, áreas verdes y equipamiento urbano e infraestructura.
+Respecto del equipamiento urbano también deberá entregar la posesión, títulos y facturas que acrediten la propiedad del mismo, a favor del Municipio de San Francisco de los Romo, Ags., o de quien este indique.

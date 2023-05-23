@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 22 DE MAYO DE 2023)
+ARTICULO 1624 DUODECIES.- Las Unidades Externas de Supervisión, previo contrato de prestación de servicios celebrado con el Municipio en términos de la normatividad aplicable, realizarán la supervisión a las obras de urbanización de los fraccionamientos, condominios, desarrollos inmobiliarios o subdivisiones en los términos y condiciones que establezca el Código Urbano, el presente Código y demás disposiciones aplicables.

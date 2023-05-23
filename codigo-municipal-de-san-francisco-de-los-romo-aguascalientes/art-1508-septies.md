@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 22 DE MAYO DE 2023)
+ARTICULO 1508 SEPTIES.- Previo al otorgamiento de la autorización de inicio de obras de urbanización de un condominio o desarrollo inmobiliario especial, la Dirección de Desarrollo Urbano Municipal, conjuntamente con el Síndico del Ayuntamiento, deberán recibir físicamente del promotor la posesión de las áreas de donación correspondientes, verificando que cumplan con las condiciones de superficie, medidas y colindancias y colocando elementos físicos que aseguren su tenencia y/o posesión.

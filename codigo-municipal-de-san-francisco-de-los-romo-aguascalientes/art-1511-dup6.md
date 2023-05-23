@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 22 DE MAYO DE 2023)
+ARTICULO 1511 QUATERVICIES.- La constitución, modificación o extinción del Régimen de Propiedad en Condominio, cuando el predio objeto de la solicitud tenga una superficie de hasta 20,000 metros cuadrados o menos de 100 viviendas, departamentos, locales o áreas, le corresponde al Municipio de San Francisco de los Romo, Ags., a través de su Dirección de Desarrollo Urbano, las cuales se sujetan a lo dispuesto en este Capítulo.

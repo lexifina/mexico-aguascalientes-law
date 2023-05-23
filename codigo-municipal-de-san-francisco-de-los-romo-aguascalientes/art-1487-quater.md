@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 22 DE MAYO DE 2023)
+ARTICULO 1487 QUÁTER.- Como parte de los requisitos que debe cumplir un promotor de una subdivisión ante la Dirección de Desarrollo Urbano Municipal, para efecto de que le autorice el inicio de las obras de urbanización, deberá constituir garantía a efecto de asegurar que ejecutará adecuadamente las obras de urbanización y en su caso del equipamiento urbano e infraestructura complementarios, así como el que cumplirá con todas y cada una de las obligaciones que asumió derivadas de la autorización de la subdivisión.
+La citada garantía se otorgará en los términos previstos en el Código Urbano para el Estado.

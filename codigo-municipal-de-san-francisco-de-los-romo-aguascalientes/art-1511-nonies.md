@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 22 DE MAYO DE 2023)
+ARTICULO 1511 NONIES.- El fraccionador o promotor mantendrá permanentemente en la obra una bitácora autorizada por la Dirección de Desarrollo Urbano Municipal y foliada hasta la total conclusión de las obras de urbanización, con el fin de que el perito responsable de las obras de urbanización, el personal de la unidad externa de supervisión y de la Dirección de Desarrollo Urbano Municipal realicen sus anotaciones correspondientes. Esa bitácora podrá agregarse o integrarse al Expediente Digital Único.
+Será responsabilidad exclusiva del fraccionador o promotor, el debido resguardo y cuidado de esa bitácora de obra.

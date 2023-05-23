@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 22 DE MAYO DE 2023)
+ARTICULO 1015 TER.- El Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano, habiendo recibido para opinión el proyecto de Programa o Esquema de Desarrollo Urbano o de modificaciones o cancelaciones de algún Programa o Esquema, tendrá 30 días naturales para emitirla; en caso de no hacerlo en dicho plazo, se considerará que no tiene inconveniente en que el Programa o Esquema o las modificaciones o cancelaciones sean resueltas por el Ayuntamiento.

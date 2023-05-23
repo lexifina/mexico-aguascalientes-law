@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 22 DE MAYO DE 2023)
+ARTICULO 1624 SEXIES.- El Ayuntamiento tomando en cuenta lo referido en los artículos anteriores, podrá expedir determinaciones para la regularización de asentamientos humanos situados en el Municipio, previa opinión del Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano y dictamen y solicitud realizada por la Dirección de Desarrollo Urbano Municipal.

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 22 DE MAYO DE 2023)
+ARTICULO 1015 SEPTIES.- Los Programas y Esquemas de Desarrollo Urbano, serán obligatorios para los particulares y para las dependencias y entidades federales, estatales y municipales que realicen en el Municipio las actividades previstas en el Código Urbano y este Código Municipal, una vez que sean publicados en el Periódico Oficial del Estado e inscritos en los Registros Público (sic) de la Propiedad del Estado y Municipal respectivo.

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 22 DE MAYO DE 2023)
+ARTICULO 1624 QUINVICIES.- En caso de que la Unidad Externa de Supervisión asignada no firme el contrato de prestación de servicios o el mismo se dé por terminado o rescindido, se volverá a realizar el procedimiento de asignación en términos de lo establecido en (sic) presente Código Municipal, excluyendo a la Unidad Externa de Supervisión que se haya negado a signar el contrato de prestación de servicios o que le haya sido terminado o rescindido el contrato por causa imputable a ella.

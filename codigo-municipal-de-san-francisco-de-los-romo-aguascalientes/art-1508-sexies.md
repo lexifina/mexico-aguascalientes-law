@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 22 DE MAYO DE 2023)
+ARTICULO 1508 SEXIES.- El procedimiento para que en su caso se autorice la sustitución de parte de las áreas de donación, lo realizará la Dirección de Desarrollo Urbano Municipal, conforme a lo señalado en el artículo 334 del Código Urbano para el Estado, quien se podrá apoyar de otras dependencias y entidades municipales para determinar lo conducente.
+Tratándose de condominios verticales, la sustitución podrá hacerse por numerario, según lo señalado en el citado artículo 334 fracción III del Código Urbano para el Estado, la cual deberá ser aprobada en definitiva en sesión de Cabildo, señalándose por el mismo el destino de ese recurso.
