@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 30 DE MAYO DE 2023)
+Artículo 77 Bis. Se crea el Programa denominado Acceso a Internet Gratuito para el Estado de Aguascalientes, el cual tiene por objeto facilitar el acceso de internet a la población del Estado de Aguascalientes de manera gradual mediante el establecimiento de puntos de conexión públicos, sin costo para el usuario y de acuerdo a la disponibilidad presupuestaria.
+Es atribución de la Secretaria de Innovación y Gobierno Digital, diseñar e implementar el Programa mencionado en el párrafo anterior, y suscribir los convenios de coordinación con las dependencias y entidades de la administración pública estatal o municipal que sean necesarios, así como con el sector privado, de acuerdo a la normatividad aplicable.
