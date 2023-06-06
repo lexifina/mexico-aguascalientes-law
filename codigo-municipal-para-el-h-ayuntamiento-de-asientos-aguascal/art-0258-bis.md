@@ -9,9 +9,3 @@ VI. Realizar análisis, estudios y encuestas en materia de opinión pública y d
 VII. Coordinarse con la Secretaria Particular de la Presidencia Municipal para el diseño, seguimiento y evaluación de la Agenda, así como para establecer las bases para la integración y contenido de las giras del Titular de la Presidencia Municipal;
 VIII. Proporcionar información y cooperación técnicas a las dependencias de la Administración Pública Municipal; y
 IX. Coordinarse con la Coordinación General de Comunicación Social para la definición, seguimiento y evaluación de las políticas de difusión institucional.
-(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ABRIL DE 2020)
-TÍTULO CUARTO
-TURISMO, CULTURA Y DESARROLLO ECONÓMICO
-(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ABRIL DE 2020)
-CAPÍTULO I
-De la Dirección de Turismo, Cultura y Desarrollo Económico
