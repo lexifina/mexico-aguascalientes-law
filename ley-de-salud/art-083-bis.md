@@ -4,8 +4,8 @@ ARTICULO 83 BIS.- Las autoridades que integran el Sistema Estatal de Salud ejecu
 I. Elaboración de información científica sobre las causas del suicidio y su dinámica en el Estado;
 (ADICIONADA, P.O. 8 DE AGOSTO DE 2011)
 II. Establecer y difundir ampliamente líneas de comunicación de contacto directo, atendidas por especialistas, para asistencia a víctimas potenciales y recibir denuncias preventivas de terceros;
-(REFORMADA, P.O. 31 DE JULIO DE 2017)
-III. Formular recomendaciones a las autoridades de los municipios a fin de capacitar a los comerciantes de objetos comúnmente utilizados para auto infringirse lesiones con el propósito de identificar a suicidas potenciales y dar aviso a las autoridades sanitarias;
+(REFORMADA, P.O. 5 DE JUNIO DE 2023)
+III. Formular recomendaciones a las autoridades competentes, a fin de capacitar al personal de salud, seguridad pública, protección civil y a todo el personal de primer contacto ante emergencias, para la detección, atención, canalización y seguimiento a personas con comportamiento suicida y a sus familiares.
 (REFORMADA, P.O. 31 DE JULIO DE 2017)
 IV. Coordinación con el Instituto de Educación de Aguascalientes para cruzar información sobre posibles casos de depresión detectados en las escuelas; y
 (ADICIONADA, P.O. 31 DE JULIO DE 2017)
