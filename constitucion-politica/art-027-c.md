@@ -19,8 +19,8 @@ El Órgano Superior de Fiscalización del Estado deberá guardar reserva de sus 
 III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, recaudación, administración, manejo, custodia y aplicación de fondos y recursos federales, estatales o municipales y efectuar visitas domiciliarias para exigir la exhibición de libros, documentos y demás información indispensables para la realización de sus investigaciones, sujetándose a la Ley de Fiscalización Superior del Estado, así como a la demás legislación aplicable; y
 (REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2016)
 IV. Derivado de sus investigaciones y sin perjuicio de la competencia de la Auditoría Superior de la Federación, promover las responsabilidades que sean procedentes ante la Sala Administrativa y la Fiscalía Estatal Especializada en Combate a la Corrupción para la imposición de las sanciones que correspondan a los servidores públicos y a los particulares.
-(REFORMADO, P.O. 25 DE JUNIO DE 2012)
-Las sanciones y demás resoluciones del Órgano Superior de Fiscalización del Estado, podrán ser impugnadas por las entidades fiscalizadas y en su caso, por los servidores públicos afectados adscritos a las mismas, ante el propio Órgano Superior de Fiscalización del Estado o ante la Sala Administrativa y Electoral conforme a lo previsto en la Ley.
+(REFORMADO, P.O. 5 DE JUNIO DE 2023)
+Las sanciones y demás resoluciones del Órgano Superior de Fiscalización del Estado, podrán ser impugnadas por las entidades fiscalizadas y en su caso, por los servidores públicos afectados adscritos a las mismas, ante el propio Órgano Superior de Fiscalización del Estado o ante la Sala Administrativa conforme a lo previsto en la Ley.
 (REFORMADO, P.O. 13 DE AGOSTO DE 1950)
 CAPITULO OCTAVO
 De la Diputación Permanente.
