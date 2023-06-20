@@ -1,0 +1,7 @@
+P.O. 19 DE JUNIO DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 364.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO.- Los procesos administrativos y judiciales de adopción que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, se seguirán conforme a la normatividad aplicable al momento de su inicio, pero se podrá aplicar lo dispuesto en este Decreto en todo aquello que beneficie al interés superior de la niñez.
+ARTÍCULO TERCERO.- El Poder Ejecutivo del Estado realizará las adecuaciones reglamentarias correspondientes y expedirán un reglamento especial en materia de adopción en un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
+ARTÍCULO CUARTO.- Niñas, niños y adolescentes que actualmente se encuentren acogidos en instituciones públicas o privadas, respecto de los cuales el sistema DIF Estatal, o la Procuraduría de Protección Local, pueda dar constancia de su condición de expósito o abandono conforme a lo dispuesto en el artículo 30 Bis 1, serán sujetos de adopción a partir de la entrada en vigor de este Decreto.
+ARTÍCULO QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
