@@ -1,5 +1,2 @@
-(REFORMADO, P.O. 8 DE ENERO DE 2018)
-ARTÍCULO 342 BIS.- Son faltas contra la sana convivencia entre vecinos en zonas habitacionales y se sancionarán con multa de seis a veintidós veces el valor diario de la unidad de medida y actualización, las siguientes:
-I.- Producir ruido dentro y fuera de una casa habitación con aparatos de sonido, instrumentos musicales de cualquier tipo o similares a estos, que exceda de 55 decibeles en un horario de las 6:01 horas a las 22:00 horas, establecidos en la NOM 081-SEMARNAT/1994.
-II.- Producir ruido dentro y fuera de una casa habitación con aparatos de sonido, instrumentos musicales de cualquier tipo o similares a estos, que exceda de los 50 decibeles en un horario de las 22:01 horas a las 6:00 horas, establecidos en la NOM 081-SEMARNAT/1994.
-III.- Para las zonas industrial, comercial y escolar el límite máximo permisible es de 68 decibeles entre las 6:01 a 22:00 horas y de 65 decibeles de 22:01 a 6:00 horas. En caso de ferias, eventos y festivales deberán pedir un permiso especial especificando los horarios en que sobrepasarán dichos decibeles.
+(REFORMADO, P.O. 19 DE JUNIO DE 2023)
+ARTÍCULO 342 BIS.- Las faltas contra la sana convivencia entre vecinos en zonas habitacionales se sancionarán de conformidad con los artículos 77 BIS y 77 TER del Reglamento de Justicia Cívica para el Municipio de Aguascalientes.

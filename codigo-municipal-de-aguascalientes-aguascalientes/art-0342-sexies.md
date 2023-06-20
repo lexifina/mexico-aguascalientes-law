@@ -1,7 +1,1 @@
-(REFORMADO, P.O. 8 DE ENERO DE 2018)
-ARTÍCULO 342 SEXIES.- Las sanciones por infracción a lo dispuesto por el artículo 342 BIS, se ceñirán a lo siguiente:
-1.- Apercibimiento por escrito emitido por la autoridad competente, en la que se haga saber al infractor, de las posibles sanciones a las que se hará acreedor, en caso de continuar violando los supuestos establecidos en el artículo 342 BIS del Código Municipal de Aguascalientes.
-Multa consistente en la aplicación y cobro del resultante de la conversión de 6 a 10 veces el valor diario de la unidad de medida y actualización, cuando se cometa la infracción establecida en el artículo 342 BIS fracción I del Código Municipal de Aguascalientes.
-3 (SIC).- Multa consistente en la aplicación y cobro del resultante de la conversión de 13 a 19 veces el valor diario de la unidad de medida y actualización cuando se cometa la infracción establecida en el artículo 342 Bis fracción II del Código Municipal de Aguascalientes.
-4.- Esas multas, podrán conmutarse por servicio comunitario, siempre que se cumplan los requisitos previstos en el Reglamento de Servicio Comunitario del Municipio de Aguascalientes.
-5.- En caso de reincidencia, se aplicará una multa consistente en la aplicación y cobro del resultante de la conversión de 20 veces el valor diario de la unidad de medida y actualización, para lo cual habrá de contarse con la intervención de elementos policiales de la Secretaría de Seguridad Pública, quienes pondrán a disposición de Juez Municipal en turno.
+ARTÍCULO 342 SEXIES.- (DEROGADO, P.O. 19 DE JUNIO DE 2023)
