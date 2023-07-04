@@ -26,3 +26,4 @@ DIPUTADA PRIMERA SECRETARIA
 SANJUANA MARTÍNEZ MELÉNDEZ
 DIPUTADA SEGUNDA SECRETARIA
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 27 de diciembre de 2021.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Lic. Juan Manuel Flores Femat.- Rúbrica.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
