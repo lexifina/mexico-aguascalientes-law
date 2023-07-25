@@ -1,2 +1,0 @@
-(ADICIONADO, P.O. 11 DE JUNIO DE 2018)
-Artículo 89 A.- El diseño, ejecución, seguimiento y evaluación de las políticas implementadas por el Estado y los Municipios deberán garantizar el respeto a los principios de igualdad, equidad, igualdad sustantiva y paridad, previstos en la Ley.

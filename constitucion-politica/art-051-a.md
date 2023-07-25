@@ -1,3 +1,0 @@
-(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2017)
-Artículo 51 A.- En los juicios y procedimientos seguidos en forma de juicio en los que se establezca como regla la oralidad, bastará con que quede constancia de ellos en cualquier medio que dé certeza de su contenido y del cumplimiento de lo previsto en el Primer Párrafo del Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
-Siempre que no afecte la igualdad entre las partes, el debido proceso u otros derechos en los juicios o procedimientos seguidos en forma de juicio, las autoridades deberán privilegiar la solución del conflicto sobre los formalismos procedimentales.
