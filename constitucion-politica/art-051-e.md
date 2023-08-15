@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)
+Artículo 51 E.- Todo procedimiento jurisdiccional en el Poder Judicial se velará por la garantía de justicia abierta, teniendo por objeto la máxima transparencia judicial, colaboración y participación social, así como la mayor rendición de cuentas de la función judicial.
+El Poder Judicial deberá hacer públicas las sentencias, salvaguardando los datos personales de las partes. Las leyes secundarias regularán lo correspondiente.
+Las sesiones del Pleno y las Salas del Poder Judicial del Estado, serán públicas y se transmitirán por medios digitales, en los términos y condiciones establecidos en la Ley.

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)
+Artículo 51 C.- El presupuesto asignado en su conjunto al Poder Judicial, podrá ser mayor pero no menor al dos punto tres por ciento del total del presupuesto general de egresos del Estado, previsto para el ejercicio anual respectivo, y deberá ministrarse conforme al calendario autorizado en los términos que establezca la ley.

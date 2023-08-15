@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)
+Artículo 50 C.- El Tribunal de Justicia Administrativa funcionará en Pleno y en Salas unipersonales. La ley de la materia establecerá su organización, funcionamiento, procedimientos y recursos contra sus resoluciones.
+La ley contemplará los casos en que procedan mecanismos de mediación para la solución de conflictos administrativos, así como medidas cautelares cuando sea procedente.
+(REFORMADO, P.O. 13 DE AGOSTO DE 1950)
+CAPITULO DUODECIMO
+Del Poder Judicial.

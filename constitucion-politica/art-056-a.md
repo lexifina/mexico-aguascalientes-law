@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)
+Artículo 56 A.- La controversia constitucional estatal es el mecanismo de control judicial que tiene por objeto preservar las competencias, la autonomía y las garantías institucionales que esta Constitución le atribuye, respectivamente, a cada uno de los poderes y órganos constitucionales autónomos del Estado, así como a los Municipios.
