@@ -1,0 +1,6 @@
+P.O. 11 DE OCTUBRE DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 433.- SE REFORMA LA LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES".]
+ARTÍCULO PRIMERO.- El presente Decreto iniciará su vigencia el día 22 de octubre del 2023, sin perjuicio de lo establecido en los siguientes transitorios.
+ARTÍCULO SEGUNDO.- Las transferencias y asignaciones que le corresponden al Modelo Integral de Aguas de Aguascalientes, previstas en el artículo 1º de la Ley de Ingresos del Municipio de Aguascalientes, Aguascalientes, para el Ejercicio Fiscal del Año 2023, tendrán vigencia al día siguiente de la publicación del presente Decreto en el Periódico Oficial del Estado, por lo que dicho organismo descentralizado podrá disponer de tales recursos a partir de ese momento.
+ARTÍCULO TERCERO.- Las tarifas aplicables para el periodo comprendido entre el 22 de octubre al 31 de diciembre de 2023, no serán actualizadas mensualmente, por lo que en ese periodo serán vigentes las señaladas en el presente Decreto.
+ARTÍCULO CUARTO.- Los créditos fiscales derivados de servicios públicos prestados por la Comisión Ciudadana de Agua Potable y Alcantarillado del Municipio de Aguascalientes, que al 21 de octubre de 2023 no se hayan cubierto, deberán ser pagados al Modelo Integral de Aguas de Aguascalientes.
