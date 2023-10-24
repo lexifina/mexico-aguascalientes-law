@@ -1404,6 +1404,8 @@ De las Urbanizaciones Cerradas
 ARTÍCULO 249.- Los Municipios podrán expedir permisos para urbanizaciones cerradas que impliquen el control de acceso y salida de vías públicas en fraccionamientos, barrios o colonias a favor de organizaciones vecinales, conforme a lo dispuesto en este Código y el reglamento respectivo, previa opinión del Consejo Municipal correspondiente.
 ARTÍCULO 250.- Será requisito entre otros para que en su caso se otorgue permiso para urbanización cerrada, que la organización vecinal solicitante se encuentre formal y jurídicamente constituida e inscrita en el Registro Público como asociación civil.
 También se requerirá la aprobación de la mayoría de los colonos, la cual se obtendrá mediante un proceso de consulta, realizado con las formalidades jurídicas apropiadas, bajo la supervisión del Municipio.
+(ADICIONADO, P.O. 23 DE OCTUBRE DE 2023)
+Para obtener las autorizaciones a que se refiere este artículo, la organización vecinal deberá presentar un proyecto de video vigilancia que coadyuve con las tareas de seguridad pública que cumpla con los lineamientos establecidos por la Secretaría de Seguridad Pública conforme a lo dispuesto por la Ley de Video Vigilancia del Estado de Aguascalientes, con excepción de los condominios y fraccionamientos habitacionales urbanos de interés social.
 ARTÍCULO 251.- Cuando exista incumplimiento por parte de los colonos a las disposiciones contenidas en este Código, el Código Municipal, al Reglamento respectivo y otras disposiciones jurídicas aplicables o al permiso para la urbanización cerrada, este se podrá revocar por parte del Municipio respectivo.
 Derivado de lo anterior, los colonos estarán obligados a retirar a su costa y cargo las casetas de control y demás mobiliario, dejando la vía pública en el estado que originalmente se encontraban, salvo las mejoras que se hubieran realizado en equipamiento urbano e infraestructura.
 Si los colonos no retiran las casetas de control o el mobiliario dentro del plazo concedido por el Municipio respectivo, este lo podrá hacer, y los colonos deberán de asumir el costo al Municipio correspondiente.
@@ -1955,8 +1957,12 @@ XV.- Además, la solicitud deberá incluir los siguientes requisitos:
 a).- Generales del solicitante: nombre, nacionalidad, domicilio en el Estado, número de teléfono, correo electrónico, registro federal de contribuyentes, así como identificación oficial;
 b).- Relación de todos los fraccionamientos, condominios y desarrollos inmobiliarios especiales realizados o autorizados en el Estado;
 c).- Constancia de no adeudo del impuesto a la propiedad raíz del predio objeto de la solicitud; y;
-d).- Certificado de libertad de gravamen con fecha de expedición no mayor a 1 mes anterior a la solicitud; y
-XVI.- En caso de que sea sustituida una parte del área de donación, se deberá presentar la propuesta de dotación de equipamiento urbano y de infraestructura conforme a lo dispuesto en este Código, proporcionando a detalle el dictamen que lo justifique, el proyecto ejecutivo del mismo, su costo y el programa de obra, con las especificaciones que determine el Municipio respectivo;
+(REFORMADO, P.O. 23 DE OCTUBRE DE 2023)
+d).- Certificado de libertad de gravamen con fecha de expedición no mayor a 1 mes anterior a la solicitud;
+(REFORMADA, P.O. 23 DE OCTUBRE DE 2023)
+XVI.- En caso de que sea sustituida una parte del área de donación, se deberá presentar la propuesta de dotación de equipamiento urbano y de infraestructura conforme a lo dispuesto en este Código, proporcionando a detalle el dictamen que lo justifique, el proyecto ejecutivo del mismo, su costo y el programa de obra, con las especificaciones que determine el Municipio respectivo; y
+(ADICIONADA, P.O. 23 DE OCTUBRE DE 2023)
+XVII.- Proyecto de video vigilancia que cumpla con los lineamientos establecidos por la Secretaría de Seguridad Pública en términos de la Ley de Video Vigilancia del Estado de Aguascalientes, con excepción de los condominios y fraccionamientos habitacionales urbanos de interés social.
 (REFORMADO, P.O. 3 DE ABRIL DE 2023)
 Cuando a juicio de la SEPLADE o el Municipio o por solicitud del fraccionador o promotor, tomando en cuenta el tipo, características y tamaño del fraccionamiento, condominio o desarrollo inmobiliario especial, dichas instancias consideren que no procede la presentación o acreditación de alguno de los requisitos o documentos que establece este artículo, éstas lo indicaran al solicitante por no ser necesarias en el caso específico. La SEPLADE podrá solicitar la opinión del Municipio y viceversa para resolver sobre ese asunto.
 ARTÍCULO 366.- Con la finalidad de realizar el estudio y análisis de los respectivos proyectos, así como para resolverlos en tiempo y forma, la documentación señalada en el artículo que antecede, podrá ser presentada en partes por el interesado, conforme a los lineamientos generales que establezca la SEPLAPDE o el Municipio en los asuntos de su competencia.
@@ -2017,7 +2023,8 @@ a).- Cuadro de superficies y sus diferentes usos o destinos;
 b).- Sistema del agua potable;
 c).- Sistema de alcantarillado y saneamiento;
 d).- Especificaciones de los pavimentos, banquetas, guarniciones y placas de nomenclatura; y
-e).- Sistema de electrificación y alumbrado público;
+(REFORMADO, P.O. 23 DE OCTUBRE DE 2023)
+e).- Sistema de electrificación, alumbrado público y de video vigilancia;
 VII.- Opiniones técnicas del proyecto;
 VIII.- Documentación legal;
 IX.- Determinación de obligaciones fiscales estatales y municipales;

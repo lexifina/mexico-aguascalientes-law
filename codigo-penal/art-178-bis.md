@@ -6,6 +6,3 @@ I. Sea cometido por servidores públicos de Instituciones del Sistema Estatal de
 II. Se utilice a menores de edad o a quienes no tienen la capacidad para comprender el significado del hecho o que por cualquier causa no pueda resistirla;
 III. Se utilice para ello algún bien público; o
 IV. Posea o porte, uno o varios equipos o artefactos que permitan la intervención, escucha o transmisión de datos con respeto a canales de comunicación oficiales de Instituciones del Sistema Estatal de Seguridad Publica.
-(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2017)
-CAPÍTULO XII
-Tipos Penales Protectores de la Confidencialidad, la Intimidad de la Información y la Identidad de la Persona
