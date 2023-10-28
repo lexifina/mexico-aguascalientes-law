@@ -1,2 +1,2 @@
-(REFORMADO, P.O. 17 DE ENERO DE 2023)
-ARTICULO 83 NONIES.- El Instituto estará conformado por Junta de Gobierno, Director General, y Órgano Interno de Control y Evaluación, observando lo establecido en la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes y en la Ley del Instituto de Atención Integral de Enfermedades Renales del Estado de Aguascalientes y su Reglamento Interior.
+(REFORMADO, P.O. 27 DE OCTUBRE DE 2023)
+ARTICULO 83 NONIES.- El Instituto estará conformado en los términos establecidos por la Ley del Instituto de Atención Integral de Enfermedades Renales del Estado de Aguascalientes.

@@ -1,2 +1,2 @@
-(REFORMADO, P.O. 17 DE ENERO DE 2023)
-ARTICULO 83 OCTIES.- El Instituto, en coordinación con las autoridades sanitarias, llevará a cabo acciones para la Atención Integral de la Enfermedad Renal de conformidad a lo establecido en la Ley del Instituto de Atención Integral de Enfermedades Renales del Estado de Aguascalientes.
+(REFORMADO, P.O. 27 DE OCTUBRE DE 2023)
+ARTICULO 83 OCTIES.- El Instituto, tendrá por objeto coordinarse con las autoridades sanitarias del Estado, los sectores público, social y privado, en el establecimiento de las bases para la implementación, atención, regulación y vigilancia en la prestación de servicios de salud que permitan la atención integral de la enfermedad renal, a través de políticas públicas para la investigación, prevención, consejería, detección, diagnóstico, tratamiento, control y seguimiento, en atención a las disposiciones legales aplicables para tal efecto.

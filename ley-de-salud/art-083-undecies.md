@@ -1,7 +1,1 @@
-(REFORMADO, P.O. 17 DE ENERO DE 2023)
-ARTICULO 83 UNDECIES.- El Instituto podrá autorizar, expedir certificados, o cualquier otro documento, con base en la información, comprobación de hechos o recomendaciones técnicas que proporcionen terceros autorizados, de conformidad con lo siguiente:
-I.- El procedimiento para la autorización de terceros tendrá por objeto el aseguramiento de la capacidad técnica y la probidad de dichos agentes;
-II.- Las autorizaciones de los terceros se publicarán en el Periódico Oficial del Estado y señalarán expresamente las materias para las que se otorgan;
-III.- Los dictámenes de los terceros tendrán el carácter de documentos auxiliares del control de la enfermedad renal, pero además tendrán validez general en los casos y con los requisitos establecidos en la Ley Federal sobre Metrología y Normalización, Normas Oficiales Mexicanas y demás disposiciones aplicables; y
-IV.- Los terceros autorizados serán responsables solidarios con los titulares de las autorizaciones o certificados que se expidan con base en sus dictámenes y recomendaciones, del cumplimiento de las disposiciones en materia de enfermedad renal, durante el tiempo y con las modalidades que establezcan las disposiciones reglamentarias de esta Ley y la Ley del Instituto de Atención Integral de Enfermedades Renales del Estado de Aguascalientes.
-El Instituto podrá reconocer centros especializados, de investigación y organizaciones internacionales, federales, estatales y municipales del área de la salud pública o privada, que podrán fungir como terceros autorizados.
+ARTICULO 83 UNDECIES.- (DEROGADO, P.O. 27 DE OCTUBRE DE 2023)
