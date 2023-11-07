@@ -2877,8 +2877,12 @@ XVII. El fomento a la calidad de la vivienda sustentable, aprovechando las ecote
 XVIII. La seguridad jurídica de la vivienda;
 XIX. La creación de programas de apoyo para las familias que se encuentren en zonas de riesgo o que se vean afectadas por desastres naturales;
 XX. La accesibilidad y movilidad de la vivienda para las personas con discapacidad y adultos mayores;
-XXI. La promoción de la construcción, el mejoramiento y la consolidación de la vivienda rural; y
-XXII. Fomentar la oferta de vivienda en renta o temporal.
+(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)
+XXI. La promoción de la construcción, el mejoramiento y la consolidación de la vivienda rural;
+(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)
+XXII. Fomentar la oferta de vivienda en renta o temporal; y
+(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)
+XXIII. Garantizar la seguridad estructural de la vivienda.
 ARTÍCULO 617.- Los instrumentos y apoyos al desarrollo de la política estatal de vivienda, que establece este Código, comprenden:
 I. La formulación, instrumentación, control y evaluación de los programas de las dependencias y entidades paraestatales de la Administración Pública Estatal, que participan en la asignación, financiamiento y mejoramiento de la vivienda digna;
 II. Las normas para operar y conducir las acciones de las dependencias y entidades paraestatales de la Administración Pública Estatal, en materia de tierra para vivienda;
@@ -3034,7 +3038,8 @@ IV. El aprovechamiento de fuentes alternas de energía;
 V. El acondicionamiento bioclimático en el diseño de la vivienda; y
 VI. La observancia de los criterios para evitar la contaminación del suelo y del ambiente.
 ARTÍCULO 656.- El Consejo Estatal fomentará la participación de los sectores público, social y privado en esquemas de financiamiento dirigidos al desarrollo y aplicación de ecotecnologías y de nuevas tecnologías en vivienda y saneamiento, principalmente de bajo costo y alta productividad, que cumplan con parámetros de certificación y con los principios de una vivienda digna y decorosa. Asimismo, promoverá que las tecnologías sean acordes con los requerimientos sociales, regionales y a las características propias de la población, estableciendo mecanismos de investigación y experimentación tecnológicas.
-ARTÍCULO 657.- El Consejo Estatal promoverá que las autoridades municipales expidan y apliquen sus reglamentos de construcción y demás disposiciones que contengan los requisitos técnicos que garanticen la seguridad estructural, habitabilidad y sustentabilidad de toda y vivienda, y que definan los responsables y las responsabilidades de los diferentes agentes que intervienen en cada etapa del proceso de producción de vivienda.
+(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)
+ARTÍCULO 657.- El Consejo Estatal promoverá que las autoridades municipales expidan y apliquen sus reglamentos de construcción y demás disposiciones que contengan los requisitos técnicos que garanticen la calidad, seguridad estructural, habitabilidad y sustentabilidad de toda vivienda, y que definan los responsables y las responsabilidades de los diferentes agentes que intervienen en cada etapa del proceso de producción de vivienda.
 ARTÍCULO 658.- El Gobierno del Estado y los Municipios promoverán el uso de materiales y productos que contribuyan a evitar agentes que deterioren el medio ambiente, así como aquellos que propicien ahorro de energía, uso eficiente de agua, un ambiente más confortable y saludable dentro de la vivienda de acuerdo con las características climáticas de la región.
 ARTÍCULO 659.- Para la investigación y desarrollo de la innovación tecnológica en materia de vivienda, el Consejo Estatal celebrará convenios con los organismos e instituciones interesados, además de propiciar la participación de las instituciones de educación superior o centros de investigación.
 CAPÍTULO VI

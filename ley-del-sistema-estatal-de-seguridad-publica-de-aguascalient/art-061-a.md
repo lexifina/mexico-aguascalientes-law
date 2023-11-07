@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2023)
+Artículo 61 A.- Adicional a lo previsto en el artículo que antecede, las Instituciones Policiales tanto del Estado como de los Municipios, en el ámbito de sus competencias deberán:
+I. Actuar en colaboración con las autoridades que conforman el Sistema Local de Protección de los Derechos de las Niñas, Niños y Adolescentes, de tal manera que levantarán informes acerca de las situaciones en que exista un riesgo inminente contra la vida, integridad personal o libertad de niñas, niños y adolescentes y los reportarán de inmediato a la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes, para que se realicen los procedimientos legales correspondientes; y
+II. Realizar las acciones necesarias para el cumplimiento de las disposiciones de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes.

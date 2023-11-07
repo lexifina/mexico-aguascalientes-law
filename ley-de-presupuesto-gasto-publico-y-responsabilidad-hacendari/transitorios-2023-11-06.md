@@ -1,0 +1,3 @@
+P.O. 6 DE NOVIEMBRE DE 2023.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 450.- SE REFORMA Y ADICIONA LA LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS".]
+ARTICULO ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
