@@ -5,5 +5,11 @@ II. Las autoridades garantizarán el derecho fundamental al agua, particularment
 III. Los usos del agua serán regulados por el Estado, a fin de propiciar el empleo eficiente y sustentable de este recurso, promoviendo por todos los medios una política pública de reúso del agua;
 IV. La gestión integral del agua y el fomento de cultura relativa a su cuidado y preservación, se basarán sobre la participación informada y responsable de los usuarios, el respeto de los derechos fundamentales y la consecución de los aspectos de mejora pretendidos mediante la implementación de las políticas públicas determinadas por las autoridades competentes en este campo;
 V. La prestación del servicio doméstico del agua tendrá preferencia en la distribución de este recurso respecto del resto de los usos previstos en esta Ley;
-VI. La contaminación de los recursos hídricos conllevará la responsabilidad de restaurar su calidad, conforme a la normatividad aplicable, por lo que la autoridad estará expedita para prevenir y sancionar las acciones y omisiones que puedan tener efectos nocivos sobre la calidad y disponibilidad del agua; y
-VII. Las autoridades implementarán las acciones necesarias para que el desarrollo de los centros urbanos se realice promoviendo el ordenamiento territorial y los mecanismos necesarios para proporcionar los servicios públicos, procurando en todo momento el equilibrio hídrico de conformidad con esta Ley.
+(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)
+VI. La contaminación de los recursos hídricos conllevará la responsabilidad de restaurar su calidad, conforme a la normatividad aplicable, por lo que la autoridad estará expedita para prevenir y sancionar las acciones y omisiones que puedan tener efectos nocivos sobre la calidad y disponibilidad del agua;
+(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)
+VII. Las autoridades implementarán las acciones necesarias para que el desarrollo de los centros urbanos se realice promoviendo el ordenamiento territorial y los mecanismos necesarios para proporcionar los servicios públicos, procurando en todo momento el equilibrio hídrico de conformidad con esta Ley;
+(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)
+VIII. Las autoridades en el ámbito de su competencia, procurarán la reutilización e incremento de la captación del agua de lluvia en todo el territorio estatal; y
+(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)
+IX. La política hídrica estatal deberá garantizar la seguridad hídrica, entendida esta como la capacidad institucional y de la ciudadanía para salvaguardar el acceso sostenible a cantidades adecuadas y de calidad aceptable del agua para sostener los medios de vida y garantizar el desarrollo económico.
