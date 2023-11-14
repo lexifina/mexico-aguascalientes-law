@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2023)
+ARTÍCULO 57 B. Además de los requisitos establecidos en el artículo 42 de la presente Ley, la persona titular de la Unidad Auxiliar Sustantiva de Ciberdelitos deberá acreditar que cuenta con preparación y conocimiento académicos en materia policial especializada de investigación de ciberdelitos o en cualquier disciplina afín, y deberá cubrir cualquier otro requisito que se establezca en el reglamento de la presente Ley.

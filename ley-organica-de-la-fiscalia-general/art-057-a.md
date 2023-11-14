@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2023)
+ARTÍCULO 57 A. La Unidad Auxiliar Sustantiva de Ciberdelitos adscrita a la Fiscalía Especializada en Investigación de Delitos de Alto Impacto, proveerá la gestión y supervisión de investigaciones cuya comisión del hecho presuntamente constitutivo del delito sea través del uso de funciones o elementos cibernéticos, para tal efecto combatirá las organizaciones criminales operando en o mediante el internet, con un enfoque policial especializado de investigación.
