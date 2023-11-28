@@ -1318,8 +1318,15 @@ II.- Cuando no ha refrendado su calidad de perito responsable de obra o especial
 III.- Cuando el Municipio respectivo expida la constancia o autorización de habitabilidad, ocupación y terminación de la obra, y
 IV.- En los demás supuestos que establezca el Código Municipal o Reglamento de Construcción.
 El término de las funciones del perito responsable de obra o especializado no le exime de la responsabilidad de carácter civil, administrativo o penal que pudiera derivarse de su intervención en la obra para la cual haya otorgado su responsiva profesional.
-ARTÍCULO 222.- Los propietarios o poseedores, están obligados conjuntamente con el perito responsable de la obra y especializado, a manifestar por escrito a la Secretaria Municipal la terminación de obras, anexando al escrito correspondiente fotocopia de licencia de construcción. El personal de esa Secretaría Municipal visitará aleatoriamente la obra en conjunto con el propietario o poseedor y los peritos, para verificar que la construcción corresponda al proyecto y plano autorizado y revisar que la bitácora de obra se encuentre actualizada por los peritos.
-Este requisito será indispensable para obras mayores de 60 metros cuadrados construidos, en obras cuya licencia haya requerido la responsiva de un perito y en desarrollos habitacionales con prototipos de vivienda. La constancia de terminación que, de este artículo se deriva, será requisito indispensable para la ocupación o habitabilidad del inmueble, así como para los trámites correspondientes en el Catastro Estatal o Municipal o el Registro Público de la Propiedad.
+(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)
+ARTÍCULO 222.- Los propietarios o poseedores, están obligados conjuntamente con el perito responsable de la obra y especializado, a manifestar por escrito a la Secretaria Municipal la terminación de obras, anexando la siguiente documentación:
+I.- Copia de la licencia de construcción;
+II.- Copia de los planos autorizados;
+III.- Bitácora de obra;
+IV.- Copia de la manifestación de su edificación previamente presentada ante el Instituto Registral y Catastral del Estado y ante la Secretaría de Finanzas Municipales correspondiente; y
+V.- Comprobante del pago correspondiente.
+El personal de esa Secretaría Municipal visitará aleatoriamente la obra en conjunto con el propietario o poseedor y los peritos, para verificar que la construcción corresponda al proyecto y plano autorizado y revisar que la bitácora de obra se encuentre actualizada por los peritos.
+Este requisito será indispensable para obras mayores de 60 metros cuadrados construidos, en obras cuya licencia haya requerido la responsiva de un perito y en desarrollos habitacionales con prototipos de vivienda. La constancia de terminación que, de este artículo se deriva, será requisito indispensable para la ocupación o habitabilidad del inmueble, así como para los trámites correspondientes en el Registro Público de la Propiedad.
 ARTÍCULO 223.- Para los efectos de este Código, la responsabilidad profesional de carácter civil y administrativa de los peritos responsables de obra o especializados, concluirá a los 5 años a partir de que el Municipio respectivo haya expedido la constancia de terminación de la obra. Dentro del mismo lapso, el Municipio podrá exigir el cumplimiento de las obligaciones derivadas de dicha responsiva.
 En caso de que dicha constancia no se hubiere expedido y a efecto de aplicar lo dispuesto en el párrafo anterior, el Municipio a solicitud de un interesado, requerirá un peritaje de antigüedad de la obra con cargo al propietario, poseedor legal, constructor, perito responsable de la obra y, en su caso, del especializado, a efecto de que en su caso se expida extemporáneamente la constancia de terminación de la obra, como medio de fincar o liberar de responsabilidades.
 ARTÍCULO 224.- En caso de daños en las construcciones por la aparición de discontinuidades, fallas o grietas geológicas, éstos no serán imputables al perito responsable de la obra y, en su caso, del especializado, al propietario, poseedor legal o a las autoridades, si dichas discontinuidades no se encontraban asentadas en el sistema de información que contiene su registro, en los programas de desarrollo urbano aplicables o en el estudio respectivo.
@@ -3185,23 +3192,30 @@ Sistema de Cooperación
 Sección Primera
 Objeto, Sujeto, Base Gravable, Pago y Sistema de Recaudación de Contribuciones de Obras y Servicios por Cooperación
 ARTÍCULO 693.- Se declara de utilidad pública e interés social la realización de obras y servicios que lleven a cabo o presten el Gobierno del Estado y los Municipios por medio del sistema de cooperación.
+(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)
+Podrán realizarse obras y servicios por medio del sistema de cooperación en asentamientos humanos irregulares susceptibles de regularizarse, caso en el que no se configurará los atentados al desarrollo urbano ordenado, previsto en el artículo 155 fracción IV del Código Penal para el Estado de Aguascalientes, exclusivamente en relación con ordenar la prestación de servicios públicos.
 ARTÍCULO 694.- En complemento a las disposiciones de este Código, en cuanto a los sistemas de financiamiento del desarrollo urbano, se aplicarán el Código Fiscal del Estado de Aguascalientes, las leyes estatales de hacienda y de ingresos y las leyes municipales de hacienda y de ingresos correspondientes.
-ARTÍCULO 695.- Las obras y servicios públicos que podrán financiarse a través del sistema de cooperación son:
+(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2023)
+ARTÍCULO 695.- Las obras y servicios públicos objeto del sistema de cooperación y que por tanto podrán financiarse a través de éste, son:
 I. La apertura, rectificación, ampliación y mejoramiento de vías públicas, carreteras, caminos, puentes, zonas de restricción y obras de seguridad vial, relacionados con tránsito de vehículos y peatones, pavimentación, guarniciones y banquetas;
 II. La creación de plazas, jardines, parques, espacios abiertos, áreas de preservación ecológica y campos deportivos;
 III. Obras de conservación y mejoramiento urbano;
 IV. Las de instalación, conservación y mejoramiento del alumbrado público, redes de electrificación limpia y obras de ornato que se realicen frente a los inmuebles;
 V. Las obras de electrificación necesarias para dotar a los centros de población de fluido eléctrico, para mejorar o ampliar las ya existentes;
-VI. Las obras de abastecimiento y saneamiento de agua potable, y su reúso, alcantarillado sanitario y alcantarillado pluvial y desagües;
+(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)
+VI. Las obras de abastecimiento y saneamiento de agua potable, y su reúso, alcantarillado sanitario y alcantarillado pluvial y desagües, pudiendo incluir líneas moradas a fin de brindar mantenimiento a camellones, parques, jardines o cualquier espacio público que lo requiera;
 VII. La construcción o acondicionamiento de equipamiento urbano para servicios públicos, tales como: escuelas, hospitales, hospicios, asilos, mercados, rastros, cementerios y terminales de vías de comunicación;
 VIII. Bordos, canales y obras de irrigación;
 IX. Las obras de regeneración urbana de aquellas zonas de los centros de población que se requieran para su reactivación económica, social y urbanística;
 X. Entubamiento o regeneración de aguas, ríos y arroyos;
 XI. Las obras y servicios públicos derivados de los programas de desarrollo urbano; y
-XII. Cualquier otro tipo de obra o servicios relacionados con la misma, tendentes a la integración y mejoramiento de los centros de población del Estado.
+(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)
+XII. Cualquier otro tipo de obra o servicios relacionados con la misma, tendentes a la integración y mejoramiento de los centros de población del Estado, o bien, cualquier otro servicio público que brinden los municipios.
 Las obras anteriores, así como los servicios serán realizados con los tipos de materiales apropiados según la zona de que se trate, y de acuerdo con los estudios que al efecto hagan las autoridades correspondientes.
-ARTÍCULO 696.- El financiamiento para las acciones a las que se refiere el C (sic) anterior, podrá incluir la adquisición de los bienes inmuebles necesarios para los fines previstos.
-ARTÍCULO 697.- La ejecución de obras relativas a las que se refiere el artículo 636 de este Código, podrán realizarse por el sistema de cooperación cuando el Municipio o el Gobierno del Estado así lo acuerden.
+(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)
+ARTÍCULO 696.- El financiamiento para las acciones a las que se refiere el artículo anterior, podrá incluir la adquisición de los bienes inmuebles necesarios para los fines previstos.
+(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)
+ARTÍCULO 697.- La ejecución de obras relativas a las que se refiere el artículo 695 de este Código, podrán realizarse por el sistema de cooperación cuando el Municipio respectivo o el Gobierno del Estado así lo determinen.
 ARTÍCULO 698.- Para los efectos del artículo anterior, se consideran de utilidad pública, una vez cubiertos los requisitos fijados en este Código:
 I. La construcción de la infraestructura, equipamiento e instalaciones necesarias para prestar los servicios de agua potable, saneamiento y su reúso, así como alcantarillado en los lugares que carezcan de los mismos o mejorar el ya existente, como servicio público proporcionado por el Municipio;
 II. La electrificación de las áreas urbanas, y rurales que carezcan del servicio tanto para usos domésticos como industriales;
@@ -3211,38 +3225,59 @@ V. La rescisión de los contratos de arrendamiento de los predios afectados mate
 Sección Segunda
 Sujeto
 ARTÍCULO 699.- Están obligados a contribuir al financiamiento del desarrollo urbano, las personas que se beneficien en forma especial, por la ejecución de las obras públicas o la prestación de servicios urbanos que realicen los gobiernos estatal y municipal.
-ARTÍCULO 700.- Las obras y servicios a que se refiere el artículo 674 de este Código, podrán ser realizados con apoyo en el sistema de cooperación, a través de los programas federales, estatales o municipales, bajo el esquema de coordinación que en su caso se establezca.
-ARTÍCULO 701.- Podrán promover las obras y servicios de utilidad pública e interés social, mediante el sistema de cooperación, tanto los propietarios o poseedores de inmuebles de la zona beneficiada, cuando representen un 70 % como mínimo, como el Municipio respectivo o el Gobierno del Estado o la Federación, a fin de que puedan realizarse oportunamente.
+(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 27 DE NOVIEMBRE DE 2023)
+En consecuencia, serán sujetos del sistema de cooperación y por tanto obligados a cubrir los derechos respectivos:
+I. Las personas propietarias de inmuebles ubicados en la calle donde se ejecuten las obras o se brinde el servicio, o de inmuebles interiores que tengan acceso a dicha calle o que por su cercanía a la obra o servicio sean beneficiadas. En estos casos, de haber persona poseedora del inmueble de que se trate, ésta será obligada solidaria en el pago de los derechos; y
+II. Las personas poseedoras de los inmuebles cuya ubicación sea alguna de las descritas en la fracción anterior pero no existan propietarios o no sean conocidos, o cuando su posesión se derive de contratos de promesa de venta, de venta con reserva dominio o de cualquier otro acto similar.
+(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)
+ARTÍCULO 700.- Las obras y servicios a que se refiere el artículo 695 de este Código, podrán ser realizados con apoyo en el sistema de cooperación, a través de los programas federales, estatales o municipales, bajo el esquema de coordinación que en su caso se establezca.
+(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)
+ARTÍCULO 701.- Podrán promover las obras y servicios de utilidad pública e interés social, a que se refiere el artículo 698 mediante el sistema de cooperación, tanto los propietarios o poseedores de inmuebles de la zona beneficiada, cuando representen un 70 % como mínimo, como el Municipio respectivo o el Gobierno del Estado o la Federación, a fin de que puedan realizarse oportunamente.
 ARTÍCULO 702.- Los consejos municipales funcionarán como mecanismos de representación y coordinación de la iniciativa privada y social, para colaborar con las autoridades municipales o estatales, en todo lo relativo a obras y servicios de carácter estatal, municipal o intermunicipal, bajo el sistema de cooperación.
-ARTÍCULO 703.- Bajo la coordinación del Consejo Municipal, los colonos podrán constituir comités de obra, a fin de promover la realización de obras y servicios por cooperación, ante los Municipios o el Gobierno del Estado.
-ARTÍCULO 704.- Los comités de obras por cooperación coadyuvarán con el Gobierno del Estado y el Municipio en la elaboración de los proyectos de costo, así como la repercusión de la cooperación entre los propietarios beneficiados.
-ARTÍCULO 705.- Los comités de obras por cooperación, con la coordinación de los comités municipales coadyuvarán en la elaboración de los estudios de las obras en las que intervengan con el Municipio o con el Estado.
+(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)
+ARTÍCULO 703.- Los colonos, atendiendo a lo previsto en el artículo 701 del presente Código, podrán presentar propuestas ante el Consejo Estatal o ante los Consejos Municipales, para la realización de obras y servicios por cooperación a fin de que se promuevan ante el Gobierno del Estado o el Municipio que corresponda.
+(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)
+ARTÍCULO 704.- El Consejo Estatal y los Consejos Municipales coadyuvarán con el Gobierno del Estado y el Municipio en la elaboración de los proyectos de costo, así como la repercusión de la cooperación entre los propietarios o poseedores beneficiados.
+Cuando la ley de ingresos estatal o municipal, según corresponda, ya establezca tarifas para el pago de derechos por la obra o servicio público a financiarse a través del sistema de cooperación, se cobrarán dichas tarifas y en esos casos no será aplicable lo previsto en las secciones tercera, cuarta y quinta del presente Capítulo.
+(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)
+ARTÍCULO 705.- El Consejo Estatal o los Consejos Municipales, según corresponda, coadyuvarán en la elaboración de los estudios de las obras en las que intervengan con el Municipio o con el Estado.
 Sección Tercera
 Dictamen y el Procedimiento
 ARTÍCULO 706.- Una vez realizados los estudios técnicos correspondientes sobre los diversos aspectos de la obra, servicio, costo y repercusión, precios unitarios, bases para calcular la cuota que a cada cooperador corresponde y, en general, todos los aspectos relacionados a la obra o servicio como proyectos de contrato de obras, financiamiento y sus bases, el Municipio correspondiente escuchando la opinión de los Consejos Municipales, emitirá su dictamen. En el caso de que sea Gobierno del Estado, el titular de la realización de la obra u obras deberá tomar en cuenta la opinión de los consejos municipales por conducto de la SEPLAPDE, para emitir su dictamen respectivo.
-Aprobado el dictamen por el Municipio o por el Gobierno del Estado, previa reunión con los propietarios o beneficiarios de la obra o servicio, se turnará al Municipio o al Titular del Ejecutivo Estatal, para su consideración y aprobación definitiva.
+(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)
+Aprobado el dictamen por el Municipio o por el Gobierno del Estado, previa reunión con los propietarios o poseedores que se beneficien de la obra o servicio, se turnará al Ayuntamiento o al Titular del Ejecutivo Estatal, para su consideración y aprobación definitiva.
 Cumplidos los requisitos, las obras o servicios públicos serán considerados de utilidad pública y se observarán los procedimientos previstos en este Código.
 Sección Cuarta
 Reunión
 ARTÍCULO 707.- Una vez realizada la fase de procedimiento de estudios y proyección técnica, previo al dictamen definitivo y a la ejecución de las obras mencionadas en este Código, el Municipio o el Gobierno del Estado citará a los propietarios y poseedores de la zona correspondiente a una reunión para informar sobre los diversos aspectos de la obra o servicio, así como de los contratos que se hubieren proyectado.
-ARTÍCULO 708.- En esa reunión se escuchará a los propietarios o beneficiarios, quienes podrán opinar respecto de todos los puntos de la obra o servicio, repercusión de su costo, precios unitarios, bases de cálculo de la cuota de cooperación que corresponda, así como todo aquello que a su derecho convenga.
-ARTÍCULO 709.- Para la realización de la reunión, se citará a los propietarios o beneficiarios de la obra o servicio en su domicilio, con 2 días hábiles de anticipación por lo menos, así como mediante un edicto publicado en el Periódico Oficial del Estado y en uno de los diarios de circulación estatal. El citatorio señalará la hora, día y lugar de la reunión, así como el asunto a tratar.
-La reunión será presidida por la persona que al efecto acredite ser representante del Municipio o del Gobierno del Estado, y se celebrará con los propietarios que asistan.
-ARTÍCULO 710.- Para tener derecho a concurrir a las reuniones de propietarios o beneficiarios y participar en ellas con voz y voto, el interesado deberá exhibir escritura pública o título certificado que lo acredite como propietario del inmueble dentro de la zona beneficiada con las obras de cooperación.
+(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)
+ARTÍCULO 708.- En esa reunión se escuchará a los propietarios o poseedores que se beneficien, quienes podrán opinar respecto de todos los puntos de la obra o servicio, repercusión de su costo, precios unitarios, bases de cálculo de la cuota de cooperación que corresponda, así como todo aquello que a su derecho convenga.
+(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)
+ARTÍCULO 709.- Para la realización de la reunión, se citará a los propietarios o poseedores que se beneficien de la obra o servicio en su domicilio, con 2 días hábiles de anticipación por lo menos, así como mediante un edicto publicado en el Periódico Oficial del Estado y en uno de los diarios de circulación estatal. El citatorio señalará la hora, día y lugar de la reunión, así como el asunto a tratar.
+La reunión será presidida por la persona que al efecto acredite ser representante del Municipio o del Gobierno del Estado, y se celebrará con los propietarios o poseedores que asistan.
+(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)
+ARTÍCULO 710.- Para tener derecho a concurrir a las reuniones de propietarios o poseedores beneficiados y participar en ellas con voz y voto, se necesitará, además de exhibir identificación oficial:
+I. Tratándose de propietarios, exhibir escritura pública, título, o bien, recibo de pago del impuesto predial del año que transcurra, que acredite como propietario del inmueble;
+II. Tratándose de poseedores de inmuebles cuyos propietarios no existan o sean desconocidos, como puede ocurrir tratándose de asentamientos humanos irregulares, ser acompañados por dos testigos que se identifiquen y que constaten dicha posesión; y
+III. Tratándose de poseedores cuya posesión se derive de contratos de promesa de venta, de venta con reserva de dominio o de cualquier otro acto similar, exhibir el contrato o documento en el que conste ello.
 ARTÍCULO 711.- De toda reunión se levantará un acta en la que se asienten los nombres completos de los asistentes que presidieron la reunión, así como los pormenores de la misma, debiéndose adjuntar la lista de asistencia. Acta que se agregará a los estudios técnicos referidos en este Código para efectos de que el Municipio o el Gobierno del Estado emitan su aprobación definitiva, previo dictamen del Consejo Municipal respectivo.
 Se deberá entregar copia certificada a quien funja como representante de los beneficiarios para los efectos legales a que haya lugar.
-ARTÍCULO 712.- Cada propietario o beneficiario representará un voto, aun cuando fuere propietario de varios inmuebles dentro de la zona. El poseedor legítimo podrá asistir a las reuniones con voz, pero sin voto.
+(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2023)
+ARTÍCULO 712.- Cada propietario o poseedor beneficiado representará un voto, aun cuando fuere propietario o poseedor de varios inmuebles dentro de la zona. El poseedor legítimo cuando no se encuentre en alguno de los supuestos previstos en el artículo 699 fracción II de este Código, podrá asistir a las reuniones con voz, pero sin voto.
 Los interesados podrán concurrir personalmente o bien por medio de apoderado acreditado por simple carta poder ante dos testigos.
 Sección Quinta
 Aprobación de los Proyectos de Ejecución de Obras o Servicios
 ARTÍCULO 713.- La ejecución de los proyectos de obras o servicios, su precio, contratación, costo, precios unitarios, bases para calcular las cuotas de cooperación y el plazo para su pago, se tendrán por aprobados cuando:
-I. No hubiere concurrido ningún propietario;
+(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)
+I. No hubiere concurrido ningún propietario o poseedor beneficiados;
 II. La mayoría de los que concurran otorguen su consentimiento;
-III. Hubiere oposición de menos del 40% de los propietarios; y
+(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)
+III. Hubiere oposición de menos del 40% de los propietarios o poseedores beneficiados; y
 IV. Habiéndose formulado oposición por la mayoría que establece este Código, no se formalice por escrito oportunamente mediante el recurso que establece la Ley del Procedimiento Administrativo del Estado o juicio de nulidad contemplado en la Ley del Procedimiento Contencioso Administrativo del Estado.
 ARTÍCULO 714.- Los contratos para la ejecución de obras y servicios incluirán estipulaciones sobre los precios y bases de liquidación, forma de pago, especificaciones, calidad de materiales, tiempo de ejecución, cláusulas penales para el caso de incumplimiento y garantías que deben otorgar los contratistas.
 ARTÍCULO 715.- Las especificaciones de calidad de materiales incluidos en los contratos respectivos, serán acordes con las normas de calidad que deberá señalar el Gobierno del Estado a través de la SOP, o el Municipio.
-ARTÍCULO 716.- El contrato de obras por cooperación será nulo de pleno derecho, en los casos de contubernio o asociación con los contratistas de obras. El texto de este ARTÍCULO deberá insertarse en los contratos que el Municipio, el Gobierno del Estado o el tercero designado por los anteriores celebren para la ejecución de obras.
+(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)
+ARTÍCULO 716.- El contrato de obras por cooperación será nulo de pleno derecho, en los casos de contubernio o asociación con los contratistas de obras. El texto de este artículo deberá insertarse en los contratos que el Municipio, el Gobierno del Estado o el tercero designado por los anteriores celebren para la ejecución de obras.
 Sección Sexta
 Verificación y Supervisión
 ARTÍCULO 717.- El Gobierno del Estado por conducto de la SOP, o el Municipio correspondiente deberán, mediante residencias de obras, verificar que las obras o servicios por cooperación se ajusten a las normas de calidad que se hubieren establecido.
@@ -3251,20 +3286,30 @@ Asimismo, los beneficiarios supervisarán la ejecución de los proyectos por con
 Las obras o servicios por cooperación podrán ser ejecutados por el Municipio o por el Estado, directamente o a través de la contratación de terceros.
 Sección Séptima
 Pago y el Sistema de Recaudación
-ARTÍCULO 719.- El costo de las obras se aplicará equitativamente entre los propietarios beneficiados y entre las autoridades cuando éstas participen con financiamiento, conforme a lo establecido en el estudio técnico correspondiente, aprobado en definitiva por el Gobierno del Estado o por el Municipio.
+(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2023)
+ARTÍCULO 719.- El costo de las obras se aplicará equitativamente entre los propietarios o poseedores beneficiados conforme al artículo 699 del presente Código, y entre las autoridades cuando éstas participen con financiamiento, conforme a lo establecido en el estudio técnico correspondiente, aprobado en definitiva por el Gobierno del Estado o por el Municipio.
 La aportación definida para cada beneficiario será obligatoria para la totalidad de estos, si el 60 % más uno, manifiestan su conformidad con la obra y con el monto de la cooperación.
-ARTÍCULO 720.- El Estado, los Municipios y, en su caso, la Federación, aportarán conjunta o separadamente recursos para la ejecución de las obras o servicios por cooperación, de acuerdo con los convenios que celebren.
-ARTÍCULO 721.- Los beneficiarios otorgarán sus aportaciones conforme a la calendarización aprobada conjuntamente con el proyecto de obra respectivo. Los Municipios o el Estado podrán aceptar la aportación de los beneficiarios mediante materiales de construcción o mano de obra.
-ARTÍCULO 722.- Cada propietario cubrirá por cooperación:
+(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)
+ARTÍCULO 720.- El Estado, los Municipios y, en su caso, la Federación, podrán aportar conjunta o separadamente recursos para la ejecución de las obras o servicios por cooperación, de acuerdo con los convenios que celebren.
+(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)
+ARTÍCULO 721.- Los beneficiarios otorgarán sus aportaciones conforme a la calendarización aprobada con el proyecto de obra respectivo.
+Cuando la ley de ingresos estatal o municipal, según corresponda, ya establezca tarifas para el pago de derechos por la obra o servicio público de que se trate, su época de pago se sujetará a lo previsto en dichos ordenamientos y en las leyes hacendarias aplicables.
+Los Municipios o el Estado podrán aceptar la aportación de los beneficiarios mediante materiales de construcción o mano de obra.
+(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2023)
+ARTÍCULO 722.- Cada propietario o poseedor beneficiados conforme al artículo 699 del presente Código, cubrirá por cooperación:
 I. El costo del pavimento comprendido al frente del predio hasta el eje de la calle, que comprende las obras preparatorias, como movimiento de terracerías, preparación de base y demás obras necesarias;
 II. La derrama proporcional al frente del predio por el cubo de la esquina;
 III. El costo de la construcción, reposición o reparación de las guarniciones y de las banquetas, en su caso;
 IV. El costo de las obras de alumbrado público y electrificación, que se distribuirán entre los predios ubicados en la zona beneficiada, en proporción a los frentes de cada uno;
 V. El costo de las obras de agua potable, drenaje, alcantarillado y plantas de tratamiento de aguas residuales, que se distribuirá entre todos los predios ubicados en la zona beneficiada, en proporción a la superficie de cada uno. Se considerará como parte del costo, el precio de relleno, consolidación de las capas y la reposición de pavimentos; y
 VI. El costo de obras o servicios de infraestructura y equipamiento urbano que se efectúen bajo el sistema de cooperación.
+(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)
+Cuando la ley de ingresos estatal o municipal, según corresponda, ya establezca tarifas para el pago de derechos por la obra o servicio público de que se trate, cada propietario o poseedor, según corresponda, deberá realizar el pago a razón de dichas tarifas.
 ARTÍCULO 723.- Las cuotas que corresponda cubrir a los particulares beneficiados con las obras por cooperación, tendrán el carácter de créditos fiscales objetivos como gravámenes reales sobre los inmuebles respectivos, inscribiéndose en el Registro Público, sin costo alguno y se harán efectivos al vencerse los términos fijados en cada caso.
 ARTÍCULO 724.- Cuando los cooperadores no hagan la exhibición oportuna de sus aportaciones, se dará cuenta a las autoridades hacendarias estatales o municipales, solicitando su intervención para que se hagan efectivos los pagos, respecto a los adeudos fiscales.
-ARTÍCULO 725.- El importe de la cooperación a cargo de cada propietario, se cubrirá conforme a la calendarización aprobada. El plazo máximo para cubrir las aportaciones no podrá ser mayor a 5 años. En el caso de los programas federales, los pagos se harán en el año fiscal en que se ejecute la obra salvo convenio expreso que celebren los propietarios o beneficiarios con el Municipio.
+(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)
+ARTÍCULO 725.- El importe de la cooperación a cargo de cada propietario o poseedor, se cubrirá conforme a la calendarización aprobada. El plazo máximo para cubrir las aportaciones no podrá ser mayor a 5 años. En el caso de los programas federales, los pagos se harán en el año fiscal en que se ejecute la obra salvo convenio expreso que celebren los propietarios o poseedores beneficiados con el Municipio.
+Cuando la ley de ingresos estatal o municipal, según corresponda, ya establezca tarifas para el pago de derechos por la obra o servicio público de que se trate, su época de pago se realizará conforme a lo señalado en el artículo 721 párrafo segundo de este Código.
 ARTÍCULO 726.- Los pagos se efectuarán ante la Tesorería Municipal o su equivalente o la Secretaría de Finanzas del Estado. Las aportaciones se cubrirán a partir de que hubieran iniciado la obra correspondiente.
 ARTÍCULO 727.- El Gobierno del Estado por conducto de la Secretaría de Finanzas, o los Municipios, a través de las tesorerías municipales, notificará al cooperador una resolución en la cual se establecerá el monto, forma de pago; así como el plazo señalado para tal efecto.
 Si el beneficiario no cumple con las aportaciones en tiempo y forma, la Secretaría de Finanzas o las tesorerías municipales podrán otorgarle convenio para el pago en parcialidades. La falta de pago de tres mensualidades consecutivas, hará exigible la totalidad del crédito fiscal.
@@ -3273,8 +3318,11 @@ ARTÍCULO 729.- Las demoras en los pagos de las cuotas por cooperación generar�
 ARTÍCULO 730.- El producto de las recaudaciones generadas por las aportaciones de los beneficiarios, serán puestas a disposición del Municipio o del Gobierno del Estado de conformidad con el convenio de coordinación celebrado entre estos a efecto de que recupere el financiamiento.
 ARTÍCULO 731.- El Municipio o el Gobierno del Estado podrán estipular como garantía en los contratos que otorguen para la construcción de las obras o servicios que la recaudación de las cooperaciones sea dada en fideicomiso a una institución de crédito; pero el otorgamiento de esta garantía será incompatible con el aval de Gobierno del Estado o de los Municipios.
 ARTÍCULO 732.- El Municipio o el Gobierno del Estado, actuando de acuerdo con las facultades que le otorga el presente Código, determinará en la aprobación definitiva del dictamen emitido por el consejo, la cantidad líquida que conforme a las bases que se establecen en este ordenamiento, corresponda a cada cooperador.
+(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)
+Cuando la ley de ingresos estatal o municipal, según corresponda, ya establezca tarifas para el pago de derechos por la obra o servicio público de que se trate, las cantidades líquidas que deberá pagar cada cooperador serán determinadas por las instancias facultadas por dichos ordenamientos y las leyes hacendarias aplicables.
 ARTÍCULO 733.- El Municipio o la Secretaría de Finanzas del Estado, notificarán al cooperador el importe de la cuota a su cargo, mediante un instructivo que expresará:
-I. Nombre del propietario;
+(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)
+I. Nombre del propietario o poseedor;
 II. Ubicación del inmueble o inmuebles;
 III. Cuando se trate de obras de pavimentación se incluirá la extensión del frente de la propiedad; del ancho de la calle; superficie sobre la cual deberá pagarse; cuota por metro cuadrado y participación de la derrama por el cubo en la esquina, así como el cargo por guarniciones y banquetas, en su caso;
 IV. Tratándose de obras de electrificación general y de alumbrado público, se precisará la extensión del frente de la propiedad;
@@ -3283,6 +3331,8 @@ VI. El importe líquido total de la cooperación;
 VII. El importe de cada pago mensual;
 VIII. La fecha de iniciación de los pagos; y
 IX. El apercibimiento de que en caso de no cubrirse en tiempo y forma las cuotas por cooperación, se llevará a cabo el procedimiento administrativo de ejecución.
+(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)
+Los notarios públicos, el Registro Público y las autoridades catastrales no darán trámite a operaciones de transmisión de dominio de un inmueble cuando no se esté al corriente en el pago de los derechos que correspondan por el sistema de cooperación.
 Sección Octava
 Cooperación Intermunicipal
 ARTÍCULO 734.- Cuando las obras y servicios a que hace referencia el presente Código se encuentren ubicadas entre dos o más Municipios, se tomará en cuenta lo dispuesto en el convenio de creación de la zona conurbada y metropolitana, con el objeto de elaborar la iniciativa correspondiente y comenzar los trámites referentes a la planeación y ejecución de las obras y servicios.
