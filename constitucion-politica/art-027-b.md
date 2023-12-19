@@ -4,8 +4,8 @@ Artículo 27 B.- El Congreso del Estado emitirá la convocatoria para elegir al 
 El Auditor Superior de Fiscalización, además de los requisitos previstos en las Fracciones III y IV del Artículo 53 de esta Constitución requeridos para ser Magistrado del Supremo Tribunal de Justicia y Fiscal General del Estado, deberá de reunir los siguientes:
 (REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2023)
 I. Ser persona ciudadana mexicana, originaria del Estado de Aguascalientes o con residencia mínima de tres años al momento de su designación.
-(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE AGOSTO DE 2023)
-II. Contar el día de su designación, con antigüedad mínima de 10 años, con título profesional de contador público, licenciado en derecho o abogado, licenciado en economía, licenciado en administración o cualquier otro título profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello.
+(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)
+II. Contar el día de su designación, con antigüedad mínima de 10 años, con título profesional de contador público, licenciado en derecho o abogado, licenciado en economía o cualquier otro título profesional relacionado con las actividades de fiscalización, auditoría o de control interno, expedido por autoridad o institución legalmente facultada para ello.
 (REFORMADA, P.O. 14 DE AGOSTO DE 2023)
 III. Contar con experiencia de cinco años en materia de control interno y administración de riesgos, auditoría para la revisión y fiscalización de cuentas públicas, y/o en responsabilidades administrativas.
 (REFORMADA, P.O. 14 DE AGOSTO DE 2023)
