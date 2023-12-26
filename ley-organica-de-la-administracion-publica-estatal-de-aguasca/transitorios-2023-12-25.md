@@ -1,0 +1,5 @@
+P.O. 25 DE DICIEMBRE DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 524.- SE REFORMA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL".]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO.- La Secretaría de Desarrollo Rural y Agroempresarial dentro del plazo de 180 días a partir de la fecha en que entre en vigor el presente Decreto, realizará todas las adecuaciones presupuestales a que haya lugar, para solventar la entrega de apoyos directos a los trabajadores del campo.
+ARTICULO TERCERO.- La Secretaría de Desarrollo Rural y Agroempresarial, dentro del plazo de 180 días contados a partir de la fecha en que se hayan asignado los recursos solicitados, deberá emitir las reglas para su asignación y determinación, así como los mecanismos para la entrega de los apoyos directos a los trabajadores del campo, los cuales una vez instaurados deberán ser difundidos, para dar a conocer el proceso del trámite que los interesados habrán de llevar a cabo.
