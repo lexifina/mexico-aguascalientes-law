@@ -4,5 +4,6 @@ I.- Representar legalmente ante cualquier instancia a la Comisión, en los proce
 II.- Suscribir escritos y desahogar los trámites que correspondan a los casos urgentes relativos a términos, interposición de recursos y recepción de toda clase de notificaciones;
 III.- Realizar y llevar a cabo las notificaciones emanadas por acuerdo de la Comisión de Honor y Justicia.
 IV.- Requerir a los servidores público (sic) de las unidades administrativas de la Secretaría de Seguridad Pública Municipal, por cualquier medio, la documentación e información necesarios para el cumplimiento de sus atribuciones y para realizar las diligencias solicitadas por cualquier autoridad. En caso de omisión del servidor público requerido, podrá solicitarse a través de su superior jerárquico el cumplimiento de la misma;
-V.- Presentar ante los miembros de la Comisión de Seguridad Pública dentro de sus sesiones ordinarias o cuando así lo requiera cualquiera de sus integrantes, un informe detallado sobre los asuntos que guarda la Coordinación de Asuntos de Honor y Justicia; y
+(REFORMADA, P.O. 1 DE ENERO DE 2024)
+V.- Presentar ante los miembros de la Comisión de Seguridad Pública dentro de sus sesiones ordinarias o cuando así lo requiera cualquiera de sus integrantes, un informe detallado sobre los asuntos que guarda el Departamento de Asuntos de Honor y Justicia; y
 VI.- Las demás que le confiera la Comisión y las disposiciones legales aplicables.
