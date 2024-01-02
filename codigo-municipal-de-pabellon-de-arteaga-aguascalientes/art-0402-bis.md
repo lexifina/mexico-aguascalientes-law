@@ -1,0 +1,52 @@
+(ADICIONADO, P.O. 1 DE ENERO DE 2024)
+ARTICULO 402 BIS.- Son derechos de los particulares en relación a los servicios públicos municipales:
+I. Que les sean prestados los servicios públicos municipales de manera eficiente, eficaz y con pleno respeto a sus derechos humanos;
+II. Que los servicios públicos se presten garantizando la promoción, protección y preservación el (sic) medio ambiente, procurando que éste sea el adecuado para su desarrollo, salud y bienestar;
+III. Denunciar o dar aviso a las autoridades de cualquier acción u omisión que se cometa por los particulares que pudiera afectar la prestación de un servicio público municipal;
+IV. Denunciar o dar aviso a las autoridades cuando se incumplan o infrinjan las disposiciones que en materia de servicios públicos se establecen;
+V. Participar en los asuntos de interés de su colonia, barrio, delegación o comisaría, que tiendan a resolver problemas comunitarios, acorde a las disposiciones legales aplicables;
+VI. Proponer medidas y reformas necesarias, a fin de mejorar los sistemas administrativos y la mejor prestación de los servicios públicos municipales, a través del Consejo de Participación Ciudadana;
+VII. Que se les mantenga informados de aquellos cambios que se den dentro de la administración municipal en la prestación de los servicios públicos a efecto de que sean aprovechados por la ciudadanía;
+VIII. Acceder a los manuales de organización, de procedimientos y al Directorio de trámites y servicios públicos de la administración municipal;
+IX. Presentar quejas cuando la prestación de servicios públicos resulte ser deficiente o insuficiente;
+X. A que las autoridades municipales competentes dicten las medidas necesarias para que las quejas sean resueltas a la brevedad posible;
+XI. Que el servicio de limpieza y recolección de basura se preste con regularidad y eficiencia, teniendo la mayor cobertura posible;
+XII. Que se mantengan limpias y libres de obstáculos las calles, avenidas y lotes baldíos;
+XIII. Que se informe a los habitantes de cada zona sobre los horarios, días y condiciones de recolección de basura;
+XIV. Contar con suficientes contenedores de basura y que estos se mantengan en buen estado;
+XV. A que la autoridad municipal competente les proporcione información sobre los horarios y lugares en los que podrán hacer el depósito de residuos sólidos, desechos de construcción, líquidos, sustancias químicas, residuos de talleres mecánicos, desechos cárnicos o biológicos;
+XVI. A que la autoridad municipal correspondiente vigile la introducción de ganado para sacrificio y el abasto de carnes propias para el consumo humano y verifique su calidad sanitaria, asegurando aquel que no resulte apto para tales efectos;
+XVII. A que la autoridad municipal competente realice la inspección y control del transporte y de los establecimientos dedicados a la venta de productos cárnicos, garantizando su higiene y preservación;
+XVIII. A que la autoridad municipal competente supervise e inspeccione los mercados y tianguis a efecto de garantizar las condiciones de salubridad;
+XIX. A que la autoridad municipal competente realice el mantenimiento preventivo y correctivo de luminarias y equipos de alumbrado y electrificación públicos;
+XX. A que la autoridad municipal competente instale nuevas luminarias para ampliar la cobertura de alumbrado público;
+XXI. Que los parques, plazas, camellones y jardines públicos se mantengan en las mejores condiciones posibles;
+XXII. Presentar, a través de la Dirección de Desarrollo Social, iniciativas tendentes a satisfacer las necesidades en cuanto a obras y prestación de los servicios públicos municipales;
+XXIII. Que se lleve a cabo el programa de Atención al Público identificándose el nivel y la calidad de los servicios públicos municipales, así como el tiempo de respuesta a las solicitudes ciudadanas, con el fin de mejorar la prestación del servicio;
+XXIV. Que, en caso de ser necesario y procedente conforme a las disposiciones legales aplicables, se municipalicen los servicios;
+XXV. Que al instalarse el alumbrado público se utilicen las luminarias, conductores, cableado y demás materiales que cumplan con las normas internacionales para la construcción de sistemas de iluminación, que emite la Asociación Internacional de Construcciones Eléctricas;
+XXVI. Que para la prestación del servicio de alumbrado público se cumplan con los estándares de calidad y seguridad que emanen de las disposiciones legales aplicables;
+XXVII. Que el mantenimiento básico de las áreas verdes públicas se realice de manera constante, eficiente y eficaz para lograr que éstas se encuentren en las mejores condiciones posibles;
+XXVIII. Que se priorice la reubicación de los árboles vivos de los que se solicite su derribo o extracción, en tanto su reubicación no resulte perjudicial al medio ambiente;
+XXIX. Que se lleven a cabo campañas de forestación, reforestación y plantación, por conducto de la autoridad municipal competente;
+XXX. Que se lleven a cabo acciones tendentes a prevenir, disminuir y detener el deterioro ambiental y el desequilibrio ecológico;
+XXXI. Que las políticas públicas que se adopten en el Municipio se encuentren ajustadas al desarrollo sustentable reduciendo el impacto ambiental;
+XXXII. Que se promueva, vigile y garantice el cuidado de la flora y la fauna existente en el Municipio;
+XXXIII. Que se establezcan acciones y restricciones en materia ambiental para la prevención, control y mitigación de contaminantes, así como para evitar el deterioro ambiental;
+XXXIV. Que se lleven a cabo evaluaciones de impacto ambiental para evitar la realización de obras o actividades públicas y privadas que puedan causar desequilibrios ecológicos;
+XXXV. Que se establezcan áreas naturales protegidas a efecto de garantizar la conservación a largo plazo de la naturaleza y de sus servicios ambientales, así como de sus valores espirituales y culturales asociados;
+XXXVI. Que se promuevan y realicen campañas de educación ambiental y de reciclaje;
+XXXVII. Que se prevenga y controle la contaminación de la atmósfera, generada por fuentes que no sean de jurisdicción Estatal o Federal;
+XXXVIII. Que se promueva la cultura de la protección y bienestar animal;
+XXXIX. Que se lleve un control de la sobrepoblación de animales;
+XL. Que se realicen campañas de esterilización accesibles y asequibles;
+XLI. Que se prevenga y sancione la crueldad y el maltrato animal;
+XLII. Recibir protección de los ataques de animales agresores;
+XLIII. A que las autoridades municipales competentes verifiquen y se cercioren del cumplimiento de las obligaciones y restricciones legales de las personas propietarias o poseedoras de animales, descritas en los artículos 669 BIS B y 669 BIS C del presente Código Municipal y de las demás disposiciones legales aplicables;
+XLIV. Crear espacios en los que, sin fines de lucro, den refugio a animales domésticos en desamparo hasta su fallecimiento, sean dados en entrega responsable o bien, si es necesario se decida su sacrificio;
+XLV. Acceder a los servicios de inhumación, reinhumación, exhumación y cremación de cadáveres, cuando se cumplan con los requisitos previstos en el presente Código y previo pago de los derechos correspondientes;
+XLVI. Que el lote, gaveta, nicho o fosa, en que se depositarán los restos humanos, se presente en buen estado, limpio y cumpla con las medidas necesarias y suficientes para brindar el servicio;
+XLVII. Visitar los panteones en los días y horas habilitados para tal efecto;
+XLVIII. Recibir el servicio de agua potable y alcantarillado, los propietarios frente a cuyos predios se encuentren instaladas las tuberías de distribución de agua y de recolección de aguas residuales y pluviales, previa solicitud a la CAPAPA de la instalación de las tomas respectivas y la conexión de sus descargas, así como previo cumplimiento de los requisitos y pago de derechos y tarifas correspondientes;
+XLIX. Los referidos en el artículo 616 del presente Código Municipal; y
+L. Los demás que le señalen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, las leyes que de ambas emanen y las demás disposiciones jurídicas vigentes en el municipio.

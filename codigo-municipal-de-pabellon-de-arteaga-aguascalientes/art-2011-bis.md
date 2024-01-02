@@ -38,18 +38,26 @@ g) Por arrojar animales vivos en recipientes para su cocción o freimiento;
 h) Por utilizar animales en experimentos cuando la disección no tenga una finalidad científica;
 i) Por colgar al animal vivo o quemarlo;
 j) Por extraerles las uñas o mutilarles los dientes o cualquier otra parte de su cuerpo por razones puramente estéticas o para facilitar su venta;
+(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE ENERO DE 2024)
 k) Por trasladar a los animales arrastrándolos, suspendidos de los miembros superiores o inferiores o en el interior de costales, cajas o bolsas sin ventilación
-Por utilizar a los animales para prácticas sexuales;
-l) Por introducir animales vivos a los refrigeradores, hornos de microondas, estufas, tubos, drenajes, alcantarillas, cajas, pozos, enterrarlos vivos, o llevar a cabo cualquier procedimiento que les produzca daño;
-m) Por abandonarlos en el interior de las fincas sin los cuidados necesarios, por cambio de domicilio o por ausentarse durante tiempo prolongado;
-n) Por producir la muerte del animal por un medio que le cause dolor, sufrimiento o que le prolongue su agonía;
-ñ) Por utilizar para el trabajo a los animales desnutridos, enfermos, cojos, heridos, con lesiones por mataduras o en etapa de gestación o aquellos impedidos para el trabajo debido a su poca o avanzada edad, y
-o) Por utilizar a los vehículos tirados por animales para trasladar mercancías, personas u objetos de un peso desproporcionado a la talla y condiciones del animal.
-(ADICIONADO, P.O. 2 DE MARZO DE 2020)
-p) Por utilizar para el trabajo a los animales desnutridos, enfermos, cojos, heridos, con lesiones por mataduras o en etapa de gestación o aquellos impedidos para el trabajo debido a su poca o avanzada edad;
-(ADICIONADO, P.O. 2 DE MARZO DE 2020)
-q) Por utilizar a los vehículos tirados por animales para trasladar mercancías, personas u objetos de un peso desproporcionado a la talla y condiciones del animal;
-(ADICIONADO, P.O. 2 DE MARZO DE 2020)
-r) A los establecimientos comerciales y de servicios que entreguen al consumidor final, ya sea a título gratuito, de manera onerosa o con motivo de cualquier acto comercial bolsas, envases y embalajes de plástico, unicel y de otros materiales no reciclables utilizados en la prestación de sus servicios y que no acaten lo previsto en artículo 479 BIS, y
-(ADICIONADO, P.O. 2 DE MARZO DE 2020)
-s) Por detonar o encender cohetes, juegos pirotécnicos, o elevar aeróstatos en fiestas particulares, festividades religiosas, cívicas, políticas y sociales tanto públicas como privadas con excepción de lo previsto en artículo 683 BIS.
+(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE ENERO DE 2024)
+(REFORMADO, P.O. 1 DE ENERO DE 2024)
+l) Por utilizar a los animales para prácticas sexuales;
+(REFORMADO, P.O. 1 DE ENERO DE 2024)
+m) Por introducir animales vivos a los refrigeradores, hornos de microondas, estufas, tubos, drenajes, alcantarillas, cajas, pozos, enterrarlos vivos, o llevar a cabo cualquier procedimiento que les produzca daño;
+(REFORMADO, P.O. 1 DE ENERO DE 2024)
+n) Por abandonarlos en el interior de las fincas sin los cuidados necesarios, por cambio de domicilio o por ausentarse durante (sic) tiempo prolongado;
+(REFORMADO, P.O. 1 DE ENERO DE 2024)
+ñ) Por producir la muerte del animal por un medio que le cause dolor, sufrimiento o que le prolongue su agonía;
+(REFORMADO, P.O. 1 DE ENERO DE 2024)
+o) Por utilizar para el trabajo a los animales desnutridos, enfermos, cojos, heridos, con lesiones por mataduras o en etapa de gestación o aquellos impedidos para el trabajo debido a su poca o avanzada edad, y
+(REFORMADO, P.O. 1 DE ENERO DE 2024)
+p) Por utilizar a los vehículos tirados por animales para trasladar mercancías, personas u objetos de un peso desproporcionado a la talla y condiciones del animal.
+(REFORMADO, P.O. 1 DE ENERO DE 2024)
+q) Por utilizar para el trabajo a los animales desnutridos, enfermos, cojos, heridos, con lesiones por mataduras o en etapa de gestación o aquellos impedidos para el trabajo debido a su poca o avanzada edad;
+(REFORMADO, P.O. 1 DE ENERO DE 2024)
+r) Por utilizar a los vehículos tirados por animales para trasladar mercancías, personas u objetos de un peso desproporcionado a la talla y condiciones del animal;
+(REFORMADO, P.O. 1 DE ENERO DE 2024)
+s) A los establecimientos comerciales y de servicios que entreguen al consumidor final, ya sea a título gratuito, de manera onerosa o con motivo de cualquier acto comercial bolsas, envases y embalajes de plástico, unicel y de otros materiales no reciclables utilizados en la prestación de sus servicios y que no acaten lo previsto en (sic) artículo 479 BIS, y
+(ADICIONADO, P.O. 1 DE ENERO DE 2024)
+t) Por detonar o encender cohetes, juegos pirotécnicos, o elevar aeróstatos en fiestas particulares, festividades religiosas, cívicas, políticas y sociales tanto públicas como privadas con excepción de lo previsto en (sic) artículo 683 BIS.
