@@ -1,0 +1,10 @@
+(ADICIONADO, P.O. 8 DE ENERO DE 2024)
+ARTICULO 80 BIS.- Las instituciones públicas del Sistema Estatal de Salud deberán brindar acceso a los servicios de atención de salud mental, por consumo perjudicial de sustancias psicoactivas y adicciones en cumplimiento con los principios siguientes:
+I.- Cercanía al lugar de residencia de la población usuaria de los servicios de salud mental y las personas con consumo perjudicial de sustancias psicoactivas, y de adicciones;
+II.- Respeto a la dignidad y a los derechos humanos de las personas, con un enfoque de género, equidad, interseccionalidad e interculturalidad, poniendo énfasis en la prevención, detección temprana y promoción de la salud mental, incluyendo acciones enfocadas a la prevención de trastornos por el consumo perjudicial de sustancias psicoactivas y de adicciones;
+III.- Promover y desarrollar medidas para la toma de conciencia sobre la salud mental, la erradicación de estigmas y estereotipos, para la concientización de la sociedad y el personal de salud, a fin de disminuir todo tipo de discriminación hacia la población usuaria de los servicios de salud mental y las personas con consumo perjudicial de sustancias psicoactivas, y de adicciones;
+IV.- Reducción del daño de los diversos factores de riesgo que vive la población usuaria de los servicios de salud mental y las personas con consumo perjudicial de sustancias psicoactivas, y de adicciones;
+V.- Atención prioritaria a la población en situación de vulnerabilidad conforme a la legislación aplicable;
+VI.- Atención primaria a la salud como el eje principal sobre el que se estructure la atención comunitaria de la salud mental y de adicciones, en el marco del modelo de atención de la salud correspondiente;
+VII.- Acceso y atención integral continua e interdisciplinaria que requiera la población usuaria de los servicios de salud mental y las personas con consumo perjudicial de sustancias psicoactivas, y de adicciones; y
+VIII.- Participación de los familiares y de las organizaciones de usuarios de ayuda mutua para la atención.
