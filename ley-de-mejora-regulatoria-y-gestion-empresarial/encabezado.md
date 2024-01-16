@@ -1,6 +1,9 @@
-LEY DE MEJORA REGULATORIA Y GESTIÓN EMPRESARIAL PARA EL ESTADO DE AGUASCALIENTES
-Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el jueves 28 de noviembre de 2019.
-MARTÍN OROZCO SANDOVAL, Gobernador Constitucional del Estado de Aguascalientes, a sus habitantes sabed:
-Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
-La LXIV Legislatura del Congreso del Estado Libre y Soberano de Aguascalientes, en virtud de su función y facultad constitucional, ha tenido a bien expedir el siguiente
-Decreto Número 250
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
+Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
+NICÉFORO ZAMBRANO, Gobernador Constitucional del Estado Libre y Soberano de Nuevo León, a todos sus habitantes hago saber: Que el H. Congreso Constituyente del mismo ha tenido a bien dirigirme, para su promulgación, la Constitución Política siguiente:
+La XXXVII Legislatura del Estado Libre y Soberano de Nuevo León, en funciones de Constituyente, de acuerdo con el Decreto de 22 de Marzo próximo pasado, dictado por el Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, ha tenido a bien expedir la siguiente
+CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON.
+(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2016)
+TITULO I.
+De los Derechos Humanos y sus Garantías.

@@ -5,13 +5,15 @@ II. Contratar personas adultas mayores, conforme a su oficio, habilidad o profes
 III. Propiciar la colaboración y participación de instituciones públicas y privadas en acciones y programas que la Administración Pública Estatal y las Administraciones Municipales emprendan para la atención de las personas adultas mayores;
 IV. Proponer la realización de estudios en el área de su competencia que contribuyan a mejorar la planeación y programación de las medidas y acciones para elevar la calidad de vida de las personas adultas mayores;
 V. Establecer ventanillas de atención preferente para las personas adultas mayores, en las gestiones que éstas realicen;
-(REFORMADA, P.O. 1 DE MARZO DE 2021)
-VI. Participar en la atención, información, investigación y mejoramiento de los programas enfocados al bienestar de los adultos mayores;
-(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MARZO DE 2021)
-VII. Coadyuvar con la Secretaría de la Familia en el fomento, promoción e impulso de las políticas públicas en materia de familia destinadas a generar el bienestar de los adultos mayores; y
+(REFORMADA, P.O. 15 DE ENERO DE 2024)
+VI. Participar en la atención, información, investigación y mejoramiento de los programas enfocados al bienestar de las personas adultas mayores;
+(REFORMADA, P.O. 15 DE ENERO DE 2024)
+VII. Coadyuvar con la Secretaría de la Familia en el fomento, promoción e impulso de las políticas públicas en materia de familia destinadas a generar el bienestar de las personas adultas mayores; y
 (ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE MARZO DE 2021)
 VIII. Las demás que le confiera el Ejecutivo del Estado, las leyes y reglamentos de la materia.
+(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2024)
 TÍTULO QUINTO
-DEL CONSEJO ESTATAL DE SALUD PARA LA ATENCIÓN DEL ADULTO MAYOR
+DEL CONSEJO ESTATAL DE SALUD PARA LA ATENCIÓN DE LA PERSONA ADULTA MAYOR
+(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2024)
 CAPÍTULO ÚNICO
-Del Consejo Estatal de Salud para la Atención del Adulto Mayor
+Del Consejo Estatal de Salud para la Atención de la Persona Adulta Mayor

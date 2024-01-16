@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 15 DE ENERO DE 2024)
+Artículo 193 Bis. La industria lechera en el Estado estará conformada por las personas productoras, sean personas físicas o morales legalmente constituidas, que en determinadas superficies de terreno edificadas y equipadas, sean propias, poseídas o arrendadas, denominadas ranchos, establos lecheros o granjas lecheras, se dediquen a la explotación de razas de ganado lechero y produzcan o industrialicen la leche y sus derivados.
+La Secretaría fomentará el establecimiento de establos productores de leche, granjas agropecuarias, plantas pasteurizadoras y la realización de cuencas lecheras; asimismo, organizará e integrará a los productores de leche a las necesidades de la planificación agropecuaria.
