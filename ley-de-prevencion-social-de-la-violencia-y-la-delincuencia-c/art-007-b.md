@@ -1,0 +1,8 @@
+(ADICIONADO, P.O. 22 DE ENERO DE 2024)
+Artículo 7 B.- La prevención en el ámbito comunitario pretende atender los factores que generan violencia y delincuencia mediante la participación ciudadana y comunitaria y comprende:
+I. La participación ciudadana y comunitaria en acciones que establezcan las prioridades de la prevención, mediante diagnósticos participativos, el mejoramiento de las condiciones de seguridad en su entorno y el desarrollo de prácticas que fomenten una cultura de prevención, autoprotección, denuncia ciudadana y de utilización de los métodos alternos para la solución de conflictos;
+II. El mejoramiento del acceso de la comunidad a los servicios básicos;
+III. El Fomento del desarrollo comunitario; la convivencia y la cohesión social entre las comunidades frente a problemas locales;
+IV. La participación ciudadana y comunitaria, a través de mecanismos que garanticen su efectiva intervención ciudadana en el diseño e implementación de planes y programas, a través de los Comités de Participación Ciudadana:
+V. El fomento de las actividades de las organizaciones de la sociedad civil; y
+VI. El diseño de mecanismos ciudadanos de control social para el monitoreo de programas.

@@ -1,0 +1,4 @@
+P.O. 22 DE ENERO DE 2024.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 555.- SE REFORMA LA LEY PARA PREVENIR, ATENDER Y ERRADICARLA VIOLENCIA ESCOLAR EN EL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO.- Dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Decreto, el Consejo Preventivo de la Violencia Escolar en el Estado de Aguascalientes, deberá adecuar el Reglamento Interior del Consejo Preventivo de la Violencia Escolar en el Estado de Aguascalientes y el Protocolo para Prevenir, Atender, Sancionar y Erradicar el Acoso y el Hostigamiento Sexual en las Instituciones Formadoras y Actualizadoras de Docentes del Instituto de Educación de Aguascalientes, a efecto de dar cumplimiento a lo establecido en el presente Decreto.

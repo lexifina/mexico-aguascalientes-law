@@ -1,0 +1,6 @@
+P.O. 22 DE ENERO DE 2024.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 591.- SE REFORMA LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO.– El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO.– Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto se deberán expedir todas aquellas disposiciones normativas y reglamentarias necesarias para su cumplimiento.
+ARTICULO TERCERO.- Conforme al principio del interés superior de la niñez, el Congreso del Estado de Aguascalientes, en el Presupuesto de Egresos inmediato posterior a la entrada en vigor del presente Decreto, al menos deberá destinar los recursos necesarios para la operación y funcionamiento del Centro de Atención y Justicia para Niñas, Niños y Adolescentes en cada distrito judicial en el Estado. Los organismos autónomos y las autoridades vinculadas por el presente Decreto, también incluirán en su proyecto de Presupuesto los recursos necesarios.
+Lo anterior, no será impedimento para que dichos Centros comiencen a operar conforme al artículo segundo transitorio del presente Decreto, con los recursos con que cuenten los poderes Ejecutivo, Judicial y los organismos autónomos a la fecha.

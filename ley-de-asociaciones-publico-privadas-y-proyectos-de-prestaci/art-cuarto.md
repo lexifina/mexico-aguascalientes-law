@@ -1,6 +1,0 @@
-(NOTA: EL 17 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 4/2022 Y SUS ACUMULADAS 15/2022, 19/2022, 24/2022 Y 26/2022, DECLARÓ LA INVALIDEZ POR EXTENSIÓN, DEL ARTÍCULO TRANSITORIO CUARTO, LA CUAL SURTIÓ EFECTOS EL 18 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-ARTÍCULO CUARTO.- Para el cobro del derecho por concepto del servicio del alumbrado público, el Ayuntamiento durante los meses de febrero y marzo de cada año, dará a conocer a través de la gaceta municipal y en el portal electrónico respectivo a los contribuyentes:
-I. El costo total por el suministro de energía eléctrica destinado al alumbrado público en el municipio.
-II. El número de luminarias, semáforos, lámparas, los gastos administrativos, sueldos, salarios y prestaciones del personal operativo involucrados directamente con la prestación de dicho servicio, y
-III. El número del padrón de usuarios propietarios o poseedores de inmuebles en el municipio.
-[...]
