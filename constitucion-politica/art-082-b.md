@@ -5,7 +5,8 @@ a) Un representante del Comité de Participación Ciudadana del propio Sistema, 
 b) El titular del Órgano Superior de Fiscalización del Estado;
 c) El titular de la Fiscalía Estatal Especializada en Combate a la Corrupción;
 d) El titular de la secretaría del Ejecutivo del Estado, responsable del control interno;
-e) Presidente de la Sala Administrativa;
+(REFORMADO, P.O. 11 DE MARZO DE 2024)
+e) La persona titular de la Presidencia del Tribunal de Justicia Administrativa;
 f) Un representante del Consejo de la Judicatura Estatal; y
 g) Un representante del Instituto de Transparencia del Estado.
 II.- Corresponderá al Comité Coordinador del Sistema Estatal Anticorrupción, en los términos que determine la Ley:
