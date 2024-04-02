@@ -6,5 +6,9 @@ III.- Acordar la celebración de convenios o acuerdos en el ejercicio de sus atr
 IV.- Proporcionar a la Secretaría la información necesaria para darle seguimiento a la ejecución y resultados de las funciones y programas de seguridad;
 V.- Impulsar la profesionalización de los integrantes de las instituciones policiales municipales;
 VI.- Dictar las disposiciones administrativas de las funciones operativas, para la observancia y cumplimiento de esta Ley;
-VII.- Hacer del conocimiento del Gobernador del Estado sobre las alteraciones graves del orden público y la tranquilidad social en sus comunidades; y
-VII (SIC).- Las demás que le confiera esta Ley y los ordenamientos jurídicos aplicables.
+(REFORMADA, P.O. 1 DE ABRIL DE 2024)
+VII.- Hacer del conocimiento de la persona titular del Poder Ejecutivo del Estado, las alteraciones graves del orden público y la tranquilidad social en sus comunidades;
+(ADICIONADA, P.O. 1 DE ABRIL DE 2024)
+VIII.- En el ámbito de su competencia, expedir la reglamentación y demás disposiciones administrativas de carácter general necesarias para la implementación de medidas sobre la comercialización de armas que tengan características similares a cualquier arma real en su forma, dimensiones y colores, incluyendo también recubrimientos que resulten en texturas parecidas a aquellas de las armas verdaderas, y que no cumplan con la NORMA Oficial Mexicana NOM.161-SCFI-2003; así como para establecer las sanciones administrativas aplicables en caso de incumplimiento; y
+(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE ABRIL DE 2024)
+IX.- Ejercer las demás facultades que les confiere esta Ley y los ordenamientos legales aplicables.

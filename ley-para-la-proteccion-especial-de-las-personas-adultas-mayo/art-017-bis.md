@@ -5,7 +5,8 @@ II. Instituir, promocionar y dar seguimiento a las acciones y programas de atenc
 (REFORMADA, P.O. 15 DE ENERO DE 2024)
 III. Promover entre la sociedad la cultura del envejecimiento, de respeto, aprecio y reconocimiento a la capacidad de aportación de las personas adultas mayores;
 IV. Impulsar el empleo para las personas adultas mayores, conforme a su oficio, habilidad o profesión, sin más restricción que su limitación física o mental declarada por la autoridad médica o legal competente;
-V. Llevar a cabo programas de capacitación, orientación y educación para las personas adultas mayores, en coordinación con la Secretaría del Trabajo y Previsión Social y el Instituto de Educación de Aguascalientes, con la finalidad de que puedan incorporarse a la actividad económica;
+(REFORMADA, P.O. 1 DE ABRIL DE 2024)
+V. Llevar a cabo programas de capacitación, orientación y educación para las personas adultas mayores, en coordinación con la Secretaría del Trabajo y Previsión Social y el Instituto de Educación de Aguascalientes, con la finalidad de que puedan incorporarse a la actividad económica y/o lograr una independencia digital mediante el acceso a las tecnologías de la información y la comunicación;
 VI. Propiciar la colaboración y participación de los sectores público, social y privado para que lleven a cabo acciones y programas de atención preferente e integral de las personas adultas mayores;
 VII. Realizar estudios e investigaciones en materia de atención integral de las personas adultas mayores que contribuyan a elevar su calidad de vida;
 VIII. Evaluar las acciones y programas de atención a las personas adultas mayores, implementadas o desarrolladas por las distintas Dependencias, Entidades y de la Administración Pública Estatal, a efecto de proponer mejoras a los lineamientos y mecanismos para su efectiva ejecución;
