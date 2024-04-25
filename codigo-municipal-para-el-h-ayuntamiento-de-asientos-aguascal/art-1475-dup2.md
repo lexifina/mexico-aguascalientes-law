@@ -1,0 +1,2 @@
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1269], P.O. 22 DE ABRIL DE 2024)
+ARTÍCULO 1475° (SIC).- Los anuncios de gran peso y dimensiones, adosados, colgantes y de azotea, deberán ser objeto de diseño estructural en los términos de este título, con particular atención a los efectos del viento. Deberán diseñarse los apoyos y fijaciones a la estructura principal y deberá revisarse su efecto. El proyecto de estos anuncios deberá ser aprobado por los Peritos Responsables de Obra de acuerdo a este Libro.

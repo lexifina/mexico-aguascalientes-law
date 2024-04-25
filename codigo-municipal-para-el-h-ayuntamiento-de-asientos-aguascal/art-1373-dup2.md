@@ -1,0 +1,3 @@
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1167], P.O. 22 DE ABRIL DE 2024)
+ARTÍCULO 1373°.- Cuando la capacidad de los hospitales, centros de reunión, salas de espectáculos y espectáculos deportivos, similares o análogos sea superior a cuarenta concurrentes o cuando el área de ventas de locales y centros comerciales sea superior a un mil metros cuadrados, deberán contar con salidas de emergencia.
+Preferentemente, dichas salidas deberán acondicionarse en sitios opuestos a las salidas ordinarias y deberán existir en cada nivel.

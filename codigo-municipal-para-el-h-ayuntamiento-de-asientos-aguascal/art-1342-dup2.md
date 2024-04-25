@@ -1,0 +1,2 @@
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1135], P.O. 22 DE ABRIL DE 2024)
+ARTÍCULO 1342°.- Todo anuncio, propaganda o publicidad que sea colocado en la Zona Centro y en las fincas declaradas como Monumentos Históricos, Artísticos, Arqueológicos y/o Arquitéctonicos, deberá contar con el Visto Bueno del Instituto Nacional de Antropología e Historia y sujetarse a lo que este organismo le indique.

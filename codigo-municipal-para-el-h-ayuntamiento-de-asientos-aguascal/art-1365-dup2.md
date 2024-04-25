@@ -1,0 +1,3 @@
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1159], P.O. 22 DE ABRIL DE 2024)
+ARTÍCULO 1365°.- Se permitirá la iluminación diurna natural por medio de domas o tragaluces en los casos de baños, cocinas domésticas, locales de trabajo, reunión, almacenamiento, circulaciones y servicios.
+En estos casos, la proyección horizontal del vano libre del domo o tragaluz, podrá dimensionarse tomando como base mínima el cuatro por ciento de la superficie del local. El coeficiente de transmitividad del espectro solar del material transparente o traslucido de domos y tragaluces en estos casos no será inferior al ochenta y cinco por ciento.

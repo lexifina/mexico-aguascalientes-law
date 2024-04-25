@@ -1,0 +1,2 @@
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1155], P.O. 22 DE ABRIL DE 2024)
+ARTÍCULO 1361°.- En las edificaciones para vivienda, las áreas descubiertas que deben aplicarse a los fines de iluminación y ventilación naturales, tendrán la superficie libre que indica el presente Libro, siempre y cuando no sea menor de veinte por ciento del área total del predio. La superficie libre se considera la que se presenta sin techar.

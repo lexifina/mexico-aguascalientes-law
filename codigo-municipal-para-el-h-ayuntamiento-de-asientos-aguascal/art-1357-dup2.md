@@ -1,0 +1,2 @@
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1151], P.O. 22 DE ABRIL DE 2024)
+ARTÍCULO 1357°.- Los locales de las edificaciones según su tipo tendrán el mínimo de las dimensiones y características que se establecen en la tabla siguiente:

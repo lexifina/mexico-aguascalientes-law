@@ -1,0 +1,2 @@
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1170], P.O. 22 DE ABRIL DE 2024)
+ARTÍCULO 1376°.- Para las edificaciones especificadas en el Artículo 1167°, las salidas de emergencia deberán señalarse mediante letreros con los textos "Salida de Emergencia" según el caso, mediante flechas y símbolos luminosos, que indiquen la ubicación y dirección de las salidas. Los textos y figuras deberán ser claramente visibles desde cualquier punto del área a la que sirvan y estarán iluminados en forma permanente, aunque se llegare a interrumpir el servicio eléctrico general.

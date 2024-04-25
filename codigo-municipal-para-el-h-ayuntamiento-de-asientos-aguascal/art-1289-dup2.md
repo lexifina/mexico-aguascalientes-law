@@ -1,0 +1,2 @@
+(REFORMADO [N. DE E. REUBICADO], P.O. 22 DE ABRIL DE 2024)
+ARTÍCULO 1289° (SIC).- La Dirección de Planeación y Obras Públicas exigirá los muestreos y las pruebas necesarias para verificar la calidad y resistencia especificadas en los materiales que formen parte de los elementos estructurales, aún en obras terminadas, cuando así lo juzgue pertinente o por dictamen técnico solicitado del perito.

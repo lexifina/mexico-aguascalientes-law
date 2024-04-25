@@ -1,0 +1,2 @@
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1168], P.O. 22 DE ABRIL DE 2024)
+ARTÍCULO 1374°.- Las salidas de emergencia deberán tener comunicación directa a la vía pública o lo harán por medio de pasillos con la anchura reglamentaria. Queda prohibida la existencia de puertas simuladas o espejos en los pasillos de salida. La anchura de las salidas será de acuerdo a lo especificado en el Artículo de Requisitos de Salidas de Emergencia.

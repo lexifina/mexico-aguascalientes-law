@@ -1,0 +1,5 @@
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1141], P.O. 22 DE ABRIL DE 2024)
+ARTÍCULO 1348°.- Para tener derecho a aparecer en el Registro de Peritos o Refrendar su calidad como tal, se requiere:
+I. Tener TÍTULO profesional de ingeniero civil o, arquitecto o licenciado en urbanismo;
+II. Estar domiciliado en el Municipio de Asientos, por lo menos dos años, de los cuales el año anterior a la solicitud de registro sea comprobable su experiencia en construcción de edificación, preferentemente;
+III. Presentar su Currículo Profesional.

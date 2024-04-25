@@ -1,0 +1,31 @@
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1137], P.O. 22 DE ABRIL DE 2024)
+ARTÍCULO 1344°.- En las demás zonas diferentes a la zona centro de las comunidades del Municipio de Asientos, colonias y fraccionamientos que conforman la comunidad y las áreas rurales y poblados dentro del Municipio de Asientos se sujetará la colocación de anuncios a la jerarquía de las vialidades que a continuación se detalla:
+I. En vialidades de tipo local: Entendiéndose por vialidad de tipo local a todas aquellas calles y/o andadores que son exclusivamente de acceso directo a las casas y/o departamentos habitacionales. En este tipo de calles no se permite el tránsito vehicular pesado, ni de carga, ni de pasajeros, tampoco las rutas de transporte público y urbano.
+En este tipo de vialidad no se permitirá ningún tipo de propaganda, publicidad o anuncio que se localice en bardas o muros de las viviendas, dentro de predios soportados por estructuras y en azoteas.
+Todo comercio de tipo inmediato que se ubique en una vialidad de este tipo, únicamente se le permitirá la colocación de anuncios indicando la razón social y el giro comercial.
+El tipo de anuncio que se permite es el pintado y adosado; podrá rotularse en el muro de la fachada, en el muro lateral en caso de encontrarse en esquina, adosado a los mismos o sobre el pretil de la azotea.
+El material que se permite puede ser; rotulación en muro, en manta y en acrílico.
+Las dimensiones máximas del anuncio que deberán cumplirse son:
+- Largo 2.0 m
+- Alto 1.0 m
+- Espesor 0.14 m.
+II. En vialidades colectoras:
+Entendiéndose por vialidad colectara (sic): aquellas calles y avenidas que se interceptan con las calles locales y que conducen el tránsito de una zona específica, debiendo estar conectadas con el sistema de vialidades secundarias.
+En este tipo de vialidad colectara (sic) se permiten al igual que en las locales el anuncio rotulado y adosado.
+Todos los comercios y/o servicios generales que se encuentren localizados en una vialidad de este tipo, deberán indicar el anuncio, la razón social y el giro del negocio.
+El anuncio podrá ubicarse en el muro de la fachada, en el muro lateral, adosado a los mismos o sobre el pretil de la azotea, ya sea mediante la rotulación en los muros, en mantas y en acrílico.
+Las dimensiones máximas permitidas que deberán respetarse son:
+- Largo 3.0 m.
+- Alto 1.5 m.
+- Espesor 0.14 m.
+III. Las vialidades secundarias:
+Son todas aquellas arterias y avenidas que sirven como red vial para el movimiento del tránsito de paso de un área a otra dentro del ámbito urbano. Permite un enlace directo entre los generadores del tránsito primarios, zonas y centros comerciales, de negocios, centros de empleo principalmente. Estas vías de comunicación permiten el enlace de zonas habitacionales con vialidades de tipo primario.
+En este tipo de vialidad secundaria se permiten los anuncios de tipo:
+Adosado, pintado, autosoportado e integrados. También se permitirán los anuncios de tipo bandera siempre y cuando éstos no salgan del alineamiento y se encuentren dentro del predio sin invadir la vía pública.
+El tipo de material permitido podrá ser: rotulación en muro, manta, acrílicos y luminosos.
+Las características permitidas varían de acuerdo a previo estudio que realice la Secretaría, conforme de este Código y el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes;
+IV. Las vialidades de tipo primario:
+Son aquellas vialidades cuya función es la de facilitar la movilidad de altos volúmenes de tránsito de paso a través del área urbana, permitiéndole al sistema vial cumplir su función adecuadamente entre los principales centros generadores de tránsito.
+(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)
+CAPÍTULO II
+De los Peritos
