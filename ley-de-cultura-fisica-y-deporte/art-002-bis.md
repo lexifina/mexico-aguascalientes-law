@@ -10,5 +10,9 @@ VII. La investigación, información y documentación son elementos indispensabl
 VIII. Las instituciones deportivas públicas y privadas del Estado deben colaborar y cooperar en forma estrecha y responsable en la promoción, fomento y estímulo del derecho a la cultura física y a la práctica del deporte;
 IX. La distinción entre las diversas manifestaciones o modalidades del deporte resulta necesaria para el óptimo, equitativo y ordenado desarrollo de los sistemas deportivos del Estado;
 X. El desarrollo y la práctica del deporte debe realizarse observando sus bases éticas;
-XI. En el desarrollo del deporte debe protegerse la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte, y;
-XII. La existencia de una adecuada cooperación a nivel nacional es necesaria para el desarrollo equilibrado y universal de la cultura física y deporte.
+(REFORMADA, P.O. 6 DE MAYO DE 2024)
+XI. En el desarrollo del deporte debe protegerse la dignidad, integridad, salud y seguridad de los deportistas, así como asegurarse y defenderse el desarrollo sostenible del deporte;
+(REFORMADA, P.O. 6 DE MAYO DE 2024)
+XII. La existencia de una adecuada cooperación a nivel nacional es necesaria para el desarrollo equilibrado y universal de la cultura física y deporte; y
+(ADICIONADA, P.O. 6 DE MAYO DE 2024)
+XIII. La igualdad sustantiva entre mujeres y hombres y la no discriminación por razón de género.
