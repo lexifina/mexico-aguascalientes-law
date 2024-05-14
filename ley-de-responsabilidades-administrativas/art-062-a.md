@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 13 DE MAYO DE 2024)
+Artículo 62 A.- Si el beneficio indebidamente obtenido u otorgado a que hacen referencia los artículos 39, segundo párrafo, y 41, segundo párrafo, de esta Ley, no excede el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización, y además se ha devuelto la cantidad entregada o depositada en demasía conforme al tabulador aplicable, la falta administrativa será considerada no grave.

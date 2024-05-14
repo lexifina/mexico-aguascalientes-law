@@ -1,7 +1,8 @@
 (REFORMADA SU NUMERACIÓN, P.O. 20 DE NOVIEMBRE DE 2013)
 Artículo 74 Bis.- Los municipios tendrán a su cargo la prestación, explotación, administración y conservación de los servicios públicos municipales, considerándose enunciativa y no limitativamente, los siguientes:
 I. Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
-II. Alumbrado público;
+(REFORMADA, P.O. 13 DE MAYO DE 2024)
+II. Alumbrado Público, en el que se ponderará la implementación e instalación de luminarias tipo LED;
 III. Limpia, recolección, traslado, tratamiento y disposición final de residuos;
 IV. Mercados y centrales de abasto;
 V. Panteones;
