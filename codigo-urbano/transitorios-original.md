@@ -4016,8 +4016,8 @@ VIII. El riesgo inminente de contaminación de aguas con repercusiones peligrosa
 IX. La existencia o gestación de asentamientos humanos irregulares; y
 X. Cualquier otra que contravenga lo dispuesto en este Código, programas aplicables y cualquier otra que pudiere afectar la integridad o seguridad física de personas o bienes.
 ARTÍCULO 816.- Serán nulos todos los actos que se celebren en contravención a lo dispuesto en este Código, así como los programas previstos en el mismo.
-(REFORMADO, P.O. 22 DE ENERO DE 2024)
-La SEPLADE, los Municipios y demás autoridades a que se refiere este Código, en el ámbito de su competencia territorial, podrán impugnar dichos actos ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, a través del juicio previsto en la Ley del Procedimiento Contencioso Administrativo para el Estado de Aguascalientes.
+(REFORMADO, P.O. 13 DE MAYO DE 2024)
+La SEPLADE, los Municipios y demás autoridades a que se refiere este Código, en el ámbito de su competencia territorial, podrán impugnar dichos actos ante el Tribunal de Justicia Administrativa del Estado de Aguascalientes, a través del juicio previsto en la Ley del Procedimiento Contencioso Administrativo para el Estado de Aguascalientes.
 ARTÍCULO 817.- Para los efectos de este Capítulo serán solidariamente responsables de las infracciones a las disposiciones de este Código:
 I. El propietario o poseedor del o de los inmuebles involucrados;
 II. Cualquier persona que ejecute, ordene o favorezca las acciones u omisiones constitutivas de infracción;
