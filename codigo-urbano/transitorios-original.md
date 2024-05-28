@@ -396,8 +396,13 @@ XXV.- Coordinar y concertar acciones, obras y servicios entre los sectores públ
 XXVI.- Proponer lineamientos generales para la regularización de la tenencia de la tierra en el Estado;
 (REFORMADA, P.O. 22 DE ENERO DE 2024)
 XXVII.- Llevar a cabo convocatorias o programas, así como celebrar los contratos o convenios que sean necesarios para lograr los fines de Desarrollo Urbano, Ordenamiento Territorial y Planeación Urbana;
-XXVIII.- Proponer normas y criterios generales para homologar y simplificar los procedimientos y criterios de regularización de la tenencia de la tierra; y
-XXIX.- Las demás que le señalen este Código y que sean necesarias para el cumplimiento de su objeto.
+(REFORMADA, P.O. 27 DE MAYO DE 2024)
+XXVIII.- Proponer normas y criterios generales para homologar y simplificar los procedimientos y criterios de regularización de la tenencia de la tierra;
+(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2024)
+XXIX. Emitir lineamientos generales que promuevan y fortalezcan el diseño, la elaboración de políticas y acciones de mitigación de las emisiones de carbono, para el fortalecimiento y desarrollo de infraestructura que permita la transición a la electromovilidad.
+Para ello podrán aprobar planes y programas de desarrollo urbano en materia de electromovilidad que contemplen las medidas necesarias para que establecimientos públicos y propiedades privadas con las características que ahí se determinen, cuenten con las instalaciones necesarias para el establecimiento de centros de carga eléctrica para la movilidad en observancia a las especificaciones técnicas dadas por las autoridades federales; y
+(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE MAYO DE 2024)
+XXX.- Las demás que le señalen este Código y que sean necesarias para el cumplimiento de su objeto.
 (REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)
 ARTÍCULO 25.- Cada integrante del Consejo Estatal designará un suplente por escrito, que lo suplirá en sus inasistencias, deberá de ser del nivel jerárquico inmediato inferior con la capacidad de decisión y de análisis sobre los asuntos que se presentan en el Consejo Estatal. ... (sic)
 (REFORMADO, P.O. 22 DE ENERO DE 2024)
@@ -2156,16 +2161,21 @@ Cuando a juicio de los sub-consejos del Consejo Estatal o del Consejo Municipal 
 ARTÍCULO 368.- El expediente para integrar el dictamen y ser presentado a la consideración de Consejo Estatal o al Municipio según corresponda, se complementará por parte del fraccionador o promotor, con la siguiente documentación y requisitos:
 I.- Designación, aceptación y constancia emitida por el Municipio que acredite la vigencia del perito como responsable de la obra;
 II.- Los siguientes documentos técnicos:
-a).- Factibilidad de la red de electrificación y alumbrado público otorgada por la Comisión Federal de Electricidad y por la dependencia municipal correspondiente;
-b).- Factibilidad de agua potable, alcantarillado y saneamiento emitida por dependencia o entidad de carácter municipal respectiva;
-(REFORMADO, P.O. 22 DE ENERO DE 2024)
-c).- Actualización del estudio de impacto urbano, solo en caso de que derivado del sub-consejo respectivo se haya solicitado y así lo consideró la SEPLADE o el Municipio;
-(REFORMADO, P.O. 22 DE ENERO DE 2024)
-d).- Actualización del estudio de impacto vial, únicamente en el supuesto de que en el sub-consejo correspondiente se haya solicitado la actualización o complementación del mismo y así lo determinó la SEPLADE o el Municipio;
-(REFORMADO, P.O. 22 DE ENERO DE 2024)
-e).- Actualización del estudio geológico y geofísico, exclusivamente en caso de que derivado del sub-consejo respectivo se haya solicitado la actualización o complementación del mismo y así lo resolvió la SEPLADE o el Municipio; y
-(REFORMADO, P.O. 22 DE ENERO DE 2024)
-f).- Actualización del estudio de mecánica de suelos, solo en el escenario de que derivado del sub-consejo de la materia se haya solicitado la actualización o complementación del mismo y así lo determinó la SEPLADE o el Municipio;
+(REFORMADO, P.O. 27 DE MAYO DE 2024)
+a).- Factibilidad de la red de electrificación y alumbrado público, según corresponda, otorgada por la Comisión Federal de Electricidad y por la dependencia municipal correspondiente;
+(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2024)
+b).- Cuando así lo establezcan los planes y programas de desarrollo urbano en materia de electromovilidad aprobados por el Consejo Estatal al que se refiere la fracción XXIX del artículo 24 de esta ley, deberán contar con las instalaciones necesarias para el establecimiento de centros de carga eléctrica para la movilidad en observancia a las especificaciones técnicas dadas por las autoridades federales.
+Estas mismas disposiciones se aplicarán para las edificaciones y espacios comerciales e industriales que dichos planes y programas acuerden;
+(REFORMADO [N. DE E. REUBICADO], P.O. 27 DE MAYO DE 2024)
+c).- Factibilidad de agua potable, alcantarillado y saneamiento emitida por dependencia o entidad de carácter municipal respectiva;
+(REFORMADO [N. DE E. REUBICADO], P.O. 27 DE MAYO DE 2024)
+d).- Actualización del estudio de impacto urbano, solo en caso de que derivado del sub-consejo respectivo se haya solicitado y así lo consideró la SEPLADE o el Municipio;
+(REFORMADO [N. DE E. REUBICADO], P.O. 27 DE MAYO DE 2024)
+e).- Actualización del estudio de impacto vial, únicamente en el supuesto de que en el sub-consejo correspondiente se haya solicitado la actualización o complementación del mismo y así lo determinó la SEPLADE o el Municipio;
+(REFORMADO [N. DE E. REUBICADO], P.O. 27 DE MAYO DE 2024)
+f).- Actualización del estudio geológico y geofísico, exclusivamente en caso de que derivado del sub-consejo respectivo se haya solicitado la actualización o complementación del mismo y así lo resolvió la SEPLADE o el Municipio; y
+(ADICIONADO [N. DE E. REUBICADO], P.O. 27 DE MAYO DE 2024)
+g).- Actualización del estudio de mecánica de suelos, solo en el escenario de que derivado del sub-consejo de la materia se haya solicitado la actualización o complementación del mismo y así lo determinó la SEPLADE o el Municipio;
 III.- Dictamen en materia de impacto ambiental;
 IV.- En caso de aplicar, la autorización de la autoridad ambiental competente del cambio de uso forestal a urbano del predio objeto de la solicitud;
 V.- Memoria descriptiva, que indique las medidas y colindancias de todos los lotes, señalando a que manzana pertenecen; y cédulas condominales y Reglamento de Administración en caso de ser condominio.
