@@ -1,4 +1,0 @@
-(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1148], P.O. 22 DE ABRIL DE 2024)
-(SIC)°.- Las marquesinas podrán sobresalir del alineamiento, el ancho de la acera disminuido en sesenta centímetros, pero sin exceder de un metro; no deberán usarse como balcón cuando su construcción se proyecte sobre la vía pública. Todos los elementos de la marquesina deberán estar situados a una altura mayor de dos metros cincuenta centímetros sobre el nivel de la banqueta.
-(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1149], P.O. 22 DE ABRIL DE 2024)
-ARTÍCULO 1355°.- Los toldos podrán sobresalir del alineamiento el ancho de la acera, ningún elemento de los mismos deberá estar a una altura menor de dos metros veinte centímetros sobre el nivel de la banqueta. Los permisos para la colocación de toldos tendrán carácter temporal, pudiendo la Secretaria revocarlos en cualquier momento que se juzgue conveniente.

@@ -1,2 +1,0 @@
-(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1139], P.O. 22 DE ABRIL DE 2024)
-ARTÍCULO 1346°.- La calidad de Perito Responsable de Obra se adquiere con el registro de la persona ante la Presidencia Municipal, en específico ante la Dirección de Planeación y Obras Públicas o en su defecto, se adoptará a los Peritos registrados en el Padrón de Peritos de Obra y Especializados del Municipio de Aguascalientes.

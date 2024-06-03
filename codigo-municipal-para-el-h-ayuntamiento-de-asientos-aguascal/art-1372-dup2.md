@@ -1,2 +1,0 @@
-(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1166], P.O. 22 DE ABRIL DE 2024)
-ARTÍCULO 1372°.- Los accesos que en condiciones normales sirvan también de salida, o aquéllas de emergencia deberán permitir el desalojo del local en un máximo de tres minutos, considerando que cada persona puede salir por una anchura de sesenta centímetros, en un segundo; por lo tanto, la anchura siempre será múltiplo de sesenta centímetros, y nunca será menor que la suma de los anchos de los pasillos que converjan a la salida.
