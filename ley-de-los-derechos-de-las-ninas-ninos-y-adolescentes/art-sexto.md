@@ -1,1 +1,0 @@
-ARTÍCULO SEXTO.- El Congreso del Estado deberá observar que en los Presupuestos que se sometan para su aprobación por el Ejecutivo Estatal, se contemplen los recursos necesarios para la implementación de manera paulatina de los recursos necesarios para el cumplimiento de las disposiciones de esta Ley y de la Ley General.

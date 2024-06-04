@@ -1,0 +1,2 @@
+(REFORMADO, P.O. 14 DE ENERO DE 2005)
+Artículo 9.- El actuario o el Secretario que lleve la cita se cerciorará de que el demandado se encuentre en el lugar designado y entregarán la cita personalmente. Si no lo encontrare y el lugar fuere el señalado en la fracción I del artículo anterior, cerciorándose de este hecho, dejará la cita con la persona capaz que se encuentre en el domicilio. Si no se encontrare al demandado y el lugar fuere el precisado en la fracción II del artículo anterior, no se le dejará cita, debiéndose expedir de nuevo cuando la promueva el actor.

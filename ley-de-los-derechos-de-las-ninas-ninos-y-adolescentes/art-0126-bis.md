@@ -1,7 +1,0 @@
-(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)
-Artículo 126 Bis. La ley reconoce a las niñas y niños que viven con sus madres en centros penitenciarios como un sector infantil en condiciones especiales de vulnerabilidad, por lo que las autoridades estatales y municipales, deberán garantizar el ejercicio, respeto, protección y promoción de sus derechos; así como prever las acciones, programas y mecanismos que les permitan un crecimiento y desarrollo pleno, en concordancia con el principio de protección integral, el derecho de igualdad sustantiva y la tutela de los derechos contenidos en la presente ley, la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales y demás normas aplicables.
-Para los efectos a que se refiere este artículo, se considerará a las niñas y niños que viven con sus madres en centros penitenciarios, desde que nacen y viven su primera infancia en dichos centros, por el hecho de que su madre se encontrare en estado de gravidez al momento de estar privada de su libertad, con motivo de la compurgación de una pena o de estar sometida a prisión preventiva, así como por los casos previstos en la Ley Nacional de Ejecución Penal.
-TÍTULO SEXTO
-DE LAS INFRACCIONES ADMINISTRATIVAS
-CAPÍTULO ÚNICO
-De las Infracciones y Sanciones Administrativas

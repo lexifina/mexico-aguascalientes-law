@@ -1,0 +1,2 @@
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)
+Artículo 78.- Las notificaciones personales realizadas electrónicamente a través del Tribunal Virtual se tendrán por legalmente practicadas y surtirán sus efectos en los términos de lo previsto por el artículo 76, ubicado en el Capítulo V, Titulo Primero del Libro Primero de este Código. Lo anterior se tendrá en cuenta para el cómputo de términos judiciales conforme a las leyes aplicables.

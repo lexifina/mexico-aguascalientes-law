@@ -1,2 +1,0 @@
-(ADICIONADO, P.O. 19 DE JUNIO DE 2023)
-Artículo 30 Bis. Toda persona que encontrare una niña, niño o adolescente en estado de indefensión o que hubiere sido puesto en situación de desamparo familiar, deberá presentarlo ante la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes del Sistema DIF Estatal, o de los Sistemas DIF Municipales con las prendas, valores o cualesquiera otros objetos encontrados en su persona, y declarará el día, lugar y circunstancias en que lo hubiere hallado.

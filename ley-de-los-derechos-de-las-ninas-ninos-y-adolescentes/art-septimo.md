@@ -1,1 +1,0 @@
-ARTÍCULO SÉPTIMO.- El titular del Ejecutivo del Estado y el Congreso Estatal, expedirán las disposiciones reglamentarias y las reformas a otros ordenamientos jurídicos, derivado de las disposiciones de la Ley General y de esta Ley, en un plazo no mayor a ciento ochenta días naturales, a partir de la entrada en vigor del presente Decreto.

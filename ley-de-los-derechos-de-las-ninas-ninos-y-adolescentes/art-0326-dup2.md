@@ -1,0 +1,2 @@
+(REFORMADO, P.O. 14 DE ENERO DE 2005)
+Artículo 326.- La prueba testimonial deberá ofrecerse en la demanda, en la contestación, en la réplica o en la dúplica, así como en su caso, en la reconvención, en la contestación, en la réplica o en la dúplica, designándose el nombre, apellidos y domicilio de los testigos; en caso de no cumplirse con los mencionados requisitos no se admitirá la prueba. El examen de los testigos se hará con sujeción a los interrogatorios que presenten las partes, pero el Juez podrá ampliar las preguntas en los términos del artículo 341 de este Código.
