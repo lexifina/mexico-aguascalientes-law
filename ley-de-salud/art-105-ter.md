@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 3 DE JUNIO DE 2024)
+ARTICULO 105 Ter.- Las dependencias y entidades de la Administración Pública Estatal, los municipios, así como las personas físicas y morales de los sectores social y privado, que generen y manejen la información a que se refiere el artículo 105 de esta ley, deberán suministrarla a la Secretaría, con la periodicidad y en los términos que ésta señale, para la elaboración de las estadísticas estatales para la salud.

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 3 DE JUNIO DE 2024)
+ARTICULO 105 Quater.- Corresponde a la Secretaría emitir la normatividad a que deberán sujetarse los sistemas de información de registro electrónico que utilicen las instituciones del Sistema Estatal de Salud, a fin de garantizar la interoperabilidad, procesamiento, interpretación y seguridad de la información contenida en los expedientes clínicos electrónicos.

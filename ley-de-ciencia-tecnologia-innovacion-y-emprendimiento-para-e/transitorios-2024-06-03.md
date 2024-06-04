@@ -1,0 +1,3 @@
+P.O. 3 DE JUNIO DE 2024.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 688.- SE REFORMA LA LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y EMPRENDIMIENTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
