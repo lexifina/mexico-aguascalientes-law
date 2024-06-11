@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 10 DE JUNIO DE 2024)
+ARTICULO 62 B.- El Sistema Estatal para el Desarrollo Integral de la Familia, en coordinación con las autoridades competentes en materia de movilidad, serán las encargadas de supervisar que se realicen los ajustes razonables al sistema de transporte público, de acuerdo con el principio de progresividad, para que las personas con discapacidad puedan tener acceso y uso, en los términos de la legislación aplicable.

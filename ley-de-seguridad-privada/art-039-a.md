@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 10 DE JUNIO DE 2024)
+Artículo 39 A.- La difusión pública a las sanciones, se hará a costa del infractor, en el periódico oficial del Estado y en uno de los diarios de mayor circulación estatal, identificando claramente al infractor, el tipo de sanción, el número de su autorización y el domicilio de su establecimiento en su caso. La sanción servirá de antecedente para considerarse en un nuevo trámite de solicitud de autorización.
