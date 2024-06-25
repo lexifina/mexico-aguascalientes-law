@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Se abroga la Ley para la Protección de la Niñez y la Adolescencia del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado, el 5 de febrero de 2001 y sus reformas posteriores.

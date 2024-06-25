@@ -1,0 +1,1 @@
+ARTÍCULO NOVENO.- Asimismo, en tanto entran en vigor las disposiciones aplicables del Código Nacional de Procedimientos Penales, se aplicarán las medidas establecidas en la legislación procesal penal correspondiente.

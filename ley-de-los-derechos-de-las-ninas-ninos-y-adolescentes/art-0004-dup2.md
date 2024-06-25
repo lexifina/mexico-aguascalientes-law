@@ -1,2 +1,0 @@
-(REFORMADO, P.O. 14 DE ENERO DE 2005)
-Artículo 4.- Cuando el juez encuentre, en cualquier estado del negocio, que la cuantía del mismo excede de los límites que se fijan en el artículo segundo de este título o que el conocimiento del mismo corresponde a un juez de diversa jurisdicción o de otro fuero, suspenderá de plano el procedimiento, debiendo continuarlo, en el primer caso, en los términos establecidos para el juicio que corresponda y en el segundo, remitirá lo actuado al juez competente.

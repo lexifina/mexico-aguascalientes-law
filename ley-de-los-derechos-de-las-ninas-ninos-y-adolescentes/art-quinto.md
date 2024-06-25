@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- Los Sistemas Municipales de Protección, también deberán quedar integrados en un plazo no mayor a noventa días naturales, a partir de la entrada en vigor del presente Decreto, para formalizar la creación de los mismos cada Ayuntamiento habrá de modificar las disposiciones legales que sean necesarias.

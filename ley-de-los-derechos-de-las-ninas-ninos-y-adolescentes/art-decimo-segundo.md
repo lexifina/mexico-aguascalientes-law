@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO SEGUNDO.- El Fideicomiso Público "Ayuda un Niño", instituido en términos de la Ley para la Protección de la Niñez y la Adolescencia del Estado de Aguascalientes, que se abroga por virtud del presente Decreto, continuará funcionando como hasta ahora en los términos y para los fines previstos en contrato de fideicomiso respectivo.

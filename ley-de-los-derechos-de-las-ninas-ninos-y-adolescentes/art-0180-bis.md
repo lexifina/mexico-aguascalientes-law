@@ -1,1 +1,0 @@
-Artículo 180 Bis.- (DEROGADO, P.O. 4 DE JULIO DE 2007)

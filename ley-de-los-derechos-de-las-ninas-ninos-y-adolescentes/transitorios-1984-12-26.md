@@ -1,3 +1,0 @@
-P.O. 26 DE DICIEMBRE DE 1984.
-DECRETO NÚM. 237, QUE REFORMA LOS ARTÍCULOS 166, 167, 168, 169...
-ARTICULO UNICO.- Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
