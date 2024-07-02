@@ -15,6 +15,8 @@ N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ART�
 Para ingresar y permanecer como Investigador, técnico o perito se requiere:
 I. Ser ciudadano mexicano en ejercicio de sus derechos políticos y civiles;
 II. Contar con título, cédula profesional o documento oficial debidamente registrado que corresponda al área de conocimiento al que pertenezca;
-III. Tener como mínimo tres años de experiencia en las materias relacionadas con la prestación de sus servicios;
-IV. Aprobar los exámenes de ingreso y oposición correspondientes; y
-V. No haber sido condenado por delito doloso.
+(REFORMADA, P.O. 1 DE JULIO DE 2024)
+III. Tener como mínimo tres años de experiencia en las materias relacionadas con la prestación de sus servicios; y
+(REFORMADA, P.O. 1 DE JULIO DE 2024)
+IV. Aprobar los exámenes de ingreso y oposición correspondientes.
+V. (DEROGADA, P.O. 1 DE JULIO DE 2024)

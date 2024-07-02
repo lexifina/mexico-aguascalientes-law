@@ -12,10 +12,18 @@ IV. Implementar políticas públicas encaminadas a prevenir la morbimortalidad y
 V. Generar mecanismos de colaboración con asociaciones públicas y privadas involucradas en el control del tabaco, a fin de establecer programas de prevención que permitan disminuir la incidencia de enfermedades derivadas al consumo, inhalación y combustión del humo de tabaco en cualquiera de sus formas;
 (REFORMADA, P.O. 31 DE OCTUBRE DE 2022)
 VI. Crear los mecanismos de coordinación con instancias y dependencias para el cabal cumplimiento de normas, leyes y reglamentos relacionados con el control del tabaco, así como facilitar la participación y denuncia ciudadana;
-(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)
-VII. Establecer las sanciones para quienes incumplan con lo previsto en este ordenamiento; y
-(ADICIONADA, P.O. 31 DE OCTUBRE DE 2022)
-VIII. Instituir medidas para reducir el consumo de tabaco, particularmente en los menores.
+(REFORMADA, P.O. 1 DE JULIO DE 2024)
+VII. Establecer las sanciones para quienes incumplan con lo previsto en este ordenamiento;
+(REFORMADA, P.O. 1 DE JULIO DE 2024)
+VIII. Promover el desarrollo de acciones tendientes a reducir el consumo de tabaco y la exposición al humo de tabaco y emisiones en la población, especialmente en niñas, niños y adolescentes;
+(ADICIONADA, P.O. 1 DE JULIO DE 2024)
+IX. Fomentar la promoción, la educación para la salud, así como la difusión del conocimiento de los riesgos y consecuencias atribuibles al consumo y a la exposición al humo de tabaco;
+(ADICIONADA, P.O. 1 DE JULIO DE 2024)
+X. Proteger a la población en general contra la exposición al humo de tabaco y emisiones en cualquier área física con acceso al público, en los espacios cerrados, en todo lugar de trabajo, en transporte público, en espacios de concurrencia colectiva, o en las escuelas públicas y privadas de todos los niveles educativos;
+(ADICIONADA, P.O. 1 DE JULIO DE 2024)
+XI. Establecer los lineamientos que deberán observar las personas propietarias, administradoras o responsables de los espacios cien por ciento libres de humo de tabaco y emisiones, así como para establecer zonas exclusivamente para fumar, las cuales deberán estar siempre ubicadas en espacios al aire libre; y
+(ADICIONADA, P.O. 1 DE JULIO DE 2024)
+XII. Proteger al personal laboralmente expuesto al humo de tabaco y emisiones en los lugares de trabajo.
 Artículo 3°.- Para los efectos de la presente Ley se entenderá por:
 I. Área Física Cerrada: Todo espacio con acceso al público, cubierto por un techo o que tenga más de una pared, independientemente del material utilizado para su construcción, y de que la estructura sea permanente o temporal;
 (ADICIONADA, P.O. 31 DE OCTUBRE DE 2022)
@@ -24,13 +32,17 @@ I Bis. Cigarrillo: Cigarro pequeño de picadura envuelta en un papel de fumar;
 I Ter. Cigarro o Puro: Rollo de hojas de tabaco, que enciende por un extremo y se fuma por el opuesto;
 II. Denuncia Ciudadana: Hacer del conocimiento a la autoridad competente respecto a los hechos que constituyan una infracción a las disposiciones contenidas en esta Ley, puede ser de manera personal, telefónica o electrónica;
 III. Espacio 100% Libre de Humo de Tabaco: Toda área física cerrada o espacio abierto, al aire libre con acceso al público o lugar de trabajo, de estudio o de transporte público o sitio de concurrencia colectiva; en general al establecimiento donde por razones de orden público e interés general la presente Ley prohíbe fumar, consumir, tener encendido cualquier producto del tabaco, dispositivos electrónicos o dispositivo que se le asemeje, que expidan vapores con o sin nicotina y esencias o saborizantes;
-IV. Espacio Abierto o al Aire Libre: Al espacio accesible al público, o lugares de uso colectivo, el que no tienen techo ni está limitado entre más de una pared o muro, independientemente del material utilizado para su construcción y de que la estructura sea permanente o temporal. Establecimiento donde hay concentración de personas;
-Para efectos de esta definición, no se considerará como techo a las sombrillas, las que deberán observar las características descritas en la presente Ley;
+(REFORMADA, P.O. 1 DE JULIO DE 2024)
+IV. Espacio abierto o al aire libre: Aquél que no tiene techo ni está limitado entre más de una pared o muro, independientemente del material utilizado para su construcción y de que la estructura sea permanente o temporal;
+(ADICIONADA, P.O. 1 DE JULIO DE 2024)
+IV Bis. Espacio cerrado.- Todo espacio público o privado que se encuentra total o parcialmente techado entre una o más paredes o muros, independientemente del material utilizado para su construcción y de que la estructura sea permanente o temporal, que sea un lugar accesible al público en general y de uso común;
 V. Establecimiento: A los locales y sus instalaciones, dependencias públicas y privadas, así como anexos, que estén cubiertos o descubiertos, sean fijos o móviles, sean de producción, transformación, almacenamiento, distribución de bienes o prestación de servicios, en los que se desarrolle una actividad ocupacional o bien que haya concurrencia de personas, independientemente de la actividad que se desarrolle, del material utilizado para su construcción, de que la estructura sea permanente o temporal o del derecho de acceso al mismo, ya sea éste de manera libre o mediante un pago;
 VI. Fumador Activo: Persona que inhala y exhala intencionalmente el humo generado por la combustión del tabaco;
 VII. Fumador Pasivo: A quien inhala el humo exhalado por el fumador activo Y aquel que se desprende del cigarro o dispositivo;
-VIII. Fumar: A la inhalación y exhalación de humo derivado de la combustión del tabaco o cualquier producto natural o artificial o al estar en posesión o control de un producto de tabaco encendido o dispositivo que se le asemeje;
-IX. Humo de Tabaco: A las emisiones que se desprenden por la combustión de cualquier producto de tabaco, generalmente en combinación con el humo exhalado por el fumador activo;
+(REFORMADA, P.O. 1 DE JULIO DE 2024)
+VIII. Fumar: Al acto de inhalar y exhalar humo de un producto de tabaco e incluye el hecho de estar en posesión o control de un producto de tabaco en combustión o calentamiento, incluidos productos de nicotina que generen emisiones;
+(REFORMADA, P.O. 1 DE JULIO DE 2024)
+IX. Humo de Tabaco: Se refiere a las emisiones de los productos de tabaco originadas por encender o consumir cualquier producto del tabaco y que afectan al no fumador;
 X. ISSEA: Al Instituto de Servicios de Salud del Estado de Aguascalientes;
 XI. Ley: A la presente Ley de Protección Contra la Exposición al Humo del Tabaco del Estado de Aguascalientes;
 XII. Ley de Salud: A la Ley de Salud del Estado de Aguascalientes;
@@ -42,28 +54,37 @@ XVI. Persona Responsable del Establecimiento: A los propietarios, titulares de l
 XVII. Policía: A la persona envestida de autoridad que pertenece a una corporación de Seguridad Pública;
 XVIII. Productos del Tabaco: A los derivados de la planta Nicotina tabacum y sus sucedáneos en su forma natural o modificada, en las diferentes presentaciones que se utilicen para ser fumados, chupados, mascados o utilizados como rapé;
 XIX. Programa Contra el Tabaquismo: Al programa contenido en la Ley General, y en la presente Ley, que tiene las estrategias y líneas de acción destinadas a prevenir, informar sobre los daños que produce a la salud el consumo y la exposición al humo de tabaco o vapor; ofrece alternativas de tratamiento y da seguimiento a los casos detectados;
-XX. Reincidencia: A la persona que cometa nuevamente violaciones a las disposiciones de esta Ley, dentro de un año, contados a partir de la aplicación de la sanción inmediata anterior;
+(REFORMADA, P.O. 1 DE JULIO DE 2024)
+XX. Reincidente: A la persona que incumpla las disposiciones de la presente ley, por más de dos veces en el lapso de un año, contados a partir de la aplicación de la sanción inmediata anterior;
 XXI. Secretaría: A la Secretaria de Salud del Estado de Aguascalientes;
 XXII. Seguridad Pública: A la Secretaría de Seguridad Pública del Estado y Municipios de Aguascalientes;
 XXIII. Sitio de Concurrencia Colectiva: Todo lugar al que independientemente si es abierto o cerrado, interior o exterior, concentre o reúna a personas para llevar a cabo acciones de esparcimiento, de libre asociación, de prácticas, educativas, laborales, de espectáculos, deportivos, culturales, recreativos, patios escolares, parques de diversiones, centros de espectáculos, canchas, estadios, plazas y similares, señalando de manera enunciativa más no limitativa;
+(ADICIONADA, P.O. 1 DE JULIO DE 2024)
+XXIII Bis. Tabaco: La planta "Nicotina Tabacum" y sus sucedáneos, en su forma natural o modificada, en las diferentes presentaciones, que se utilicen para ser fumado, chupado, mascado o utilizado como rapé;
 XXIV. Transporte Público: A los vehículos individuales contratados por plataformas tecnológicas, colectivo concesionado o permisionario por la autoridad competente, utilizado para transportar personas, generalmente con fines comerciales, laborales, escolares u otros, así como para obtener alguna remuneración, incluye terminales, estaciones, paradas y otras instalaciones de mobiliario urbano conexo;
 XXV. UMA: Unidad de Medida y Actualización; y
-XXVI. Vapor: A las emisiones que se desprenden del encendido, inhalación y exhalación de la combustión de sustancias derivada (sic) del tabaco o no, que se utilizan en los cigarrillos o dispositivos electrónicos.
+(REFORMADA, P.O. 1 DE JULIO DE 2024)
+XXVI. Vapor: A las emisiones que se desprenden del encendido, inhalación y exhalación de la combustión de sustancias derivadas del tabaco o no, que se utilizan en los cigarrillos o dispositivos electrónicos.
 Artículo 4°.- Todo dispositivo electrónico que contenga tabaco o nicotina, o bien que emita vapor, estará sujeto a la misma normatividad establecida por la presente Ley.
-Artículo 5°.- Salvo disposición expresa son supletorias del presente ordenamiento las disposiciones de la Ley General de Salud, la Ley de Salud, la Ley del Procedimiento Administrativo, y los códigos y legislaciones municipales respectivas.
+(REFORMADO, P.O. 1 DE JULIO DE 2024)
+Artículo 5°.- Salvo disposición expresa, son supletorias del presente ordenamiento las disposiciones de la Ley General, Ley General de Salud, la Ley de Salud, la Ley del Procedimiento Administrativo del Estado de Aguascalientes, y los códigos y legislaciones municipales aplicables.
 Artículo 6°.- En caso de duda sobre el alcance en la aplicación de alguna de las disposiciones establecidas por esta Ley, prevalecerá aquella interpretación más favorable a la protección de la salud de acuerdo con los objetivos generales y específicos de esta Ley
+(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JULIO DE 2024)
 CAPÍTULO SEGUNDO
-LOS ESPACIOS 100% LIBRE DE HUMO DE TABACO
+LOS ESPACIOS 100% LIBRES DE HUMO DE TABACO
 Artículo 7°.- Se prohíbe a toda persona encender, mantener encendido, consumir o fumar cualquier producto del tabaco como cigarros, dispositivos o cigarrillos electrónicos que expiden vapores con o sin nicotina y esencias o saborizantes, en las áreas que a continuación se especifican:
 I. Dependencias y Entidades de la Administración Pública de la Federación, en términos de la Ley General; así como del Estado y Municipios;
 II. Oficinas de los Poderes Legislativo y Judicial;
 III. Oficinas de Organismos Autónomos y Paraestatales;
-IV. Centro (sic) de atención médica públicos o privados, hospitales, clínicas, laboratorios, centros de salud, centro de salud mental y adicciones;
+(REFORMADA, P.O. 1 DE JULIO DE 2024)
+IV. Centros de atención médica públicos o privados, hospitales, clínicas, laboratorios, centros de salud, centro de salud mental y adicciones;
 V. Bibliotecas, museos, hemerotecas y auditorios;
 VI. Instalaciones, establecimientos o instituciones de educación inicial, preescolar, básica, media superior, superior y especial; pública y privada, o de cualquier otra índole;
 VII. Instalaciones abiertas o cerradas destinadas a la práctica deportiva, cultural, recreativa y de esparcimiento;
-VIII. Establecimiento (sic) con acceso al público como cines, teatros, auditorios, funerarias y otros;
-IX. Unidades destinadas al cuidado y atención de los niños, adolescentes o personas de la tercera edad y con discapacidad.
+(REFORMADA, P.O. 1 DE JULIO DE 2024)
+VIII. Establecimientos con acceso al público como cines, teatros, auditorios, funerarias y otros;
+(REFORMADA, P.O. 1 DE JULIO DE 2024)
+IX. Unidades destinadas al cuidado y atención de los niños, niñas y adolescentes o personas adultas mayores y con discapacidad;
 X. En las áreas físicas cerradas de establecimientos mercantiles, locales, tiendas de autoservicios, oficinas bancarias, financieras y comerciales, hoteles, moteles y servicios de hospedaje, expendios fijos o temporales de alimentos y/o bebidas alcohólicas y no alcohólicas, bares, cantinas, merenderos, centros botaneros, discotecas o y cualquier otro establecimiento en el que se proporcione atención al público;
 XI. Sitios donde se almacene o expenda gasolina, gas licuado de petróleo, gas centrifugado, diesel o cualquier otro combustible y/o químicos o productos catalogados como peligrosos por las normas oficiales mexicanas;
 XII. En las áreas físicas cerradas de los Centros de trabajo, empresas e industrias o cualquier otro establecimiento o lugar que sean utilizados por las personas durante su empleo, jornada laboral, trabajo o comisión;
@@ -98,8 +119,9 @@ IV. Adoptar las medidas necesarias para prevenir, disuadir o impedir que se fume
 V. Para obtener el reconocimiento como Espacio 100% Libre de Humo de Tabaco, el establecimiento solicitante recibirá de manera gratuita asesoría para cumplir con el protocolo respectivo elaborado por el ISSEA con el apoyo del Consejo Contra las Adicciones en el Estado de Aguascalientes, donde en medida de sus ingresos asignados para el caso específico o por la Ley de Ingresos apoyarán con materiales; y
 VI. En caso de incumplimiento a las disposiciones contenidas en esta Ley, por una persona dentro de un espacio libre de humo de tabaco, se iniciará el protocolo para impedir que lo haga, en caso de ser servidor público y estar en oficinas de una dependencia o institución se iniciará el procedimiento administrativo correspondiente por el Órgano Interno de Control, o en caso contrario se aplicará la sanción a la persona responsable del espacio protegido.
 La señalética a la que se refiere la Fracción I de este Artículo, deberá cumplir con las leyendas establecidas en la Ley General y será complementada por la autoridad sanitaria federal y la responsable en el estado de Aguascalientes.
-Artículo 11.- Para asegurar el derecho a la protección a la salud de las personas, será obligación del titular o responsable del espacio libre de humo de tabaco, iniciará (sic) el protocolo cuando se detecte a una persona fumando en el lugar, en primera instancia se le pedirá que deje de fumar y apague su cigarro, cualquier otro producto de tabaco o dispositivo que se le asemeje a este, que haya encendido, de hacer caso omiso a la petición, exigirle se retire del espacio 100% libre de humo de tabaco, si opone resistencia, buscar la asistencia de la autoridad correspondiente, en este caso solicitar el apoyo de la policía, a efecto de que ponga a disposición al infractor ante el Juez Municipal competente.
-La obligación del propietario, la persona responsable o del encargado del espacio libre de humo de tabaco, terminará al momento de que reporte a la autoridad competente o en su caso a la policía, para lo cual el responsable solicitará y deberá de contar con el número de reporte o denuncia, para lo cual la autoridad competente o la policía está obligada a emitir.
+(REFORMADO, P.O. 1 DE JULIO DE 2024)
+Artículo 11.- Para asegurar el derecho a la protección de la salud de las personas, de conformidad con la Ley y demás disposiciones jurídicas aplicables, será obligación de la persona propietaria, administradora o responsable de un espacio cien por ciento libre de humo de tabaco y emisiones, cuando una persona esté fumando, consumiendo o tenga encendido cualquier producto de tabaco o de nicotina en dicho lugar, en primera instancia, solicitarle que inmediatamente deje de fumar y apague su cigarro o cualquier otro producto de tabaco o de nicotina que haya encendido; de no hacer caso a la indicación, exigirle se retire del espacio cien por ciento libre de humo de tabaco y emisiones, y se traslade a la zona exclusivamente para fumar ubicada en espacio al aire libre; si opone resistencia buscar la asistencia de la autoridad correspondiente o solicitar el apoyo de la policía, a efecto de que ponga a disposición al infractor ante el Juez Municipal competente.
+La responsabilidad de los propietarios, poseedores o administradores, a que se refiere el presente artículo terminará en el momento en que den aviso a la autoridad correspondiente, para lo cual deberá contar con la clave de reporte que para tal efecto debe emitir la autoridad.
 (REFORMADO, P.O. 18 DE MAYO DE 2020)
 Artículo 12.- Corresponde al ISSEA la vigilancia del cumplimiento de esta ley y demás disposiciones legales aplicables; mediante visitas de verificación sanitaria o informes de verificación de acuerdo con lo establecido en el Título Décimo Quinto de la Ley de Salud y sus reglamentos.
 (REFORMADO, P.O. 18 DE MAYO DE 2020)
@@ -123,12 +145,15 @@ VI. Vigilar la publicidad sobre el objeto de la presente Ley le competa y demás
 (REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2020)
 Artículo 19.- El ISSEA, y a través de la Dirección del Área de Salud Mental y Adicciones, ejercerá las siguientes facultades:
 I. Fortalecer la coordinación y la gestión estratégica entre el estado, los municipios y diversos actores de la sociedad civil mediante el desarrollo de capacidades técnicas y operativas para la planeación, implementación, monitoreo y evaluación del Programa contra el Tabaquismo;
-II. Realizar en conjunto con la iniciativa privada campañas permanentes de información, concientización y difusión para prevenir el uso y consumo de tabaco;
+(REFORMADA, P.O. 1 DE JULIO DE 2024)
+II. Realizar en conjunto con el sector privado campañas permanentes de información, concientización y difusión para prevenir el uso y consumo de tabaco;
 III. Generar espacios comunitarios polivalentes de manera que niñas, niños, jóvenes, mujeres y hombres puedan hacer uso de las líneas telefónicas nacionales y estatales de información para evitar el consumo de tabaco;
-IV. Educar sobre las consecuencias médicas y sociales del tabaquismo, dirigida a niñas, niños, adolescentes, jóvenes y grupos vulnerables, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos;
+(REFORMADA, P.O. 1 DE JULIO DE 2024)
+IV. Educar sobre los riesgos y consecuencias del tabaquismo en la salud, dirigida especialmente a la familia, niñas, niños, adolescentes, jóvenes y grupos vulnerables, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar al interior de los espacios libres de humo de tabaco que establezca esta Ley, sus reglamentos y demás disposiciones aplicables;
 V. Llevar a cabo campañas de detección temprana de personas fumadoras, diseñar programas, servicios de cesación y opciones terapéuticas basadas en evidencias científicas aprobadas por la Comisión Nacional Contra las Adicciones que ayuden a dejar de fumar combinado, con consejerías y demás intervenciones;
 VI. Promover con el Instituto de Educación de Aguascalientes la inclusión de contenidos de prevención del tabaquismo en programas y materiales educativos;
-VII. Asesorar y dar las facilidades sobre (sic) programa a los establecimientos que deseen se les reconozca como Espacios 100% Libres de Humo de Tabaco; y
+(REFORMADA, P.O. 1 DE JULIO DE 2024)
+VII. Asesorar sobre el Programa contra el Tabaquismo y otorgar facilidades para su aplicación a los establecimientos que deseen se les reconozca como Espacios 100% Libres de Humo de Tabaco; y
 VIII. Las demás que le otorgue la Ley; sus reglamentos, y las demás disposiciones jurídicas aplicables.
 Artículo 20.- Los Ayuntamientos ejercerán las funciones de vigilancia y realizar (sic) las modificaciones reglamentarias que correspondan en el ámbito de su competencia, para lo cual tendrá las siguientes facultades:
 I. Aprobar y alinear las modificaciones derivadas de esta Ley a sus Códigos o Reglamentos Municipales que incluyan la falta administrativa donde se prohíba fumar en espacio libre de humo de tabaco, a fin de dar la certeza jurídica a los Jueces Municipales para sancionar a las personas que incumplan con esta disposición de Ley;
@@ -173,11 +198,17 @@ LA EJECUCIÓN DEL PROGRAMA CONTRA EL TABAQUISMO
 Artículo 31.- La ejecución en el Estado, del Programa Contra el Tabaquismo, estará a cargo del ISSEA, a través de la Dirección del Área Salud Mental y Adicciones; lo que comprenderá las siguientes acciones:
 I. Promoción de la salud y estilos de vida saludable, de acuerdo a la Normas Oficiales Mexicanas correspondientes;
 II. Prevención, diagnóstico, tratamiento y rehabilitación del tabaquismo;
-III. Investigar e informar sobre los daños que produce a la salud el humo del tabaco, sus derivados y dispositivos que se le asemejan;
-IV. Vigilancia epidemiológica y sanitaria del tabaquismo;
+(REFORMADA, P.O. 1 DE JULIO DE 2024)
+III. Investigación e información sobre los daños que produce a la salud el humo del tabaco, sus derivados y dispositivos que se le asemejan;
+(REFORMADA, P.O. 1 DE JULIO DE 2024)
+IV. Realización de la vigilancia epidemiológica y sanitaria del tabaquismo;
 V. Investigación, capacitación y formación de recursos humanos para el control del tabaco;
-VI. La promoción e implementación (sic) fomento de los Espacios 100 % Libres de Humo de Tabaco; y
-VII. Las acciones implementadas se realizarán con absoluto respeto a los derechos humanos.
+(REFORMADA, P.O. 1 DE JULIO DE 2024)
+VI. Promoción e implementación de los Espacios 100% Libres de Humo de Tabaco; y
+(REFORMADA, P.O. 1 DE JULIO DE 2024)
+VII. Implementación de campañas con base en esquemas novedosos y creativos de comunicación que permitan la producción y difusión de mensajes de alto impacto social, con el fin de reforzar los conocimientos sobre los riesgos y daños atribuibles al consumo y a la exposición al humo de tabaco, dirigiéndolas especialmente hacia los sectores más vulnerables.
+(ADICIONADO, P.O. 1 DE JULIO DE 2024)
+Las acciones implementadas se realizarán con absoluto respeto a los derechos humanos.
 CAPÍTULO SÉPTIMO
 LA PARTICIPACIÓN Y DENUNCIA CIUDADANA
 (REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2020)
@@ -186,7 +217,8 @@ Artículo 32.- El ISSEA, promoverá la participación ciudadana en la presente m
 I. Promoción de los espacios cien por ciento libres de humo de tabaco y emisiones de dispositivos o cigarrillos electrónicos que expiden vapores con o sin nicotina y esencias o saborizantes y de los espacios que protegen la salud contra la exposición al humo de tabaco.
 II. Promoción de la salud comunitaria;
 III. Educación e información para protección de la salud;
-IV. Investigación para la salud y generación de la evidencia;
+(REFORMADA, P.O. 1 DE JULIO DE 2024)
+IV. Investigación para la salud y generación de la evidencia científica en materia del control del tabaco;
 V. Difusión de las disposiciones legales en materia del control de los productos del tabaco;
 VI. El fomento del cumplimiento de las disposiciones relativas a la prohibición de fumar en espacios que protegen la salud de la exposición al humo de tabaco:
 VII. Sensibilizar a los propietarios de los establecimientos y estimularles para que se incremente el reconocimiento de los espacios 100% libres de humo de tabaco y la renovación de los mismos cada dos años;
@@ -194,13 +226,16 @@ VIII. Proporcionar a los establecimientos las facilidades técnicas, asesoría p
 IX. Fomentar el incremento de Clínicas de Cesación de Tabaco; y
 X. Coordinación con los Ayuntamientos.
 Artículo 33.- Toda persona podrá presentar ante la autoridad competente una denuncia en caso de que observe el incumplimiento de las obligaciones establecidas en esta Ley, su reglamento y demás disposiciones aplicables.
-Artículo 34.- La autoridad competente salvaguardará la identidad e integridad de la persona denunciante; así como queda prohibido para toda autoridad, empresa, organización, asociación, entidad o persona, tomar represalia o discriminar a la quien haya presentado reporte, denuncia o información que fundamente el incumplimientos (sic) a la presente Ley.
-(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2020)
-Artículo 35.- El ISSEA promoverá e involucrará la participación de la Sociedad Civil en la difusión de la denuncia para el cumplimiento integral de la presente Ley. Para ello:
+(REFORMADO, P.O. 1 DE JULIO DE 2024)
+Artículo 34.- La autoridad competente salvaguardará la identidad e integridad de la persona denunciante. Queda prohibido para toda autoridad, empresa, organización, asociación, entidad o persona, tomar represalia o discriminar a quien haya realizado reporte, denuncia o suministre información que fundamente el incumplimiento a la presente Ley.
+(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2024)
+Artículo 35.- El ISSEA promoverá e involucrará la participación de la Sociedad Civil en la difusión de la denuncia para el cumplimiento integral de la presente Ley, para lo cual deberá:
 I. Realizar talleres de capacitación sobre la nocividad del consumo y la exposición al humo de tabaco; y
 II. Informar sobre las diferentes estrategias de control de tabaco.
-(REFORMADO, P.O. 18 DE MAYO DE 2020)
-Artículo 36.- El ISSEA instalará una línea telefónica con acceso gratuito, y una aplicación electrónica amigable para que los ciudadanos puedan efectuar denuncias, quejas, sugerencias, de los Espacios 100% Libres de Humo de Tabaco, así como el incumplimiento de esta Ley. Por otra parte también podrá recibir orientación sobre los tratamientos para dejar de fumar.
+(REFORMADO, P.O. 1 DE JULIO DE 2024)
+Artículo 36.- El ISSEA instalará una línea telefónica con acceso gratuito, y una aplicación electrónica amigable para que los ciudadanos puedan:
+I. Solicitar información sobre de los riesgos atribuibles al consumo y a la exposición al humo de tabaco y sobre los tratamientos para dejar de fumar; y
+II. Efectuar denuncias, quejas, sugerencias, de los Espacios 100% Libres de Humo de Tabaco, respecto al incumplimiento de esta Ley.
 CAPÍTULO OCTAVO
 LAS INFRACCIONES, SANCIONES Y SU PROCEDIMIENTO ADMINISTRATIVO
 (REFORMADO, P.O. 18 DE MAYO DE 2020)
