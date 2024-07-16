@@ -7,6 +7,8 @@ c) Promover la participación ciudadana en materia de cuidado, conservación y p
 d) Suscribir convenios y acuerdos de coordinación con la federación, otros estados, municipios y organismos auxiliares; y
 (REFORMADO, P.O. 25 DE DICIEMBRE DE 2017)
 e) Llevar un registro estatal del arbolado, con acceso al público y de las personas autorizadas para prestar algún servicio en materia del arbolado urbano;
+(ADICIONADO, P.O. 15 DE JULIO DE 2024)
+f) Realizar una paleta vegetal o natural de especies de arbustos y plantas para reforestación urbana;
 II. Elaborar y evaluar los programas, planes y acciones en materia de cuidado, conservación y protección del arbolado urbano, y los que se deriven de los convenios celebrados para su conservación;
 III. Hacer del conocimiento de las autoridades competentes, y en su caso, denunciar ante los órganos competentes las infracciones que se cometan en materia de cuidado, conservación y protección del arbolado urbano;
 (REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)

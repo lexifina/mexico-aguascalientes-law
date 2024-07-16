@@ -1,0 +1,5 @@
+P.O. 15 DE JULIO DE 2024.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 740.- SE REFORMA LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO.- En un plazo de 180 días naturales, contados a partir de la publicación de esta reforma en el Periódico Oficial del Estado de Aguascalientes, se deberán expedir los reglamentos correspondientes a esta ley en materia de ordenamiento ecológico, evaluación de impacto ambiental, prevención y gestión integral de los residuos, prevención y control de la contaminación atmosférica y de las unidades de manejo estatal y municipal para la conservación de la vida silvestre.
+ARTÍCULO TERCERO.- En un plazo de 90 días naturales, contados a partir de la publicación de esta reforma en el Periódico Oficial del Estado de Aguascalientes, se deberán instalar la Comisión Estatal de Educación Ambiental.
