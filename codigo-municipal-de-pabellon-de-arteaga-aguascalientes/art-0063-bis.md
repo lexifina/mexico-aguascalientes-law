@@ -12,8 +12,7 @@ V.- Aprobar las características de la "Medalla al Mérito Pabellonense" y del d
 VI.- Proponer al pleno del ayuntamiento el dictamen por medio del cual se otorgue la presea consistente en la "Medalla al Mérito Pabellonense", a algún ciudadano distinguido;
 (REFORMADA, P.O. 4 DE MARZO DE 2019)
 VII.- Dictaminar acerca de las propuestas que realicen los integrantes del ayuntamiento acerca de personalidades que sean postulados (sic) para recibir algún premio, reconocimiento o condecoración;
-(REFORMADA, P.O. 4 DE MARZO DE 2019)
-VIII.- Proponer las fechas en que se deban realizar actos de homenaje o reconocimiento a personalidades distinguidas del municipio;
+VIII.- (DEROGADA, P.O. 12 DE AGOSTO DE 2024)
 (REFORMADA, P.O. 4 DE MARZO DE 2019)
 IX.- Establecer bases y lineamientos para ser sujeto de algún premio, reconocimiento o condecoración por parte del gobierno municipal, y
 (REFORMADA, P.O. 4 DE MARZO DE 2019)

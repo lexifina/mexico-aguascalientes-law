@@ -1,0 +1,4 @@
+P.O. 12 DE AGOSTO DE 2024.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 680.- SE REFORMAN LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES; EL CÓDIGO DE ÉTICA LEGISLATIVA DEL HONORABLE CONGRESO DEL ESTADO DE AGUASCALIENTES; Y, LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS".]
+ARTÍCULO PRIMERO.- Una vez cubiertos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el Artículo Primero del presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO.- Los Artículos Segundo y Tercero del presente Decreto iniciarán su vigencia el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
