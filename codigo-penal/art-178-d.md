@@ -1,0 +1,8 @@
+(ADICIONADO, P.O. 13 DE AGOSTO DE 2024)
+ARTÍCULO 178 D.- Asociación Delictuosa. La Asociación Delictuosa consiste en formar parte de una asociación o banda integrada por tres o más personas cuyo propósito es realizar conductas delictivas.
+Al responsable de Asociación Delictuosa se aplicarán de 2 a 5 años de prisión y de 25 a 100 días multa, así como al pago total de la reparación de los daños y perjuicios ocasionados, independientemente de la sanción que corresponda a los delitos que lleguen a cometerse.
+En caso de que exista algún grado de consumación de otros tipos penales, al responsable de Asociación Delictuosa se aplicarán de 3 a 6 años de prisión y de 50 a 150 días multa, así como al pago total de la reparación de los daños y perjuicios ocasionados; salvo lo dispuesto en los Artículos 116 Fracción V y 149 Fracción III de este Código.
+Se aumentará la punibilidad que corresponda hasta en una mitad de sus mínimos y máximos cuando se trate de cualquier servidor público que participe en la realización de los delitos previstos en este artículo. Además, se impondrá a dicho servidor público, destitución e inhabilitación para desempeñar cualquier cargo o comisión pública.
+(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2017)
+CAPÍTULO XII
+Tipos Penales Protectores de la Confidencialidad, la Intimidad de la Información y la Identidad de la Persona
