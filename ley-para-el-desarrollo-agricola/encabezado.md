@@ -1,3 +1,4 @@
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 LEY PARA EL DESARROLLO AGRÍCOLA DEL ESTADO DE AGUASCALIENTES
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 20 de junio de 2018.
 MARTÍN OROZCO SANDOVAL, Gobernador Constitucional del Estado de Aguascalientes, a sus habitantes sabed:
