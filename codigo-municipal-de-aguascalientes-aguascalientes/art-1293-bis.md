@@ -33,8 +33,9 @@ XXX. Libre Acceso a la Autoridad.- Total libertad de ingreso a la autoridad muni
 XXXI. Mayoría de Edad.- Las personas que tengan dieciocho años de edad o más y que puedan acreditarlo con identificación oficial vigente con fotografía;
 XXXII. Municipio.- Al Municipio de Aguascalientes;
 XXXIII. Perímetro Ferial.- Área Urbana en la cual se ubican las diversas instalaciones de la "Feria Nacional de San Marcos", por determinado tiempo, previamente autorizado por el H. Ayuntamiento de Aguascalientes;
-XXXIV. Permiso.- Acto Administrativo por el cual el Municipio, autoriza la actividad del giro para el funcionamiento de un establecimiento mercantil o lugar, con la vigencia que éste le señale, el cual se expedirá a través de la Dirección de Reglamentación;
+(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2024)
+XXXIV. Permiso.- Acto Administrativo por el cual el Municipio, autoriza la actividad del giro para el funcionamiento de un establecimiento mercantil o lugar, con la vigencia que éste le señale, el cual se expedirá a través de la Dirección de Reglamentos;
 XXXV. Reincidencia.- Comisión de una conducta de manera reiterada violando las disposiciones del presente Código dos o más veces, dentro de un periodo de seis meses, contados a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior;
-XXXVI. Reglamento.- Reglamento de Verificación Única Administrativa del Municipio de Aguascalientes;
+XXXVI. (DEROGADA, P.O. 2 DE SEPTIEMBRE DE 2024)
 XXXVII. Titular de Licencia y/o Permiso.- Persona física o moral a quien se le haya expedido a su nombre una licencia o permiso para ejercer cualquier actividad de las establecidas en el Libro Séptimo del presente Código; y
 XXXVIII. Zona de Tolerancia.- Área urbana delimitada, donde se ejerce la prostitución.
