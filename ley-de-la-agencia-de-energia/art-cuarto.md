@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO. - La Junta de Gobierno del Organismo Descentralizado denominado "Agencia de Energía del Estado de Aguascalientes", se deberá instalar en un término no mayor a sesenta días hábiles a partir de la entrada en vigor del presente Decreto.

@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO. - La Junta de Gobierno deberá aprobar el Plan Anual de Trabajo de la Agencia de Energía del Estado de Aguascalientes dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto.
