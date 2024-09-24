@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2024)
+Artículo 347 Quinquies.- Todos los integrantes de la familia, tienen derecho a que los demás miembros les respeten su integridad física, psíquica y emocional, con el objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Para tal efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.

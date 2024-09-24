@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)
-Artículo 173 Bis.- Todas las cuestiones que deban resolverse por acuerdo de los cónyuges podrán ser puestas a consideración del Juez, en caso de no alcanzar el acuerdo de voluntades. El Juez procurará ante todo avenir a los consortes, pero en caso de no conseguirlo resolverá la cuestión discrecionalmente y en los términos que establezca el Capitulo procesal correspondiente.
+Artículo 173 Bis.- (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2024)

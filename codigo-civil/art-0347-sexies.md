@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2024)
+Artículo 347 Sexies.- Todos los integrantes de la familia tienen derecho a la promoción de su unidad, estabilidad, integridad, y a la armonía entre el trabajo y la vida familiar, así como al esparcimiento.
+Todas las personas y el Estado deben coadyuvar a la sana convivencia familiar, atendiendo de manera especial las problemáticas propias de la dinámica familiar, las condiciones sociales en que se desarrolla, así como evitar la violencia o abuso físico o emocional, cualquier forma de discriminación u otras problemáticas destructoras de su unión e integración.
