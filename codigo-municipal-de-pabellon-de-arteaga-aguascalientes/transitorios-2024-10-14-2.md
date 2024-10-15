@@ -1,0 +1,3 @@
+P.O. 14 DE OCTUBRE DE 2024.
+[N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONAN UN SEGUNDO Y UN TERCER PÁRRAFO AL INCISO D), DE LA FRACCIÓN II, DEL ARTÍCULO 360, DEL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS".]
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
