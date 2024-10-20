@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 5 DE MARZO DE 1991)
+ARTICULO 145 bis.- Cuando un servidor público municipal aplique los recursos federales o estatales que se le transfieran según las leyes o convenios; para programas o proyectos específicos a gastos municipales distintos a los prevenidos, se hará acreedor a las sanciones que disponga la Ley de Responsabilidades de los Servidores Públicos, sin perjuicio de la aplicación del Código Penal en lo conducente.
+(REFORMADO, P.O. 17 DE JUNIO DE 2003)
+Los servidores públicos municipales otorgarán los auxilios e información necesarios para la devolución de los recursos desviados y los correspondientes intereses legales, al personal de la Auditoría General del Estado, las Areas de Contraloría y Fiscalización y de las dependencias federales competentes que según las Leyes deban intervenir en estos asuntos.

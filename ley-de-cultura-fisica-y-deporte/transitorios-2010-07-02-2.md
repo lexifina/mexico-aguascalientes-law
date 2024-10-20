@@ -1,0 +1,5 @@
+P.O. 2 DE JULIO DE 2010.
+DECRETO NÚMERO 417, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 29, 109 BIS Y CAPÍTULO III BIS DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+SEGUNDO.- Comuniquese el presente Decreto a los 81 Ayuntamientos del Estado de Guerrero, los Honorables Ayuntamientos Municipales que no cuenten a la fecha de la vigencia del presente Decreto con una oficina o unidad de atención juvenil, harán los trámites y gestiones procedentes con el objeto de presupuestar lo concerniente en el ejercicio fiscal del año 2011, con el fin de programar su instalación y funcionamiento de Acuerdo al Plan de Desarrollo Municipal, a los, Programas Estatales y Municipales de la Juventud y demás ordenamientos legales correspondientes.
+TERCERO.- Remítase al Titular del Poder Ejecutivo del Estado para los efectos constitucionales y publicación en el Periódico Oficial del Gobierno del Estado.

@@ -1,0 +1,1 @@
+ARTICULO SEPTIMO.- Las elecciones de las Comisarías que se instalarán en 1990, se realizarán el segundo domingo de enero de 1990, y durarán en su encargo hasta el 1o. de julio de 1993, iniciándose la rotación a que se refiere el Artículo 199 de esta Ley el 1o. de julio de 1991.

@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2020)
+ARTICULO 13-C.- El Congreso del Estado podrá suprimir o fusionar municipios cuando exista incapacidad económica para el sostenimiento de su administración o la notoria disminución de sus habitantes, comprobándose para tal efecto la falta de su ingreso fiscal y la prestación de los servicios públicos indispensables; ésta se llevará a cabo a solicitud del Ejecutivo del Estado y tomando en consideración las dos terceras partes de los núcleos poblacionales afectados.
+Al acordarse la supresión de un municipio, la Legislatura determinará a cuál o cuáles de los municipios colindantes se agregarán los centros de población y territorio que lo formaban, procurando su unidad social, cultural y geográfica.

@@ -1,4 +1,0 @@
-(ADICIONADO, P.O. 2 DE FEBRERO DE 2015)
-Artículo 114 ter.- En coordinación con el IEA y los Municipios, el IDEA planificará y promocionará el uso óptimo de las instalaciones deportivas de carácter público, para promover y fomentar entre la población en general la práctica de actividades físicas y deportivas.
-Los titulares de las dependencias de la Administración Pública Estatal, tendrán la obligación de promover y fomentar la práctica de actividades físicas o deportivas entre sus trabajadores, con objeto de contribuir al control del sobrepeso y la obesidad, el mejoramiento de su estado físico y mental, y facilitar su plena integración en el desarrollo social y cultural. Para cumplir con esta responsabilidad podrán celebrar acuerdos de colaboración con el IDEA.
-Asimismo, impulsarán la adopción de disposiciones y acuerdos tendientes a facilitar las condiciones de empleo compatibles con la activación física su entrenamiento y participación en competiciones oficiales.
