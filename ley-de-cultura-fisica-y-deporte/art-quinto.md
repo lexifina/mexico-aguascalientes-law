@@ -1,1 +1,0 @@
-ARTICULO QUINTO.- Los Presidentes Municipales rendirán sus informes anuales al pueblo del Municipio, dentro de las dos últimas semanas de cada año o de las dos primeras del año siguiente, en los ejercicios que corresponden a 1990 y en el Informe correspondiente a 1992-1993, se aplicará lo que establece esta Ley.

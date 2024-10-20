@@ -1,2 +1,0 @@
-(ADICIONADO, P.O. 11 DE OCTUBRE DE 1991)
-ARTICULO 175 C.- Cuando el estado físico de un inmueble provoque o pueda provocar daños a la salud o a la vida del hombre o riesgos a las mismas, la autoridad sanitaria del Estado o las de carácter municipal estarán facultadas para ordenar a los propietarios, poseedores o arrendatarios que ejecuten las obras o acciones en general de saneamiento indispensables, procediendo a hacerlas dichas autoridades si no se observarán sus mandamientos. Esas autoridades llevarán a cabo los cobros a los remisos por la vía económica-coactiva.
