@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 21 DE OCTUBRE DE 2024)
+ARTÍCULO 231 BIS.- El personal adscrito a las áreas de auditoría, investigación, substanciación, resolución, transparencia y control interno y desempeño institucional del Órgano Interno de Control, estará sujeto a un régimen de servicio profesional que se apegue a los principios que rigen al servicio público, con el objetivo de ser candidatos para desempeñar como autoridades dentro del órgano Interno de Control, e incluso como titulares de (sic) Órgano Interno de Control Municipal.
