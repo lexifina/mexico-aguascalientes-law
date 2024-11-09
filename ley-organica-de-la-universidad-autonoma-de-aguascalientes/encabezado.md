@@ -1,3 +1,4 @@
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE AGUASCALIENTES
 Ley publicada en el Suplemento al No. 8 del Periódico Oficial del Estado de Aguascalientes, el 24 de febrero de 1974.
 FRANCISCO GUEL JIMENEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes, sabed:

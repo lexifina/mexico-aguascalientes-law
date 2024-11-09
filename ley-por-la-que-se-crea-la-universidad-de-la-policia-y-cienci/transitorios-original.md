@@ -34,3 +34,4 @@ DIPUTADA PRIMER SECRETARIA
 FRANCISCO SÁNCHEZ ESPARZA
 DIPUTADO SEGUNDO SECRETARIO
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35, 36, 46 fracción I y 49 párrafo segundo de la Constitución Política del Estado de Aguascalientes, para su debida publicación y observancia, "Promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 3 de febrero de 2023".- La Gobernadora del Estado de Aguascalientes, C. María Teresa Jiménez Esquivel.- Rubrica.- El Secretario General de Gobierno, Mtro. Florentino de Jesús Reyes Berlié.- Rúbrica.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
