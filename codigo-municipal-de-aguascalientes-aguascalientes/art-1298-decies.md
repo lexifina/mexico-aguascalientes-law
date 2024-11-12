@@ -28,8 +28,8 @@ XII. Determinar, en su caso, la improcedencia de las sanciones de las actas de v
 XIII.- Ordenar el retiro de sellos de clausura una vez que se hayan pagado las multas y/o subsanado las observaciones de la autoridad municipal competente;
 (ADICIONADA, P.O. 4 DE MARZO DE 2013)
 XIV. Solicitar a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, que expida a través de la Dirección de Asuntos Jurídicos, los dictámenes de cancelación de las licencias que regula el presente Libro, cuando proceda, a excepción de los dictámenes que se realizan por cancelación voluntaria;
-(ADICIONADA, P.O. 4 DE MARZO DE 2013)
-XV. Coordinarse con la Dirección de Tecnologías de la Información y Comunicación, para que se elabore y actualice un sistema informático del padrón de licencias y permisos, con los datos y herramientas necesarias para su consulta, en los términos de los ordenamientos jurídicos de acceso a la información;
+(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)
+XV. Coordinarse con la Coordinación General de Infraestructura y Desarrollo Tecnológico, para que se elabore y actualice un sistema informático del padrón de licencias y permisos, con los datos y herramientas necesarias para su consulta, en los términos de los ordenamientos jurídicos de acceso a la información;
 (ADICIONADA, P.O. 4 DE MARZO DE 2013)
 XVI. Remitir a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno los expedientes debidamente integrados para la expedición de licencias;
 (ADICIONADA, P.O. 4 DE MARZO DE 2013)

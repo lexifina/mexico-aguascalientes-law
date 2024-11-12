@@ -4,9 +4,6 @@ I. Promover la atención a la Salud Mental entre los habitantes del Municipio de
 II. Promover las acciones tendientes a prevenir y atender los trastornos de la Salud Mental independientemente de su causa;
 III. Promover, evaluar, elaborar, apoyar e impulsar la aplicación de políticas públicas, estrategias y acciones dirigidas al sostenimiento y promoción de la Salud Mental en todos los grupos sociales independientemente de la edad, género, nivel educativo y socioeconómico; y
 IV. Las demás funciones que se desprendan de la normatividad aplicable, así como las que le confiera el Ayuntamiento o el Presidente Municipal.
-TÍTULO TERCERO
-DE LA NORMATIVIDAD INTERNA MUNICIPAL
-CAPÍTULO I
-De las Normas que Regulan las Actividades de los Trabajadores al Servicio del Gobierno Municipal
-APARTADO PRIMERO
-Disposiciones Generales del Trabajo
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE NOVIEMBRE DE 2024)
+APARTADO VIGÉSIMO PRIMERO
+De la Coordinación General de Infraestructura y Desarrollo Tecnológico
