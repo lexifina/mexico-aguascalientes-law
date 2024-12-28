@@ -3,10 +3,10 @@ ARTICULO 153 BIS.- Cuando sea necesario substanciar el procedimiento administrat
 I.- Por el requerimiento señalado en el primer párrafo del Artículo 149 de este Código.
 II.- Por el aseguramiento en cualquiera de los casos que previene el Artículo 157 de este Código.
 III.- Por la de remate, enajenación fuera del remate o adjudicación.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)
-Cuando en los casos de las fracciones anteriores el 2% del crédito fiscal sea inferior a 2.5 veces el valor diario de la unidad de medida y actualización que disponga la Ley de Ingresos del Estado vigente, se cobrará esa cantidad en lugar del 2% establecido.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este Artículo, excluyendo las erogaciones extraordinarias, podrán exceder de 715 veces el valor diario de la unidad de medida y actualización que disponga la Ley de Ingresos del Estado vigente.
+(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)
+Cuando en los casos de las fracciones anteriores el 2% del crédito fiscal sea inferior a 2.5 veces el valor diario de la unidad de medida y actualización vigente, se cobrará esa cantidad en lugar del 2% establecido.
+(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este Artículo, excluyendo las erogaciones extraordinarias, podrán exceder de 715 veces el valor diario de la unidad de medida y actualización vigente.
 Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, que únicamente comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones o cancelaciones en el Registro Público de la Propiedad y del Comercio del Estado que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios, de los peritos, de los interventores, así como los honorarios de las personas que se contraten para tal efecto, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios, los devengados por concepto de escrituración que origine la transmisión de dominio de los bienes inmuebles que sean adjudicados a favor del Estado y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen, bienes que sean objeto de remate.
 Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales.
 Los ingresos recaudados por concepto de gastos de ejecución, determinados conforme a las disposiciones fiscales Federales y Estatales, se destinarán a las autoridades fiscales estatales, para el establecimiento de fondos de productividad y para financiar programas de formación de funcionarios fiscales.
