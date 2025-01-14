@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 13 DE ENERO DE 2025)
+ARTICULO 61 TER.- Las instituciones privadas de asistencia social tendrán las siguientes obligaciones:
+a) Constituirse de acuerdo con lo estipulado en las leyes aplicables;
+b) Inscribirse en el Directorio Nacional de Instituciones de Asistencia Social;
+c) Cumplir con lo establecido en las Normas Oficiales Mexicanas que se emitan para la regulación de los servicios de asistencia social y colaborar con las tareas de supervisión que realice el Organismo; y
+d) Garantizar en todo momento el respeto a la dignidad y los derechos humanos de las personas, familias o comunidades que reciban sus servicios de asistencia social.
