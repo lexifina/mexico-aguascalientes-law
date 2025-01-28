@@ -1,4 +1,0 @@
-P.O. 18 DE JULIO DE 2022.
-[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 160.- SE REFORMAN LAS FRACCIONES II Y III DEL PÁRRAFO SEXTO Y EL PÁRRAFO SÉPTIMO DEL ARTÍCULO 97-A; EL ARTÍCULO 99; LOS INCISOS B) Y C) DE LA FRACCIÓN I DEL ARTÍCULO 124; Y SE ADICIONA UNA FRACCIÓN IV AL PÁRRAFO SEXTO DEL ARTÍCULO 97-A Y UN INCISO D) DE LA FRACCIÓN I DEL ARTÍCULO 124 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-ARTÍCULO PRIMERO- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-ARTÍCULO SEGUNDO.- Los hechos que pudieran encuadrar en las modificaciones aprobadas, se enjuiciarán y sentenciarán conforme a las leyes que les eran aplicables al momento de su comisión, sin que les resulten aplicables las disposiciones contenidas en el presente Decreto.

@@ -1,7 +1,9 @@
 [N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
-CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
-Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
-CARLOS LOZANO DE LA TORRE, Gobernador Constitucional del Estado de Aguascalientes, a sus habitantes sabed:
-Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
-La LXI Legislatura del Poder Legislativo del Estado Libre y Soberano de Aguascalientes, en virtud de su función y facultad constitucional, ha tenido a bien expedir el siguiente
-Decreto Número 331
+LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
+Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
+EL CIUDADANO CONTADOR PUBLICO FRANCISCO JAVIER BARRIO TERRAZAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
+QUE EL HONORABLE CONGRESO DEL ESTADO SE HA SERVIDO EXPEDIR EL SIGUIENTE
+DECRETO:
+DECRETO No. 823/97 I P.O.
+LA QUINCUAGESIMAOCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, REUNIDA EN SU PRIMER PERIODO ORDINARIO DE SESIONES, DENTRO DEL TERCER AÑO DE EJERCICIO LEGAL,
+DECRETA:
