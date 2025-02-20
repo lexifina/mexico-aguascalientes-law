@@ -7,7 +7,3 @@ IV. Difusión entre la población del municipio de Calvillo, Ags., de los servic
 V. Fomentar el desarrollo de programas culturales, económicos, de salud, de educación y sociales para las personas migrantes y sus familias en coordinación con las autoridades competentes de nivel estatal y/o federal;
 VI. Celebrar convenios de coordinación con las autoridades estatales y/o federales a fin de promover políticas públicas de atención, apoyo y protección a las personas migrantes y sus familias del municipio de Calvillo, Ags.;
 VII. Las demás que establezcan otras disposiciones legales y reglamentarias.
-TÍTULO SEGUNDO
-DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL Y DESCONCENTRADA
-CAPÍTULO I
-De los Organismos Descentralizados
