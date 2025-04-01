@@ -94,7 +94,7 @@ LXIX.- PLANEACIÓN DEL DESARROLLO URBANO: proceso de ordenación y regulación d
 LXX.- PREDIO: parte de un terreno con o sin urbanización, resultado de subdivisión, fusión, constitución en régimen de propiedad en condominio o desarrollo inmobiliario especial;
 LXXI.- PREDIO RÚSTICO: terreno con o sin construcciones que no cuenta con los servicios públicos o se encuentra fuera de los límites de las ciudades o centros de población;
 LXXII.- PREDIO URBANO: predio que se encuentra dentro de las zonas urbanas que determinen los Municipios de acuerdo con el uso de suelo y/o en la etapa de crecimiento manifestado en los programas de desarrollo urbano.
-LXXIII.- PROCURADURÍA: la Procuraduría Estatal del Desarrollo Urbano;
+LXXIII.- (DEROGADA, P.O. 31 DE MARZO DE 2025)
 LXXIV.- PROGRAMA DE DESARROLLO URBANO: conjunto de normas, esquemas y disposiciones que planean y regulan el desarrollo urbano, el ordenamiento del territorio y la vivienda a nivel regional, subregional, de zona conurbada y metropolitana, dentro del territorio municipal y estatal, respecto del centro de población parcial y sectorial;
 LXXV.- PROMOTOR: persona a la que se le otorga la autorización para la constitución de un régimen de propiedad en condominio, un desarrollo inmobiliario especial, una subdivisión o una fusión de predios;
 LXXVI.- PROVISIONES: las áreas que serán utilizadas para la fundación de un centro de población;
@@ -262,11 +262,19 @@ XXXIX.- Participar en la planeación y regulación de las zonas metropolitanas y
 XL.- Establecer y participar en las instancias de coordinación metropolitana;
 XLI.- Coordinadamente con las instancias federales, el IVSOP y los Municipios, intervenir en la prevención, control y regularización de los asentamientos humanos irregulares;
 XLII.- Coordinarse con los Municipios, para implementar, integrar y operar en el ámbito de su competencia el expediente digital único, para la tramitación, autorización, ejecución y control de las obras de urbanización, así como la municipalización de un fraccionamiento o subdivisión y la entrega de las obras de urbanización de los condominios;
-XLIII.- Asesorar, en coordinación con los Municipios y en su caso, con la Procuraduría, a los habitantes de las colonias, barrios, fraccionamientos y condominios en sus problemas relativos a la prestación de servicios urbanos, derivados del incumplimiento del presente Código y demás disposiciones jurídicas aplicables;
-XLIV.- Conocer y dar trámite en coordinación en su caso, con los Municipios y la Procuraduría a las denuncias populares que se le presenten con base a los (sic) dispuesto en este Código;
-XLV.- Mediar y conciliar cuando se le solicite, en coordinación en su caso, con los Municipios y las procuradurías, en asuntos, conflictos y controversias entre colonos, adquirentes de lotes, predios y viviendas, condóminos, fraccionadores y promotores de condominios y desarrollos inmobiliarios especiales;
+(REFORMADA, P.O. 31 DE MARZO DE 2025)
+XLIII.- Asesorar, orientar e informar en coordinación con los Municipios, en su ámbito de competencia, a los habitantes de las colonias, barrios, fraccionamientos y condominios en sus problemas relativos a la prestación de servicios urbanos, derivados del incumplimiento del presente Código, programas de desarrollo urbano y demás disposiciones jurídicas aplicables;
+(ADICIONADA, P.O. 31 DE MARZO DE 2025)
+XLIII BIS.- Solicitar a las autoridades la información relativa a la expedición, aplicación y revisión de los programas de desarrollo urbano previstos en este Código;
+(ADICIONADA, P.O. 31 DE MARZO DE 2025)
+XLIII TER.- Capacitar y certificar a las personas que pretendan desempeñarse como administradores de condominios;
+(REFORMADA, P.O. 31 DE MARZO DE 2025)
+XLIV.- Conocer y dar trámite en coordinación, en su caso, con los Municipios a las denuncias populares que se le presenten con base a los (sic) dispuesto en lo dispuesto (sic) en este Código;
+(REFORMADA, P.O. 31 DE MARZO DE 2025)
+XLV.- Mediar y conciliar cuando se le solicite, en coordinación, en su caso, con los Municipios, en su ámbito de competencia, en asuntos, conflictos y controversias entre colonos, adquirentes de lotes, predios y viviendas, condóminos, fraccionadores y promotores de condominios y desarrollos inmobiliarios especiales;
 XLVI.- Celebrar los convenios y contratos con los sectores público, académico, social y privado para el debido ejercicio de sus atribuciones y ejecución de los programas de su competencia;
-XLVII.- Calificar las infracciones e imponer medidas de seguridad y sanciones que establece este Código y que sean de su competencia; y
+(REFORMADA, P.O. 31 DE MARZO DE 2025)
+XLVII.- Calificar las infracciones e imponer medidas de seguridad y sanciones que establece este Código y que sean de su competencia, así como solicitar a las autoridades competentes la imposición de medidas de seguridad y sanciones administrativas, cuando considere que se incumplieron las disposiciones en materia de desarrollo urbano y ordenamiento territorial; y
 XLVIII.- Las demás que les señalen este Código y otras disposiciones jurídicas aplicables.
 CAPÍTULO III
 Atribuciones de los Municipios
@@ -323,15 +331,20 @@ XLIII.- Verificar que los fraccionadores y promotores cumplan con las obligacion
 XLIV.- Llevar el registro de los barrios, colonias, fraccionamientos y condominios, así como de las asociaciones que sus habitantes integren;
 XLV.- Elaborar y aplicar los atlas de riesgos;
 XLVI.- Conocer y dar trámite a las denuncias populares que se le presenten;
-(REFORMADA, P.O. 22 DE ENERO DE 2024)
-XLVII.- Mediar y conciliar cuando se les solicite, en coordinación en su caso con la SEPLADE, en asuntos, conflictos y controversias entre la población o de esta con los fraccionadores o promotores;
+(REFORMADA, P.O. 31 DE MARZO DE 2025)
+XLVII.- Mediar y conciliar cuando se les solicite, en coordinación en su caso con la SEPLADE, en asuntos, conflictos y controversias entre colonos, adquirentes de lotes, predios y viviendas, condóminos, fraccionadores y promotores de condominios y desarrollos inmobiliarios especiales;
 (REFORMADA, P.O. 22 DE ENERO DE 2024)
 XLVIII.- Coordinarse con la SEPLADE, para implementar, integrar y operar en el ámbito de su competencia el expediente digital único, para la tramitación, autorización, ejecución y control de las obras de urbanización, así como la municipalización de un fraccionamiento o subdivisión y la entrega de las obras de urbanización de los condominios;
 (REFORMADA, P.O. 22 DE ENERO DE 2024)
 XLIX.- En coordinación con la SEPLADE, implementar y actualizar una certificación para los asesores inmobiliarios, a fin de propiciar y facilitar que los fraccionadores y promotores, efectúen la debida, correcta y expedita integración de los expedientes para la autorización y ejecución de las obras de urbanización, en los fraccionamientos, condominios y desarrollos inmobiliarios especiales;
 L.- Celebrar convenios de asociación con otros Municipios para fortalecer sus procesos de planeación urbana, así como para la programación, financiamiento y ejecución de acciones, obras y prestación de servicios comunes;
 LI.- Calificar las infracciones e imponer medidas de seguridad y sanciones que establece este Código y que sean de su competencia; y
-LII.- Las demás que les señalen este Código y otras disposiciones jurídicas aplicables.
+(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MARZO DE 2025)
+LII.- Asesorar, orientar e informar en coordinación con la SEPLADE, en su ámbito de competencia, a los habitantes de las colonias, barrios, fraccionamientos y condominios en sus problemas relativos a la prestación de servicios urbanos, derivados del incumplimiento del presente Código, programas de desarrollo urbano y demás disposiciones jurídicas aplicables;
+(ADICIONADA, P.O. 31 DE MARZO DE 2025)
+LIII.- Conocer y dar trámite en coordinación, en su caso, con la SEPLADE a las denuncias populares que se le presenten con base a los (sic) dispuesto en lo dispuesto (sic) en este Código; y
+(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE MARZO DE 2025)
+LIV.- Las demás que les señalen este Código y otras disposiciones jurídicas aplicables.
 CAPÍTULO IV
 Organismos y Órganos de Deliberación y Auxiliares
 Sección Primera
@@ -486,24 +499,11 @@ Comité Interinstitucional de Fallas y Grietas Geológicas en el Estado
 ARTÍCULO 47.- El Comité Interinstitucional de Fallas y Grietas Geológicas en el Estado, tiene por objeto analizar y estudiar el origen y las causas de las fallas geológicas y el agrietamiento del suelo en el territorio del Estado, con la finalidad de que dichos estudios deriven en la propuesta de programas y acciones multisectoriales para disminuir el impacto social y urbanístico de dichos fenómenos y lograr la convivencia plena.
 ARTÍCULO 48.- El Comité Interinstitucional de Fallas y Grietas Geológicas en el Estado estará integrado por instituciones de los tres órdenes de gobierno y deberá contar con la representación social y privada en el Estado.
 Su organización, integración y funcionamiento se regulará a través de la normatividad que para tal efecto expida el Titular del Poder Ejecutivo del Estado.
+(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE MARZO DE 2025)
 CAPÍTULO V
 Procuraduría Estatal del Desarrollo Urbano
-ARTÍCULO 49.- El Estado creará una Procuraduría Estatal del Desarrollo Urbano, la cual tendrá por objeto atender, asesorar, recibir, resolver y canalizar quejas y denuncias de la ciudadanía y sancionar por el incumplimiento de las disposiciones del presente Código, programas de desarrollo urbano, normas oficiales mexicanas de la materia y demás disposiciones jurídicas en materia de asentamientos humanos, desarrollo urbano, u ordenamiento del territorio; así como mediar y conciliar asuntos, conflictos y controversias en materia de asentamientos humanos, ordenamiento territorial y desarrollo urbano, la cual se integrará y regirá de conformidad con la ley que para el efecto se expida.
-ARTÍCULO 50.- La Procuraduría tendrá las siguientes atribuciones:
-I.- Asesorar a los ciudadanos en asuntos relativos a la aplicación de este Código, programas de desarrollo urbano derivados del mismo y normas oficiales mexicanas; así como respecto de las medidas de seguridad y de los procedimientos administrativos y judiciales en la materia;
-II.- Canalizar ante la autoridad competente, las quejas, denuncias y peticiones ciudadanas en las materias de este ordenamiento jurídico y darles seguimiento;
-III.- Emitir recomendaciones, sin efectos vinculatorios, a las dependencias y entidades del Gobierno del Estado y de los Municipios;
-IV.- Solicitar a las autoridades información relativa a la expedición, aplicación y revisión de los programas de desarrollo urbano previstos en este Código;
-V.- Crear y administrar un registro en línea de quejas y sugerencias ciudadanas respecto las empresas y personas que lleven a cabo desarrollos inmobiliarios en el Estado, cuidando en todo momento que el registro esté integrado con aquellas conductas conocidas y sancionadas por la autoridad competente. La consulta de las quejas y denuncias será pública y la forma de acceder al mismo se determinará en el Reglamento correspondiente;
-VI.- Aplicar las sanciones correspondientes en los casos de su competencia y bajo el procedimiento que se señale en la ley respectiva;
-VII.- Mediar y conciliar en asuntos, conflictos y controversias entre colonos, adquirentes de lotes, predios o viviendas, condóminos, fraccionadores y promotores;
-VIII.- Brindar asesoría y capacitación en materia de desarrollo urbano, ordenamiento territorial y vivienda, a los Municipios y ciudadanía en general, cuando estos se lo soliciten;
-IX.- Participar en los procesos de consulta que convoquen las autoridades, para elaborar, evaluar, actualizar y revisar los programas de desarrollo urbano y de la legislación en materia de desarrollo urbano, ordenamiento territorial y vivienda;
-X.- Promover la participación de la ciudadanía, en los procesos de consulta que convoquen las autoridades competentes, en el ámbito del desarrollo urbano, ordenamiento territorial y vivienda, particularmente de los jóvenes, mujeres y personas en condiciones de vulnerabilidad;
-XI.- Solicitar fundada y motivadamente a las autoridades competentes la imposición de medidas de seguridad y sanciones administrativas, cuando considere que se incumplieron las disposiciones en materia de desarrollo urbano y ordenamiento territorial;
-XII.- Orientar, informar y asesorar a los condóminos, para la debida administración, prestación de servicios urbanos básicos y funcionamiento de los condominios en el Estado;
-XIII.- Capacitar y certificar a las personas que pretendan desempeñarse como administradores de condominios, y
-XIV.- Las demás que establezca este Código y otras disposiciones jurídicas aplicables.
+ARTÍCULO 49.- (DEROGADO, P.O. 31 DE MARZO DE 2025)
+ARTÍCULO 50.- (DEROGADO, P.O. 31 DE MARZO DE 2025)
 TÍTULO TERCERO
 SISTEMA ESTATAL DE PLANEACIÓN DEL ORDENAMIENTO TERRITORIAL, DESARROLLO URBANO Y METROPOLITANO
 CAPÍTULO I
@@ -712,8 +712,8 @@ Los programas sectoriales serán elaborados, aprobados, ejecutados, controlados 
 ARTÍCULO 83.- Los Municipios podrán elaborar Esquemas de Desarrollo Urbano de aquellos centros de población que, por su categoría política administrativa, número de habitantes y grado de urbanización presente o prevista no requieran técnicamente de un programa con la estructura y contenido que se señala este Código.
 Únicamente los centros de población rurales con menos de 2,500 habitantes podrán contar con esquemas de desarrollo urbano y tomarán en cuenta y respetarán lo dispuesto en los programas estatales, regionales, metropolitanos, municipales de ordenamiento territorial y desarrollo urbano, así como los programas de desarrollo urbano de zonas conurbadas aplicables.
 Para aquellas localidades rurales que cuenten con esquema de desarrollo urbano y posteriormente sobrepasen el rango de 2,500 habitantes, deberán las autoridades municipales elaborar su programa de desarrollo urbano de centro de población que sustituya al esquema vigente.
-(REFORMADO, P.O. 22 DE ENERO DE 2024)
-La SEPLADE, el Consejo Estatal y en su caso, la Procuraduría, controlarán que ningún Municipio elabore o apruebe esquemas de desarrollo urbano o programas parciales que vayan en contra de este artículo y que modifiquen las tendencias naturales de crecimiento de los centros de población para fomentar la especulación inmobiliaria y alterar las características del medio rural.
+(REFORMADO, P.O. 31 DE MARZO DE 2025)
+La SEPLADE y el Consejo Estatal controlarán que ningún Municipio elabore o apruebe esquemas de desarrollo urbano o programas parciales que vayan en contra de este ARTÍCULO y que modifiquen las tendencias naturales de crecimiento de los centros de población para fomentar la especulación inmobiliaria y alterar las características del medio rural.
 ARTÍCULO 84.- Los Esquemas de Desarrollo Urbano, derivados de los programas municipales de ordenamiento del territorio y desarrollo urbano, considerarán como mínimo, la siguiente estructura y contenido:
 I.- Introducción: que comprenderá los antecedentes, justificación, aspectos metodológicos, de simbología y conceptuales, así como su congruencia con la planeación del desarrollo y con otros programas aplicables;
 II.- Diagnóstico: que deberá de contener la delimitación del área del centro de población, un resumen de la principal problemática del mismo, incluyendo la población actual y su tendencia de crecimiento;
@@ -811,7 +811,7 @@ I.- El Titular del Ejecutivo Estatal;
 II.- Los Municipios, previa resolución de su Cabildo;
 (REFORMADA, P.O. 22 DE ENERO DE 2024)
 III.- La SEPLADE;
-IV.- La Procuraduría;
+IV.- (DEROGADA, P.O. 31 DE MARZO DE 2025)
 V.- El Consejo Estatal;
 VI.- Los Consejos municipales;
 VII.- Comisión Metropolitana y de Conurbación; y
@@ -1235,8 +1235,8 @@ II.- Cuando el titular de la Constancia no hubiese dado aviso al Municipio de la
 (REFORMADA, P.O. 22 DE ENERO DE 2024)
 III.- En los casos en que el Municipio o la SEPLADE detecten mediante los procedimientos previstos en este Código o en el ordenamiento aplicable, que no se dio cumplimiento a cualesquiera de las condicionantes establecidas en la Constancia o dentro de los plazos previstos en la misma; o
 IV.- Cuando se advierta falsedad de datos en la información presentada ante la autoridad.
-(REFORMADO, P.O. 22 DE ENERO DE 2024)
-En el caso de la fracción IV, la revocación se llevará a cabo sin perjuicio del ejercicio de la acción penal que pudiera derivarse de la actividad emprendida. Para los efectos de este artículo, se requerirá la denuncia de la SEPLADE, del Municipio o la Procuraduría.
+(REFORMADO, P.O. 31 DE MARZO DE 2025)
+En el caso de la fracción IV, la revocación se llevará a cabo sin perjuicio del ejercicio de la acción penal que pudiera derivarse de la actividad emprendida. Para los efectos de este artículo, se requerirá la denuncia de la autoridad que haya tenido conocimiento del hecho.
 ARTÍCULO 182.- Quienes realicen obras, construcciones, ampliaciones o modificaciones que se hagan sin autorización, permiso o licencia, o en contravención a lo dispuesto en la legislación y programas de desarrollo urbano, así como en las constancias municipales de compatibilidad urbanística y licencias de construcción, se harán acreedores a las medidas de seguridad y sanciones que establece este Código. La autoridad municipal concederá un término máximo de 30 días naturales para su regularización en caso de ser procedente. Si el interesado no lo hiciere dentro del término concedido, la autoridad competente podrá ordenar su cancelación definitiva y ordenar su demolición a cargo del particular y en caso de que éste no lo hiciere, podrá demoler total o parcialmente, quedando exentos del pago de indemnización y además se le podrá requerir a los responsables a efecto de que cubran el costo de los trabajos efectuados en dicha demolición.
 ARTÍCULO 183.- Los Municipios supervisarán e inspeccionarán la ejecución de los proyectos y vigilarán que las obras y demás actividades cumplan con este Código, con los programas y las constancias municipales de compatibilidad urbanística.
 CAPÍTULO II
@@ -1600,8 +1600,8 @@ VIII.- Estimado de habitantes; y
 IX.- Datos o antigüedad de la creación del asentamiento.
 Esta información deberá de entregarse a finales del mes de marzo de cada año y servirá para que a nivel estatal se cuente con un panorama general de los asentamientos humanos irregulares y en consecuencia promover su regularización.
 ARTÍCULO 283.- En caso de que exista un asentamiento humano irregular en un bien inmueble de propiedad Estatal, será el IVSOP quien promoverá el proceso de regularización. Así mismo, si se dan en una propiedad municipal, éste determinará a la dependencia con la facultad para llevar a cabo la regularización.
-(REFORMADO, P.O. 22 DE ENERO DE 2024)
-ARTÍCULO 284.- El Municipio respectivo, en coordinación con la SEPLADE y el IVSOP, al tener conocimiento de un asentamiento humano irregular o la formación de este, deberá dar aviso a la Procuraduría, además de proceder a la suspensión de cualquier obra y, en su caso, ventas de predios que se transmitan ilícitamente, fijando en lugares públicos y visibles, copias del ordenamiento que disponga tal situación, el cual deberá estar fundamentado en las disposiciones de este Código, así como publicado como advertencia pública en un diario de mayor circulación de la localidad y notificarse al Colegio de Notarios y al Instituto Registral y Catastral que no inscriban ningún acto, contrato o convenio derivado de la propiedad o posesión de inmuebles ubicados en ese asentamiento humano.
+(REFORMADO, P.O. 31 DE MARZO DE 2025)
+ARTÍCULO 284.- El Municipio respectivo, en coordinación con la SEPLADE y el IVSOP, al tener conocimiento de un asentamiento humano irregular o la formación de este, deberá proceder a la suspensión de cualquier obra y, en su caso, ventas de predios que se transmitan ilícitamente, fijando en lugares públicos y visibles, copias del ordenamiento que disponga tal situación, el cual deberá estar fundamentado en las disposiciones de este Código, así como publicado como advertencia pública en un diario de mayor circulación de la localidad y notificarse al Colegio de Notarios y al Instituto Registral y Catastral que no inscriban ningún acto, contrato o convenio derivado de la propiedad o posesión de inmuebles ubicados en ese asentamiento humano.
 ARTÍCULO 285.- Serán susceptibles de regularización los asentamientos humanos irregulares que cumplan los siguientes supuestos:
 I.- Que el uso de suelo de la zona en que se ubica el asentamiento humano irregular, sea apto para vivienda, en términos de las disposiciones en materia de desarrollo urbano aplicables;
 II.- Que no se encuentre ubicado en zonas no urbanizables, de riesgo o de preservación ecológica;
@@ -1699,7 +1699,7 @@ ARTÍCULO 289 BIS.- Cuando el asentamiento humano irregular cumpla con lo establ
 ARTÍCULO 289 TER.- El IVSOP o el Municipio, en el ámbito de sus competencias deberá:
 I. Establecer con los habitantes las bases para la dotación de servicios, equipamientos e infraestructura urbana, a través de la participación económica de éstos, por lo que se podrá contar para tales efectos con la cooperación de las autoridades correspondientes;
 II. Gestionar recursos federales, estatales y municipales, a fin de regularizar asentamientos humanos irregulares; y
-III. Dar aviso a la Procuraduría para atender, asesorar, mediar y conciliar en asuntos, conflictos y controversias entre colonos, adquirientes de lotes, predios o viviendas o promotores.
+III. (DEROGADA, P.O. 31 DE MARZO DE 2025)
 ARTÍCULO 290.- Una vez aceptado y firmado por el propietario o promotor el proyecto de dictamen de regularización del asentamiento humano, será sometido como parte del orden del día a la próxima sesión del Consejo Estatal.
 (REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)
 ARTÍCULO 291.- El Consejo Estatal, tomando en cuenta lo dictaminado, la opinión en su caso del Sub-consejo correspondiente y del Municipio, en sesión plenaria aprobará o rechazará el proyecto de dictamen que sea sometido a su consideración por la SEPLADE, una vez que se hubiera analizado, de acuerdo a las disposiciones legales vigentes en la materia, aspectos técnicos y normas de planeación urbana.
@@ -2422,8 +2422,8 @@ I.- Urbanización inmediata;
 II.- Urbanización por etapas; y
 III.- Urbanización progresiva.
 ARTÍCULO 411.- En la urbanización por etapas, las últimas pueden estar ligadas a la realización diferida de ciertas infraestructuras urbanas que permitan su conexión a las iniciales, sin que dichas obras rebasen el plazo máximo de ejecución, el cual será de 5 años y comprenderá todas las etapas.
-(REFORMADO, P.O. 22 DE ENERO DE 2024)
-Si el promotor o desarrollador no concluye en 5 años la ejecución de las obras del fraccionamiento, condominio o desarrollo inmobiliario especial, deberá solicitar previo al término del plazo determinado a la SEPLADE o en su caso al Municipio, la renovación del mismo y deberá cumplir con los requisitos de los lineamientos que dicha Dependencia Estatal expida o en su caso el Municipio; de lo contrario la SEPLADE o el Municipio, deberá iniciar un procedimiento de revocación.
+(REFORMADO, P.O. 31 DE MARZO DE 2025)
+Si el promotor o desarrollador no concluye en 5 años la ejecución de las obras del fraccionamiento, condominio o desarrollo inmobiliario especial, deberá solicitar a la SEPLADE o en su caso al Municipio, la renovación del mismo y deberá cumplir con los requisitos de los lineamientos que dicha Dependencia Estatal expida o en su caso el Municipio.
 ARTÍCULO 412.- La urbanización progresiva sólo se autorizará a instituciones gubernamentales, organismos públicos de vivienda o a asociaciones civiles sin fines de lucro coordinados con una institución gubernamental. En este caso, la supervisión de las obras de urbanización y del proyecto la realizará directamente el Municipio.
 (REFORMADO, P.O. 22 DE ENERO DE 2024)
 La infraestructura faltante que haya determinado el Consejo Estatal, la SEPLADE o el Municipio, deberá ser ejecutada por el fraccionador o promotor con la cooperación de los adquirentes de los lotes o predios, de conformidad con lo estipulado en los contratos de compra venta individuales y de acuerdo con el programa de urbanización autorizado.
@@ -2554,7 +2554,7 @@ II.- Cuando no esté garantizada la prestación de los servicios públicos;
 III.- Cuando las obras de urbanización sean afectadas por una situación ajena al proyecto y representen un riesgo para los adquirientes o poseedores;
 IV.- Cuando la comercialización del proyecto, no sea congruente con el proyecto autorizado por la autoridad correspondiente;
 V.- Cuando no se cumplan las condicionantes señaladas en el oficio de autorización de venta; y
-VI.- Por recomendación fundada y justificada de la Procuraduría.
+VI.- (DEROGADA, P.O. 31 DE MARZO DE 2025)
 CAPÍTULO IX
 Municipalización de los Fraccionamientos y Subdivisiones
 ARTÍCULO 452.- El Municipio será la única autoridad competente para recibir los bienes inmuebles, equipo e instalaciones destinados a los servicios públicos y las obras de urbanización de un fraccionamiento o subdivisión, por lo que cualquier acto, contrato o convenio que se celebre por parte del fraccionador o promotor, con la asociación de colonos u otra persona física o moral que contravenga esta disposición, será nulo de pleno derecho.
@@ -2724,8 +2724,8 @@ ARTÍCULO 502.- Son derechos y obligaciones de la administración del condominio
 I.- Cuidar de la conservación y control de los bienes comunes;
 II.- Prestar los servicios a que se refiere este Código con las aportaciones y cuotas de los condóminos;
 III.- Mantener en buen estado de funcionamiento las instalaciones, infraestructura, equipamiento urbano y servicios generales;
-(REFORMADA, P.O. 22 DE ENERO DE 2024)
-IV.- Previamente al inicio de sus funciones de administrador o de miembros del comité de administración, asistir al curso de capacitación que imparta la SEPLADE, el Municipio o la Procuraduría y obtener la certificación correspondiente;
+(REFORMADA, P.O. 31 DE MARZO DE 2025)
+IV.- Previamente al inicio de sus funciones de administrador o de miembros del comité de administración, asistir al curso de capacitación que imparta la SEPLADE y los Municipios en su ámbito de competencia, y obtener la certificación correspondiente;
 V.- Representar y ejecutar los acuerdos de la asamblea general de condóminos y del comité de propietarios y de vigilancia del condominio;
 VI.- Recaudar de los condóminos las cuotas ordinarias y extraordinarias, así como del fondo de reserva para los gastos comunes y prestación de servicios, y en general, exigirles el cumplimiento de sus obligaciones dentro de los plazos legales que correspondan a cada obligación, y en su caso, interpelar de forma oportuna, judicial o extrajudicialmente el cumplimiento a los condóminos con adeudos retrasados;
 VII.- Expedir a los condóminos estados de cuenta o constancias de adeudos o al corriente, respecto de las aportaciones de cuotas ordinarias o extraordinarias y del fondo de reserva;
@@ -2741,7 +2741,8 @@ XVI.- Iniciar los procedimientos administrativos o judiciales o extrajudiciales 
 XVII.- Suspender la prestación de los servicios comunes a los condóminos que dejen de cubrir tres o más cuotas ordinarias, la cuota extraordinaria o su aportación para el fondo de reserva, previa opinión del Comité de Propietarios y de Vigilancia;
 XVIII.- La administración del condominio bajo ninguna circunstancia podrá prohibir al condómino u ocupante de los bienes de propiedad exclusiva el acceso al condominio;
 XIX.- Publicar en los lugares comunes del condominio, los nombres de los condóminos u ocupantes que tengan adeudos por concepto de cuotas ordinarias, cuota extraordinaria o aportación para el fondo de reserva;
-XX.- Promover, por lo menos una vez al año en coordinación con el Municipio respectivo y, en su caso, con la Procuraduría, una jornada de difusión e instrumentación de los principios y reglas básicas que impulsan la cultura condominal;
+(REFORMADA, P.O. 31 DE MARZO DE 2025)
+XX.- Promover, por lo menos una vez al año en coordinación con el Municipio respectivo, una jornada de difusión e instrumentación de los principios y reglas básicas que impulsan la cultura condominal;
 XXI.- En los condominios en que se ejecuten obras de urbanización, infraestructura y equipamiento urbano, una vez expedidos los dictámenes técnico jurídicos por parte del Municipio, que determinen que no existen obligaciones pendientes del promotor, así como el que fueron debidamente concluidas dichas obras y que los servicios funcionan adecuadamente, con la anuencia del Comité de Propietarios y de Vigilancia o de la asamblea general de condóminos, recibirlas formalmente por parte del promotor, así como realizar todos los actos de administración, mantenimiento y prestación de servicios en nombre y representación de los condóminos;
 XXII.- Permitir el acceso al condominio, a las autoridades competentes debidamente identificadas, para realizar el ejercicio de sus funciones, tales como notificaciones, diligencias judiciales o administrativas, entre otras;
 XXIII.- Emitir al Municipio su opinión, respecto de la autorización para el funcionamiento de establecimientos comerciales y de servicios, que pretendan instalarse en predios o lotes colindantes con áreas habitacionales del condominio, a fin de evitar daños y perjuicios a los condóminos, en su tranquilidad y seguridad;
@@ -2792,11 +2793,12 @@ ARTÍCULO 510.- Los conjuntos condominales tendrán una asamblea de condominios,
 Los comités de propietarios y vigilancia de cada uno de los condominios que integran un Conjunto Condominal, formarán la asamblea de condominios de este último, en caso de no existir esos comités, la representación e integración de esa asamblea será por medio del comité de administración o el administrador respectivo.
 ARTÍCULO 511.- La administración por decisión de las asambleas respectivas, podrá ser una misma para el conjunto condominal y todos los subregímenes del mismo o en su caso una administración para cada subregímen.
 ARTÍCULO 512.- En aquellos condominios que cuenten con menos de 13 unidades de propiedad exclusiva o que no requieran de infraestructura, equipamiento urbano, servicios comunes o prestación de servicios básicos urbanos, podrán ser administrados directamente por los condóminos sin necesidad de asamblea general, administrador y comité de propietarios y de vigilancia. Sus decisiones deberán hacerse constar en actas firmadas por la mayoría de ellos.
-ARTÍCULO 513.- Los Municipios y, en su caso, la Procuraduría, proporcionarán a los condóminos y administradores de inmuebles sujetos al régimen de propiedad en condominio, orientación y capacitación a través de diversos cursos y talleres en materia de cultura condominal, en coordinación con los organismos de vivienda y otras dependencias e instituciones públicas y privadas.
-(REFORMADO, P.O. 22 DE ENERO DE 2024)
-ARTÍCULO 514.- Toda persona que sea administrador, miembro del comité de administración o del comité de propietarios y de vigilancia de un condominio, deberá acreditar su asistencia a los cursos de capacitación y actualización impartidos por el Municipio, la SEPLADE y, en su caso, por la Procuraduría una vez al año.
-(REFORMADO, P.O. 22 DE ENERO DE 2024)
-ARTÍCULO 515.- Los Municipios, la SEPLADE y en su caso, la Procuraduría, promoverán una cultura condominal, con base en el espíritu y principios de este Código; coadyuvando y asesorando en la creación y funcionamiento de asociaciones civiles orientadas a la difusión y desarrollo de la cultura condominal, así como a iniciativas ciudadanas relacionadas con ésta.
+(REFORMADO, P.O. 31 DE MARZO DE 2025)
+ARTÍCULO 513.- La SEPLADE y los Municipios en su ámbito de competencia proporcionarán a los condóminos y administradores de inmuebles sujetos al régimen de propiedad en condominio, orientación y capacitación a través de diversos cursos y talleres en materia de cultura condominal, en coordinación con los organismos de vivienda y otras dependencias e instituciones públicas y privadas.
+(REFORMADO, P.O. 31 DE MARZO DE 2025)
+ARTÍCULO 514.- Toda persona que sea administrador, miembro del comité de administración o del comité de propietarios y de vigilancia de un condominio, deberá acreditar su asistencia a los cursos de capacitación y actualización impartidos por el Municipio y la SEPLADE una vez al año.
+(REFORMADO, P.O. 31 DE MARZO DE 2025)
+ARTÍCULO 515.- Los Municipios y la SEPLADE promoverán una cultura condominal, con base en el espíritu y principios de este Código; coadyuvando y asesorando en la creación y funcionamiento de asociaciones civiles orientadas a la difusión y desarrollo de la cultura condominal, así como a iniciativas ciudadanas relacionadas con ésta.
 Sección Sexta
 Destrucción, Ruina y Reconstrucción de los Bienes en Condominio
 ARTÍCULO 516.- Si el bien sujeto al régimen de propiedad en condominio se destruye en su totalidad, o en una proporción que represente por lo menos la mitad de su valor, según peritaje practicado por persona autorizada en términos de lo dispuesto por este Código y los códigos municipales para tal efecto, una mayoría especial de los condóminos reunidos en asamblea general que representen por lo menos el 51% de los derechos de propiedad, podrá acordar la reconstrucción o la división del predio y de los bienes comunes que queden o la venta, con arreglo o las disposiciones legales aplicables.
@@ -2815,7 +2817,8 @@ ARTÍCULO 519.- La administración del condominio que reciba la administración,
 ARTÍCULO 520.- Las obras de edificación, equipamiento, instalaciones y otras diversas que no formen parte de las obras de urbanización autorizadas por el Consejo Estatal o el Municipio, en el caso de que no estén concluidas, no será impedimento para la entrega de las obras de urbanización determinadas en el artículo anterior. Debiéndose apegar el promotor a lo establecido en las licencias de construcción otorgadas.
 (REFORMADO, P.O. 22 DE ENERO DE 2024)
 ARTÍCULO 521.- Para la formalización de la entrega recepción que se realice por parte del promotor a la administración del condominio, se deberá convocar a una asamblea general extraordinaria de condóminos, la cual constatará esa situación y cuya acta deberá protocolizarse ante notario público e inscribirse en el Instituto Registral y Catastral.
-A la asamblea general extraordinaria referida en el párrafo anterior, se podrá invitar al Municipio, la SEPLADE y a la Procuraduría, con el fin de que informen a los condóminos respecto de las condiciones generales de la autorización, especificaciones y características de la urbanización del condominio, derechos y obligaciones que tienen los administradores y los condóminos, así como las principales disposiciones de este Código en lo relativo al condominio.
+(REFORMADO, P.O. 31 DE MARZO DE 2025)
+A la asamblea general extraordinaria referida en el párrafo anterior, se podrá invitar al Municipio y a la SEPLADE, con el fin de que informen a los condóminos respecto de las condiciones generales de la autorización, especificaciones y características de la urbanización del condominio, derechos y obligaciones que tienen los administradores y los condóminos, así como las principales disposiciones de este Código en lo relativo al condominio.
 ARTÍCULO 522.- En caso de que hubiere negativa de la administración del condominio o no exista esta para recibir la administración, operación y mantenimiento de la infraestructura y equipamiento urbano y prestación de los servicios básicos, el promotor podrá recurrir a la instancia judicial correspondiente.
 Sección Octava
 Derechos y Obligaciones de los Condóminos
@@ -4099,8 +4102,8 @@ d).- Por no visitar la obra en todas las etapas importantes del proceso de const
 e).- Por no llevar en la obra un libro bitácora foliado y encuadernado o no integrar la información y documentación correspondiente, en el expediente digital único, multa equivalente de hasta 320 UMA;
 f).- Por no cumplir con cualquiera de las obligaciones que le corresponda, el perito responsable o el perito especializado de obra será sancionado con multa equivalente de hasta 1,000 UMA, independientemente de las acciones previstas por este Código; y
 g).- Por no dar aviso al Municipio de la modificación del proyecto inicialmente presentado y autorizado, así como del cambio de uso o destino del suelo en la respectiva área, lote o predio el titular de la evaluación de impacto urbano, será sancionado con multa equivalente de hasta 1,500 UMA, independientemente de la revocación del dictamen y la clausura de las obras y la suspensión de actos de inscripción; y
-(REFORMADO, P.O. 22 DE ENERO DE 2024)
-Lo señalado en las fracciones anteriores se llevará a cabo sin perjuicio del ejercicio de las acciones administrativas, civiles o penales que pudiera derivarse de la actividad emprendida. Para los efectos de este supuesto se requerirá la denuncia de la SEPLADE, el Municipio o la Procuraduría.
+(REFORMADO, P.O. 31 DE MARZO DE 2025)
+Lo señalado en las fracciones anteriores se llevará a cabo sin perjuicio del ejercicio de las acciones administrativas, civiles o penales que pudiera derivarse de la actividad emprendida. Para los efectos de este supuesto se requerirá la denuncia de la SEPLADE y de los Municipios en su ámbito de competencia.
 CAPÍTULO III
 Notificaciones, Procedimientos de Comprobación y de los Medios de Impugnación
 Sección Primera
@@ -4128,8 +4131,8 @@ Medios de Impugnación
 ARTÍCULO 832.- Las resoluciones dictadas con motivo de la aplicación de este Código podrán ser impugnadas mediante los medios de defensa que establece la Ley del Procedimiento Administrativo del Estado de Aguascalientes o la Ley del Procedimiento Contencioso Administrativo para el Estado de Aguascalientes.
 CAPÍTULO IV
 Denuncia Pública
-(REFORMADO, P.O. 22 DE ENERO DE 2024)
-ARTÍCULO 833.- La persona física o moral que tenga conocimiento de que se hubieran autorizado, o se estén llevando a cabo o se pretendan realizar acciones, inversiones, proyectos, construcciones, cambios de usos y destinos del suelo, edificaciones, instalaciones o cualesquiera otros actos o acciones urbanas en contravención a las disposiciones de este Código, a las demás disposiciones jurídicas aplicables y a los programas aplicables, así como en contra de las determinaciones de las autoridades competentes, tendrá derecho a denunciarlo ante la SEPLADE o el Municipio correspondiente y, en su caso, ante la procuraduría si la hubiere, para exigir que se lleven a cabo las suspensiones, demoliciones, modificaciones o cancelaciones de obra o proyecto que sean necesarias para cumplir y ajustarse a los citados ordenamientos.
+(REFORMADO, P.O. 31 DE MARZO DE 2025)
+ARTÍCULO 833.- La persona física o moral que tenga conocimiento de que se hubieran autorizado, o se estén llevando a cabo o se pretendan realizar acciones, inversiones, proyectos, construcciones, cambios de usos y destinos del suelo, edificaciones, instalaciones o cualesquiera otros actos o acciones urbanas en contravención a las disposiciones de este Código, a las demás disposiciones jurídicas aplicables y a los programas aplicables, así como en contra de las determinaciones de las autoridades competentes, tendrá derecho a denunciarlo ante la SEPLADE o el Municipio correspondiente, para exigir que se lleven a cabo las suspensiones, demoliciones, modificaciones o cancelaciones de obra o proyecto que sean necesarias para cumplir y ajustarse a los citados ordenamientos.
 ARTÍCULO 834.- No se admitirán a trámite denuncias notoriamente improcedentes o infundadas, aquéllas en las que se advierta mala fe, carencia de fundamento o inexistencia de petición, lo cual se notificará al denunciante.
 ARTÍCULO 835.- Para el ejercicio de la denuncia pública contemplada en este Código, bastará un escrito, que no se sujetará a formalidad especial alguna, en el cual bastará señalar:
 I. Nombre y domicilio del denunciante;
@@ -4137,10 +4140,12 @@ II. Datos que permitan la localización e identificación del inmueble, área, z
 III. Breve narración de los hechos precisando las variables o modalidades a que diere lugar;
 IV. Los datos que permitan identificar al presunto infractor; y
 V. Las pruebas que, en su caso, ofrezca el denunciante.
-ARTÍCULO 836.- La autoridad estatal o municipal que reciba una denuncia pública, deberá turnarla de inmediato a la procuraduría, en su caso, o a la autoridad competente para la indagatoria de los hechos denunciados, sin perjuicio de que la autoridad receptora tome o gestione las medidas preventivas o correctivas que juzgue convenientes.
+(REFORMADO, P.O. 31 DE MARZO DE 2025)
+ARTÍCULO 836.- La autoridad estatal o municipal que reciba una denuncia pública, deberá turnarla de inmediato a la SEPLADE y a la dependencia municipal competente para la indagatoria de los hechos denunciados, sin perjuicio de que la autoridad receptora tome o gestione las medidas preventivas o correctivas que juzgue convenientes.
 ARTÍCULO 837.- La resolución que corresponda por parte de la autoridad competente a la denuncia pública interpuesta, previo a oír al denunciante y en su caso a los afectados, deberá resolverse en un término no mayor de 30 días hábiles contados a partir de la fecha de recepción del escrito.
 ARTÍCULO 838.- Es obligación de la autoridad competente estatal o municipal hacer del conocimiento del denunciante sobre el trámite, resultado de la verificación de los hechos, medidas de seguridad impuestas, sanciones aplicadas y resolución de la denuncia popular planteada.
-ARTÍCULO 839.- Cuando los hechos que motiven una denuncia pública hubiesen causado daños o perjuicios, los interesados o afectados deberán solicitar a la procuraduría correspondientes o en su caso a la autoridad competente que dicte la resolución correspondiente, un dictamen técnico-jurídico, para efecto de que éstas lo canalicen a la autoridad competente con la finalidad de que se obtenga la reparación de los mismos, sin perjuicio de las sanciones, responsabilidades civiles, penales o administrativas en que hubiere incurrido la persona física o moral, pública o privada, que haya ejecutado los actos o las acciones denunciadas.
+(REFORMADO, P.O. 31 DE MARZO DE 2025)
+ARTÍCULO 839.- Cuando los hechos que motiven una denuncia pública hubiesen causado daños o perjuicios, los interesados o afectados deberán solicitar a la SEPLADE y a los Municipios en su ámbito de competencia o a la autoridad competente que dicte la resolución correspondiente, un dictamen técnico-jurídico, para efecto de que éstas lo canalicen a la autoridad competente con la finalidad de que se obtenga la reparación de los mismos, sin perjuicio de las sanciones responsabilidades civiles, penales o administrativas en que hubiere incurrido la persona física o moral, pública o privada, que haya ejecutado los actos o las acciones denunciadas.
 TRANSITORIOS
 ARTÍCULO PRIMERO.- EL presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo previsto en los artículos siguientes.
 ARTÍCULO SEGUNDO.- Con la entrada en vigor del presente Decreto, se abroga el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes, publicado en el Periódico Oficial del Estado de Aguascalientes de fecha 7 de octubre de 2013, en edición vespertina, Tomo LXXVI, Número 40, así como sus reformas posteriores.
