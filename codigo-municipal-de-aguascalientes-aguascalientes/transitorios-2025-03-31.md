@@ -1,0 +1,3 @@
+P.O. 31 DE MARZO DE 2025.
+[N. DE E. TRANSITORIO DE LAS "REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES EN MATERIA DE ESPECTÁCULOS, APROBADAS EN LA SESIÓN ORDINARIA, CELEBRADA EL DÍA TRECE DE MARZO DE DOS MIL VEINTICINCO".]
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
