@@ -1,0 +1,24 @@
+(ADICIONADO, P.O. 14 DE ABRIL DE 2025)
+ARTICULO 16 BIS.- Los Organismos Auxiliares serán honorarios y ejercerán las atribuciones que les confieran las Autoridades Municipales, siendo de carácter enunciativo más no limitativo los siguientes:
+I. Consejo de Desarrollo Municipal;
+II. Consejo Municipal de Participación Social en la Educación;
+III. Consejo Municipal de Seguridad Pública;
+IV. Consejo Municipal de Protección Civil;
+V. Consejo Municipal de Salud;
+VI. Consejo de Mejora Regulatoria, Simplificación, Transparencia e Innovación;
+VII. Consejo Municipal de Desarrollo Rural Sustentable;
+VIII. Consejo Municipal para el Desarrollo Cultural;
+IX. Comité de Adquisiciones;
+X. Comisión de Prevención de las Adicciones;
+XI. Comisión para la Prevención del Delito;
+XII. Comisión del Combate al Narcomenudeo;
+XIII. Los Comités de Obras;
+XIV. Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano;
+XV. Comité de Participación Ciudadana;
+XVI. Comisión Mixta de Seguridad e Higiene;
+XVII. Comisión de Seguridad Escolar;
+XVIII. Las Juntas Vecinales de Colaboración Municipal; y
+XIX. Los demás Organismos que sean creados por el H. Ayuntamiento.
+Estas autoridades están bajo el mando inmediato del Presidente Municipal, quien está facultado para delegar y suprimir las cuestiones que estime convenientes.
+CAPITULO II
+De las Funciones de los Miembros del H. Ayuntamiento
