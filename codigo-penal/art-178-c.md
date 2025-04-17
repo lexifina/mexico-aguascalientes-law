@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 23 DE OCTUBRE DE 2023)
+ARTÍCULO 178 C (SIC).- Portación de Armas Prohibidas. La portación de armas prohibidas consiste en portar, fabricar, comercializar o acopiar, sin un fin lícito, armas químicas, instrumentos u objetos punzantes, cortantes, contundentes, punzo-cortantes, punzo-contundentes y/o corto-contundentes que solo puedan ser utilizados para agredir y que no tengan aplicación en actividades laborales, domésticas, deportivas, recreativas o cuya naturaleza sea la defensa.
+Al responsable de Portación de Armas Prohibidas se le aplicarán de 6 meses a 4 años de prisión y de 25 a 250 días multa, así como el decomiso de la misma.
+Para efectos del presente artículo se entiende por acopio la detentación de tres o más instrumentos u objetos de aquellos a que se refiere el primer párrafo de este artículo.

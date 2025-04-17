@@ -1,3 +1,0 @@
-P.O. 13 DE ENERO DE 2010.
-DECRETO No. 629/09, POR EL QUE SE REFORMAN LOS ARTÍCULOS 3; EL PÁRRAFO CUARTO DEL 41; 51, EN SU PÁRRAFO PRIMERO Y EN SU FRACCIÓN I; ASÍ COMO LAS FRACCIONES I Y III DEL 116, TODOS DE LA LEY ESTATAL DE EDUCACIÓN.
-ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
