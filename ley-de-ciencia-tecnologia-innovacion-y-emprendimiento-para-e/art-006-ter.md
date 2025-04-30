@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 29 DE ABRIL DE 2025)
+Artículo 6° Ter. El Estado debe garantizar un entorno favorable para la promoción, desarrollo y comunicación de las humanidades, las ciencias, las tecnologías y la innovación y adoptará medidas que promuevan la calidad técnica de la investigación, la disposición social y el acceso universal al conocimiento humanístico y científico y a sus beneficios sociales en todo el Estado, así como la adecuación cultural y la seguridad humana y ambiental a través de sus aplicaciones tecnológicas.

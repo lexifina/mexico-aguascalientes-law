@@ -1,0 +1,3 @@
+P.O. 29 DE ABRIL DE 2025.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 135.- SE REFORMA LA LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y EMPRENDIMIENTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
