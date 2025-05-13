@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 12 DE MAYO DE 2025)
+Artículo 29 bis. Las medidas u órdenes de protección podrán solicitarse en cualquier municipio del Estado distinto a donde ocurrieron los hechos, sin que la competencia en razón del territorio pueda ser usada como excusa para no recibir la solicitud.
+Para efectos del párrafo anterior, las autoridades administrativas, la Fiscalía General del Estado y el Poder Judicial celebrarán convenios de colaboración con las entidades públicas para garantizar la efectiva protección de las mujeres, adolescentes, niñas y niños conforme a los principios rectores de las medidas u órdenes de protección.

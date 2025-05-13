@@ -1,4 +1,5 @@
 (REFORMADO, P.O. 7 DE AGOSTO DE 2023)
 Artículo 25 quinquies.- Ante la Violencia Feminicida, el Estado de Aguascalientes y sus municipios, colaborarán con el Gobierno Federal, para el resarcimiento del daño, conforme a lo dispuesto por el artículo 26 de la Ley General y la Ley de Víctimas del Estado de Aguascalientes.
+(REFORMADA SU DENOMINACIÓN, P.O. 12 DE MAYO DE 2025)
 CAPÍTULO IV
-De las Órdenes de Protección
+De las Medidas u Órdenes de Protección
