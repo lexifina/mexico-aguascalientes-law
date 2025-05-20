@@ -1,0 +1,5 @@
+P.O. 19 DE MAYO DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 166.- SE REFORMAN LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE AGUASCALIENTES; Y, EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO.- A partir de la publicación de la presente reforma, las instituciones del Gobierno del Estado de Aguascalientes, así como los municipios que lo integran, contarán con un plazo máximo de 180 días naturales para realizar las modificaciones necesarias a sus reglamentos y normatividades internas.
+Dichas modificaciones deberán establecer la obligatoriedad de solicitar la constancia emitida por el Registro Nacional de Obligaciones Alimentarias como requisito en todos aquellos trámites que consideren pertinentes, en concordancia con las disposiciones de esta reforma y en cumplimiento con el marco normativo federal aplicable.

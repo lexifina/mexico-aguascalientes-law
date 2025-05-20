@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 19 DE MAYO DE 2025)
+Artículo 331 Quáter.- Las personas Juzgadoras suministrarán, intercambiarán, sistematizarán, consultarán, analizarán y actualizarán, la información que se genere sobre el incumplimiento de las obligaciones alimentarias en el ámbito de sus competencias, durante los primeros cinco días hábiles de cada mes, utilizando los sistemas e instrumentos tecnológicos del Sistema Nacional para el Desarrollo Integral de la Familia para que con ella integre el Registro Nacional de Obligaciones Alimentarias.
