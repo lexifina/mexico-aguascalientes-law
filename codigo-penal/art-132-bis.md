@@ -1,0 +1,11 @@
+(ADICIONADO, P.O. 19 DE JUNIO DE 2023)
+ARTÍCULO 132 Bis.- Violencia Vicaria. La violencia vicaria consiste en la acción u omisión dirigida hacia las hijas y/o los hijos de la víctima, cometida por quien mantenga o haya mantenido una relación de hecho, concubinato o matrimonio con la misma, y que le cause un daño o afectación física, psicoemocional o económica, con el objeto de romper el vínculo filial parental entre el sujeto pasivo y sus hijas y/o hijos.
+Para efectos del presente artículo se entiende por vínculo filial parental el derecho que tienen las personas menores de edad de relacionarse con sus ascendientes, surgido de la relación jurídica derivada de la filiación, sea por un hecho natural o por un acto jurídico y siempre que ello sea acorde con el interés superior de la niñez.
+Se considera que existe violencia vicaria cuando concurra alguna de las siguientes circunstancias:
+I. Existen antecedentes de violencia familiar registrados ante la autoridad competente, realizada por el sujeto activo en contra del sujeto pasivo;
+II. Cuando sin orden de la autoridad competente, el sujeto activo separe a las hijas y/o los hijos menores de edad del núcleo familiar al que están incorporados;
+III. Cuando el sujeto activo no permita la convivencia de las hijas y/o los hijos menores de edad con el sujeto pasivo, sin que medie orden de autoridad competente;
+IV. Cuando exista resolución judicial en la que se haya declarado que el sujeto activo ha incurrido en el supuesto de alienación parental establecido en el artículo 434 del Código Civil del Estado de Aguascalientes; o
+V. Cuando el sujeto activo dilate injustificadamente los procesos judiciales, administrativos o de cualquier naturaleza en los que el sujeto activo y pasivo sean partes y que versen sobre las hijas y/o los hijos.
+Al responsable de violencia vicaria, se le impondrán de 1 a 4 años de prisión, el pago total de la reparación de los daños y perjuicios ocasionados, y se le someterá a tratamiento psicológico para su reinserción de conformidad con lo dispuesto por el artículo 73-A de este código.
+Cuando la víctima sea mujer, las penas previstas se incrementarán hasta en una mitad más respecto de sus mínimos y máximos.

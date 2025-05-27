@@ -1,2 +1,2 @@
-Artículo Primero.- Se expide la Ley Electoral del Estado de Chihuahua, para quedar redactada de la siguiente manera:
-LEY ELECTORAL DEL ESTADO DE CHIHUAHUA
+ARTÍCULO PRIMERO.- Se aprueba el Código Penal para el Estado de Aguascalientes, para quedar en los siguientes términos:
+CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES

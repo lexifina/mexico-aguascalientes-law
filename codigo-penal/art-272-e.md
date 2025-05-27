@@ -1,1 +1,0 @@
-Artículo 272 e. (DEROGADO, P. O. 13 DE MARZO DE 2019)

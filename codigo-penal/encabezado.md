@@ -1,10 +1,7 @@
 [N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
-LEY ELECTORAL DEL ESTADO DE CHIHUAHUA
-Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 22 de agosto de 2015.
-EL CIUDADANO LICENCIADO CÉSAR HORACIO DUARTE JÁQUEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
-QUE EL HONORABLE CONGRESO DEL ESTADO SE HA SERVIDO EXPEDIR EL SIGUIENTE:
-D E C R E T O:
-DECRETO Nº.
-936/2015 VIII P.E.
-LA SEXAGÉSIMA CUARTA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO DE CHIHUAHUA, REUNIDA EN SU OCTAVO PERIODO EXTRAORDINARIO DE SESIONES, DENTRO DEL SEGUNDO AÑO DE EJERCICIO CONSTITUCIONAL,
-D E C R E T A
+CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
+Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
+CARLOS LOZANO DE LA TORRE, Gobernador Constitucional del Estado de Aguascalientes, a sus habitantes sabed:
+Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
+La LXI Legislatura del Poder Legislativo del Estado Libre y Soberano de Aguascalientes, en virtud de su función y facultad constitucional, ha tenido a bien expedir el siguiente
+Decreto Número 331

@@ -1,0 +1,3 @@
+P.O. 22 DE MARZO DE 2021.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 510.- SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 146, Y SE ADICIONAN (SIC) LA FRACCIÓN V AL ARTÍCULO 146 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO ÚNICO.- El Presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Aguascalientes.

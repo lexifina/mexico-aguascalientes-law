@@ -12,12 +12,3 @@ d) En las cajas de las empresas comerciales autorizadas para ello por la Secreta
 En relación a los pagos señalados en los incisos que anteceden y en cuanto al monto de dichos pagos se tendrá en cuenta el límite establecido por la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita en cuanto se trate de pagos en efectivo.
 (ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)
 Los pagos de referencia se documentarán usando las formas autorizadas por la Secretaría de Finanzas del Estado, o con las formas precodificadas autorizadas para ello.
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)
-TITULO SEGUNDO
-DE LOS IMPUESTOS
-(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2013)
-CAPÍTULO I
-Del Impuesto sobre Negocios Jurídicos e Instrumentos Notariales
-(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)
-SECCION PRIMERA
-Del Objeto
