@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 16 DE JUNIO DE 2025)
+Artículo 57 Bis.- Estos proyectos se realizarán cuando el Sujeto de la Ley Ejecutor considera conveniente, con el propósito de reducir los tiempos y determinar un precio fijo, adjudicar a un único contratista, salvo en el caso de que la propuesta que resulte ganadora haya sido presentada en los términos del párrafo sexto del artículo 39 de la Ley, tanto el desarrollo del anteproyecto, proyecto ejecutivo, consecución de licencias y permisos, así como la ejecución de la obra hasta su terminación y la transferencia tecnológica, en su caso.

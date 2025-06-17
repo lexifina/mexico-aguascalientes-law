@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 16 DE JUNIO DE 2025)
+Artículo 57 Sexies.- El Proyecto de Inversión Promovido por Particulares que cumplan con los requisitos señalados en (sic) artículo anterior, serán analizadas y evaluadas (sic) por el Órgano de Planeación Estatal o Municipal, según corresponda, el cual, una vez que lo reciba, deberá confirmar si es competente y, caso contrario, lo remitirá a otro ente del sector público que si lo sea.

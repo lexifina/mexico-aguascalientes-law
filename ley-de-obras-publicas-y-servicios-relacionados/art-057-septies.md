@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 16 DE JUNIO DE 2025)
+Artículo 57 Septies.- Según el sentido de la opinión emitida por el Órgano de Planeación, se estará a lo siguiente:
+I. Si el Proyecto de Inversión Promovido por Particulares se considera no procedente por no ser de interés público, por razones presupuestarias o por cualquier otra razón, el Sujeto de la Ley Ejecutor competente comunicará al ente privado interesado las razones de su improcedencia, y el proyecto le será devuelto sin ninguna otra responsabilidad para el Sujeto de la Ley Ejecutor.
+II. En el caso de que se agote el plazo establecido en el artículo anterior, y que el Órgano de Planeación no se haya pronunciado, deberá concluirse que la (sic) Proyecto de Inversión Promovido por Particulares se considera no procedente.
+III. Si el Proyecto de Inversión Promovido por Particulares se considera procedente y se decide impulsar su desarrollo, El Sujeto de la Ley Ejecutor competente procederá a preparar el proyecto de conformidad con lo previsto en la presente Ley.
+La opinión por la cual un Proyecto de Inversión Promovido por Particulares se considere o no procedente y, en su caso, se decida o no impulsar su desarrollo, no representa un acto de autoridad y contra ella no procederá instancia ni medio de defensa alguno.
