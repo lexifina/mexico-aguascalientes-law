@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 30 DE JUNIO DE 2025)
+Artículo 64 Bis.- Los centros de atención de adicciones deberán garantizar que la admisión de usuarios no exceda su capacidad instalada y operativa, la cual será determinada en función de su infraestructura, recursos humanos, equipamiento y condiciones de habitabilidad, de acuerdo con los lineamientos establecidos por la autoridad competente. Para ello, el ISSEA deberá realizar evaluaciones periódicas que acrediten su capacidad de atención efectiva, asegurando que cada usuario reciba tratamiento adecuado y digno.
