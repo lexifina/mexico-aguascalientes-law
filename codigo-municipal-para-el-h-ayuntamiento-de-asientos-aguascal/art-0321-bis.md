@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 7 DE JULIO DE 2025)
+ARTÍCULO 321° bis.- Se crea la Coordinación Municipal de Planeación (COMUPLA), es objeto de la Coordinación Municipal de Planeación ser una instancia técnica de Evaluación, al contar con un sistema de evaluación del desempeño municipal y así propiciar que los recursos económicos se asignen en los respectivos presupuestos con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén designados.
