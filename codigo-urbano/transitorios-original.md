@@ -3916,8 +3916,12 @@ VII. Autorizar los estudios y proyectos relativos a las obras e instalaciones qu
 VIII. Vigilar que la prestación del servicio o uso, aprovechamiento o explotación de bienes, se realice conforme a las leyes, reglamentos y bases de la concesión;
 IX. Determinar la revocación de las concesiones en los supuestos establecidos en este Código, en las demás leyes y reglamentos aplicables y en las propias bases de la concesión; llevar a cabo la reversión que en su caso proceda; declarar la extinción de una concesión y expedir la declaratoria administrativa de rescate de una concesión;
 X. Establecer en los títulos de concesión las fórmulas para determinar las indemnizaciones, compensaciones o garantías que correspondan a los concesionarios y sus financiadores por las inversiones realizadas y no recuperadas, particularmente en caso de extinción anticipada de la concesión, sin perjuicio de las sanciones que, en su caso, resulten procedentes;
-XI. Autorizar reprogramación de obras, trabajos y otras obligaciones cuando medie causa justificada; y
-XII. Dictar las demás medidas necesarias tendentes a proteger el interés público, pudiendo inclusive modificar las bases de la concesión, por razones debidamente fundadas, motivadas y previa garantía de audiencia al concesionario.
+(REFORMADA, P.O. 9 DE JULIO DE 2025)
+XI. Autorizar reprogramación de obras, trabajos y otras obligaciones cuando medie causa justificada;
+(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JULIO DE 2025)
+XII. Autorizar la ampliación del objeto de los títulos de concesión para la construcción, operación, explotación, conservación y mantenimiento de caminos y puentes de jurisdicción estatal, para incluir dentro del mismo la construcción de carriles adicionales en la vía concesionada y la construcción de nuevos tramos carreteros que conecten directa o indirectamente con la vía concesionada, siempre y cuando la referida ampliación sea técnica y financieramente viable; y
+(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XII], P.O. 9 DE JULIO DE 2025)
+XIII. Dictar las demás medidas necesarias tendentes a proteger el interés público, pudiendo inclusive modificar las bases de la concesión, por razones debidamente fundadas, motivadas y previa garantía de audiencia al concesionario.
 ARTÍCULO 787.- El Titular del Ejecutivo Estatal queda facultado para decretar la intervención de un servicio público o de un bien del dominio público concesionado, cuando se interrumpa o afecte la prestación eficiente del servicio o la explotación del bien. La intervención durará estrictamente el tiempo por el que subsista la causa que lo motivó.
 ARTÍCULO 788.- Las concesiones no otorgan exclusividad a los concesionarios en la prestación del servicio.
 ARTÍCULO 789.- Las concesiones a que se refiere este Código, otorgan al concesionario únicamente el derecho a realizar la prestación del servicio, uso, aprovechamiento o explotación de los bienes respectivos, de acuerdo con lo que establezcan las leyes, reglamentos y bases de la propia concesión.
@@ -3930,14 +3934,19 @@ IV. Si los bienes de que se trate están programados para la creación de reserv
 V. Cuando se afecte la seguridad;
 VI. Si existe algún motivo fundado de interés público; o
 VII. Cuando a juicio de la autoridad no sea pertinente el otorgamiento de la misma.
-ARTÍCULO 792.- Las concesiones sobre carreteras, puentes y otros inmuebles, y obras de infraestructura, salvo excepciones previstas en otras leyes, podrán otorgarse por un plazo de hasta 30 años, el cual podrá ser prorrogado una o varias veces sin exceder otros 30 años adicionales, a juicio de la autoridad concedente, atendiendo tanto para su otorgamiento como para sus prórrogas, a lo siguiente:
+(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2025)
+ARTÍCULO 792.- Las concesiones sobre carreteras, puentes y otros inmuebles, y obras de infraestructura, salvo excepciones previstas en otras leyes, podrán otorgarse por un plazo de hasta 30 años, el cual podrá ser prorrogado una o varias veces sin exceder otros 30 años adicionales, a juicio de la autoridad concedente, atendiendo tanto para su otorgamiento, prórrogas y/o ampliación del objeto del título de concesión, a lo siguiente:
 I. El monto de la inversión que el concesionario pretenda aplicar;
 II. El plazo de amortización de la inversión realizada;
 III. El beneficio social y económico que signifique para la región o localidad;
 IV. La necesidad de la actividad o del servicio que se preste;
 V. El cumplimiento por parte del concesionario de las obligaciones a su cargo y de lo dispuesto por las leyes específicas mediante las cuales se otorgó la concesión;
-VI. El valor que al término del plazo de la concesión tengan las obras e instalaciones realizadas al inmueble por el concesionario; y
-VII. El monto de la reinversión que se haga para el mejoramiento de las instalaciones o del servicio prestado.
+(REFORMADA, P.O. 9 DE JULIO DE 2025)
+VI. El valor que al término del plazo de la concesión tengan las obras e instalaciones realizadas al inmueble por el concesionario;
+(REFORMADA, P.O. 9 DE JULIO DE 2025)
+VII. El monto de la reinversión que se haga para el mejoramiento de las instalaciones o del servicio prestado; y
+(ADICIONADA, P.O. 9 DE JULIO DE 2025)
+VIII. La necesidad de llevar a cabo la ampliación de carreteras, caminos y puentes concesionados, mediante la construcción de carriles adicionales o de nuevos tramos carreteros que conecten directa o indirectamente con dichas carreteras, caminos y puentes, así como el beneficio social y económico que puede resultar de la ampliación.
 El titular de una concesión gozará de un término equivalente al 10 % del plazo de la concesión, previo al vencimiento del mismo, para solicitar la prórroga correspondiente. Al término del plazo de la concesión, o de la última prórroga en su caso, las obras e instalaciones adheridas de manera permanente al inmueble concesionado pasarán al dominio de la autoridad concedente.
 ARTÍCULO 793.- Las concesiones sobre servicios públicos, salvo excepciones previstas en otras leyes, podrán otorgarse por un plazo de hasta 20 años, el cual podrá ser prorrogado una o varias veces sin exceder el citado plazo, a juicio de la dependencia concesionante.
 ARTÍCULO 794.- Las concesiones y permisos se sujetarán, adicionalmente a lo siguiente:

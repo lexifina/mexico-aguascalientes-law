@@ -1,0 +1,6 @@
+P.O. 9 DE JULIO DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 236.- SE REFORMA EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+SEGUNDO. Dentro de los primeros 60 días hábiles siguientes a la entrada en vigor del presente Decreto, el Ejecutivo Estatal deberá expedir las adecuaciones necesarias al Reglamento de la Fracción VII del Artículo 617 del Código Urbano del Estado de Aguascalientes, publicado el 07 de enero de 2008 en el Periódico Oficial del Estado de Aguascalientes, para establecer las disposiciones normativas necesarias a la regulación de las concesiones en materia de infraestructura vial, tales como carreteras, caminos, puentes y servicios relativos a su preservación, administración del uso y aprovechamiento del derecho de vía, zonas laterales, servicios conexos y auxiliares.
+En dichas modificaciones al Reglamento citado, se deberá considerar, además, el cambio de su nomenclatura, con la finalidad de adecuar a las disposiciones normativas vigentes.
+TERCERO. Quedan sin efecto aquellas disposiciones que contravengan al presente Decreto.
