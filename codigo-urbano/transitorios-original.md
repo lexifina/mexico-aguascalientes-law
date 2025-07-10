@@ -181,8 +181,12 @@ VII.- La preservación y restauración del equilibrio ecológico y la protecció
 VIII.- La apertura, liga, ampliación y prolongación de carreteras, caminos, calles y vías públicas estatales y municipales;
 IX.- La regularización de la tenencia de la tierra;
 X.- La ejecución de las acciones de resiliencia;
-XI.- El establecimiento, protección, ampliación, recuperación, mantenimiento y defensa de los espacios públicos; y
-XII.- Las previstas en la Ley y demás normatividad aplicable en la materia.
+(REFORMADA, P.O. 9 DE JULIO DE 2025)
+XI.- El establecimiento, protección, ampliación, recuperación, mantenimiento y defensa de los espacios públicos;
+(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JULIO DE 2025)
+XII.- La fundación, consolidación, conservación, mejoramiento y protección de aquellos que se dediquen a garantizar la seguridad alimentaria como: mercados, centrales de abasto y parques agroalimentarios; y
+(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE JULIO DE 2025)
+XIII.- Las previstas en la Ley y demás normatividad aplicable en la materia.
 ARTÍCULO 11.- Cuando para el cumplimiento de los programas de desarrollo urbano sea necesaria o de mayor beneficio social la ocupación de la propiedad, la autoridad competente por causa de utilidad pública, proveerá la expropiación de la misma, de conformidad con las leyes aplicables.
 ARTÍCULO 12.- Todos los actos, contratos y convenios relativos a la propiedad, posesión, aprovechamiento o cualquier otra forma jurídica de tenencia de inmuebles, no podrán alterar el uso, destino, reserva o provisión establecidos en los correspondientes programas de desarrollo urbano, de conformidad con lo previsto en este Código.
 No surtirán efectos los actos, convenios o contratos relativos a la propiedad o cualquier otro derecho relacionado con el aprovechamiento de áreas, lotes y predios que contravengan este Código y el Sistema Estatal.
@@ -2585,7 +2589,8 @@ III.- Cuando el propietario o propietarios de un inmueble lo dividan en diferent
 El condominio puede constituirse sobre construcciones en proyecto, incluyendo en su caso la ejecución de obras de urbanización, obras en proceso de construcción o ya terminadas.
 Las construcciones terminadas se autorizarán para constituirse bajo el régimen de propiedad en condominio, conforme a los lineamientos y requisitos que establezca el Consejo Estatal o el Municipio, según corresponda.
 Tratándose de proyectos no edificados, que por sus características deban de constituirse en condominio deberán de obtener la autorización como tal por parte del Consejo Estatal o del Municipio de conformidad con el Código, previo a la autorización de construcción.
-Para el caso de mercados, centrales de abasto y parques agroalimentarios, se pondrá especial atención en que estos desarrollos cuenten con las características que permitan que su actividad se apegue a la normatividad establecida dependiendo del giro; priorizando a aquellos que se dediquen a garantizar la seguridad alimentaria de la población del Estado.
+(REFORMADO, P.O. 9 DE JULIO DE 2025)
+Para el caso de mercados, centrales de abasto y parques agroalimentarios, se declaran de utilidad pública y se pondrá especial atención en que estos desarrollos cuenten con las características que permitan que su actividad se apegue a la normatividad establecida dependiendo del giro; priorizando a aquellos que se dediquen a garantizar la seguridad alimentaria de la población del Estado.
 ARTÍCULO 460.- Por la forma de su edificación los condominios podrán ser horizontales, verticales, o mixtos.
 ARTÍCULO 461.- Conforme al uso o destino que se pretenda dar al inmueble, el condominio se clasificará en: habitacional, comercial, de servicios, de mercados, de cementerios, industriales, campestres, agropecuarios y especiales.
 ARTÍCULO 462.- Se podrán autorizar condominios mixtos en los cuales existan dos o más usos o destinos del suelo que sean compatibles de conformidad con este Código y los programas aplicables.
