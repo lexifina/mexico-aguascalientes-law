@@ -7,6 +7,3 @@ Además de la sanción penal correspondiente, en todos los casos se impondrá al
 No se configurará el delito cuando el contenido tenga una finalidad informativa, periodística, crítica, educativa, cultural o de denuncia social, y no tenga por objeto la incitación o promoción del delito.
 La imposición de la pena prevista en este artículo no excluirá la aplicación de sanciones de carácter administrativo que, en su caso, correspondan conforme a la legislación municipal o estatal aplicable en materia de espectáculos, cultura, seguridad pública o prevención del delito.
 El presente delito se perseguirá por noticia criminal, sin necesidad de querella o denuncia previa.
-(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2017)
-CAPÍTULO XII
-Tipos Penales Protectores de la Confidencialidad, la Intimidad de la Información y la Identidad de la Persona

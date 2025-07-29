@@ -1,0 +1,4 @@
+P.O. 28 DE JULIO DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 238.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO. La Autoridad Educativa del Estado, en uso de las facultades que le confiere el Reglamento Interior del Instituto de Educación de Aguascalientes y, considerando lo dispuesto por los artículos 1°., 2°., 3°., 5°., 6°., 10, 13 y demás relativos y aplicables de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes en un término de 90 días naturales elaborará, publicará y ordenará la entrada en vigor de un PROTOCOLO que regule el uso responsable de celulares y aparatos tecnológicos dentro de las instituciones de educación básica en el Estado.
