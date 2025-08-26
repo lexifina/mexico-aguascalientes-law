@@ -1,0 +1,3 @@
+P.O. 25 DE AGOSTO DE 2025.
+[N. DE E. TRANSITORIO DE LA "REFORMA A DIVERSOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES, PARA REGULAR EL OTORGAMIENTO DE EXENCIONES O DESCUENTOS EN LICENCIAS REGLAMENTADAS".]
+ÚNICO.- Las presentes reformas y adiciones iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
