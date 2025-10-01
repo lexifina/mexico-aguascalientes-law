@@ -1,0 +1,7 @@
+(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2025)
+Artículo 104 Bis. Si realizada una licitación pública, el bien inmueble del Estado de que se trate, no se enajena, la Secretaría de Administración o la Entidad Paraestatal a fin de asegurar al Estado las mejores condiciones en cuanto a precio, oportunidad y demás circunstancias pertinentes, deberá realizar las siguientes acciones, en el orden que se precisan:
+I. Celebrar una segunda licitación pública señalando como postura legal el noventa y cinco por ciento del valor base. De no enajenarse el bien inmueble, se procederá a celebrar una tercera licitación pública, estableciéndose como postura legal el noventa por ciento del valor mínimo base;
+II. Desarrollar por conducto del Comité de Bienes el procedimiento de subasta del bien inmueble;
+III. Adjudicar de manera directa el bien inmueble a la persona que llegare a cubrir el valor mínimo base; o
+IV. Adjudicar de manera directa el bien inmueble, en caso de haberse efectuado la segunda o tercera licitaciones públicas sin enajenarse el bien y no existir propuesta para cubrir el valor mínimo base, a la persona que cubra la postura legal de la última licitación que se hubiere realizado.
+En los casos enunciados en las fracciones precedentes, sólo se mantendrá el valor mínimo base utilizado para la licitación anterior, si el respectivo dictamen valuatorio continúa vigente. Si fenece la vigencia del dictamen, deberá practicarse un nuevo avalúo, que emita la autoridad estatal.

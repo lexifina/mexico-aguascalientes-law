@@ -1,0 +1,7 @@
+P.O. 30 DE SEPTIEMBRE DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 270.- SE REFORMA LA LEY DE BIENES PARA EL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO. Todos los bienes inmuebles de la Administración Pública Centralizada deberán inscribirse a nombre del Gobierno del Estado. En los casos en que las dependencias aparezcan como titulares de la propiedad, estarán obligadas a informar a la Secretaría de Administración, a fin de que ésta realice los procedimientos legales correspondientes para efectuar el cambio de titularidad, conforme a lo previsto en la Ley de Bienes para el Estado de Aguascalientes y demás disposiciones aplicables.
+Respecto de los bienes inmuebles propiedad de las entidades paraestatales del Gobierno del Estado, deberán llevarse a cabo los actos jurídicos y administrativos necesarios para su regularización, en términos de lo dispuesto por el presente Decreto.
+ARTÍCULO TERCERO. El Poder Ejecutivo del Estado, por conducto de la Secretaría de Administración, deberá expedir la normatividad necesaria para la correcta aplicación del presente Decreto en un plazo no mayor de ciento veinte días naturales contados a partir de su entrada en vigor. En tanto se expide dicha normatividad, continuará aplicándose la vigente.
+ARTÍCULO CUARTO. Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
