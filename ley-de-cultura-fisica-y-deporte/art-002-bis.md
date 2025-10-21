@@ -10,8 +10,8 @@ IV. El fomento a la cultura física y al deporte constituyen una alternativa óp
 V. El derecho a la cultura física y al deporte fomenta el libre desarrollo de la persona, el derecho a la salud en un estado de bienestar, así como diversos derechos humanos consagrados en la Constitución Política del Estado de Aguascalientes, la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales en los que el Estado Mexicano sea Parte, y demás normatividad en la materia aplicable;
 (REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2024)
 VI. Los programas en materia de cultura física y deporte deben responder a las necesidades individuales y sociales, existiendo una responsabilidad pública en el fomento cualitativo y cuantitativo de la cultura física y el deporte;
-(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2024)
-VII. La enseñanza, capacitación, gestión, administración y desarrollo de la cultura física y el deporte deben confiarse a un personal calificado;
+(REFORMADA, P.O. 20 DE OCTUBRE DE 2025)
+VII. La enseñanza, capacitación, gestión, administración y desarrollo de la cultura física y el deporte deben confiarse a personal profesional en la materia;
 (REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2024)
 VIII. Para el desarrollo de la cultura física y la práctica del deporte es indispensable una infraestructura adecuada y la generación de sistemas de financiamiento y administración eficientes y estables, que permitan desarrollar políticas y programas que contribuyan al objetivo común de hacer de la cultura física y el deporte un derecho de todos;
 (REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2024)
