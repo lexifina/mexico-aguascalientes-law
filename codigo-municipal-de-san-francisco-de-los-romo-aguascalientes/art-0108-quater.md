@@ -1,6 +1,11 @@
-(ADICIONADO, P.O. 17 DE JULIO DE 2023)
-ARTICULO 108 QUATER.- El Titular del Órgano Interno de Control y sus Autoridades serán nombrados por el H. Ayuntamiento de entre la terna propuesta por el Presidente Municipal.
-I. Para la integración de la terna, el Presidente Municipal emitirá una convocatoria donde se darán a conocer los requisitos, etapas y actividades a realizar durante la fase de selección de los perfiles idóneos.
-(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE NOVIEMBRE DE 2017)
-APARTADO OCTAVO
-De la Dirección de Planeación y Evaluación
+(REFORMADO, P.O. 27 DE OCTUBRE DE 2025)
+ARTICULO 108 QUATER.- El Titular del Órgano Interno de Control y sus Autoridades Investigadora, así como la Sustanciadora y Resolutora serán nombrados por el H. Ayuntamiento de entre la terna propuesta por la Presidenta Municipal.
+I.- Para la integración de la terna, la Presidenta Municipal emitirá una convocatoria, donde se darán a conocer los requisitos, etapas y actividades a realizar durante la fase de selección de los perfiles idóneos.
+II.- La Convocatoria deberá ser publicada en la página oficial, así como en las redes sociales de la Presidencia Municipal de San Francisco de los Romo, Aguascalientes, durante un periodo de cinco días; además deberá comunicar mediante oficio a los colegios de profesionistas para que difundan entre sus agremiados el contenido de la misma.
+III.- La Secretaría de H. Ayuntamiento y Dirección General de Gobierno, deberá recibir la documentación por parte de las personas interesadas en participar en la convocatoria respectiva, durante los días que dure publicada y cinco días posteriores al último día de publicación.
+IV.- Una vez que concluya el plazo para la recepción de los Documentos, la Secretaría de H. Ayuntamiento y Dirección General de Gobierno, deberá dar cuenta a la Presidenta Municipal a efecto de que de las candidaturas que cumplieron con la totalidad de los requisitos, forme una terna para ser presentada al H. Ayuntamiento en una sesión de Cabildo.
+V.- Los integrantes del Ayuntamiento, entrevistarán a las personas candidatas, respecto de su trayectoria laboral, académica y experiencia en las materias propias del cargo para el cual concursa.
+VI.- Una vez que concluyan las entrevistas el Cabildo mediante el voto de la mayoría de los presentes en la sesión correspondiente, elegirá cuál de las personas candidatas resulta electa para ejercer el cargo que corresponde a la convocatoria.
+VII.- Para el caso de que las personas interesadas no superen tres candidaturas, a criterio de la Presidenta Municipal, se someterá a entrevista las personas que se hayan presentado o bien se reservara su derecho de participar considerando su solicitud y documentos para una siguiente convocatoria.
+VIII.- Los integrantes del Ayuntamiento, una vez que se les dé a conocer la lista de candidatos y advirtieran un posible conflicto de intereses en términos de la Ley General de Responsabilidades Administrativas, deberán comunicarlo al cabildo para excusarse de actuar dentro de los trabajos de la convocatoria.
+XI (SIC).- La persona electa para ejercer cualquiera de los cargos a que se refiere el artículo 80 fracción LXII del presente Código Municipal, una vez realizada la votación deberá rendir ante el H. Ayuntamiento, la protesta de ley en la misma sesión en que sea electa.
