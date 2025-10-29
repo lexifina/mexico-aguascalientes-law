@@ -1,0 +1,5 @@
+P.O. 28 DE OCTUBRE DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 291.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO SÉPTIMO TRANSITORIO DEL DECRETO No. 293 POR EL QUE SE EXPIDE EN SU ARTÍCULO SEGUNDO LA LEY POR LA QUE SE CREA LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO. Con la entrada en vigor del presente Decreto, la Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes (UNPOL) y el Instituto de Educación de Aguascalientes, deberán celebrar en un término no mayor a 30 días hábiles, el convenio referido, que tiene como objeto la suscripción de títulos, diplomas, certificados y comunicaciones de carácter oficial derivados del proceso de extinción del Instituto Estatal de Seguridad Pública de Aguascalientes.
+ARTÍCULO TERCERO. Con la entrada en vigor del presente Decreto, quedan sin efectos todas aquellas disposiciones que se opongan al mismo.
