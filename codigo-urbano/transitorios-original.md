@@ -21,6 +21,8 @@ ARTÍCULO 3°.- Las personas sin distinción de sexo, raza, etnia, edad, limitac
 ARTÍCULO 4°.- Para los efectos de este Código, además de lo previsto en el artículo 3º de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, se entenderá por:
 I.- ACCIÓN URBANÍSTICA: la urbanización del suelo y la edificación en el mismo; comprendiendo también, la transformación de suelo rural a urbano; las fusiones, subdivisiones, fraccionamientos y relotificaciones de áreas, lotes y predios; la densificación urbana y la determinación de reservas territoriales; los cambios en la utilización y en el régimen de propiedad de terrenos; la promoción y realización de condominios y desarrollos inmobiliarios especiales; la rehabilitación de fincas y zonas urbanas; así como la introducción, conservación o mejoramiento de las redes de infraestructura, equipamiento y servicios urbanos.
 II.- ALINEAMIENTO: la delimitación sobre un área, lote o predio frente a una vía pública o privada en uso o proyecto, que define la posición permisible del inicio de la superficie edificable; respetando en su caso, las restricciones que el Municipio haya establecido de acuerdo a la legislación y los programas de desarrollo urbano y los programas en materia ecológica aplicables;
+(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2025)
+II BIS.- ÁREA CON POTENCIAL DE DESARROLLO: las que corresponden a zonas que tienen terrenos, incorporados al tejido urbano, que cuentan con accesibilidad y servicios donde pueden llevarse a cabo desarrollos inmobiliarios verticales. En estas áreas podrá aplicarse de acuerdo con lo establecido en los programas de desarrollo urbano un coeficiente de utilización máximo optativo.
 III.- ÁREA DE DONACIÓN: las cesiones gratuitas de predios con o sin edificaciones de los fraccionadores o promotores a los Municipios;
 IV.- ÁREA DE RESTRICCIÓN O AMORTIGUAMIENTO: espacio definido que, por razones de seguridad o requerimiento de infraestructura, equipamiento y servicios, están condicionados a usos, destinos y giros diferentes a las áreas que los circundan;
 V.- ÁREA URBANA: la urbanizada o edificada total o parcialmente dentro de un centro de población y que cuentan con servicios públicos básicos;
@@ -30,6 +32,8 @@ VIII.- ASENTAMIENTO HUMANO IRREGULAR: núcleo de población ubicado en áreas o 
 (REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)
 IX.- ASESOR(A) Y/O CONSULTOR(A)/URBANO(A): persona designada por la fraccionadora o promotora en términos de ley, para realizar proyectos, trámites, procedimientos, recibir notificaciones y documentos en el ámbito del ordenamiento territorial y del desarrollo urbano;
 X.- ATLAS DE RIESGOS: documento que proporciona el sistema integral de información sobre los agentes perturbadores y daños esperados o detectados, resultado de un análisis espacial y temporal sobre la interacción de los peligros, la vulnerabilidad, el grado de exposición y la probabilidad de ocurrencia a los agentes afectables;
+(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2025)
+X BIS.- CENTRO URBANO FUNDACIONAL: Zona o polígono del territorio urbano que corresponde al núcleo original de fundación de la cabecera municipal, identificado por concentrar los valores patrimoniales, históricos, culturales y urbanos que constituyen el centro histórico del municipio.
 XI.- CÓDIGO: el Código Urbano para el Estado de Aguascalientes;
 XII.- COEFICIENTE DE OCUPACIÓN DEL SUELO (COS): el factor determinado por el Municipio que, multiplicado por el área total de un predio, determina la máxima superficie de desplante edificable; excluyendo de su cuantificación las áreas ocupadas por sótanos;
 XIII.- COEFICIENTE DE UTILIZACIÓN DEL SUELO (CUS): el factor establecido por el Municipio que, multiplicado por el área total de un predio, determina la máxima superficie construida que puede tener una edificación, excluyendo de su cuantificación las áreas ocupadas por sótanos;
@@ -123,6 +127,8 @@ XCII.- SUPERVISIÓN ÚNICA: la verificación que realicen las unidades externas 
 XCIII.- TRAZA URBANA: La estructura básica de un centro de población o parte de éste, en lo que se refiere a la vialidad y a la delimitación de manzanas, lotes, predios y espacios abiertos, limitados por la vía pública;
 XCIV.- UMA: la Unidad de Medida y Actualización que se utiliza en pesos mexicanos para determinar el monto de las obligaciones de las personas físicas o morales, públicas o privadas, sujetas a las disposiciones de este Código;
 XCV.- UNIDADES EXTERNAS DE SUPERVISIÓN: son las empresas certificadas en términos de la Ley Federal sobre Metrología y Normalización y este Código, con capacidad humana y técnica para revisar las obras de urbanización y edificación a que se refiere este Código;
+(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2025)
+XCV BIS.- UNIDAD PRIVATIVA.- La parte individual, exclusiva y delimitada físicamente dentro de un condominio, que puede destinarse a uso habitacional, comercial o servicios.
 XCVI.- URBANIZACIONES CERRADAS: el permiso que expide el Municipio a una organización vecinal, para instalar casetas o mobiliario urbano en algunas vías públicas de un fraccionamiento, colonia, barrio, subdivisión o sector de un centro de población, para mejorar la seguridad pública, sin que se pueda impedir el libre tránsito de personas o vehículos, sino únicamente controlar el acceso o salida de los mismos;
 XCVII.- URBANIZACIÓN INMEDIATA: aquella en la que el fraccionador o promotor deberá ejecutar la totalidad de las obras de urbanización, dentro del plazo señalado en el calendario de obra aprobado en la resolución respectiva y que en ningún caso podrá ser mayor de 24 meses, contados a partir del inicio de obras respectivo;
 XCVIII.- URBANIZACIÓN POR ETAPAS: es aquella que, debido a la extensión, características y costo del fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión, se podrá aprobar al fraccionador o promotor la ejecución de las obras por partes, de acuerdo a los plazos, requisitos y zonas que se determinen en la resolución respectiva y que en ningún caso podrá ser mayor de cinco años, a partir de la fecha de inicio de las obras de urbanización;
@@ -243,7 +249,7 @@ XVII.- Participar en el establecimiento de los criterios y lineamientos normativ
 XVIII.- Prevenir y evitar, de conformidad con los atlas de riesgo, la ocupación en zonas de alto riesgo;
 XIX.- Aplicar, en coordinación con los Municipios, las medidas necesarias a que deban sujetarse los predios no urbanizables;
 XX.- Autorizar, modificar y revocar los desarrollos inmobiliarios especiales, cuando el predio objeto de la solicitud tenga una superficie mayor a los 20,000 metros cuadrados;
-XXI.- Autorizar el calendario o programa de obras de urbanización, respecto de los proyectos autorizados por el Consejo Estatal o de su parte, determinando la temporalidad para su ejecución, de acuerdo a la superficie y las implicaciones del proyecto correspondiente;
+XXI.- (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2025)
 XXII.- Autorizar, en coordinación con el Municipio respectivo, el inicio de las obras de urbanización de los fraccionamientos y condominios autorizados por el Consejo Estatal, así como de los desarrollos inmobiliarios especiales que hubiera autorizado;
 XXIII.- Autorizar, previa opinión del Municipio correspondiente, la modificación o extinción de los condominios que hubiera autorizado el Consejo Estatal;
 XXIV.- Emitir opinión al Municipio, respecto de la solicitud para la autorización, modificación o extinción del régimen de propiedad en condominio;
@@ -1047,6 +1053,11 @@ e).- Mixto; y
 f).- Los demás que se establezcan en los programas, y que sean compatibles con los anteriores.
 Las características que correspondan a los diferentes tipos de usos y destinos de áreas, lotes y predios se regularán en los Códigos Municipales, en los reglamentos de zonificación y demás disposiciones jurídicas aplicables.
 ARTÍCULO 144.- La determinación de la relación entre el COS y el CUS se efectuará conforme a los usos y destinos del suelo señalados en la zonificación secundaria de los programas de desarrollo urbano y ordenamiento del territorio.
+(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2025)
+En los predios ubicados en áreas con potencial de desarrollo definidas en los programas de desarrollo urbano municipal, el COS y el CUS deberán determinarse conforme a estudios técnicos que aseguren su congruencia con las condiciones físicas y urbanas del entorno, garantizando la protección del paisaje, la infraestructura existente y la calidad de vida de la población.
+(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2025)
+ARTÍCULO 144 BIS.- En los predios ubicados en áreas con potencial de desarrollo establecidas en los programas de desarrollo urbano municipal, la autorización del COS y CUS estará sujeta a la disponibilidad y capacidad comprobada de los servicios públicos de agua potable, drenaje, energía eléctrica y movilidad.
+Cuando se proponga un incremento en la densidad o intensidad de construcción, los desarrolladores deberán presentar estudios técnicos de factibilidad y mitigación, mediante los cuales acrediten que el proyecto no supera la capacidad instalada de infraestructura o, en su caso, que asumirán las medidas necesarias para su ampliación o reforzamiento, conforme a los lineamientos que establezca el municipio en su reglamento.
 ARTÍCULO 145.- La determinación de destinos del suelo en los programas, se sujetará a las siguientes reglas:
 I.- Será de interés público y deberá fundamentarse exclusivamente en consideraciones técnicas y sociales que los justifiquen;
 II.- Se precisarán las zonas, áreas, lotes o predios restringidos por destinos del suelo, así como la descripción del fin o aprovechamiento público a que estos prevean dedicarse;
@@ -1065,14 +1076,12 @@ III. Vivienda multifamiliar de dos o más viviendas por lote o predio:
 a) Multifamiliar horizontal;
 b) Multifamiliar vertical, y
 c) Multifamiliar mixto, que contenga horizontal y vertical.
-(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2025)
-ARTÍCULO 147.- Los usos de suelo habitacional se establecerán conforme a lo previsto en el Programa de Desarrollo Urbano correspondiente y/o disposiciones reglamentarias municipales, en caso de que no se establezcan en dicho instrumento, deberán corresponder a los siguientes coeficientes máximos por lote o predio:
-I. Rural: COS 10% y CUS 1;
-II. Campestre: COS 50% y CUS 1;
-(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)
-III. Vivienda Unifamiliar y Multifamiliar Horizontal: COS desde 60% hasta 80% y CUS desde 1.5 hasta 3; y
-(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)
-IV. Vivienda Multifamiliar Vertical: COS desde 60% hasta 90% y CUS desde 3 hasta 8.
+(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2025)
+ARTÍCULO 147.- Los usos de suelo habitacional se establecerán conforme a lo previsto en el Programa de Desarrollo Urbano correspondiente y/o disposiciones reglamentarias municipales, mismos que deberán definir el COS y el CUS.
+I. (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2025)
+II. (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2025)
+III. (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2025)
+IV. (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2025)
 La determinación de la relación entre el COS y el CUS se efectuará conforme a los usos y destinos del suelo señalados en la zonificación secundaria de los programas de desarrollo urbano y ordenamiento del territorio.
 (ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2025)
 ARTÍCULO 147 BIS.- Los derechos correspondientes a la densidad de un predio podrán cederse de manera parcial o total a favor de otro, siempre que se haya establecido previamente la viabilidad de dicha transmisión en los Planes y Programas de Desarrollo Urbano autorizados. Además, se deberá señalar las áreas susceptibles para ello, en las cuales se definirán los mecanismos y procesos necesarios para evaluar la factibilidad de la transferencia de densidad.
@@ -1280,8 +1289,10 @@ Los Municipios, una vez recibido el aviso de terminación de una edificación, a
 ARTÍCULO 186.- La expedición de licencias o permisos para construcción, instalación, reparación, ampliación, remodelación, reconstrucción, demolición o urbanización, se apegará a lo establecido en este Código, los programas de desarrollo urbano aplicables, la normatividad municipal, reglamentos de construcciones y las normas y especificaciones técnicas de construcción aprobadas por los Municipios, así como a los reglamentos de administración y operación de los condominios.
 Las autoridades municipales no serán responsables del diseño, cálculo y proyecto de construcción de las obras y de los materiales a utilizarse, lo cual es responsabilidad del propietario, poseedor, constructor y de los peritos responsables de las obras y especializados que intervengan en ellas.
 Las autoridades al otorgar las licencias o permisos de construcción únicamente revisarán que dichos proyectos se ajusten a lo que establecen las disposiciones jurídicas aplicables.
-(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)
-ARTÍCULO 187.- La persona física o moral, pública y privada, que pretenda realizar obras de edificación, reconstrucción, demolición y adaptación de inmuebles, qué por sus dimensiones, características y superficie, antes de que el Municipio expida la licencia de construcción correspondiente, que requieren de la opinión favorable de la SEPLADE, son las que a continuación se indican:
+(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2025)
+ARTÍCULO 187.- Las personas físicas o moral, públicas y privadas, que pretendan realizar obras de edificación, reconstrucción, demolición y adaptación de inmuebles, cuyas dimensiones, características o superficie lo requieran, deberán contar con la opinión favorable de la SEPLADE antes de que el Municipio expida la licencia de construcción correspondiente.
+(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2025)
+Dicha opinión deberá ser solicitada por el Municipio a través de los medios electrónicos oficiales que determine la SEPLADE. Las obras sujetas a este requisito son las que a continuación se indican:
 I.- Construcciones a realizar en predios mayores a 5,000 metros cuadrados de superficie;
 II.- Las construcciones, demoliciones y adaptaciones de obras con más de 3,000 metros cuadrados cubiertos edificados o por edificar o de más de 21 metros de altura totales a partir del sótano;
 III.- Las edificaciones destinadas como centrales de abasto, centros comerciales, tiendas de autoservicio, mercados, rastros, hospitales, clínicas, auditorios, estadios, plazas de toros, museos, centros de convenciones, exposiciones y de espectáculos, terminales de transporte de carga y pasajeros, estaciones de ferrocarril, ferro puertos, aeropuertos o aeropistas, plantas, estaciones y subestaciones eléctricas, teatros, salas de cine, clubes deportivos, casinos, centros de apuestas, casas de juego, cementerios, panteones y funerarias, estaciones de bomberos, reclusorios, centros de readaptación, de detención o de arraigo preventivo, cualquiera que sea su superficie de terreno o área cubierta;
@@ -1708,8 +1719,8 @@ A fin de contar con los suficientes elementos que le permitan emitir la opinión
 ARTÍCULO 289.- Contando con todos los requisitos establecidos en el presente Código y la opinión procedente del Municipio, la SEPLADE integrará el proyecto de dictamen de regularización del asentamiento humano correspondiente.
 El proyecto de dictamen deberá plasmar toda la documentación presentada, incluyendo la opinión del Municipio.
 El proyecto de dictamen se remitirá al promotor o propietario para firma, en caso de que se requiera realizar correcciones o modificaciones, dispondrá de un plazo no mayor de 15 días hábiles para contestar, contados a partir del día siguiente de la fecha en que se le notifique el requerimiento respectivo; si el solicitante no realiza las correcciones o modificaciones requeridas, la solicitud quedará como no presentada.
-(ADICIONADO, P.O. 22 DE ENERO DE 2024)
-ARTÍCULO 289 BIS.- Cuando el asentamiento humano irregular cumpla con lo establecido en el artículo 285 de este Código, el IVSOP deberá de validar y remitir el padrón de beneficiarios al IRC, el cual deberá realizar los traslados de dominio exclusivamente en atención a éste.
+(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2025)
+ARTÍCULO 289 BIS. - Cuando el asentamiento humano irregular cumpla con lo establecido en el artículo 285 de este Código, la SEPLADE deberá de validar y remitir el padrón de beneficiarios al IRC, el cual deberá realizar los traslados de dominio exclusivamente en atención a éste.
 (ADICIONADO, P.O. 22 DE ENERO DE 2024)
 ARTÍCULO 289 TER.- El IVSOP o el Municipio, en el ámbito de sus competencias deberá:
 I. Establecer con los habitantes las bases para la dotación de servicios, equipamientos e infraestructura urbana, a través de la participación económica de éstos, por lo que se podrá contar para tales efectos con la cooperación de las autoridades correspondientes;
@@ -1762,7 +1773,8 @@ f).- Plano de usos de suelo;
 g).- Estudio Geológico avalado por un perito especializado en la materia; y
 (REFORMADO, P.O. 22 DE ENERO DE 2024)
 h).- Dictamen de la Comisión Nacional del Agua.
-i).- (DEROGADO, P.O. 22 DE ENERO DE 2024)
+(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2025)
+i).- Constancia Municipal de Compatibilidad Urbanística.
 j).- (DEROGADO, P.O. 22 DE ENERO DE 2024)
 k).- (DEROGADO, P.O. 22 DE ENERO DE 2024)
 l).- (DEROGADO, P.O. 22 DE ENERO DE 2024)
@@ -1795,11 +1807,13 @@ ARTÍCULO 298.- Contando con todos los requisitos establecidos en el presente C�
 (REFORMADO, P.O. 22 DE ENERO DE 2024)
 El proyecto de dictamen deberá plasmar toda la documentación presentada, incluyendo la opinión de la SEPLADE.
 El proyecto de dictamen se remitirá al Comisariado Ejidal para que sea sometido a votación de la asamblea y se proceda aprobación del mismo, en caso de que se requiera realizar correcciones o modificaciones, dispondrá de un plazo no mayor de 30 días hábiles para contestar, contados a partir del día siguiente de la fecha en que se le notifique el requerimiento respectivo; si el solicitante no realiza las correcciones o modificaciones requeridas, la solicitud quedará como no presentada.
-ARTÍCULO 299.- Una vez aprobado por la asamblea y firmado por el Comisariado Ejidal el proyecto de dictamen de ocupación o regularización de Reserva de Crecimiento Ejidal, será sometido como parte del orden del día a la próxima sesión del Consejo Estatal.
+ARTÍCULO 299.- (DEROGADO, P.O. 13 DE NOVIEMBRE DE 2025)
+(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2025)
+ARTÍCULO 300.- El Municipio notificará al Comisariado Ejidal la resolución.
 (REFORMADO, P.O. 22 DE ENERO DE 2024)
-ARTÍCULO 300.- El Municipio notificará al Comisariado Ejidal y a la SEPLADE la resolución.
 El Proyecto en caso de ser aprobado de manera condicionada, el interesado o interesados contarán con un término de 30 días hábiles para llevar a cabo las condicionantes; una vez subsanadas, el Municipio, previa opinión favorable del Municipio emitirá resolución teniendo por cumplidas las citadas condicionantes.
-El acta de la sesión del Consejo Estatal será publicada por una sola vez en el Periódico Oficial del Estado.
+(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2025)
+El dictamen de autorización del Municipio será publicado por una sola vez en el Periódico Oficial del Estado.
 TÍTULO SÉPTIMO
 FRACCIONAMIENTOS, CONDOMINIOS Y DESARROLLOS INMOBILIARIOS ESPECIALES Y DE LAS RELOTIFICACIONES, FUSIONES Y SUBDIVISIONES DE TERRENOS
 CAPÍTULO I
@@ -2021,16 +2035,18 @@ ARTÍCULO 331.- Los Municipios deberán destinar para infraestructura, equipamie
 Los Municipios podrán realizar actos traslativos de dominio o de posesión para autorizar que otras dependencias u organismos públicos o privados sin fines de lucro, sean quienes den cumplimiento a la obligación que se establece en el párrafo que antecede, debiendo cumplirse para ello con las formalidades que establezcan los ordenamientos municipales aplicables.
 ARTÍCULO 332.- Del área total que reciba el Municipio en donación por cada fraccionamiento, condominio o desarrollo inmobiliario especial, cuando menos el 30% deberá destinarse a áreas verdes, parques, jardines y espacios abiertos, cuya superficie será considerada como un bien del dominio público del Municipio respectivo, por lo que no podrán considerase en este supuesto, aquellas áreas verdes ubicadas en camellones, banquetas, glorietas, isletas, o áreas de restricción.
 ARTÍCULO 333.- Los bienes inmuebles que comprenden las áreas de donación de un fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión, son inalienables, imprescriptibles e inembargables, mientras no se les desafecten del servicio público al que se encuentren destinados. Las áreas verdes, de recreación y espacios abiertos, así como parques y jardines de donación, no podrán desafectarse y cambiarse de ese destino.
-(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2025)
-ARTÍCULO 334.- Respecto de la donación que se debe otorgar al Municipio respectivo por parte de los fraccionadores o promotores, conforme a lo dispuesto en este Código, se podrá sustituir hasta un 25% de esa superficie de donación por la dotación que realicen dichos fraccionadores o promotores de equipamiento urbano e infraestructura que se realizará en las áreas de donación del mismo proyecto o en otro predio municipal, obras de impacto social significativo de carácter público en las zonas o vialidades que el municipio determine a través de las dependencias correspondientes, siempre y cuando se emita un dictamen de municipio que determine si en un contexto no mayor a un kilómetro no se cuenta con una cobertura óptima de los mismos.
+(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2025)
+ARTÍCULO 334.- Respecto de la donación que corresponda a los fraccionadores o desarrolladores otorgar al Municipio por el desarrollo de un proyecto inmobiliario conforme a lo dispuesto en este Código, se podrá sustituir hasta un 25% de esa superficie de donación por acciones que en materia de infraestructura urbana o equipamiento urbano se realicen por parte del fraccionador o desarrollador en áreas de donación del mismo proyecto, o en acciones realizadas donde así lo determine la autoridad municipal en el contexto urbano inmediato al proyecto.
 (ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE NOVIEMBRE DE 2025)
 Lo anterior, en el entendido de que no se tomará en cuenta la infraestructura u obras de abastecimiento de servicios que le sean determinadas por otras dependencias o entidades, mediante las factibilidades necesarias que la misma naturaleza del desarrollo requiera para su autorización, de acuerdo a lo siguiente:
 I.- La superficie destinada para áreas verdes no podrá ser modificada, conforme a lo dispuesto por lo establecido en este Código;
 (REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)
 II.- Solo podrá aprobarse por la autoridad municipal competente hasta el 25% la sustitución, debiendo determinarse con precisión las obras de urbanización especificas a ejecutarse por el promotor o fraccionador, en las zonas donde el promotor o fraccionador las proponga o el municipio determine mediante un dictamen.
-(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)
-III.- En el caso de los condominios verticales, podrán sustituirse por obras de equipamiento o pago en numerario conforme a avalúo comercial por conducto del perito valuador, realizado por el municipio, hasta el 70% de las áreas de donación que les corresponda en zonas de crecimiento y hasta un 100% en zonas urbanas consolidadas, siempre y cuando se emita un dictamen de municipio que determine si en un contexto no mayor a un kilómetro no se cuenta con una cobertura óptima de los mismos. En el entendido de que, si la sustitución es en numerario, el recurso será exclusivamente para la instalación inmediata de equipamiento urbano incluyendo áreas verdes en las zonas habitacionales urbanas o rurales que carezcan de ellos.
-Igualmente, la sustitución deberá aprobarse por la Secretaría Municipal Correspondiente y desde esa aprobación se indicarán las Obras de urbanización, Obras de impacto Social Significativo, Equipamiento Urbano a ejecutarse por el promotor, en las zonas donde el municipio determine.
+(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2025)
+III.- En el caso de los condominios verticales ubicados dentro de un radio de 2 kilómetros a partir del centro urbano fundacional de localidades con una población mayor a 50,000 habitantes, podrá sustituirse hasta el 100% de las áreas de donación que le corresponda por obras de equipamiento urbano, infraestructura urbana y/o servicios urbanos. Esta sustitución deberá aplicarse en su totalidad dentro del contexto inmediato al condominio determinado por el Municipio.
+El Municipio deberá definir a través del análisis correspondiente de los programas de desarrollo urbano aplicables, las áreas con potencial de desarrollo, donde para condominios verticales se podrá sustituir hasta el 80% de las áreas de donación que le corresponda, por obras de equipamiento urbano, infraestructura urbana y/o servicios urbanos. Esta sustitución deberá aplicarse en su totalidad dentro del contexto urbano inmediato al condominio que determine el Municipio.
+En cualquiera de los supuestos anteriores, el valor del metro cuadrado se determinará conforme al precio de venta establecido en avalúo comercial emitido por perito valuador certificado designado por el Municipio, en los términos previstos por este Código, debiéndose observar además lo dispuesto en los programas de desarrollo urbano aplicables.
+En los condominios que estén fuera de los polígonos definidos por este Código y el Municipio, no será posible realizar sustituciones de las áreas de donación por obras de equipamiento urbano, infraestructura urbana y/o servicios urbanos.
 IV.- Las propuestas de sustitución de la superficie de área de donación por obras de equipamiento urbano, infraestructura, u obras de impacto social significativo que proporcionará el fraccionador o promotor, el Municipio respectivo realizará avalúo por conducto de perito valuador del terreno que se sustituirá por el equipamiento urbano o infraestructura, considerando ese predio con todas las obras de urbanización aprobadas para el fraccionamiento, condominio o desarrollo inmobiliario especial respectivo, el cual deberá tener un valor equivalente, este valor resultante se tomará como referencia para los costos por equipamiento urbano, infraestructura, u obras de impacto social significativo.
 (ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2025)
 En caso de que el municipio determine procedente se podrá permutar la superficie correspondiente al área de donación por un predio de utilidad pública con ubicación diversa al desarrollo.
@@ -2568,9 +2584,10 @@ ARTÍCULO 412.- La urbanización progresiva sólo se autorizará a instituciones
 (REFORMADO, P.O. 22 DE ENERO DE 2024)
 La infraestructura faltante que haya determinado el Consejo Estatal, la SEPLADE o el Municipio, deberá ser ejecutada por el fraccionador o promotor con la cooperación de los adquirentes de los lotes o predios, de conformidad con lo estipulado en los contratos de compra venta individuales y de acuerdo con el programa de urbanización autorizado.
 ARTÍCULO 413.- El fraccionador o promotor ejecutará las obras de urbanización del fraccionamiento, condominio o desarrollo inmobiliario especial y en su caso, del equipamiento urbano e infraestructura complementarios, conforme a las características, especificaciones, temporalidad y calidad que le establecen este Código, el proyecto definitivo aprobado y las que se establezcan en otras disposiciones jurídicas aplicables.
-(REFORMADO, P.O. 22 DE ENERO DE 2024)
-Es facultad de la SEPLADE y el Municipio, autorizar el calendario o programa de obras de urbanización, determinando la temporalidad para la ejecución de las mismas, de acuerdo a la superficie y las implicaciones del proyecto del fraccionamiento, condominio o desarrollo inmobiliario especial; así como a solicitud justificada del promotor o desarrollador otorgar las suspensiones de obra que se requieran.
-ARTÍCULO 414.- Obtenida la autorización del fraccionamiento, condominio o desarrollo inmobiliario especial, el fraccionador o promotor contará con un plazo de dieciocho meses para iniciar las obras de urbanización, contados a partir del día siguiente de la notificado de la autorización; sí vencido el plazo no se han iniciado las obras; se podrá conceder una prórroga por una única vez de un plazo máximo de 1 año.
+(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2025)
+Es facultad del Municipio, autorizar el calendario o programa de obras de urbanización, determinando la temporalidad para la ejecución de estas, de acuerdo con la superficie y las implicaciones del proyecto del fraccionamiento, condominio o desarrollo inmobiliario especial; así como a solicitud justificada del promotor o desarrollador otorgar las suspensiones de obra que se requieran.
+(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2025)
+ARTÍCULO 414.- Obtenida la autorización del fraccionamiento, condominio o desarrollo inmobiliario especial, el fraccionador o promotor contará con un plazo de dieciocho meses para iniciar las obras de urbanización, contados a partir del día siguiente de la notificación de la autorización; sí vencido el plazo no se han iniciado las obras; se podrá conceder una prórroga por una única vez de un plazo máximo de 1 año.
 (REFORMADO, P.O. 22 DE ENERO DE 2024)
 En el supuesto de que el fraccionador o promotor no inicie las obras de urbanización en el plazo referido o no concluya las obras de las etapas de urbanización, conforme a lo autorizado y dispuesto en este Código, la autorización concedida se revocará total o parcialmente por el Consejo Estatal, la SEPLADE o el Municipio según corresponda, a partir de la fecha de vencimiento del plazo definitivo.
 (REFORMADO, P.O. 22 DE ENERO DE 2024)
@@ -2679,8 +2696,8 @@ IV.- Si se realizó equipamiento e infraestructura complementarios en sustituci�
 V.- Que la garantía de las obras de urbanización se encuentre vigente; y
 (REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)
 VI.- Escritura de las áreas de donación destinadas para equipamiento urbano, áreas verdes y vías públicas inscritas ante el Instituto Registral y Catastral, del fraccionamiento o condominio o, en su caso, de la etapa de urbanización correspondiente.
-(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2025)
-En el caso de los condominios verticales en proceso de construcción, con una altura superior a los 21 metros o más de 14 departamentos o unidades, deberán contar con reporte de perito avalando un porcentaje mínimo de avance del 50%., así como otorgar al Municipio una garantía en términos del artículo 424 de este Código.
+(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2025)
+En el caso de los condominios verticales en proceso de construcción, con una altura superior a los 21 metros o más de 14 departamentos o unidades, deberán contar con reporte de perito avalando un porcentaje mínimo de avance del 50%, así como otorgar al Municipio una garantía en términos de este Código.
 Esa garantía se cancelará al momento en que el Municipio emita la constancia de habitabilidad o terminación de lo obra.
 Cuando alguna persona física o moral pretenda obtener la cesión de derechos y obligaciones de un fraccionamiento o condominio, podrá autorizarse el traslado de dominio del predio o predios respectivos, sin cumplirse los requisitos anteriores, con la condicionante de que el adquirente no realice la promoción y venta de los lotes o predios resultantes, hasta que obtenga la citada cesión de derechos y obligaciones y cumpla con lo dispuesto en párrafos anteriores.
 (REFORMADO, P.O. 11 DE NOVIEMBRE DE 2025)
@@ -2774,9 +2791,11 @@ Modificación y Extinción
 (REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)
 ARTÍCULO 472.- Podrán solicitar la autorización de la SEPLADE o el Municipio, según corresponda, respecto de la modificación del régimen de propiedad en condominio:
 I.- El promotor en los casos en que tenga la propiedad de todos los bienes de propiedad exclusiva del condominio;
-II.- El promotor en el caso de que exista enajenación parcial de más del 20% del indiviso que representen los bienes de propiedad exclusiva del condominio; requiriéndose ineludiblemente de la aprobación de la modificación en Asamblea de Condóminos de cuando menos el 75% del indiviso que se encuentre representado y presente en la sesión legalmente instalada;
+(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2025)
+II.- El promotor en el caso de que exista enajenación parcial de más del 20% del indiviso que representen los bienes de propiedad exclusiva del condominio; requiriéndose ineludiblemente de la aprobación de la modificación en Asamblea de Condóminos de cuando menos el 75% del indiviso que se encuentre representado y presente en la sesión legalmente instalada, dicha acta deberá inscribirse en el Instituto Registral y Catastral;
 III.- El promotor en el caso de que exista enajenación parcial de menos del 20% del indiviso que representen los bienes de propiedad exclusiva del condominio; requiriéndose únicamente la aprobación de la modificación por escrito de los condóminos que representen cuando menos el 75% del indiviso; y
-IV.- La asamblea de condóminos en los demás casos, requiriéndose la aprobación del 75% del indiviso que se encuentre representado y presente en la sesión legalmente instalada.
+(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2025)
+IV.- La asamblea de condóminos en los demás casos, requiriéndose la aprobación del 75% del indiviso que se encuentre representado y presente en la sesión legalmente instalada, dicha acta deberá inscribirse en el Instituto Registral y Catastral.
 ARTÍCULO 473.- La fusión de predios condominales no requiere la modificación del régimen de propiedad en condominio, sino únicamente la autorización del Municipio. El predio fusionante acumulará el indiviso de los predios fusionados y tendrá su propietario los derechos y obligaciones que se deriven de los mismos.
 (REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)
 ARTÍCULO 474.- La extinción voluntaria parcial o total del régimen de propiedad en condominio, en caso de ser procedente, requiere del acuerdo por unanimidad en asamblea de condóminos del indiviso que representen los bienes de propiedad exclusiva del mismo, previo a la solicitud de autorización ante la SEPLADE o el Municipio.
@@ -3065,14 +3084,9 @@ XVII.- Las demás que le señale este Código y otras disposiciones jurídicas a
 ARTÍCULO 543.- Cuando el fraccionador o promotor haya construido a su cargo la infraestructura y equipamiento de las redes de agua potable y alcantarillado y tratamiento de las aguas residuales del fraccionamiento, condominio o desarrollo inmobiliario especial, estará exento de pagar derechos estatales y municipales de conexión a dichas redes.
 ARTÍCULO 544.- De acuerdo a la densidad de construcción y población aplicable a los condominios o desarrollos inmobiliarios especiales, el Municipio determinará las áreas de donación que, conforme a las normas y criterios para la dotación de equipamiento urbano básico e infraestructura, deban transferirle los promotores.
 ARTÍCULO 545.- Para los efectos del artículo anterior, las normas y criterios para la dotación de equipamiento urbano básico y áreas verdes en los condominios y desarrollos inmobiliarios especiales, son los siguientes:
-(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE NOVIEMBRE DE 2025)
-I.- Tratándose de condominios verticales habitacionales y/o con comercio y servicio, se aplicará lo siguiente:
-(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2025)
-a) Tratándose de condominios verticales habitacionales y/o con comercio y servicio en zonas de crecimiento determinadas en el programa municipal de desarrollo urbano respectivo que se compongan de 50 o más departamentos o viviendas, el promotor donará a favor del Municipio, una superficie de terreno urbanizada, equivalente a 8 metros cuadrados por cada departamento o vivienda; pudiendo acceder a la sustitución al 70 por ciento de áreas de donación por equipamiento urbano e infraestructura conforme al porcentaje a permutar, de acuerdo a lo que demande la zona y determine el dictamen de cobertura de los mismos.
-En cuanto al resto de porcentaje a permutar deberá determinar con precisión las obras de urbanización especificas a ejecutarse por el promotor, en las zonas que el municipio determine mediante un dictamen. Para la susttución se tomará el valor de metro cuadrado al precio de venta, conforme a avalúo comercial de perito valuador certificado que designe el municipio, conforme lo señala este código; y
-(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2025)
-b) Tratándose de condominios verticales habitacionales y/o con comercio y servicio en zonas urbanas consolidadas, determinadas en el programa municipal de desarrollo urbano respectivo que se compongan de 50 o más departamentos o viviendas, el promotor donará a favor del Municipio, una superficie de terreno urbanizada, equivalente a 5 metros cuadrados por cada departamento o vivienda; el cual podrá sustituirse al 100 por ciento de áreas de donación por equipamiento urbano e infraestructura conforme al porcentaje a permutar, de acuerdo a lo que demande la zona y determine el dictamen de cobertura de los mismos.
-En cuanto al resto de porcentaje a permutar deberá determinar con precisión las obras de urbanización especificas a ejecutarse por el promotor, en las zonas donde el municipio determine mediante un dictamen, para la sustitución se tomará el valor de metro cuadrado al precio de venta al mercado, conforme a avalúo comercial de perito valuador certificado que designe el municipio, conforme lo señala este código.
+(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2025)
+I.- Tratándose de condominios verticales habitacionales, que se compongan de 50 o más unidades privativas, el promotor donará a favor del Municipio, como mínimo, una superficie de terreno urbanizada, equivalente a 10 metros cuadrados por cada departamento o vivienda; pudiendo acceder a la sustitución de áreas de donación que señala este código;
+En caso de que, por las condiciones físicas, técnicas o urbanísticas del predio, no sea posible la materialización de dicha superficie, la donación podrá sustituirse conforme a lo previsto en el artículo 334 del presente ordenamiento, mediante la aportación del valor económico equivalente o en los términos que determine la autoridad municipal competente.
 (REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)
 II.- Tratándose de condominios horizontales habitacionales con una superficie superior a los 10,000 metros cuadrados o se compongan de 50 o más predios, viviendas o casas, el promotor donará al Municipio el 12% de la superficie neta vendible del condominio; pudiendo acceder a la sustitución de áreas de donación que señala este código;
 III.- Tratándose de condominios horizontales o verticales comerciales, industriales o especiales, que cuenten con una superficie mayor de 10,000 metros cuadrados o se compongan de 50 o más locales o predios, el promotor donará al Municipio, el 5% de la superficie neta vendible del terreno;
@@ -3126,6 +3140,8 @@ III.- Las que se ubiquen dentro de predios rurales o rústicos que no sean de or
 IV.- Las que estén relacionadas con un presente o futuro asentamiento humano.
 (REFORMADO, P.O. 22 DE ENERO DE 2024)
 ARTÍCULO 563.- Las fusiones y subdivisiones que se autoricen o realicen en contravención de lo dispuesto en este Código no podrán surtir efectos ni inscribirse en el Instituto Registral y Catastral.
+(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2025)
+Previo a la autorización de la subdivisión, el Municipio deberá solicitar a la SEPLADE una opinión técnica a través de los medios electrónicos digitales oficiales que la SEPLADE señale.
 ARTÍCULO 564.- Las fusiones y subdivisiones de predios rústicos se regirán por este Código, los códigos y reglamentos municipales, los programas de desarrollo urbano aplicables, la Ley Agraria, la legislación ambiental y forestal y demás disposiciones jurídicas aplicables.
 ARTÍCULO 565.- La autorización de las subdivisiones de predios urbanos, deberá apegarse a los siguientes criterios:
 (REFORMADA, P.O. 22 DE ENERO DE 2024)
@@ -3134,8 +3150,12 @@ II.- En aquellos casos que una subdivisión requiera la apertura de una o más v
 III.- La subdivisión deberá respetar el lote mínimo del fraccionamiento o a la zona establecida en los programas de desarrollo urbano aplicables.
 IV.- En ningún caso, para uso habitacional, el frente será menor de 5 metros y la superficie menor de 75 metros cuadrados;
 V.- En el centro de las ciudades o localidades del Estado, el Municipio respectivo establecerá los requisitos mínimos para mantener la armonía y la imagen urbana de los centros de población;
-VI.- Cuando alguno de los lotes no tenga acceso directo a una vía pública autorizada, deberá constituir una servidumbre legal de paso como condicionante de la subdivisión; y
-VII.- Se autorizarán las subdivisiones de lotes o predios, siempre y cuando no se sature o afecte la capacidad instalada del equipamiento e infraestructura existentes de las redes de agua potable, alcantarillado y electrificación, del fraccionamiento, colonia, barrio o sector correspondiente.
+(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2025)
+VI.- Los lotes resultantes de la subdivisión deberán tener acceso directo a una vía pública, camino o servidumbre de paso, no se permitirá la constitución de servidumbres legales de paso como condicionante de la subdivisión;
+(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2025)
+VII.- Se autorizarán las subdivisiones de lotes o predios, siempre y cuando no se sature o afecte la capacidad instalada del equipamiento e infraestructura existentes de las redes de agua potable, alcantarillado y electrificación, del fraccionamiento, colonia, barrio o sector correspondiente; y
+(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2025)
+VIII.- Cuando se trate de un asentamiento humano irregular establecido en un predio de hasta 10,000 metros cuadrados, podrá autorizarse mediante el proceso de subdivisión urbana, siempre que se cumpla con lo dispuesto en el artículo 285 de este Código.
 (REFORMADO, P.O. 22 DE ENERO DE 2024)
 La SEPLADE para emitir la opinión a que se refiere la fracción I de este artículo, contará con un plazo de 10 días hábiles, a partir de que recibió el expediente debidamente integrado, si en ese plazo no dio respuesta al Municipio o no pidió una prórroga razonable, el Municipio procederá a resolver sobre esa solicitud conforme resulte procedente y bajo su responsabilidad correspondiente.
 (REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)
