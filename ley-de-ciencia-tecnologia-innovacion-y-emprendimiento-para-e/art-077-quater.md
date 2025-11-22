@@ -5,7 +5,6 @@ II. La ubicación de las escuelas públicas de educación básica, media superio
 III. Plazas públicas;
 IV. Parques públicos; y
 V. Principales puntos turísticos.
-TÍTULO SEXTO
-RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
-CAPÍTULO ÚNICO
-Responsabilidades Administrativas
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE NOVIEMBRE DE 2025)
+CAPÍTULO V
+De la Inteligencia Artificial
