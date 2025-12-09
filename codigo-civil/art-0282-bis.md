@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2025)
+Artículo 282 Bis.- La persona juzgadora en todo el procedimiento, atendiendo a las circunstancias del caso, podrá solicitar a aquellas instituciones de salud pública debidamente acreditadas que cuenten con el servicio de psicología y psiquiatría, que le realicen un diagnóstico psicológico o psiquiátrico a las hijas o los hijos, así como en caso de ser necesario, les brinden el tratamiento adecuado. En su caso, la madre o el padre podrán proponer a un psicólogo o psiquiatra en particular.

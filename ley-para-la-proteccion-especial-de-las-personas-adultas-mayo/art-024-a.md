@@ -10,5 +10,6 @@ III. Promover la protección y el respeto del ejercicio de los derechos humanos 
 IV. Fomentar la inclusión, aceptación y participación de las personas adultas mayores en la sociedad; y
 (ADICIONADA, P.O. 1 DE MARZO DE 2021)
 V. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
+(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2025)
 CAPÍTULO X
-Del Instituto de Vivienda del Estado de Aguascalientes
+Del Instituto de Vivienda Social y Ordenamiento de la Propiedad del Estado de Aguascalientes

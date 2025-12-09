@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2025)
+Artículo 4° Bis.- El deporte y la educación física tendrán una función social que será la de fortalecer la interacción de la sociedad, para desarrollar de manera armónica las aptitudes físicas e intelectuales de las personas que contribuyan a fomentar la solidaridad como valor social; además de promover y estimular el autocuidado, la actividad y recreación física como medios. importantes para la preservación de la salud física y mental, así como la prevención de enfermedades.
