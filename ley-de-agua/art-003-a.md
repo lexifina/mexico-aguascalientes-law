@@ -9,7 +9,9 @@ V. La prestación del servicio doméstico del agua tendrá preferencia en la dis
 VI. La contaminación de los recursos hídricos conllevará la responsabilidad de restaurar su calidad, conforme a la normatividad aplicable, por lo que la autoridad estará expedita para prevenir y sancionar las acciones y omisiones que puedan tener efectos nocivos sobre la calidad y disponibilidad del agua;
 (REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)
 VII. Las autoridades implementarán las acciones necesarias para que el desarrollo de los centros urbanos se realice promoviendo el ordenamiento territorial y los mecanismos necesarios para proporcionar los servicios públicos, procurando en todo momento el equilibrio hídrico de conformidad con esta Ley;
-(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)
-VIII. Las autoridades en el ámbito de su competencia, procurarán la reutilización e incremento de la captación del agua de lluvia en todo el territorio estatal; y
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE DICIEMBRE DE 2025)
+VIII. Las autoridades, en el ámbito de su competencia, procurarán la captación, reutilización e incremento del aprovechamiento del agua de lluvia en todo el territorio estatal.
+(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2025)
+Asimismo, se fomentará la instalación de sistemas para la captación y reutilización de aguas pluviales en todos los edificios públicos de nueva creación, así como en las unidades habitacionales y colonias, que no cuenten con abastecimiento continuo o donde no exista una red de agua potable; y
 (ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)
 IX. La política hídrica estatal deberá garantizar la seguridad hídrica, entendida esta como la capacidad institucional y de la ciudadanía para salvaguardar el acceso sostenible a cantidades adecuadas y de calidad aceptable del agua para sostener los medios de vida y garantizar el desarrollo económico.

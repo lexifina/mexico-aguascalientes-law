@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2025)
+Artículo 94 Quinquies. El Estado garantizará a niñas, niños y adolescentes su integración a la sociedad de la información y el conocimiento, acorde a los fines establecidos en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Aguascalientes, mediante una política de inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad.

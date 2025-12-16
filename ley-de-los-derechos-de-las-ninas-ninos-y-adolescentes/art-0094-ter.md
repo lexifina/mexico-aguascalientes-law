@@ -11,7 +11,6 @@ I. Equipamiento y mobiliario urbano para el disfrute de las niñas, niños y ado
 II. El fomento de mecanismos de participación de niñas, niños y adolescentes en el diseño y gestión de los espacios públicos para cumplir con sus necesidades de movilidad;
 III. La consideración de criterios en el diseño del espacio público e infraestructura vial, la reducción de flujos y velocidades vehiculares para dar lugar a la sana convivencia en las vialidades; y
 IV. La promoción de espacios y zonas de juego, deportivas y recreativas públicas seguras, accesibles y suficientes, en función de la edad, la diversidad funcional o situación de discapacidad u otras circunstancias, que garanticen su derecho al deporte, al juego, al esparcimiento y el sano desarrollo.
-TÍTULO TERCERO
-DE LAS OBLIGACIONES
-CAPÍTULO ÚNICO
-De Quienes Ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2025)
+CAPÍTULO XXII
+Derecho de Acceso a las Tecnologías de la Información y Comunicación

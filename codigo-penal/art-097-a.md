@@ -20,9 +20,5 @@ X. Cuando el sujeto activo abuse de su cargo público para la comisión del deli
 A quien cometa el delito de feminicidio se sancionará con prisión de cuarenta a sesenta años, de 500 a 1000 días multa, así como el pago total de la reparación de los daños y perjuicios ocasionados. La pena de prisión se aumentará en una tercera parte más respecto de los mínimos y máximos indicados, cuando la víctima sea menor de 16 años de edad o tenga 60 años o más.
 Se impondrá además de la pena, la pérdida de derechos con respecto a la víctima y ofendidos, incluidos los de carácter sucesorio.
 Cuando la víctima tenga hijos menores de edad que queden en la orfandad, el responsable deberá indemnizar en concepto de reparación del daño a los representantes de los menores con el doble de la indemnización a que alude el artículo 58 del presente Código.
-(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)
-Cuando en los hechos no concurran las razones de género previstas en el presente Artículo, al que dolosamente prive de la vida a una mujer por cualquier medio, se le impondrán de 8 a 20 años de prisión y de 25 a 250 días multa, así como el pago total de la reparación de los daños y perjuicios ocasionados. Lo anterior salvo lo previsto en el artículo 107 de este Código, en relación con el delito de homicidio doloso considerado como calificado.
-I. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2023)
-II. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2023)
-III. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2023)
-IV. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2023)
+(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)
+Cuando en los hechos no concurran las razones de género previstas en el presente Artículo, al que dolosamente prive de la vida a una mujer por cualquier medio, se le impondrán de 25 a 35 años de prisión y de 25 a 250 días multa, así como el pago total de la reparación de los daños y perjuicios ocasionados. Lo anterior salvo lo previsto en el artículo 107 de este Código, en relación con el delito de homicidio doloso considerado como calificado.
