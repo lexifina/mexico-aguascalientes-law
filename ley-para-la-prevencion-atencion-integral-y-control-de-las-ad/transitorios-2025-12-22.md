@@ -1,0 +1,3 @@
+P.O. 22 DE DICIEMBRE DE 2025.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 343.- SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 82 DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN INTEGRAL Y CONTROL DE LAS ADICIONES (SIC) EN EL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO ÚNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.

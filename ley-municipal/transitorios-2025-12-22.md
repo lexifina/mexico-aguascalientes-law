@@ -1,0 +1,7 @@
+P.O. 22 DE DICIEMBRE DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 348.- SE REFORMA LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO.- Los Ayuntamientos deberán adecuar sus bandos y reglamentos para incorporar las medidas restaurativas previstas en este Decreto, en un plazo no mayor a ciento ochenta días naturales contados a partir de su entrada en vigor.
+ARTÍCULO TERCERO.- La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes, en coordinación con el Sistema DIF Estatal y los Sistemas DIF Municipales, emitirá los lineamientos orientadores para la aplicación de las medidas restaurativas y de corresponsabilidad familiar, en un plazo no mayor a noventa días naturales a partir de la publicación del presente Decreto.
+ARTÍCULO CUARTO.- El Sistema DIF Estatal, en coordinación con los Sistemas DIF Municipales, desarrollará en un plazo no mayor a ciento veinte días naturales los programas de orientación, apoyo psicosocial y fortalecimiento familiar que sirvan de base para la implementación de las medidas restaurativas.
+ARTÍCULO QUINTO.- Los Ayuntamientos, en coordinación con el Sistema DIF Estatal, deberán capacitar a jueces cívicos y personal operativo en enfoque restaurativo, derechos humanos e interés superior de la niñez, en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
