@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- Quedan sin efecto las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieren otorgado a título particular, que contravengan o se opongan a lo preceptuado en esta Ley.

@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Se abroga la Ley de Hacienda para el Municipio de Cosío, Aguascalientes, publicada en el Periódico Oficial del Gobierno del Estado el treinta y uno de diciembre de mil novecientos ochenta y cinco y sus posteriores reformas hasta la publicada en el Periódico Oficial del Estado de Aguascalientes el día veintinueve de diciembre de dos mil veintiuno.
