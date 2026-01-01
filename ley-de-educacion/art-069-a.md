@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2025)
+Artículo 69 A. La Autoridad Educativa Estatal promoverá, coordinará y regulará la creación de una Red Estatal de Mentoría Vocacional, como un programa complementario al Sistema Educativo del Estado, destinada a estudiantes de educación media superior.
+Este programa tendrá por objeto vincular a las y los estudiantes interesados, con profesionistas, técnicos, emprendedores, servidores públicos, científicos, artistas y demás trabajadores especializados, que de forma voluntaria actúen como mentores en procesos de orientación vocacional, desarrollo personal, habilidades socioemocionales y toma de decisiones para su futuro académico y laboral.

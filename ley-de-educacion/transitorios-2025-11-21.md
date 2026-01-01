@@ -1,0 +1,5 @@
+P.O. 21 DE NOVIEMBRE DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 292.- SE ADICIONA LA SECCIÓN NOVENA "DE LA MENTORÍA VOCACIONAL" Y SUS ARTÍCULOS 69 A, 69 B, 69 C Y 69 D, AL CAPÍTULO III, DEL TÍTULO CUARTO DE LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES".]
+PRIMERO.- El presente decreto entrará en vigor en (sic) 1° de enero del año 2026.
+SEGUNDO.- El Instituto de Educación del Estado de Aguascalientes contará con un plazo máximo de seis meses, contados a partir de la entrada en vigor del presente decreto, para emitir los lineamientos, protocolos y mecanismos operativos necesarios para la implementación de la Red Estatal de Mentoría Vocacional.
+TERCERO.- El Instituto de Educación del Estado de Aguascalientes podrá iniciar, a partir de la publicación del presente decreto, las acciones preparatorias que permitan el diagnostico, planeación, promoción y vinculación interinstitucional del programa, con el objeto de garantizar su operatividad plena, a partir del momento en que se encuentren disponibles los lineamientos, protocolos y mecanismos operativos necesarios para la implementación de la Red Estatal de Mentoría Vocacional.
