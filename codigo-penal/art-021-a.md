@@ -5,7 +5,8 @@ II. Feminicidio;
 III. Aborto doloso y culposo;
 IV. Lesiones dolosas y culposas;
 V. Hostigamiento sexual;
-VI. Atentados al pudor;
+(REFORMADA, P.O. 12 DE ENERO DE 2026)
+VI. Abuso sexual;
 VII. Corrupción de menores e incapaces;
 VIII. Pornografía infantil o de incapaces;
 IX. Violación y Violación equiparada;
