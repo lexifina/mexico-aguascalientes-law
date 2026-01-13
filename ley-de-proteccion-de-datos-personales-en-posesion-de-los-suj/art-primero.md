@@ -1,2 +1,1 @@
-ARTÍCULO PRIMERO.- Se expide la "LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES", para quedar como sigue:
-[…]
+ARTICULO PRIMERO.- La presente Ley entrará en vigor a los sesenta días hábiles después de su publicación en el Periódico Oficial del Estado.

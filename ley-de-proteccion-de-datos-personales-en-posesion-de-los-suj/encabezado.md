@@ -1,6 +1,8 @@
-LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE AGUASCALIENTES
-Ley publicada en la Edición Vespertina al Número 24 del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de junio de 2025.
-MARÍA TERESA JIMÉNEZ ESQUIVEL, Gobernadora Constitucional del Estado de Aguascalientes, a sus habitantes sabed:
-Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
-La LXVI Legislatura del Congreso del Estado Libre y Soberano de Aguascalientes, en virtud de su función y facultad constitucional, ha tenido a bien expedir el siguiente:
-Decreto Número 212
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+[NOTA 2: EL 17 DE MAYO DE 2023, SE PUBLICÓ EN LA "GACETA LEGISLATIVA DEL H. CONGRESO DEL ESTADO DE NUEVO LEÓN" EL DECRETO 350 DE LA LXXVI LEGISLATURA DEL CONGRESO DEL ESTADO DE DICHA ENTIDAD; EL CUAL, AÚN NO HA SIDO PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD, POR LO QUE AÚN NO HA SIDO COMPILADO Y SISTEMATIZADO.]
+LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
+Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 1997.
+BENJAMIN CLARIOND REYES-RETANA, GOBERNADOR SUBSTITUTO DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A TODOS SUS HABITANTES HAGO SABER:
+Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
+DECRETO
+NUM. 383

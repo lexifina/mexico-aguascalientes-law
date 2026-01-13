@@ -1,6 +1,1 @@
-ARTÍCULO SEGUNDO.- Se expide la "LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE AGUASCALIENTES", para quedar como sigue:
-LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE AGUASCALIENTES
-TÍTULO PRIMERO
-DISPOSICIONES GENERALES
-CAPÍTULO ÚNICO
-Objeto de la Ley
+ARTICULO SEGUNDO.- Se abroga la Ley Orgánica del Tribunal de lo Contencioso Administrativo y el Código Procesal del Tribunal de lo Contencioso Administrativo publicados en el Periódico Oficial del Estado de fecha 5 de julio de 1991.
