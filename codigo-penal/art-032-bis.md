@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2012)
+ARTÍCULO 32 BIS.- Los observatorios ciudadanos deberán estar constituidos como organizaciones no gubernamentales y conformados con una representación social plural y apartidista; su propósito deberá ser el de articular a la sociedad para incidir en políticas públicas para mejorar la calidad de vida en seguridad y justicia. Así mismo, observar el actuar de las autoridades y contribuir a generar un entorno de paz, seguridad, convivencia ciudadana y una cultura de la legalidad.
+Los observatorios deberán presentar su propuesta de requerimientos y objetivos a la parte ciudadana del Consejo Estatal de Seguridad Pública por conducto del Secretario Adjunto.
+La parte ciudadana desarrollará la propuesta para llevarla ante el Consejo Estatal de Seguridad Pública, en donde se deliberará la aprobación del proyecto y la periodicidad, detalle y formato de la información entregada.

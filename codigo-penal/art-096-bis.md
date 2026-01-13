@@ -1,0 +1,5 @@
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)
+ARTÍCULO 96 BIS.- El Registro Estatal de Armamento y Equipo contará con un apartado en el que se inscribirán aquellas personas físicas o morales que cuenten con autorización de la Fiscalía General del Estado para fabricar, comercializar, almacenar, transportar o distribuir, dentro del territorio estatal, vestimentas o instrumentos que sirvan de identificación a los miembros de las Instituciones de Seguridad Pública.
+En los permisos que se expidan se deberá especificar cuáles vestimentas o instrumentos podrán ser únicamente destinados para su utilización por parte de integrantes de Instituciones de Seguridad Pública, y cuáles puestos a disposición del público en general.
+La falta de dicho permiso, o su utilización para fines distintos a aquellos para los que fue otorgado, serán motivo de responsabilidad penal.

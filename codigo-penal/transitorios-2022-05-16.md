@@ -1,3 +1,0 @@
-P.O. 16 DE MAYO DE 2022.
-[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 124.- SE REFORMAN LAS FRACCIONES II Y III Y SE ADICIONA UNA FRACCIÓN IV AL ARTÍCULO 152 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-ARTÍCULO UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
