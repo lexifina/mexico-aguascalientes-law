@@ -1,1 +1,2 @@
-ARTÍCULO PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo previsto en el siguiente artículo.
+ARTÍCULO PRIMERO.- Se aprueba el Código Penal para el Estado de Aguascalientes, para quedar en los siguientes términos:
+CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
