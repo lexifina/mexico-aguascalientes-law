@@ -12,3 +12,9 @@ El Estado generará un registro estatal obligatorio que incluya todos los trámi
 Las organizaciones civiles podrán participar en la realización de actividades sociales, cívicas, económicas y culturales relacionadas con el desarrollo armónico y ordenado de las distintas comunidades. Asimismo, podrán coadyuvar en la identificación y precisión de las demandas y aspiraciones de la sociedad para dar contenido al Plan de Desarrollo del Estado, a los planes municipales y a los programas respectivos, propiciando la participación de los habitantes en la realización de las obras y servicios públicos.
 (ADICIONADO, P.O. 8 DE AGOSTO DE 2016)
 La Ley determinará las formas de participación de estas organizaciones, y la designación de controles sociales que vigilen el cumplimiento de las actividades señaladas en el párrafo anterior.
+(ADICIONADO, P.O. 2 DE FEBRERO DE 2026)
+El Estado velará por la estabilidad de las finanzas públicas y del sistema financiero para coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo. Los Planes Estatales y Municipales de Desarrollo deberán observar dicho principio.
+(ADICIONADO, P.O. 2 DE FEBRERO DE 2026)
+Además, planeará, conducirá, coordinará y orientará la actividad económica del Estado, y llevará a cabo, en el ámbito de su competencia, la regulación y fomento de las actividades que demande el interés general en el marco de libertades que otorga esta Constitución.
+(ADICIONADO, P.O. 2 DE FEBRERO DE 2026)
+Al desarrollo económico del Estado concurrirán, con responsabilidad social, el sector público, el sector social y el sector privado, sin menoscabo de otras formas de actividad económica que contribuyan al desarrollo de la Entidad.
