@@ -1,3 +1,4 @@
+[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE MARZO DE 2026 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 EDUARDO C. TORRES CAMPOS, Presidente Municipal de Pabellón de Arteaga, Aguascalientes, en cumplimiento a lo preceptuado por la fracción I del artículo 38 de la Ley Municipal del Estado de Aguascalientes, a los habitantes del Municipio hace saber:

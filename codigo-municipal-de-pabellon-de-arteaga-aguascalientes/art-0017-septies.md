@@ -15,6 +15,3 @@ XII.- Solicitar información a los distintos nivel (sic) de gobierno sobre la na
 XIII.- promover el reconocimiento y protección del arte y sus creadores;
 XIV.- Aprobar sus planes y programas anuales de labores, y
 XV.- Informar a la Dirección de Desarrollo Social acerca de los avances de sus planes y programas de actividades.
-(REFORMADO, P.O. 24 DE ABRIL DE 2006)
-CAPITULO SEGUNDO
-Del Ayuntamiento

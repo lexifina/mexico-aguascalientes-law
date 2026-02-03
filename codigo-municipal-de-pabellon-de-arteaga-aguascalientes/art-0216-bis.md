@@ -44,6 +44,6 @@ XXVIII.- Llevar un control estricto sobre los recursos materiales existentes en 
 XXIX.- Brindar el apoyo necesario a los inspectores o verificadores de las diversas áreas de la Presidencia Municipal; y
 [N. DE E. ES IDÉNTICA A LA FRACCIÓN XXIII.]
 XXX.- Las demás que le otorguen las leyes, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
-(REFORMADA [N. DE E. REUBICADA ANTES SECCIÓN QUINTA], P.O. 4 DE MARZO DE 2019)
+(REFORMADA SU DENOMINACIÓN, P.O. 2 DE FEBRERO DE 2026)
 SECCIÓN SEXTA
-De la Dirección de Obras Públicas y Desarrollo Urbano
+De la Dirección de Obras Públicas

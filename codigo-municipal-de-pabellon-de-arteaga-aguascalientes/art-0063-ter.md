@@ -8,9 +8,3 @@ V.- Revisar los códigos de ética y de conducta, formulando propuestas de refor
 VI.- Participar en la elaboración del Programa Municipal Anticorrupción, así como formular dictámenes sobre sus reformas y cumplimiento;
 VII.- Evaluar el desempeño de los indicadores de eficiencia que se establezcan en la administración pública municipal, y
 VIII.- Los demás que le señalen las leyes, los reglamentos, el presente código o le sean encomendados por el H. Ayuntamiento.
-(REFORMADO, P.O. 24 DE ABRIL DE 2006)
-TITULO TERCERO
-DE LA PRACTICA CAPITULAR
-(REFORMADO, P.O. 24 DE ABRIL DE 2006)
-CAPITULO PRIMERO
-De la Instalación del H. Ayuntamiento

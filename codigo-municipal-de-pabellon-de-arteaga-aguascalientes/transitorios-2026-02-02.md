@@ -1,0 +1,8 @@
+P.O. 2 DE FEBRERO DE 2026.
+[N. DE E. TRANSITORIOS DEL "DICTAMEN POR EL QUE SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+SEGUNDO: Le serán atribuidos a la nueva Dirección de Desarrollo Urbano y Planeación Municipal todos aquellos artículos del Código Municipal de Pabellón de Arteaga, aunque se digan facultad de la modificada Dirección de Obras Públicas y Desarrollo Urbano, se desarrollen en el ámbito de las facultades establecidas en la Sección Décimo Quinta, artículo 222 SEXIES.
+TERCERO: Le serán atribuidos a las personas Jueces Cívicos del Municipio todas aquellas facultades y obligaciones que consagre el Código Municipal de Pabellón de Arteaga, para los Jueces Calificadores o Jueces adscritos a la Dirección de Seguridad Pública.
+CUARTO: En lo relativo a la separación del área de Desarrollo Urbano de la Dirección de Obras Públicas, dentro de un año a partir de la presente reforma, la Comisión de Desarrollo Urbano y Obras Públicas realizara un análisis para valorar la eficiencia y eficacia de dicha separación y en caso de que no dé los resultados esperados, se determinara en Comisiones Unidas la fusión de dichos entes de Gobierno.
+QUINTO: El Ayuntamiento deberá emitir los Reglamentos que requiera la presente reforma, así como hacer las adecuaciones administrativas, de personal y del presupuesto de egresos del Municipio de Pabellón de Arteaga, que sean necesarias.
+SEXTO: Se dejan sin efecto todos los acuerdos, disposiciones normativas y reglamentarias del Municipio de Pabellón de Arteaga que contravengan el presente Decreto.
