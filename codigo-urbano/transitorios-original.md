@@ -4076,6 +4076,8 @@ IV. Vigencia;
 V. Procedimiento que le dio origen;
 VI. Causales de revocación; y
 VII. Sanciones por incumplimiento.
+(ADICIONADO, P.O. 23 DE FEBRERO DE 2026)
+Tratándose de carreteras, puentes y otros bienes susceptibles de concesionarse conforme a este Código, el título de concesión respectivo establecerá si la liberación total del derecho de vía quedará a cargo y responsabilidad exclusiva del concesionario. En estos casos, el inicio de la explotación de la carretera quedará condicionado a que el concesionario haya liberado y acreditado ante la autoridad competente el cien por ciento del derecho de vía correspondiente al tramo concesionado.
 ARTÍCULO 785.- Para el otorgamiento de concesiones, y en su caso, para la prórroga de su plazo, el Gobierno del Estado o el Municipio tomarán en cuenta los siguientes elementos:
 I. Que los solicitantes reúnan los requisitos previstos por las leyes y reglamentos específicos, cuya prestación o uso, aprovechamiento o explotación sea susceptible de concesionarse;
 II. Que los solicitantes cuenten y acrediten a juicio del Gobierno del Estado o el Municipio, su capacidad técnica, operativa y financiera que contemplen las leyes y reglamentos a que se refiere la fracción anterior;
