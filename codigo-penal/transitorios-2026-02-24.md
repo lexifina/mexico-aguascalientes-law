@@ -1,0 +1,9 @@
+P.O. 24 DE FEBRERO DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 405.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO. Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
+ARTÍCULO TERCERO. El delito de extorsión previsto en el Código Penal para el Estado de Aguascalientes vigente a la entrada en vigor del presente Decreto, seguirá aplicándose por los hechos realizados durante su vigencia. Asimismo, dicho precepto seguirá aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones.
+Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
+ARTÍCULO CUARTO. La Fiscalía General del Estado de Aguascalientes deberá crear una unidad especializada de atención a los delitos de extorsión, y contar con ministerios públicos, policías y analistas capacitados, evaluados, certificados y especializados en materia de extorsión, de conformidad con los criterios que establezca el Sistema Nacional de Seguridad Pública.
+La Secretaría de Seguridad Pública del Estado de Aguascalientes deberá contar con una unidad especializada en materia de extorsión y con el personal capacitado y especializados en materia de extorsión, en un término no mayor a 90 días posteriores a la entrada en vigencia del presente Decreto.
+ARTÍCULO QUINTO. Quedan sin efectos todas aquellas disposiciones que se oponga al presente Decreto.
