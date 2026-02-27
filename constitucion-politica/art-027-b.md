@@ -1,7 +1,7 @@
-(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2008)
-Artículo 27 B.- El Congreso del Estado emitirá la convocatoria para elegir al titular del Órgano Superior de Fiscalización del Estado y lo designará con el voto de las dos terceras partes de los miembros presentes en la Legislatura. La Ley determinará el procedimiento para su designación y remoción en su caso.
-(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE AGOSTO DE 2023)
-El Auditor Superior de Fiscalización, además de los requisitos previstos en las Fracciones III y IV del Artículo 53 de esta Constitución requeridos para ser Magistrado del Supremo Tribunal de Justicia y Fiscal General del Estado, deberá de reunir los siguientes:
+(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2026)
+Artículo 27 B.- El Congreso del Estado emitirá la convocatoria para elegir a la persona titular del Órgano Superior de Fiscalización del Estado y lo designará con el voto de las dos terceras partes de los miembros presentes en la Legislatura. La Ley determinará el procedimiento para su designación, remoción en su caso, así como su organización.
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE FEBRERO DE 2026)
+El Auditor Superior de Fiscalización deberá de reunir los siguientes requisitos:
 (REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2023)
 I. Ser persona ciudadana mexicana, originaria del Estado de Aguascalientes o con residencia mínima de tres años al momento de su designación.
 (REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)
@@ -10,7 +10,11 @@ II. Contar el día de su designación, con antigüedad mínima de 10 años, con 
 III. Contar con experiencia de cinco años en materia de control interno y administración de riesgos, auditoría para la revisión y fiscalización de cuentas públicas, y/o en responsabilidades administrativas.
 (REFORMADA, P.O. 14 DE AGOSTO DE 2023)
 IV. No haber sido condenado por delito de ejercicio indebido del servicio público, abuso de autoridad, coalición de servidores públicos, concusión, cohecho, peculado, tráfico de influencias, encubrimiento o enriquecimiento ilícito; salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia.
-(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE AGOSTO DE 2023)
-V. No haber tenido cargo de Secretario o su equivalente en el Poder Ejecutivo del Estado, Fiscal General del Estado, Contralor del Estado o de Municipio, Presidente Municipal, Senador, Diputado Federal o local, Síndico o Regidor de algún Ayuntamiento o dirigente de Partido Político durante los cuatro años previos al de su designación.
+(REFORMADA, P.O. 26 DE FEBRERO DE 2026)
+V. No estar en funciones· de Secretario o su equivalente en el Poder Ejecutivo del Estado, Fiscal General del Estado, Contralor del Estado o de Municipio, Presidente Municipal, Senador, Diputado Federal o local, Síndico o Regidor de algún Ayuntamiento o dirigente de Partido Político, el día que inicie el proceso para designar a la persona titular del Órgano.
+(ADICIONADA, P.O. 26 DE FEBRERO DE 2026)
+VI. No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
+(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2008)
 El Auditor Superior de Fiscalización durará en su encargo siete años; podrá ser removido por el Congreso por causas que señale la Ley, siempre con la misma votación requerida para su nombramiento, o conforme a los procedimientos previstos en el Capítulo Décimo Sexto de esta Constitución.
+(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2008)
 Durante el ejercicio de su encargo no podrá formar parte de la dirigencia de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
