@@ -1,7 +1,8 @@
 [N. DE E. DEL ANALISIS AL PRESENTE ARTÍCULO SE ADVIERTE QUE SU CONTENIDO ACTUAL, FORMABA PARTE DEL ARTÍCULO 59, MISMO QUE FUE REFORMADO EN ESTA MISMA FECHA.]
 (ADICIONADO, P.O. 4 DE DICIEMBRE DE 2025)
 Artículo 59 A (sic).- El Ministerio Público se organizará en una Fiscalía General del Estado como órgano autónomo con personalidad jurídica y patrimonio propio, misma que ejercerá las funciones previstas en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos con apego a los principios de legalidad, objetividad, imparcialidad, eficiencia, profesionalismo, responsabilidad, honradez y respeto a los derechos humanos, en los términos que disponga la Ley del Servicio Profesional de Carrera Ministerial para el Estado de Aguascalientes y las demás leyes aplicables en la materia.
-El Fiscal General del Estado durará en su cargo siete años y será designado y removido conforme a lo siguiente:
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE FEBRERO DE 2026)
+El Fiscal General del Estado durará en su cargo nueve años y será designado y removido conforme a lo siguiente:
 I.- Treinta días antes de concluir el período para el cual fue designado el Fiscal General del Estado, o en su caso, a partir de su ausencia definitiva, el Congreso del Estado tendrá quince días naturales para integrar una lista de cinco candidatos aprobada por las dos terceras partes de los diputados que integran el Congreso del Estado, misma que enviará al Poder Ejecutivo;
 II.- Recibida la lista a que se refiere la Fracción anterior, el Poder Ejecutivo formulará una terna y la remitirá al Congreso del Estado en un plazo no mayor a cinco días naturales contados a partir de que haya recibido la lista de candidatos.
 Si el Poder Ejecutivo no recibe la lista en el plazo señalado en la Fracción I, enviará libremente al Congreso del Estado una terna;
