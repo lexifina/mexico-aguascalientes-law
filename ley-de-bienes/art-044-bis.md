@@ -1,0 +1,13 @@
+(ADICIONADO, P.O 25 DE MARZO DE 2026)
+Artículo 44 Bis. Corresponde a la Secretaría de Obras Públicas lo siguiente:
+I. Llevar a cabo el procedimiento de licitación para el otorgamiento de concesiones para la explotación del derecho de vía o la construcción y explotación de carreteras de competencia estatal, así como las licitaciones de la prestación del servicio. En todo caso las bases de licitación complementarán en caso de ser necesario, si se requieren validaciones o dependencias adicionales que colaboren con la Secretaría General de Gobierno.
+II. Integrar el registro de concesiones del derecho de vía, o de construcción y explotación de carreteras de competencia estatal.
+III. Determinar las características y especificaciones técnicas y aprobar el trazo del derecho de vía y o para la construcción y explotación de carreteras de competencia estatal, así como de servicio carreteros (sic).
+IV. Vigilar la operación de las concesiones del derecho de vía o para la construcción y explotación de carreteras de competencia estatal.
+V. Asesorar en la celebración de contratos y convenios con los Gobiernos Federal y Municipal en todo lo relacionado con las carreteras de competencia estatal y sus obras.
+VI. Establecer las contraprestaciones que deberán cubrir los concesionarios de derecho o (sic) vía o para la construcción y explotación de carreteras de competencia estatal.
+VII. Vigilar el cumplimiento de las concesiones en materia de derecho de vía o de construcción y explotación de carreteras de competencia estatal e imponer las sanciones que correspondan en caso de incumplimiento; y
+VIII. Las demás que le confieran esta Ley y otros ordenamientos legales aplicables.
+Las características técnicas de construcción, conservación y mantenimiento, serán materia de revisión y análisis a cargo de lo que la Secretaría de Obras Públicas pondere para tal efecto. Las características operativas para otorgar el plazo de la concesión derivado de la recuperación de la inversión del licitante y todos aquellos estudios, cálculos y análisis financieros, basados en datos de pronóstico de tránsito, control de aforo, plan de financiamiento, esquema tarifario y demás relativos, será analizado por la Secretaría de Finanzas y por la Secretaría de Planeación, Participación y Desarrollo o por aquellas dependencias públicas del gobierno central o descentralizado cuyas actividades, acciones y las demás facultades que les otorgue la Ley Orgánica de la Administración Pública Estatal, así como las que se establezcan en las Bases del procedimiento o en el Título de concesión que regule el aprovechamiento, uso o explotación del bien o servicio de que se trate, para tal efecto.
+Sección Quinta
+Dependencias y Entidades

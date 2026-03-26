@@ -1,0 +1,2 @@
+(ADICIONADO, P.O 25 DE MARZO DE 2026)
+Artículo 67 Sépties. Al término del plazo de concesión o por cualquiera de las causas de terminación previstas en el título de concesión, los bienes objeto del mismo, incluyendo los predios y derecho de vía, revertirán al Estado de Aguascalientes automáticamente y en forma libre de gravámenes, compromisos o cargas, quedando el concesionario obligado a devolverlos en condiciones aptas para su uso público conforme al objeto de la concesión.

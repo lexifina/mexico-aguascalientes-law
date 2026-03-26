@@ -1,0 +1,2 @@
+(ADICIONADO, P.O 25 DE MARZO DE 2026)
+Artículo 67 Quinquies. Otorgado el fallo, la Secretaría de Obras Públicas procederá a remitir el expediente que contenga la validación del procedimiento de selección, a fin de que, en su caso, la persona titular del Poder Ejecutivo formalice el título de concesión respectivo, de conformidad con lo dispuesto en la presente Ley y de manera complementaria en el Código Urbano del Estado de Aguascalientes.

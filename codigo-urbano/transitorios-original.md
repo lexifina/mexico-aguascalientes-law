@@ -57,7 +57,8 @@ XXX.- COPROPIEDAD INMOBILIARIA: situación jurídica en la que un bien inmueble,
 XXXI.- CRECIMIENTO: la acción tendiente a ordenar y regular la expansión física de los centros de población;
 XXXII.- DENSIDAD DE POBLACIÓN: número máximo de habitantes que conforme a la zonificación secundaria contenida en los programas de desarrollo urbano que pueden residir en una superficie determinada;
 XXXIII.- DERECHOS DE PREFERENCIA: facultad que por ley tiene el Estado o el Municipio de adquirir predios con prelación a otros adquirentes por el mismo precio;
-XXXIV.- DERECHO DE VÍA: franja de predio federal, estatal o municipal que, en las dimensiones correspondientes, corre a ambos lados de la carretera, camino, vía pública e infraestructura existente y, en el caso de la vía pública proyectada comprende, además la franja de predio para el trazo, construcción, conservación, ampliación, protección y uso adecuado de una vía de comunicación;
+(REFORMADA, P.O. 25 DE MARZO DE 2026)
+XXXIV.- DERECHO DE VÍA: franja de predio federal, estatal o municipal que, en las dimensiones correspondientes, corre a ambos lados de la carretera, camino, vía pública e infraestructura existente y, en el caso de la vía pública proyectada comprende, además la franja de predio necesaria para el trazo, construcción, conservación, ampliación, protección y uso adecuado de una vía de comunicación.
 XXXV.- DESARROLLO INMOBILIARIO ESPECIAL: aprovechamiento de un inmueble mediante la edificación de construcciones para usos o destinos comerciales, de servicios o industriales; y/o habitacionales en los que no se transmite la propiedad sino solo la posesión, que implique la dotación de obras de infraestructura y equipamiento y la prestación de servicios básicos, con la posibilidad de trazar vialidades internas, así como de utilizar espacios comunes o abiertos sin estar sujetos a copropiedad; sin poder realizarse la enajenación de sus elementos, partes o edificaciones;
 XXXVI.- DESARROLLO URBANO: El proceso de planeación y regulación de la fundación, conservación, mejoramiento y crecimiento de los centros de población en sus aspectos físicos, económicos y sociales;
 XXXVII.- DESTINOS: los fines públicos a que se prevea dedicar determinadas zonas o predios de un centro de población;
@@ -4065,7 +4066,12 @@ ARTÍCULO 782.- Se podrá concesionar la prestación de un servicio público sie
 Los servicios concesionados estarán en todo tiempo sujetos a la ley especial de la materia, así como las bases y obligaciones que se fijen al concesionario en el propio título de la concesión y, de manera supletoria, o a falta de ley especial de la materia al presente Código, la Ley del Procedimiento Administrativo para el Estado de Aguascalientes y los reglamentos respectivos.
 Tratándose de servicios públicos municipales en primer término, se aplicará supletoriamente la Ley Municipal para el Estado de Aguascalientes.
 ARTÍCULO 783.- Las autoridades concedentes podrán otorgar a los particulares derechos de uso, explotación o aprovechamiento sobre los inmuebles que integran el patrimonio estatal o municipal, mediante concesión, para la realización de actividades económicas, sociales o culturales, sin perjuicio de leyes específicas que regulen el otorgamiento de concesiones sobre los inmuebles señalados.
-Tratándose de carreteras, puentes y otros bienes susceptibles de concesionarse conforme a este Código, pero no regulados por leyes específicas, los derechos de uso, aprovechamiento o explotación se sujetarán, exclusivamente, a lo previsto en el presente Código y en los reglamentos y las concesiones respectivas.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE MARZO DE 2026)
+Para efectos de los proyectos de infraestructura vial y carretera, la concesión administrativa se entenderá como el acto Proyecto por el cual el Estado habilita a una persona física o moral para desarrollar, Proyecto, operar, mantener o explotar infraestructura pública de transporte.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE MARZO DE 2026)
+La concesión constituye un acto habilitante de derechos cuyo otorgamiento no implica necesariamente la disponibilidad inmediata del derecho de vía requerido para el Proyecto.
+(REFORMADO, P.O. 25 DE MARZO DE 2026)
+Tratándose de carreteras, puentes, derecho de vía, la construcción y explotación de carreteras de competencia estatal y otros bienes susceptibles de concesionarse conforme a este Código, pero no regulados por la Ley de Bienes para el Estado de Aguascalientes, los derechos de uso, aprovechamiento o explotación se sujetarán, exclusivamente, a lo previsto en el presente Código y en los reglamentos y las concesiones respectivas.
 CAPÍTULO II
 Normas Generales que Regulan a las Concesiones
 ARTÍCULO 784.- Los títulos de concesión contendrán, como mínimo, lo siguiente:
@@ -4076,8 +4082,14 @@ IV. Vigencia;
 V. Procedimiento que le dio origen;
 VI. Causales de revocación; y
 VII. Sanciones por incumplimiento.
-(ADICIONADO, P.O. 23 DE FEBRERO DE 2026)
-Tratándose de carreteras, puentes y otros bienes susceptibles de concesionarse conforme a este Código, el título de concesión respectivo establecerá si la liberación total del derecho de vía quedará a cargo y responsabilidad exclusiva del concesionario. En estos casos, el inicio de la explotación de la carretera quedará condicionado a que el concesionario haya liberado y acreditado ante la autoridad competente el cien por ciento del derecho de vía correspondiente al tramo concesionado.
+(REFORMADO, P.O. 25 DE MARZO DE 2026)
+Tratándose de carreteras, puentes y otros bienes susceptibles de concesionarse conforme a este Código, la concesión podrá otorgarse respecto de la totalidad de la obra o por uno o varios tramos, y el título de concesión respectivo establecerá si la liberación total del derecho de vía quedará a cargo y bajo la responsabilidad exclusiva del concesionario. En estos casos, el inicio de la explotación de la carretera o del tramo concesionado quedará condicionado a que el concesionario haya liberado y acreditado ante la autoridad competente el cien por ciento del derecho de vía correspondiente al tramo concesionado.
+(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 25 DE MARZO DE 2026)
+Cuando el proyecto requiera derecho de vía, el título de concesión deberá establecer:
+I. Las condiciones para la liberación del derecho de vía.
+II. Los procedimientos de adquisición o negociación de predios.
+III. Los plazos para la integración del derecho de vía.
+IV. Las restricciones para el inicio de obras cuando el derecho de vía no esté disponible.
 ARTÍCULO 785.- Para el otorgamiento de concesiones, y en su caso, para la prórroga de su plazo, el Gobierno del Estado o el Municipio tomarán en cuenta los siguientes elementos:
 I. Que los solicitantes reúnan los requisitos previstos por las leyes y reglamentos específicos, cuya prestación o uso, aprovechamiento o explotación sea susceptible de concesionarse;
 II. Que los solicitantes cuenten y acrediten a juicio del Gobierno del Estado o el Municipio, su capacidad técnica, operativa y financiera que contemplen las leyes y reglamentos a que se refiere la fracción anterior;

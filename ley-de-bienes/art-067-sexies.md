@@ -1,0 +1,2 @@
+(ADICIONADO, P.O 25 DE MARZO DE 2026)
+Artículo 67 Sexies. Las concesiones para la explotación uso y aprovechamiento del derecho de vía o para la construcción y explotación de carreteras, se podrán otorgar mediante el procedimiento de adjudicación directa cuando concurran los supuestos a que se refiere el artículo 68 y conforme al procedimiento establecido en la fracción II del artículo 66 de esta Ley.
