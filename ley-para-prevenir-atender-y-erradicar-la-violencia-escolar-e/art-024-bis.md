@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 20 DE ABRIL DE 2026)
+ARTÍCULO 24 BIS. En las Instituciones educativas se deberá proporcionar capacitación sobre el Protocolo, tanto a la dirección del plantel, la docencia y las personas empleadas que tengan contacto directo con las y los estudiantes; el Protocolo será incluido en los programas de capacitación de todo directivo, docente y empleado que pertenezca al centro escolar.

@@ -1,0 +1,5 @@
+P.O. 20 DE ABRIL DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 440.- SE ADICIONA LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO. El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública deberá realizar las adecuaciones técnicas, administrativas y operativas necesarias para la integración y actualización permanente de la información relativa a las medidas u órdenes de protección dentro de un plazo máximo de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+ARTÍCULO TERCERO. Las instituciones de seguridad pública del Estado y de los municipios deberán modificar sus protocolos internos de registro, resguardo y manejo de información relativa a medidas u órdenes de protección dentro de un plazo no mayor a 120 días naturales, garantizando su articulación con el Sistema Nacional de Información y el Registro Nacional de Medidas u Órdenes de Protección.
