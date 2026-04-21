@@ -1,0 +1,12 @@
+P.O. 20 DE ABRIL DE 2026.
+[N. DE E. TRANSITORIOS DE LA "REFORMA A LA FRACCIÓN XXIV Y SE ADICIONA LA FRACCIÓN XXV AL ARTÍCULO 1298 DECIES; Y, SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 1306 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+SEGUNDO. Se deberá emitir, en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor de la presente reforma, las disposiciones técnicas, lineamientos y especificaciones necesarias para la implementación del sistema de video vigilancia.
+TERCERO. Una vez que entren en vigor las disposiciones normativas referidas en el artículo transitorio anterior, se instruye a la Dirección de Reglamentos, así como a la Secretaría de Finanzas del Municipio de Aguascalientes, para que, en el ámbito de sus respectivas competencias, lleven a cabo las acciones administrativas necesarias a efecto de incorporar de manera progresiva la obligatoriedad del cumplimiento de lo dispuesto en los artículos 1298 Decies, fracción XXIII, y 1306, fracción XIV, al momento de realizar los siguientes trámites:
+a) Cambio de domicilio y/o de propietario;
+b) Apertura de nuevas licencias; y
+c) Renovación anual de licencias.
+CUARTO. Los titulares de licencias o permisos vigentes para la venta o consumo de bebidas alcohólicas que no se encuentren en los supuestos previstos en el artículo transitorio anterior, contarán con un plazo de hasta ciento ochenta días naturales, contados a partir de la entrada en vigor de las disposiciones técnicas señaladas en el artículo segundo transitorio, para cumplir con la obligación de instalación, funcionamiento y transmisión en tiempo real de cámaras de video vigilancia.
+QUINTO. Durante el periodo de transición señalado, las autoridades municipales deberán privilegiar un enfoque de acompañamiento, orientación y facilitación administrativa, a fin de promover el cumplimiento gradual de las obligaciones previstas, evitando afectaciones desproporcionadas a los titulares de licencias o permisos.
+SEXTO. Los trámites de expedición o renovación de licencias o permisos iniciados con anterioridad a la entrada en vigor de la presente reforma se substanciarán conforme a las disposiciones vigentes al momento de su inicio.
+SÉPTIMO. Concluidos los plazos de implementación previstos en los artículos transitorios tercero y cuarto, el cumplimiento de lo dispuesto en los artículos 1298 Decies, fracción XXIII, y 1306, fracción XIV, será exigible en su totalidad.
