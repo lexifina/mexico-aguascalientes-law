@@ -1,0 +1,10 @@
+(ADICIONADO, P.O. 4 DE MAYO DE 2026)
+Artículo 148 Ter. Corresponde a las Secretaría de Desarrollo Económico, Ciencia y Tecnología y a la Secretaría Desarrollo Rural y Agroempresarial, en el ámbito de sus respectivas competencias, la observancia y aplicación de las disposiciones previstas en el presente capítulo, quienes tendrán, además, las siguientes atribuciones:
+I. Promover que los Gobiernos Municipales que cuentan con la Denominación de Origen Mezcal, apliquen su Ordenamiento Ecológico Territorial, con la finalidad de que participen activamente en las políticas instrumentadas para el desarrollo sustentable de la cadena productiva del Mezcal;
+II. Diseñar programas y mecanismos para impulsar e incentivar a los productores con infraestructura y equipamiento para la producción de mezcal y envasado con marcas registradas, para que cumplan con los requerimientos exigidos por la NOM correspondiente que regula la producción del mezcal;
+III. Diseñar e implementar programas de capacitación, asesoría técnica y consultoría para impulsar la competitividad de la cadena productiva del mezcal;
+IV. Coordinar y dar seguimiento a las actividades de fomento y desarrollo de la cadena productiva del mezcal;
+V. Generar un padrón estatal de la cadena productiva del mezcal, sistematizando la información, para que sirva como instrumento de planeación y registro para dirigir la aplicación de los apoyos;
+VI. Impulsar la vinculación con las instituciones de educación superior y centros de investigación científica, para generar procesos de innovación y transferencia de tecnología con las actividades de conservación y producción del mezcal, así como su transformación y por cadenas de producción;
+VII. Celebrar convenios de concertación y suscripción de acuerdos con instituciones públicas y privadas para impulsar el desarrollo y fortalecimiento de la cadena productiva del mezcal; e
+VIII. Implementar acciones para la investigación y transferencia de tecnología en el cuidado del medio ambiente durante los procesos de la cadena productiva del mezcal, en coordinación con las instituciones públicas y privadas.

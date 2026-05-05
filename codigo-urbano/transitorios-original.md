@@ -3188,11 +3188,13 @@ ARTÍCULO 569.- En el caso de solicitudes de subdivisiones relativas a fraccione
 ARTÍCULO 570.- La autorización de las subdivisiones de predios rústicos, deberá apegarse a los siguientes criterios:
 (REFORMADA, P.O. 22 DE ENERO DE 2024)
 I.- En predios rústicos las fracciones resultantes serán como mínimo de 10,000.00 metros cuadrados, siempre que exista servidumbre o camino parcelario registrado ante la autoridad debidamente señalado e identificado en el título de propiedad o escritura respectiva. Si el predio no cuenta con un acceso, vialidad o servidumbre legal de paso, deberá presentar la constitución de la misma ante notario público y debidamente inscrita en el Instituto Registral y Catastral;
-II.- Por cada 5 hectáreas del predio objeto de la solicitud, se podrán subdividir hasta en 4 fracciones, considerando frentes no mínimos de 30 metros y servidumbres de paso con una sección no mínima de 12 metros.
+(REFORMADA, P.O. 4 DE MAYO DE 2026)
+II.- Por cada 5 hectáreas del predio objeto de la solicitud, se podrán subdividir hasta en 4 fracciones, considerando accesos mediante calle o servidumbre de paso legalmente constituida, con sección o anchura no menor a 12 metros, congruente con los instrumentos municipales de Desarrollo Urbano y Ordenamiento Territorial;
 (REFORMADA, P.O. 3 DE ABRIL DE 2023)
 III.- Para el caso de predios rústicos con superficie igual o menor a 12,500.00 metros cuadrados, en los que existan o se constituyan nuevas copropiedades, éstas quedarán bajo observación de la SEPLADE a fin de evitar asentamientos humanos irregulares;
 IV.- Sólo se permitirá la construcción relacionada con el uso o destino de suelo autorizado, con los coeficientes de ocupación y de utilización aprobados en los programas aplicables;
-V.- El porcentaje de construcción máxima para fines habitacionales no deberá ser mayor del 5% de la superficie de cada fracción, con una densidad máxima de una vivienda y 5% de servicios inherentes al uso de suelo autorizado por hectárea. Los frentes mínimos o accesos tendrán una dimensión no menor de 30 metros hacia una vía pública, camino o servidumbre constituida que en ningún caso se aceptará en una sección o anchura menor a 12 metros; y
+(REFORMADA, P.O. 4 DE MAYO DE 2026)
+V.- El porcentaje de construcción máxima para fines habitacionales no deberá ser mayor del 5% de la superficie de cada fracción, con una densidad máxima de una vivienda y 5% de servicios inherentes al uso de suelo autorizado por hectárea. Los accesos por camino o servidumbre constituida, en ningún caso se aceptará en una sección o anchura menor de 12 metros; y
 (REFORMADA, P.O. 22 DE ENERO DE 2024)
 VI.- Para efecto de que el Municipio autoricé la subdivisión, deberá solicitar a la SEPLADE la opinión correspondiente, quien dentro del plazo de 10 días hábiles deberá emitirla. En caso de no responder se entenderá que está de acuerdo con la misma.
 (REFORMADO, P.O. 22 DE ENERO DE 2024)
