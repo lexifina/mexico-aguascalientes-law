@@ -1,0 +1,5 @@
+P.O. 11 DE MAYO DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 475.- SE REFORMA LA LEY PARA LA PROTECCIÓN ESPECIAL DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- Las Dependencias y Entidades competentes deberán incorporar las disposiciones de este Decreto a sus programas y acciones dentro de los 180 días naturales siguientes a su entrada en vigor, utilizando los recursos humanos, materiales y financieros existentes, en coordinación con el Instituto de Salud del Estado de Aguascalientes, el Instituto Cultural de Aguascalientes y el Instituto del Deporte del Estado de Aguascalientes.
+ARTÍCULO TERCERO.- En caso de requerirse recursos adicionales para fortalecer los programas previstos en este Decreto, las Dependencias y Entidades competentes deberán preverlos en el proyecto de presupuesto del ejercicio fiscal subsecuente, conforme a la disponibilidad presupuestaria.
