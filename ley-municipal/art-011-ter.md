@@ -6,5 +6,3 @@ III. La igualdad sustantiva entre mujeres y hombres;
 IV. El respeto a la dignidad de las mujeres;
 V. El pluralismo social y la multiculturalidad de las mujeres; y
 VI. La perspectiva de género que permite incorporar a la mujer como sujeto social.
-CAPITULO CUARTO
-De la Creación de Municipios

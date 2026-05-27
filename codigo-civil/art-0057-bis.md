@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE MAYO DE 2026)
+Artículo 57 Bis.- Siendo el padre y/o la madre, menores de edad que se encuentren físicamente imposibilitados para acudir ante el Registro Civil, tanto los ascendentes maternos como los paternos podrán llevar a cabo el trámite del registro correspondiente del recién nacido exhibiendo los documentos señalados en el Reglamento del Registro Civil del Estado de Aguascalientes y acreditando fehacientemente el parentesco.
