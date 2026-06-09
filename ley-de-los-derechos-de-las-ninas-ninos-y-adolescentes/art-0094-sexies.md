@@ -1,6 +1,4 @@
-(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2025)
-Artículo 94 Sexies. Las madres, padres y quienes tengan a su cargo el cuidado de niñas, niños y adolescentes, instruirán el conocimiento y uso responsable de las tecnologías de la información y comunicación, y deberán velar para que los riesgos derivados del acceso a tal derecho, no afecten o impidan objetivamente su desarrollo integral, por lo que, en caso de que se vulneren sus derechos, ejercerán las acciones legales y medidas pertinentes para garantizar el interés superior de la niñez.
-TÍTULO TERCERO
-DE LAS OBLIGACIONES
-CAPÍTULO ÚNICO
-De Quienes Ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
+(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2026)
+Artículo 94 Sexies. Las madres, padres y quienes tengan a su cargo el cuidado de niñas, niños y adolescentes, instruirán el conocimiento y uso responsable de las tecnologías de la información y comunicación, promoviendo el uso de herramientas de control parental y configuración de privacidad, y deberán velar para que los riesgos derivados del acceso a tal derecho, no afecten o impidan objetivamente su desarrollo integral, por lo que, en caso de que se vulneren sus derechos, ejercerán las acciones legales y medidas pertinentes para garantizar el interés superior de la niñez.
+(ADICIONADO, P.O. 8 DE JUNIO DE 2026)
+Las autoridades estatales, en coordinación con el Sistema Local de Protección, diseñarán e implementarán campañas y guías informativas permanentes dirigidas a las familias para fortalecer el conocimiento y enseñanza de estas herramientas de protección digital.

@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 8 DE JUNIO DE 2026)
+Artículo 94 Septies. Las autoridades del Estado de Aguascalientes y sus Municipios, en el ámbito de sus respectivas competencias, establecerán políticas, programas y medidas de protección especial para garantizar el ejercicio pleno y seguro del entorno digital, mediante:
+I. El desarrollo e implementación de campañas y mecanismos para prevenir y combatir la intimidación, el engaño, la difusión de contenidos violentos o inadecuados, y cualquier otra forma de violencia digital que atente contra la integridad de niñas, niños y adolescentes.
+II. La promoción de la educación digital y la alfabetización mediática para inculcar el uso responsable y seguro de las redes sociales digitales, de conformidad con su edad y desarrollo evolutivo.
+III. La implementación de mecanismos efectivos para evitar la difusión, exposición o uso de imágenes, videos, audios, o datos personales a través de plataformas digitales, cuando dicha difusión no cuente con el consentimiento expreso e informado de quienes ejerzan la patria potestad o tutela.

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 8 DE JUNIO DE 2026)
+Artículo 94 Octies. Las niñas, niños y adolescentes que sean víctimas de actos de violencia digital cometidos en su contra, tienen derecho a recibir atención, investigación y persecución del delito por parte de las autoridades competentes en materia de procuración de justicia, garantizando una perspectiva de infancia, personal especializado y mecanismos de denuncia digital que sean accesibles, seguros y confidenciales.
