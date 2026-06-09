@@ -1,7 +1,8 @@
 (ADICIONADO, P.O. 2 DE FEBRERO DE 2015)
 Artículo 2º bis.- El ejercicio y desarrollo del derecho a la cultura física y el deporte tienen como base los siguientes principios:
 I. La cultura física y la práctica del deporte son un derecho fundamental para todos;
-II. La cultura física y la práctica del deporte constituyen un elemento esencial de la educación;
+(REFORMADA, P.O. 8 DE JUNIO DE 2026)
+II. La cultura física y la práctica del deporte constituyen un elemento esencial de la educación, y para ello, las niñas, niños y adolescentes serán considerados sujetos prioritarios en el ejercicio de este derecho, debiéndose garantizar condiciones de equidad, inclusión, protección y participación en todas las actividades, programas, instalaciones y políticas públicas relacionadas con el deporte y la cultura física;
 (REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)
 III. El derecho a la cultura física y al deporte constituyen un estímulo para el desarrollo afectivo, físico, intelectual y social de todos, además de ser un factor de equilibrio y autorrealización;
 (REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE SEPTIEMBRE DE 2024)
