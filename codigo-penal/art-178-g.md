@@ -4,6 +4,3 @@ El delito se considerará cometido en el lugar donde se realice total o parcialm
 Al responsable de Reclutamiento forzado se aplicarán de 3 a 6 años de prisión y de 25 a 100 días multa, así como el pago total de la reparación de daños y perjuicios ocasionados, independientemente de la sanción que corresponda a los delitos que lleguen a cometerse.
 Las penas previstas en el presente artículo se aumentarán hasta en una mitad de sus mínimos y máximos cuando el delito se cometa en contra de niñas, niños o adolescentes, o de personas que no tengan la capacidad para comprender el significado del hecho o que, por cualquier causa, no puedan resistir la conducta.
 El presente delito se investigará y perseguirá de oficio.
-(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2017)
-CAPÍTULO XII
-Tipos Penales Protectores de la Confidencialidad, la Intimidad de la Información y la Identidad de la Persona
