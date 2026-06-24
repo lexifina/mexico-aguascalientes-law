@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 23 DE JUNIO DE 2026)
+ARTÍCULO 11 BIS.- Para brindar una atención oportuna y acorde a las necesidades de las víctimas de los delitos en materia de trata de personas, se proporcionará al personal de policía, de procuración de justicia, de salud y de servicios sociales, capacitación en perspectiva de género, enfoque de derechos humanos, interculturalidad y atendiendo al interés superior de la niñez, que los sensibilice sobre dichas necesidades, así como directrices que garanticen que esta ayuda sea siempre especializada y oportuna.

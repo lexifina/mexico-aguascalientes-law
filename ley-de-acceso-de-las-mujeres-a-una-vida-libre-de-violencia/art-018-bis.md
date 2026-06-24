@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 11 DE MAYO DE 2026)
-Artículo 18 bis.- Toda acción u omisión que conlleve a la violación de los derechos humanos de las mujeres, niñas y adolescentes deberá ser investigada, sancionada y reparada con perspectiva de género conforme a la normatividad aplicable.
+(ADICIONADO [N. DE E. REFORMADO], P.O. 23 DE JUNIO DE 2026)
+Artículo 18 BIS.- Los modelos de atención, prevención y sanción son el conjunto de medidas y acciones para proteger a las víctimas de violencia familiar y violencia vicaria como parte de los deberes reforzados de protección a las mujeres, adolescentes, niñas y niños, considerando la perspectiva de género, respeto a los derechos humanos, interés superior de la niñez, la interseccionalidad, la interculturalidad y el enfoque diferenciado.

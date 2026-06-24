@@ -1,0 +1,3 @@
+P.O. 23 DE JUNIO DE 2026.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 523.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS".]
+ÚNICO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.

@@ -12,7 +12,8 @@ VII. Realizar estudios e investigaciones en materia de atención integral de las
 VIII. Evaluar las acciones y programas de atención a las personas adultas mayores, implementadas o desarrolladas por las distintas Dependencias, Entidades y de la Administración Pública Estatal, a efecto de proponer mejoras a los lineamientos y mecanismos para su efectiva ejecución;
 (REFORMADA, P.O. 15 DE ENERO DE 2024)
 IX. Difundir las convocatorias y programas de apoyo Federales, Estatales y Municipales para personas adultas mayores y orientarles para que reciban estos apoyos;
-X. Llevar a cabo un padrón de personas adultas mayores;
+(REFORMADA, P.O. 23 DE JUNIO DE 2026)
+X. Crear y mantener actualizado un registro estatal de personas adultas mayores;
 XI. Llevar registro, seguimiento, evolución y evaluación de los casos de personas adultas mayores en estado de abandono, maltrató físico, psicológico o sexual, explotación laboral, discriminación, pobreza extrema o demás circunstancias análogas;
 XII. Canalizar ante las autoridades competentes las quejas, denuncias e informes, sobre la violación de los derechos de las personas adultas mayores, así como orientar para su formulación;
 XIII. Coordinar la promoción y seguimiento de los programas de atención de las personas adultas mayores, fomentando la participación de organismos públicos y privados;
