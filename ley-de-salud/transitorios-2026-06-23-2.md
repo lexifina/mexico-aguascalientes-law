@@ -1,0 +1,5 @@
+P.O. 23 DE JUNIO DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 524.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES; Y, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR".]
+ARTÍCULO PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO.- A la entrada en vigor del presente Decreto, las autoridades competentes deberán realizar las adecuaciones presupuestarias necesarias para la operatividad de la presente reforma.
+ARTÍCULO TERCERO. La implementación y cumplimiento del presente Decreto deberá realizarse por las autoridades del Sistema Estatal de Salud con cargo al presupuesto previamente aprobado para el ejercicio fiscal correspondiente, de conformidad con su disponibilidad presupuestaria, sin que ello implique la autorización de recursos adicionales ni genere impacto presupuestal adicional al ya previsto, en concordancia con lo señalado en el Considerando Cuarto del presente Dictamen.

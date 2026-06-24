@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 23 DE JUNIO DE 2026)
+ARTICULO 51 BIS.- Las instituciones públicas del Sistema Estatal de Salud, en el ámbito de sus respectivas competencias y de conformidad con las disposiciones aplicables, por sí o en coordinación con las instituciones públicas del Sistema Nacional de Salud, realizarán las previsiones de gasto correspondientes para proporcionar los apoyos económicos y/o en especie, a familiares y/o personas que acompañen y cuiden a enfermos de cáncer durante sus tratamientos, previstos en la fracción XII del Artículo 7° de esta Ley.
