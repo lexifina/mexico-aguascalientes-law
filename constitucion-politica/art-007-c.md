@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 29 DE JUNIO DE 2026)
+Artículo 7o. C.- El Estado reconoce y garantiza el Derecho a la Ciudad Digna, como un derecho colectivo, que asegura a todas las personas el uso, acceso y disfrute pleno, equitativo, seguro, incluyente y sostenible del espacio urbano y rural, bajo los principios de justicia social, dignidad humana, democracia participativa, equidad territorial, respeto a la diversidad cultural, protección del medio ambiente y función social de la propiedad.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, promoverán la planeación, el ordenamiento territorial y la gestión urbana con enfoque de derechos humanos, desarrollo sostenible y dignidad, garantizando la participación efectiva de la ciudadanía en la formulación, ejecución, seguimiento y evaluación de las políticas públicas que incidan en el desarrollo de las ciudades y comunidades.
+(REFORMADO, P.O. 13 DE AGOSTO DE 1950)
+CAPITULO SEGUNDO
+De la forma de Gobierno.

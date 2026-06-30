@@ -6,6 +6,3 @@ Toda persona tiene derecho a un recurso sencillo, rápido y efectivo ante los ju
 Los tribunales y jueces deberán emitir sus resoluciones de manera pronta, completa e imparcial en un máximo de seis meses con las modalidades y excepciones que establezca la ley, salvo en los asuntos en materia penal, que atenderán a los plazos establecidos en la fracción VII, del apartado B, del artículo 20, (sic) la Constitución Política de los Estados Unidos Mexicanos.
 Si la resolución del asunto se excede de los plazos señalados en el párrafo anterior, el órgano jurisdiccional que conozca del asunto deberá dar aviso inmediato, con la justificación de las razones de dicha demora, al Tribunal de Disciplina Judicial de Aguascalientes o, en su caso, dar vista al órgano interno de control tratándose del Tribunal de Justicia Administrativa.
 Los servicios de administración de justicia serán gratuitos y, en consecuencia, las costas judiciales estarán prohibidas.
-(REFORMADO, P.O. 13 DE AGOSTO DE 1950)
-CAPITULO SEGUNDO
-De la forma de Gobierno.
