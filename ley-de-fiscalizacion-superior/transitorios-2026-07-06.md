@@ -1,0 +1,3 @@
+P.O. 6 DE JULIO DE 2026.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 540.- SE ADICIONA UN ARTÍCULO 3º BIS A LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes. El Órgano Superior de Fiscalización del Estado de Aguascalientes contará con un plazo de hasta ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto para emitir o adecuar las disposiciones, lineamientos y mecanismos necesarios para su cumplimiento.
