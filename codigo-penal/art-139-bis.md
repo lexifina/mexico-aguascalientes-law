@@ -1,4 +1,3 @@
-(DEROGADO ÚLTIMO PÁRRAFO, P.O. 15 DE ENERO DE 2024)
 (ADICIONADO, P.O. 3 DE JULIO DE 2023)
 ARTÍCULO 139 BIS.- Cobranza extrajudicial ilegal. La cobranza extrajudicial ilegal consiste en el uso de la violencia o intimidación mediante la cual hostiguen a la persona deudora o a cualquiera vinculada a esta, ya sea personalmente, o a través de cualquier medio, para requerir el pago de una deuda derivada de actividades reguladas en las leyes; con independencia de la persona tenedora de los derechos de cobro al momento de llevar a cabo la cobranza.
 A la persona responsable de cobranza extrajudicial ilegal se le aplicarán de 1 a 4 años de prisión y de 50 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
