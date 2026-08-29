@@ -1,0 +1,7 @@
+P.O. 28 DE AGOSTO DE 2026.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 567.- SE REFORMA LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2026".]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO.- Se otorga un plazo de treinta días naturales, contados a partir de la entrada en vigor del presente Decreto, para que el Ejecutivo del Estado realice las modificaciones necesarias al Reglamento del Padrón Vehicular del Estado de Aguascalientes.
+Asimismo, se otorga un plazo de hasta sesenta días naturales posteriores a la publicación de las referidas modificaciones reglamentarias, para que la Secretaría de Finanzas lleve a cabo las acciones conducentes en materia de capacitación y certificación de los servidores públicos que tendrán a su cargo la revisión de las condiciones físico-mecánicas de los vehículos clásicos o antiguos.
+ARTÍCULO TERCERO.- Se autoriza incorporar al presupuesto de egresos de la Agencia de Movilidad del Estado de Aguascalientes los ingresos propios que ésta perciba con motivo del presente Decreto y, en su caso, efectuar las adecuaciones presupuestarias que de ellos deriven, en términos de la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes.
+ARTÍCULO CUARTO.- Quedan sin efectos todas aquellas disposiciones que se opongan al presente Decreto.

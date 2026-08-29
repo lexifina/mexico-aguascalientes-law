@@ -1,5 +1,6 @@
 ARTÍCULO ÚNICO.- El Presente Decreto entrará en vigencia al día 1º de enero de 2026.
 [N. DE E. VÉASE ANEXOS EN EL P.O. DE 26 DE DICIEMBRE DE 2025, PÁGINAS DE LA 89 A LA 141.]
+[N. DE E. VÉASE REFORMA AL ANEXO I, P.O. 28 DE AGOSTO DE 2026 PÁGINAS DE LA 9 A LA 10.]
 Al Ejecutivo para su promulgación y publicación.
 Dado en el Salón de Sesiones "Soberana Convención Revolucionaria de Aguascalientes", a los dieciocho días del mes de diciembre del año dos mil veinticinco.
 Lo que tenemos el honor de comunicar a Usted, para los efectos Constitucionales conducentes.
