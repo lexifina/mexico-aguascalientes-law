@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2026)
+ARTÍCULO 26 BIS.- Para efectos del presente artículo, se entenderá por AgendaC la plataforma digital institucional mediante la cual la Secretaria del H. Ayuntamiento realizará las notificaciones, citaciones, comunicaciones oficiales y remisión de documentación a los integrantes del Ayuntamiento, relacionadas con las sesiones de Cabildo y sus Comisiones.
+Los integrantes del Honorable Ayuntamiento deberán registrar y mantener actualizados ante la Secretaría del H. Ayuntamiento los medios de contacto autorizados para la recepción de notificaciones y documentación relacionada con las sesiones de Cabildo.
+Las notificaciones, citaciones, comunicados oficiales y documentación remitida a través de AgendaC tendrán plena validez jurídica y surtirán sus efectos en la fecha y hora que consten en los registros electrónicos generados por dicha plataforma.
+Los integrantes del H. Ayuntamiento deberán consultar periódicamente la plataforma digital AgendaC. La falta de consulta de la información remitida no invalidará las notificaciones, citaciones o comunicaciones realizadas conforme al presente artículo.
