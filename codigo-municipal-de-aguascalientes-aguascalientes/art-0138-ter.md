@@ -1,13 +1,13 @@
 (REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)
 ARTÍCULO 138 TER.- El Consejo para la Igualdad sustantiva en materia Laboral tendrá como atribuciones las siguientes:
-(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)
-I. Implementar políticas sociales, laborales y culturales que justifiquen y alienten las relaciones humanas basadas en el respeto de los derechos humanos y sus garantías para su protección;
-(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)
-II. Establecer las políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales;
-(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)
-III. Fortalecer el marco laboral para asegurar la sanción a quienes hostigan y acosan;
-(REFORMADA, P.O. 20 DE JULIO DE 2015)
-IV. Promover y difundir entre las trabajadoras y trabajadores que el hostigamiento y el acoso sexual son conductas sancionadas por la ley, así como actos que discriminan a las personas y consecuentemente violan sus derechos humanos;
+(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2026)
+l. Implementar y ejecutar políticas sociales, laborales y culturales que justifiquen y alienten las relaciones humanas basadas en la promoción, respeto, protección y garantía de los derechos humanos, así como de la igualdad sustantiva entre hombres y mujeres;
+(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2026)
+II. Establecer y ejecutar las políticas públicas que garanticen el derecho de las mujeres a un entorno libre de violencias y con respeto pleno a sus derechos humanos en sus relaciones laborales;
+(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2026)
+III. Fortalecer y adecuar el marco laboral para asegurar un entorno libre de discriminación y violencias, así como la imposición de sanciones a quienes quede acreditado que hostigan y acosan;
+(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2026)
+IV. Promover, difundir y capacitar a las personas trabajadoras en materia de hostigamiento y el acoso sexual como conductas sancionadas por la ley, así como respecto de actos que discriminen y constituyen el ejercicio de violencias hacia las personas y que tienen como consecuencia la violación de sus derechos humanos;
 (REFORMADA, P.O. 20 DE JULIO DE 2015)
 V. Diseñar programas que atiendan el impacto de la violencia en las víctimas y de servicios reeducativos integrales para agresores y agresoras;
 (REFORMADA, P.O. 20 DE JULIO DE 2015)
