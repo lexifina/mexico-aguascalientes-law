@@ -1,0 +1,3 @@
+P.O. 12 DE OCTUBRE DE 2026.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 601.- SE REFORMA LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL ESTADO DE AGUASCALIENTES".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
