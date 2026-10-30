@@ -1,0 +1,1400 @@
+day,kind,law,acts,files,branch
+1917-09-10,start,constitucion-1917-09-09-11,constitucion-politica,75,main
+1919-06-28,law,decreto-1919-06-25-alcance-al-numero-25,constitucion-politica,5,main
+1926-01-18,law,decreto-1926-01-15-alcance-al-numero-2,constitucion-politica,2,main
+1926-05-05,law,decreto-1926-05-02-18,constitucion-politica,5,main
+1926-07-25,law,decreto-1926-07-22-alcance-al-numero-29,constitucion-politica,2,main
+1927-12-28,law,decreto-1927-12-25-52,constitucion-politica,4,main
+1928-06-13,law,decreto-1928-06-10-24,constitucion-politica,6,main
+1928-06-17,law,decreto-1928-06-17-25,constitucion-politica,3,main
+1929-03-24,law,decreto-1929-03-24-12,constitucion-politica,7,main
+1929-05-22,law,decreto-1929-05-19-20,constitucion-politica,55,main
+1929-08-21,law,decreto-1929-08-18-33,constitucion-politica,50,main
+1929-12-11,law,decreto-1929-12-08-49,constitucion-politica,18,main
+1929-12-11,law,decreto-1929-12-08-49-2,constitucion-politica,10,main
+1930-07-02,law,decreto-1930-06-29-26,constitucion-politica,10,main
+1935-09-04,law,decreto-1935-09-01-35,constitucion-politica,6,main
+1937-12-22,law,decreto-1937-12-19-51,constitucion-politica,5,main
+1943-12-17,law,decreto-1943-12-14-alcance-al-num-50,constitucion-politica,3,main
+1944-09-25,law,decreto-1944-09-22-alcance-al-num-38,constitucion-politica,3,main
+1944-09-25,law,decreto-1944-09-22-alcance-al-num-38-2,constitucion-politica,3,main
+1945-08-23,law,decreto-1945-08-20-alcance-al-num-33,constitucion-politica,4,main
+1947-08-06,law,decreto-1947-07-27-30,constitucion-politica,4,main
+1948-01-06,start,codigo-1947-12-07-49-suplemento,codigo-civil,2915,main
+1948-06-30,law,decreto-1948-06-20-25,constitucion-politica,3,main
+1948-08-04,law,decreto-1948-07-25-30,constitucion-politica,3,main
+1948-10-20,law,decreto-1948-10-17-42,codigo-civil,27,main
+1950-08-14,law,reforma-1950-08-13-suplemento-al-numero-33,constitucion-politica,97,main
+1953-02-04,law,decreto-1953-02-01-5,constitucion-politica,5,main
+1953-09-09,law,decreto-1953-09-06-36,constitucion-politica,4,main
+1954-05-26,law,decreto-1954-05-23-21,constitucion-politica,2,main
+1954-05-26,law,decreto-1954-05-23-21-2,constitucion-politica,2,main
+1956-11-14,law,decreto-1956-11-11-suplemento-al-num-46,constitucion-politica,2,main
+1957-09-11,law,decreto-1957-09-08-36,constitucion-politica,130,main
+1961-01-25,law,decreto-1961-01-22-4,codigo-civil,13,main
+1962-01-24,law,decreto-1962-01-21-3,codigo-civil,3,main
+1962-02-28,law,decreto-1962-02-25-8,constitucion-politica,132,main
+1964-08-23,law,decreto-1964-08-23-34,constitucion-politica,2,main
+1965-05-05,law,decreto-1965-05-02-18,constitucion-politica,2,main
+1968-09-23,law,decreto-1968-09-22-38,constitucion-politica,3,main
+1970-05-06,law,decreto-1970-05-03-18,codigo-civil,17,main
+1973-07-11,law,decreto-1973-07-08-27,constitucion-politica,14,main
+1974-02-24,start,ley-1974-02-24-suplemento-al-num-8,ley-organica-de-la-universidad-autonoma-de-aguascalientes,28,main
+1974-08-28,law,decreto-1974-08-25-34,constitucion-politica,6,main
+1974-11-13,law,decreto-1974-11-10-45,constitucion-politica,3,main
+1975-01-08,law,decreto-1975-01-05-1,constitucion-politica,14,main
+1975-01-08,law,decreto-1975-01-05-1-2,constitucion-politica,3,main
+1975-08-27,law,decreto-1975-08-24-34,codigo-civil,3,main
+1975-09-03,law,decreto-1975-08-31-35,constitucion-politica,15,main
+1975-11-05,law,decreto-1975-11-02-44,constitucion-politica,2,main
+1977-01-05,law,decreto-1977-01-02-1,ley-organica-de-la-universidad-autonoma-de-aguascalientes,3,main
+1977-04-17,law,decreto-1977-04-17-16,constitucion-politica,5,main
+1977-08-31,law,decreto-1977-08-28-35,codigo-civil,3,main
+1977-08-31,law,decreto-1977-08-28-35-2,codigo-civil,2,main
+1978-06-19,law,decreto-1978-06-18-25,constitucion-politica,13,main
+1979-10-29,law,decreto-1979-10-28-43,codigo-civil,5,main
+1979-11-05,law,decreto-1979-11-04-44,ley-organica-de-la-universidad-autonoma-de-aguascalientes,17,main
+1980-02-04,law,decreto-1980-02-03-5,constitucion-politica,4,main
+1980-06-02,start,ley-1980-06-01-22,ley-del-notariado,140,main
+1980-06-23,law,decreto-1980-06-22-25,ley-organica-de-la-universidad-autonoma-de-aguascalientes,2,main
+1980-09-14,law,decreto-1980-09-14-37,codigo-civil,6,main
+1982-01-01,start,codigo-1981-12-31-52-alcance-tercera-seccion,codigo-fiscal,275,main
+1982-01-01,law,decreto-1981-12-31-52-alcance-segunda-seccion,codigo-civil,106,main
+1982-01-13,law,decreto-1982-01-10-2,constitucion-politica,2,main
+1983-09-28,law,decreto-1983-09-25-39,constitucion-politica,2,main
+1983-10-12,law,decreto-1983-10-09-41,constitucion-politica,204,main
+1984-01-04,start,ley-1984-01-01-suplemento-al-num-1-seccion-i,ley-de-hacienda,40,main
+1984-02-01,law,decreto-1984-01-29-5,constitucion-politica,206,main
+1985-06-05,law,decreto-1985-06-02-22,constitucion-politica,2,main
+1985-06-05,law,decreto-1985-06-02-22-2,constitucion-politica,3,main
+1985-06-26,start,ley-1985-06-23-25,ley-que-crea-el-colegio-de-bachilleres,22,main
+1986-01-01,start,ley-1985-12-29-suplemento-al-no-52-secc-iii,ley-de-hacienda-del-municipio-de-aguascalientes-aguascalient,161,main
+1986-01-03,start,ley-1985-12-31-alcance-al-no-52-secc-iv,ley-de-hacienda-del-municipio-de-calvillo-aguascalientes,82,main
+1986-01-03,start,ley-1985-12-31-52-alcance-secc-x,ley-de-hacienda-del-municipio-de-pabellon-de-arteaga-aguasca,81,main
+1986-01-03,start,ley-1985-12-31-alcance-al-no-52-secc-xii,ley-de-hacienda-del-municipio-de-rincon-de-romos-aguascalien,82,main
+1986-01-03,start,ley-1985-12-31-alcance-al-no-52-secc-xiv,ley-de-hacienda-del-municipio-de-san-jose-de-gracia-aguascal,81,main
+1986-01-03,start,ley-1985-12-31-alcance-al-no-52-secc-xvi,ley-de-hacienda-del-municipio-de-tepezala-aguascalientes,82,main
+1987-07-22,law,decreto-1987-07-19-29,codigo-civil ley-del-notariado,22,main
+1987-11-30,law,decreto-1987-11-29-48,ley-del-notariado,4,main
+1988-03-21,start,ley-1988-03-20-suplemento-al-no-12-seccion-i,ley-para-el-control-de-las-entidades-paraestatales,53,main
+1988-08-10,law,decreto-1988-08-07-32,codigo-civil,7,main
+1988-08-17,law,decreto-1988-08-14-33,ley-de-hacienda-del-municipio-de-aguascalientes-aguascalient,32,main
+1989-03-29,law,decreto-1989-03-26-13,ley-para-el-control-de-las-entidades-paraestatales,3,main
+1989-04-10,start,ley-1989-04-09-suplemento-al-num-15,ley-de-estacionamientos-de-vehiculos-para-los-municipios,74,main
+1989-07-17,law,decreto-1989-07-16-29,constitucion-politica,5,main
+1989-09-14,start,codigo-1989-07-16-29-suplemento,codigo-de-procedimientos-civiles,893,main
+1990-03-14,law,decreto-1990-03-11-10,constitucion-politica,5,main
+1990-08-29,law,decreto-1990-08-26-suplemento-al-num-34,constitucion-politica,4,main
+1990-10-24,law,decreto-1990-10-21-42,ley-de-hacienda-del-municipio-de-aguascalientes-aguascalient,4,main
+1991-01-09,start,ley-1991-01-06-suplemento-al-num-1,ley-del-patronato-de-la-feria-nacional-de-san-marcos-aguasca,20,main
+1991-02-25,law,decreto-1991-02-24-8,constitucion-politica,8,main
+1991-02-27,law,decreto-1991-02-24-8,ley-de-hacienda-del-municipio-de-aguascalientes-aguascalient,22,main
+1991-03-06,law,decreto-1991-03-03-9,ley-de-hacienda-del-municipio-de-aguascalientes-aguascalient,11,main
+1991-08-14,law,decreto-1991-08-11-32,ley-de-hacienda-del-municipio-de-calvillo-aguascalientes ley-de-hacienda-del-municipio-de-pabellon-de-arteaga-aguasca ley-de-hacienda-del-municipio-de-rincon-de-romos-aguascalien ley-de-hacienda-del-municipio-de-san-jose-de-gracia-aguascal,92,main
+1991-08-14,law,ley-1991-08-11-32,ley-de-hacienda-del-municipio-de-tepezala-aguascalientes,23,main
+1991-10-16,law,decreto-1991-10-13-41,constitucion-politica,5,main
+1992-03-04,law,decreto-1992-03-01-9,constitucion-politica,4,main
+1992-12-14,law,decreto-1992-12-13-50,constitucion-politica,6,main
+1992-12-16,law,decreto-1992-12-13-50,codigo-de-procedimientos-civiles ley-de-hacienda ley-del-notariado ley-para-el-control-de-las-entidades-paraestatales,36,main
+1993-06-07,law,decreto-1993-06-06-23,constitucion-politica,3,main
+1993-10-25,law,decreto-1993-10-24-43,ley-de-hacienda-del-municipio-de-aguascalientes-aguascalient,3,main
+1994-02-21,law,decreto-1994-02-20-8,constitucion-politica,3,main
+1994-06-13,law,decreto-1994-06-12-24-primera-seccion,ley-de-hacienda-del-municipio-de-calvillo-aguascalientes,3,main
+1994-07-04,start,ley-1994-07-03-suplemento-al-no-27-secc-ii,ley-de-hacienda-del-municipio-de-el-llano-aguascalientes,80,main
+1994-07-04,start,ley-1994-07-03-27-suplemento-primera-seccion,ley-del-colegio-de-estudios-cientificos-y-tecnologicos,27,main
+1994-07-04,law,decreto-1994-07-03-27,ley-de-hacienda-del-municipio-de-pabellon-de-arteaga-aguasca,4,main
+1994-07-25,law,decreto-1994-07-24-suplemento-al-num-30,constitucion-politica,32,main
+1994-10-24,law,decreto-1994-10-23-suplemento-al-no-43,ley-de-hacienda-del-municipio-de-aguascalientes-aguascalient,2,main
+1994-10-24,law,decreto-1994-10-23-suplemento-al-numero-43,constitucion-politica,20,main
+1994-10-31,start,ley-1994-10-30-44-seccion-primera,ley-del-instituto-de-capacitacion-para-el-trabajo,30,main
+1994-11-07,law,decreto-1994-11-06-45,ley-de-hacienda-del-municipio-de-rincon-de-romos-aguascalien,4,main
+1994-11-14,law,decreto-1994-11-13-46,ley-de-hacienda-del-municipio-de-aguascalientes-aguascalient,2,main
+1995-01-16,law,decreto-1995-01-15-3-primera-seccion,constitucion-politica,11,main
+1995-03-27,law,decreto-1995-03-26-suplemento-al-numero-13,constitucion-politica,13,main
+1995-04-03,law,decreto-1995-04-02-14-segunda-seccion,codigo-de-procedimientos-civiles,13,main
+1995-05-08,law,reforma-1995-05-07-suplemento-al-no-19,ley-de-hacienda-del-municipio-de-aguascalientes-aguascalient,4,main
+1995-05-08,law,decreto-1995-05-07-19-suplemento,codigo-de-procedimientos-civiles,2,main
+1995-05-15,start,ley-1995-05-14-20-primera-seccion,ley-para-prevenir-y-sancionar-la-tortura-en-el-estado-de-agu,14,main
+1995-05-15,law,decreto-1995-05-14-20-primera-seccion,codigo-civil codigo-de-procedimientos-civiles,16,main
+1995-06-05,law,decreto-1995-06-04-23-primera-seccion,ley-de-hacienda-del-municipio-de-aguascalientes-aguascalient ley-de-hacienda-del-municipio-de-calvillo-aguascalientes ley-de-hacienda-del-municipio-de-el-llano-aguascalientes ley-de-hacienda-del-municipio-de-pabellon-de-arteaga-aguasca ley-de-hacienda-del-municipio-de-rincon-de-romos-aguascalien ley-de-hacienda-del-municipio-de-san-jose-de-gracia-aguascal ley-de-hacienda-del-municipio-de-tepezala-aguascalientes,42,main
+1995-07-03,law,decreto-1995-07-02-27,ley-de-hacienda-del-municipio-de-aguascalientes-aguascalient,4,main
+1995-07-19,start,ley-1995-07-16-suplemento-al-no-29,ley-de-hacienda-del-municipio-de-san-francisco-de-los-romo-a,135,main
+1995-08-21,law,decreto-1995-08-20-34,constitucion-politica,4,main
+1995-09-27,law,decreto-1995-09-27-alcance-al-num-39,constitucion-politica,7,main
+1995-10-09,law,decreto-1995-10-08-41,codigo-civil,17,main
+1995-11-27,law,decreto-1995-11-26-48-primera-seccion,constitucion-politica,12,main
+1996-01-01,law,valor-es-1995-12-31-suplemento-al-no-53-seccion-v,ley-de-hacienda,15,main
+1996-01-24,law,decreto-1996-01-21-3,ley-de-hacienda-del-municipio-de-pabellon-de-arteaga-aguasca,3,main
+1996-11-04,start,ley-1996-11-03-44-primera-seccion,ley-de-coordinacion-fiscal,30,main
+1997-01-01,law,decreto-1996-12-29-52,ley-de-hacienda,19,main
+1997-02-23,law,decreto-1997-02-22-alcance-al-num-7,constitucion-politica,9,main
+1997-03-24,law,decreto-1997-03-23-12-primera-seccion,constitucion-politica codigo-civil,10,main
+1997-11-03,law,decreto-1997-11-02-44-primera-seccion,codigo-de-procedimientos-civiles ley-de-hacienda-del-municipio-de-aguascalientes-aguascalient ley-organica-de-la-universidad-autonoma-de-aguascalientes,67,main
+1998-08-18,law,decreto-1998-08-17-alcance-al-num-33,ley-organica-de-la-universidad-autonoma-de-aguascalientes,4,main
+1998-08-24,law,decreto-1998-08-23-34-primera-seccion,constitucion-politica codigo-civil,5,main
+1998-08-24,law,decreto-1998-08-23-34-primera-seccion-2,codigo-civil,18,main
+1998-08-31,law,decreto-1998-08-30-35-suplemento,codigo-civil,8,main
+1999-01-04,law,decreto-1999-01-03-1,ley-del-patronato-de-la-feria-nacional-de-san-marcos-aguasca,9,main
+1999-02-15,start,ley-1999-02-14-suplemento-al-7-segunda-secc,ley-del-procedimiento-administrativo,103,main
+1999-02-15,law,decreto-1999-02-14-7-primera-seccion,ley-de-hacienda,11,main
+1999-05-31,start,ley-1999-05-30-22-primera-seccion,ley-que-crea-el-colegio-de-educacion-profesional-tecnica,26,main
+1999-06-07,start,ley-1999-06-06-23-primera-seccion,ley-de-salud,314,main
+1999-07-12,start,ley-1999-07-11-28-primera-seccion,ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo,38,main
+1999-09-22,law,decreto-1999-09-19-38-primera-seccion,constitucion-politica,8,main
+1999-09-24,start,ley-1999-09-19-38-primera-seccion,ley-del-procedimiento-contencioso-administrativo,81,main
+1999-09-24,law,decreto-1999-09-19-38-primera-seccion,codigo-fiscal,50,main
+2000-02-15,start,ley-2000-02-14-7-primera-seccion,ley-de-proteccion-ambiental,188,main
+2000-02-22,law,decreto-2000-02-21-8-primera-seccion,ley-de-hacienda,84,main
+2000-02-29,law,decreto-2000-02-28-9,constitucion-politica,6,main
+2000-03-07,start,ley-2000-03-06-10,ley-organica-del-instituto-estatal-de-seguridad-publica,28,main
+2000-03-07,law,decreto-2000-03-06-10,codigo-civil codigo-de-procedimientos-civiles,79,main
+2000-03-07,law,decreto-2000-03-06-10-2,codigo-civil,28,main
+2000-04-11,start,ley-2000-04-10-15-primera-seccion,ley-del-sistema-estatal-de-asistencia-social-y-de-integracio,169,main
+2000-05-14,start,ley-2000-02-14-7-primera-seccion,ley-de-integracion-social-y-productiva-de-personas-con-disca,80,main
+2000-06-27,start,ley-2000-06-26-26-segunda-seccion,ley-de-la-universidad-tecnologica-del-norte-de-aguascaliente,31,main
+2000-07-19,law,decreto-2000-06-19-25-primera-seccion,codigo-de-procedimientos-civiles,19,main
+2000-07-25,start,ley-2000-07-24-30-primera-seccion,ley-de-agua,137,main
+2000-10-24,law,decreto-2000-10-23-43-primera-seccion,constitucion-politica,13,main
+2000-10-24,law,decreto-2000-10-23-43-primera-seccion-2,constitucion-politica,3,main
+2000-12-29,law,decreto-2000-12-28-2-extraordinario-seccion-iii,ley-de-hacienda,38,main
+2001-02-27,start,ley-2001-02-12-7-segunda-seccion,ley-de-informacion-estadistica-y-geografica,49,main
+2001-09-30,start,ley-2001-07-02-27,ley-de-proteccion-y-fomento-del-patrimonio-cultural,105,main
+2001-11-01,law,decreto-2001-03-12-11,constitucion-politica,3,main
+2001-11-01,law,decreto-2001-08-27-35,constitucion-politica,2,main
+2001-11-01,law,decreto-2001-10-29-44-segunda-seccion,constitucion-politica,16,main
+2001-11-06,start,ley-2001-11-05-45-primera-seccion,ley-de-proteccion-a-los-animales,89,main
+2001-11-06,law,decreto-2001-11-05-45-primera-seccion,codigo-civil codigo-de-procedimientos-civiles,28,main
+2001-11-20,start,ley-2001-11-19-47-segunda-seccion,ley-que-crea-el-instituto-aguascalentense-de-las-mujeres-agu,41,main
+2001-12-31,law,decreto-2001-12-30-10-extraordinario,ley-de-hacienda,28,main
+2002-01-01,law,decreto-2001-11-26-48-segunda-seccion,ley-de-informacion-estadistica-y-geografica ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo,38,main
+2002-01-01,law,ley-2001-11-26-48-segunda-seccion,ley-de-salud,6,main
+2002-01-11,start,ley-2001-11-12-46-segunda-seccion,ley-del-servicio-civil-de-carrera,37,main
+2002-04-25,law,decreto-2002-04-22-16,ley-para-el-control-de-las-entidades-paraestatales,9,main
+2002-11-12,law,decreto-2002-11-11-45,constitucion-politica,10,main
+2003-01-01,law,decreto-2002-12-31-7-extraordinario,ley-de-hacienda,29,main
+2003-02-11,law,decreto-2003-02-10-6,ley-que-crea-el-instituto-aguascalentense-de-las-mujeres-agu,10,main
+2003-03-04,law,constitucion-2003-03-03-9,constitucion-politica,4,main
+2003-03-18,start,ley-2003-03-17-11-segunda-seccion,ley-del-instituto-de-asesoria-y-defensoria-publica,44,main
+2003-03-18,law,decreto-2003-03-17-11-segunda-seccion,constitucion-politica,10,main
+2003-03-18,law,constitucion-2003-03-17-11-segunda-seccion,constitucion-politica,7,main
+2003-04-29,law,decreto-2003-04-28-17,constitucion-politica,3,main
+2003-06-25,start,ley-2003-05-26-21,ley-de-seguridad-privada,49,main
+2003-08-01,start,ley-2003-03-10-10-primera-seccion,ley-de-la-procuraduria-estatal-de-proteccion-al-ambiente,39,main
+2003-08-26,law,decreto-2003-08-25-34-primera-seccion,ley-de-la-procuraduria-estatal-de-proteccion-al-ambiente,2,main
+2003-10-07,start,ley-2003-10-06-40,ley-municipal,183,main
+2003-10-28,law,decreto-2003-10-27-43-primera-seccion,ley-de-agua,4,main
+2003-12-16,law,decreto-2003-12-15-50-primera-seccion,ley-de-proteccion-ambiental,7,main
+2003-12-31,law,decreto-2003-07-21-29-segunda-seccion,constitucion-politica,2,main
+2004-01-01,law,decreto-2003-07-21-29-segunda-seccion-2,constitucion-politica,2,main
+2004-01-01,law,ley-2003-12-31-9-tercera-seccion-extra,ley-de-hacienda,86,main
+2004-01-01,law,decreto-2003-08-25-34-primera-seccion,constitucion-politica,7,main
+2004-01-01,law,decreto-2003-09-29-39-segunda-seccion,constitucion-politica,8,main
+2004-01-09,law,decreto-2003-11-10-45,ley-de-proteccion-a-los-animales,44,main
+2004-02-13,law,decreto-2004-02-12-4-extraordinario,codigo-civil codigo-de-procedimientos-civiles codigo-fiscal ley-de-seguridad-privada,41,main
+2004-03-02,law,decreto-2004-03-01-9-primera-seccion,ley-organica-del-instituto-estatal-de-seguridad-publica,24,main
+2004-06-22,law,decreto-2004-06-21-25-primera-seccion,codigo-civil,4,main
+2004-06-22,law,decreto-2004-06-21-25-primera-seccion-2,codigo-civil,3,main
+2004-07-01,law,decreto-2004-06-28-26-primera-seccion,ley-del-procedimiento-administrativo,15,main
+2004-07-20,law,decreto-2004-07-19-29,ley-de-la-universidad-tecnologica-del-norte-de-aguascaliente,3,main
+2004-09-14,law,decreto-2004-09-13-37-primera-seccion,codigo-civil ley-de-agua,32,main
+2004-12-28,start,ley-2004-12-27-52-primera-seccion,ley-de-mediacion-y-conciliacion,35,main
+2004-12-28,law,decreto-2004-12-27-52-primera-seccion,ley-de-salud,68,main
+2005-01-01,law,decreto-2004-09-27-39-primera-seccion,ley-de-coordinacion-fiscal,5,main
+2005-01-01,law,decreto-2004-12-31-19-primera-seccion,ley-de-hacienda,14,main
+2005-03-22,law,decreto-2005-03-21-12,constitucion-politica,3,main
+2005-04-05,law,decreto-2005-04-04-14,constitucion-politica,7,main
+2005-04-12,law,decreto-2005-04-11-15,ley-de-proteccion-ambiental,57,main
+2005-04-19,start,,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,1768,main
+2005-06-07,law,decreto-2005-06-06-23-primera-seccion,ley-municipal,3,main
+2005-06-28,law,decreto-2005-06-27-26,ley-municipal,2,main
+2005-08-02,law,decreto-2005-08-01-31,ley-de-la-procuraduria-estatal-de-proteccion-al-ambiente ley-de-proteccion-ambiental,7,main
+2005-08-09,law,decreto-2005-08-08-32,codigo-fiscal ley-de-hacienda ley-de-informacion-estadistica-y-geografica ley-de-proteccion-a-los-animales ley-de-proteccion-y-fomento-del-patrimonio-cultural ley-de-seguridad-privada ley-del-notariado ley-del-servicio-civil-de-carrera ley-organica-del-instituto-estatal-de-seguridad-publica ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo ley-que-crea-el-instituto-aguascalentense-de-las-mujeres-agu,123,main
+2005-08-09,law,designacion-2005-08-08-32,ley-de-salud,4,main
+2005-08-30,start,ley-2005-08-29-35-segunda-seccion,ley-del-periodico-oficial,27,main
+2005-10-18,law,acuerdo-s-2005-10-17-42-primera-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,33,main
+2005-11-22,law,acuerdo-s-2005-11-21-47,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,23,main
+2005-12-13,law,decreto-2005-12-12-50-primera-seccion,codigo-civil,37,main
+2005-12-13,law,decreto-2005-12-12-50-primera-seccion-2,codigo-civil,5,main
+2006-01-01,law,ley-2005-12-31-9-primera-seccion-extra,ley-de-hacienda,29,main
+2006-03-16,law,decreto-2006-03-15-5-extraordinario,codigo-de-procedimientos-civiles,6,main
+2006-04-11,law,decreto-2006-04-10-15-primera-seccion,codigo-civil ley-del-procedimiento-contencioso-administrativo,48,main
+2006-04-25,law,acuerdo-s-2006-04-24-17-segunda-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,2057,main
+2006-07-20,law,decreto-2006-07-17-29,ley-de-salud,2,main
+2006-09-12,start,ley-2006-09-11-37,ley-de-fomento-para-el-desarrollo-forestal-sustentable,122,main
+2006-09-12,law,decreto-2006-09-11-37-segunda-seccion,ley-del-instituto-de-asesoria-y-defensoria-publica,6,main
+2006-12-12,law,decreto-2006-12-11-50,codigo-de-procedimientos-civiles,3,main
+2006-12-19,law,decreto-2006-12-18-51,ley-de-hacienda-del-municipio-de-san-jose-de-gracia-aguascal,2,main
+2006-12-29,law,decreto-2006-12-28-15-cuarta-seccion-extra,ley-para-el-control-de-las-entidades-paraestatales,2,main
+2006-12-29,law,decreto-2006-12-28-15-extraordinario,ley-de-hacienda,2,main
+2007-01-01,law,decreto-2006-12-31-16-decima-seccion,ley-de-hacienda-del-municipio-de-rincon-de-romos-aguascalien ley-de-hacienda-del-municipio-de-san-francisco-de-los-romo-a ley-de-hacienda-del-municipio-de-tepezala-aguascalientes,48,main
+2007-01-01,law,decreto-2006-12-31-16-extraordinario-decima-secci,ley-de-hacienda-del-municipio-de-pabellon-de-arteaga-aguasca,17,main
+2007-01-01,law,decreto-2006-12-31-16-primera-seccion,ley-de-hacienda,3,main
+2007-01-23,start,ley-2007-01-22-4-primera-seccion,ley-de-cultura-fisica-y-deporte,150,main
+2007-02-13,start,codigo-2007-02-12-7-segunda-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,1981,main
+2007-02-13,law,decreto-2007-02-12-7-primera-seccion,ley-de-agua,7,main
+2007-02-20,law,acuerdo-s-2007-02-19-8-segunda-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,44,main
+2007-04-17,start,ley-2007-04-16-16-primera-seccion,ley-de-expropiacion,53,main
+2007-04-17,start,ley-2007-04-16-16-primera-seccion,ley-de-turismo,97,main
+2007-04-17,law,decreto-2007-04-16-16-primera-seccion,codigo-civil codigo-de-procedimientos-civiles ley-del-notariado,47,main
+2007-05-01,law,acuerdo-s-2007-04-30-18,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,3,main
+2007-05-03,law,modificacion-es-2007-04-30-18,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,18,main
+2007-05-29,law,decreto-2007-05-28-22,constitucion-politica,8,main
+2007-06-05,law,acuerdo-s-2007-06-04-23-primera-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,3,main
+2007-06-19,law,acuerdo-s-2007-06-18-25-primera-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,13,main
+2007-07-10,law,decreto-2007-07-09-28-primera-seccion,ley-del-colegio-de-estudios-cientificos-y-tecnologicos,5,main
+2007-07-24,law,decreto-2007-07-23-30-primera-seccion,ley-de-cultura-fisica-y-deporte ley-de-proteccion-ambiental,7,main
+2007-07-31,law,decreto-2007-07-30-31-primera-seccion,ley-del-notariado,3,main
+2007-10-16,law,acuerdo-s-2007-10-15-42-segunda-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,51,main
+2007-11-13,start,codigo-2007-11-12-46-segunda-seccion,codigo-municipal-de-aguascalientes-aguascalientes,1612,main
+2007-11-20,law,decreto-2007-11-19-47-primera-seccion,codigo-civil codigo-de-procedimientos-civiles,110,main
+2007-11-20,law,decreto-2007-11-19-47-primera-seccion-2,codigo-civil,5,main
+2007-11-27,start,ley-2007-11-26-48-primera-seccion,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,81,main
+2007-11-27,start,ley-2007-11-26-48-primera-seccion,ley-de-premios-que-otorga-el-congreso,22,main
+2007-11-27,law,decreto-2007-11-26-48-primera-seccion,ley-municipal,2,main
+2007-12-25,law,decreto-2007-12-24-52,ley-organica-de-la-universidad-autonoma-de-aguascalientes,2,main
+2007-12-31,law,decreto-2007-12-24-52,ley-de-coordinacion-fiscal,5,main
+2008-01-01,law,decreto-2007-12-31-53-primera-seccion,ley-de-hacienda,16,main
+2008-02-12,law,decreto-2008-02-11-6-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,5,main
+2008-02-19,law,decreto-2008-02-18-7-primera-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes ley-de-proteccion-ambiental ley-municipal,10,main
+2008-03-04,law,decreto-2008-03-03-9,codigo-municipal-de-aguascalientes-aguascalientes,4,main
+2008-03-04,law,decreto-2008-03-03-9-2,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2008-03-04,law,decreto-2008-03-03-9-3,codigo-municipal-de-aguascalientes-aguascalientes,6,main
+2008-03-11,law,decreto-2008-03-10-10-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,23,main
+2008-03-25,law,decreto-2008-03-24-12,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,5,main
+2008-04-15,law,decreto-2008-04-14-15-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,10,main
+2008-05-13,law,decreto-2008-05-12-19-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2008-05-13,law,decreto-2008-05-12-19-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2008-06-04,law,decreto-2008-06-03-8-extraordinario,ley-de-hacienda-del-municipio-de-aguascalientes-aguascalient,2,main
+2008-06-17,law,decreto-2008-06-16-24-primera-seccion,ley-de-agua,2,main
+2008-07-01,law,decreto-2008-06-30-26,ley-de-hacienda ley-de-integracion-social-y-productiva-de-personas-con-disca,5,main
+2008-07-08,law,decreto-2008-07-07-27-segunda-seccion,codigo-municipal-de-aguascalientes-aguascalientes,18,main
+2008-07-16,law,decreto-2008-06-16-24-primera-seccion,ley-de-salud,3,main
+2008-07-22,law,decreto-2008-07-21-29-segunda-seccion,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2008-07-22,law,decreto-2008-07-21-29-segunda-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2008-07-29,law,decreto-2008-07-28-30-primera-seccion,codigo-de-procedimientos-civiles ley-de-hacienda-del-municipio-de-san-francisco-de-los-romo-a,4,main
+2008-08-12,law,decreto-2008-08-11-32-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2008-08-19,law,decreto-2008-08-18-33,ley-de-la-procuraduria-estatal-de-proteccion-al-ambiente ley-de-premios-que-otorga-el-congreso ley-de-proteccion-ambiental ley-municipal,40,main
+2008-08-26,law,reglamento-2008-08-25-34-primera-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,70,main
+2008-09-09,law,decreto-2008-09-08-36,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2008-10-28,law,decreto-2008-10-27-43,ley-de-mediacion-y-conciliacion,14,main
+2008-11-04,law,decreto-2008-11-03-44-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2008-11-04,law,decreto-2008-11-03-44-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,23,main
+2008-11-16,law,decreto-2008-11-03-44-primera-seccion-3,codigo-municipal-de-aguascalientes-aguascalientes,12,main
+2008-11-18,law,decreto-2008-11-17-46-edicion-vespertina,constitucion-politica,4,main
+2008-11-26,law,decreto-2008-10-27-43,codigo-civil,5,main
+2008-11-26,law,decreto-2008-10-27-43-2,codigo-civil,2,main
+2008-12-09,law,decreto-2008-12-08-49-edicion-vespertina,constitucion-politica,7,main
+2008-12-23,law,decreto-2008-12-22-51-primera-seccion,ley-de-hacienda-del-municipio-de-san-jose-de-gracia-aguascal,17,main
+2009-01-01,start,ley-2008-09-08-36,ley-de-desarrollo-social,86,main
+2009-01-01,law,decreto-2008-12-31-11-primera-seccion,ley-de-hacienda,25,main
+2009-01-08,law,decreto-2009-01-05-1,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2009-01-13,law,reglamento-2009-01-12-2,codigo-municipal-de-aguascalientes-aguascalientes,24,main
+2009-01-27,law,decreto-2009-01-26-4-primera-seccion,constitucion-politica,4,main
+2009-02-03,law,decreto-2009-02-02-5-primera-seccion,ley-de-hacienda,3,main
+2009-02-10,law,decreto-2009-02-09-6-primera-seccion,ley-de-hacienda-del-municipio-de-aguascalientes-aguascalient ley-de-hacienda-del-municipio-de-san-francisco-de-los-romo-a ley-de-proteccion-ambiental,8,main
+2009-02-24,law,decreto-2009-02-23-8-primera-seccion,codigo-de-procedimientos-civiles codigo-municipal-de-aguascalientes-aguascalientes ley-de-proteccion-a-los-animales ley-de-proteccion-ambiental,54,main
+2009-03-31,law,decreto-2009-03-30-13-primera-seccion,ley-de-salud,2,main
+2009-04-07,start,ley-2009-04-06-14-primera-seccion,ley-de-voluntad-anticipada,50,main
+2009-04-07,law,decreto-2009-04-06-14-primera-seccion,codigo-civil,2,main
+2009-04-28,law,decreto-2009-04-27-17-primera-seccion,ley-del-sistema-estatal-de-asistencia-social-y-de-integracio,6,main
+2009-05-26,law,decreto-2009-05-25-21-primera-seccion,constitucion-politica,5,main
+2009-05-26,law,decreto-2009-05-25-21-primera-seccion-2,constitucion-politica,4,main
+2009-06-02,law,decreto-2009-06-01-22-primera-seccion,codigo-fiscal ley-de-hacienda-del-municipio-de-aguascalientes-aguascalient ley-de-hacienda-del-municipio-de-calvillo-aguascalientes ley-de-hacienda-del-municipio-de-el-llano-aguascalientes ley-de-hacienda-del-municipio-de-pabellon-de-arteaga-aguasca ley-de-hacienda-del-municipio-de-rincon-de-romos-aguascalien ley-de-hacienda-del-municipio-de-san-jose-de-gracia-aguascal ley-de-hacienda-del-municipio-de-tepezala-aguascalientes,18,main
+2009-06-05,law,decreto-2009-04-06-14-primera-seccion,ley-del-procedimiento-administrativo ley-del-procedimiento-contencioso-administrativo,8,main
+2009-06-09,law,decreto-2009-06-08-23-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2009-06-20,law,decreto-2009-06-19-11-extraordinario,constitucion-politica,6,main
+2009-06-23,start,ley-2009-06-22-25-primera-seccion,ley-de-video-vigilancia,49,main
+2009-07-14,start,ley-2009-07-13-28-primera-seccion,ley-para-la-proteccion-especial-de-las-personas-adultas-mayo,66,main
+2009-07-14,law,decreto-2009-07-13-28-primera-seccion,constitucion-politica codigo-civil codigo-municipal-de-aguascalientes-aguascalientes codigo-municipal-de-san-francisco-de-los-romo-aguascalientes ley-de-salud,47,main
+2009-07-14,law,decreto-2009-07-13-28-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2009-07-28,law,decreto-2009-07-27-30,codigo-municipal-de-aguascalientes-aguascalientes,4,main
+2009-08-11,law,decreto-2009-08-10-32-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,11,main
+2009-08-20,law,decreto-2009-08-17-33-segunda-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,29,main
+2009-08-25,law,decreto-2009-08-24-34-primera-seccion,ley-de-seguridad-privada,7,main
+2009-09-08,law,decreto-2009-09-07-36-primera-seccion,ley-del-procedimiento-contencioso-administrativo,16,main
+2009-09-15,law,decreto-2009-08-31-35,ley-de-salud,3,main
+2009-09-15,law,decreto-2009-09-14-37,codigo-civil,4,main
+2009-09-24,law,decreto-2009-09-21-38-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2009-09-24,law,reglamento-2009-09-21-38-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,5,main
+2009-09-24,law,decreto-2009-09-21-38-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2009-10-27,law,decreto-2009-10-26-43,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2009-11-03,law,decreto-2009-11-02-44-cuarta-seccion,codigo-civil ley-de-salud,7,main
+2009-11-17,law,decreto-2009-11-16-46,codigo-municipal-de-aguascalientes-aguascalientes,19,main
+2009-11-24,law,decreto-2009-11-23-47,codigo-civil codigo-de-procedimientos-civiles,21,main
+2009-12-15,start,codigo-2009-12-14-50-segunda-seccion,codigo-municipal-de-san-jose-de-gracia-aguascalientes,1468,main
+2010-01-01,law,decreto-2009-12-14-50-primera-seccion,ley-de-salud,8,main
+2010-01-01,law,decreto-2009-12-31-23-primera-seccion-extra,ley-de-coordinacion-fiscal ley-de-hacienda,6,main
+2010-01-12,law,decreto-2010-01-11-2-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,5,main
+2010-01-14,law,decreto-2010-01-11-2-seccion-primera,codigo-municipal-de-aguascalientes-aguascalientes,5,main
+2010-01-26,start,ley-2010-01-25-4-primera-seccion,ley-de-hacienda-del-municipio-de-jesus-maria-aguascalientes,264,main
+2010-01-26,law,decreto-2010-01-25-4-primera-seccion,codigo-civil ley-de-cultura-fisica-y-deporte,33,main
+2010-02-16,law,decreto-2010-02-15-7-primera-secion,ley-de-la-universidad-tecnologica-del-norte-de-aguascaliente,4,main
+2010-02-23,law,decreto-2010-02-22-8-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2010-03-09,law,decreto-2010-03-08-10-edicion-vespertina,ley-de-hacienda-del-municipio-de-aguascalientes-aguascalient,3,main
+2010-03-11,law,decreto-2010-03-08-10-edicion-vespertina,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2010-03-23,start,codigo-2010-03-22-12-tercera-seccion,codigo-municipal-de-tepezala-aguascalientes,1518,main
+2010-04-06,law,decreto-2010-04-05-14-primera-seccion,codigo-civil codigo-de-procedimientos-civiles,11,main
+2010-04-30,law,decreto-2010-03-01-9-primera-seccion,ley-de-salud,5,main
+2010-05-25,law,decreto-2010-05-24-21,codigo-municipal-de-aguascalientes-aguascalientes codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,35,main
+2010-05-25,law,decreto-2010-05-24-21-2,codigo-municipal-de-aguascalientes-aguascalientes,4,main
+2010-05-25,law,decreto-2010-05-24-21-edicion-vespertina,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2010-06-22,law,decreto-2010-06-21-25-primera-seccion,constitucion-politica,13,main
+2010-06-29,law,decreto-2010-06-28-26-primera-seccion,ley-de-turismo,6,main
+2010-07-13,law,decreto-2010-07-12-28-primera-seccion,ley-del-sistema-estatal-de-asistencia-social-y-de-integracio ley-municipal,12,main
+2010-07-20,law,decreto-2010-07-19-29-primera-seccion,ley-de-cultura-fisica-y-deporte ley-de-desarrollo-social ley-municipal ley-para-el-control-de-las-entidades-paraestatales,18,main
+2010-08-03,law,decreto-2010-08-02-31-primera-seccion,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,8,main
+2010-08-24,law,decreto-2010-08-23-34-primera-seccion,ley-de-hacienda-del-municipio-de-calvillo-aguascalientes ley-de-hacienda-del-municipio-de-el-llano-aguascalientes ley-de-hacienda-del-municipio-de-jesus-maria-aguascalientes ley-de-hacienda-del-municipio-de-pabellon-de-arteaga-aguasca ley-de-hacienda-del-municipio-de-rincon-de-romos-aguascalien ley-de-hacienda-del-municipio-de-san-francisco-de-los-romo-a ley-de-hacienda-del-municipio-de-san-jose-de-gracia-aguascal ley-de-hacienda-del-municipio-de-tepezala-aguascalientes ley-para-la-proteccion-especial-de-las-personas-adultas-mayo,38,main
+2010-08-31,law,decreto-2010-08-30-35-segunda-seccion,codigo-municipal-de-aguascalientes-aguascalientes codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,81,main
+2010-09-07,law,decreto-2010-09-06-36-edicion-vespertina,codigo-municipal-de-aguascalientes-aguascalientes,7,main
+2010-09-21,law,decreto-2010-09-20-38,ley-del-notariado,14,main
+2010-10-12,law,decreto-2010-10-11-41-primera-seccion,ley-municipal,4,main
+2010-10-26,start,ley-2010-10-25-43-primera-seccion,ley-de-cultura,87,main
+2010-10-26,law,decreto-2010-10-25-43-primera-seccion,ley-de-proteccion-ambiental,227,main
+2010-12-01,start,ley-2010-11-15-46-primera-seccion,ley-de-fomento-a-las-organizaciones-de-la-sociedad-civil,68,main
+2010-12-01,law,decreto-2010-11-15-46-primera-seccion,ley-de-integracion-social-y-productiva-de-personas-con-disca ley-del-sistema-estatal-de-asistencia-social-y-de-integracio,4,main
+2010-12-12,law,reforma-2010-12-09-6-extraordinario,codigo-municipal-de-aguascalientes-aguascalientes,33,main
+2010-12-29,law,ley-2010-12-28-7-ext-ed-vespertina,ley-de-salud,16,main
+2011-01-01,start,ley-2010-05-10-19,ley-de-responsabilidad-patrimonial,42,main
+2011-01-01,law,decreto-2010-05-10-19,codigo-civil ley-del-procedimiento-contencioso-administrativo,9,main
+2011-01-01,law,decreto-2010-07-26-30-primera-seccion,constitucion-politica,9,main
+2011-01-01,law,decreto-2010-06-28-26-primera-seccion,codigo-civil,6,main
+2011-01-01,law,decreto-2010-11-15-46-primera-seccion,ley-del-procedimiento-contencioso-administrativo,28,main
+2011-01-01,law,decreto-2010-11-29-48-primera-seccion,constitucion-politica,4,main
+2011-01-01,law,decreto-2010-08-23-34-primera-seccion,codigo-civil,11,main
+2011-01-01,law,decreto-2010-12-28-7-ext-ed-vespertina,constitucion-politica,22,main
+2011-01-01,law,decreto-2010-09-20-38,codigo-civil,23,main
+2011-01-18,start,codigo-2011-01-17-3-tercera-seccion,codigo-municipal-del-municipio-de-el-llano,1888,main
+2011-01-18,law,decreto-2011-01-17-3-edicion-vespetina,constitucion-politica,7,main
+2011-01-18,law,decreto-2011-01-17-3-edicion-vespertina,constitucion-politica,2,main
+2011-01-18,law,decreto-2011-01-17-3-edicion-verpertina,constitucion-politica,4,main
+2011-01-18,law,decreto-2011-01-17-3-edicion-vespertina-2,constitucion-politica,6,main
+2011-01-29,start,ley-2010-08-02-31-primera-seccion,ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient,149,main
+2011-02-03,law,decreto-2011-01-31-5-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,17,main
+2011-02-15,law,reforma-2011-02-14-7-edicion-vespertina,codigo-municipal-de-aguascalientes-aguascalientes,123,main
+2011-02-24,law,reforma-2011-02-21-8,codigo-municipal-de-aguascalientes-aguascalientes,5,main
+2011-03-01,start,ley-2011-02-28-9-edicion-vespertina,ley-del-instituto-de-vivienda-social-y-ordenamiento-de-la-pr,57,main
+2011-03-23,law,decreto-2011-03-22-7-extraordinario,ley-de-la-procuraduria-estatal-de-proteccion-al-ambiente,2,main
+2011-05-25,law,decreto-2011-05-24-9-extraordinario,ley-para-el-control-de-las-entidades-paraestatales,18,main
+2011-06-14,start,ley-2011-06-13-24-primera-seccion,ley-del-instituto-de-servicios-de-salud,44,main
+2011-06-14,law,decreto-2011-06-13-24-primera-seccion,ley-de-salud,14,main
+2011-06-18,start,ley-2011-06-17-12-extraordinario,ley-de-ejecucion-de-sanciones-penales,207,main
+2011-06-18,law,decreto-2011-06-17-12-extraordinario,ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient ley-organica-del-instituto-estatal-de-seguridad-publica,8,main
+2011-07-05,law,decreto-2011-07-04-27-primera-seccion,ley-de-fomento-para-el-desarrollo-forestal-sustentable ley-de-proteccion-ambiental,120,main
+2011-08-09,law,acuerdo-s-2011-08-08-32-segunda-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,75,main
+2011-08-09,law,decreto-2011-08-08-32-primera-seccion,codigo-civil ley-de-proteccion-a-los-animales ley-de-salud,70,main
+2011-08-11,law,reforma-2011-08-08-32-segunda-seccion,codigo-municipal-de-tepezala-aguascalientes,54,main
+2011-08-11,law,reforma-2011-08-08-32-edicion-vespertina,codigo-municipal-de-aguascalientes-aguascalientes,127,main
+2011-09-07,law,decreto-2011-08-08-32-primera-seccion,codigo-de-procedimientos-civiles,15,main
+2011-09-13,law,decreto-2011-09-12-37-primera-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,37,main
+2011-10-06,law,decreto-2011-10-03-40-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,20,main
+2011-10-18,law,decreto-2011-10-17-42-edicion-vespertina,ley-de-expropiacion ley-de-hacienda ley-del-instituto-de-vivienda-social-y-ordenamiento-de-la-pr ley-del-procedimiento-administrativo ley-del-procedimiento-contencioso-administrativo ley-para-el-control-de-las-entidades-paraestatales,76,main
+2011-10-31,law,fe-de-erratas-2011-10-31-44-primera-seccion,ley-de-hacienda ley-del-instituto-de-vivienda-social-y-ordenamiento-de-la-pr ley-para-el-control-de-las-entidades-paraestatales,3,main
+2011-11-01,law,decreto-2011-10-31-44-primera-seccion,constitucion-politica,4,main
+2011-11-01,law,decreto-2011-10-31-44-primera-seccion-2,constitucion-politica,8,main
+2011-11-22,start,ley-2011-11-21-47-primera-seccion,ley-de-fiscalizacion-superior,132,main
+2011-12-06,law,decreto-2011-12-05-49-primera-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,107,main
+2011-12-13,law,reforma-2011-12-12-50-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,4,main
+2012-01-01,law,decreto-2011-12-12-50-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,33,main
+2012-01-03,law,decreto-2012-01-02-1,ley-de-fiscalizacion-superior,132,main
+2012-01-10,law,reforma-2012-01-09-2,codigo-municipal-de-aguascalientes-aguascalientes,48,main
+2012-02-23,law,reforma-2012-02-20-8-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,92,main
+2012-02-28,law,decreto-2012-02-27-9-primera-secion,constitucion-politica,3,main
+2012-03-06,law,decreto-2012-03-05-10-primera-seccion,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-cultura-fisica-y-deporte ley-de-hacienda-del-municipio-de-san-francisco-de-los-romo-a ley-de-salud,77,main
+2012-03-06,law,decreto-2012-03-05-10-primera-seccion-2,ley-de-salud,2,main
+2012-03-13,law,decreto-2012-03-12-11-primera-seccion,ley-de-salud,31,main
+2012-03-15,law,decreto-2012-03-12-11-primera-seccion,ley-de-premios-que-otorga-el-congreso,7,main
+2012-04-03,law,decreto-2012-04-02-14-primera-seccion,codigo-civil codigo-de-procedimientos-civiles,62,main
+2012-04-10,law,reforma-2012-04-09-15-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,12,main
+2012-04-24,start,ley-2012-04-23-17-primera-seccion,ley-para-prevenir-y-erradicar-la-discriminacion,25,main
+2012-06-26,law,decreto-2012-06-25-26,constitucion-politica,18,main
+2012-08-21,law,decreto-2012-08-20-34,ley-de-fomento-a-las-organizaciones-de-la-sociedad-civil,39,main
+2012-08-28,law,decreto-2012-08-27-35-edicion-vespertina,codigo-fiscal ley-de-expropiacion ley-de-fiscalizacion-superior ley-de-hacienda-del-municipio-de-jesus-maria-aguascalientes ley-de-la-procuraduria-estatal-de-proteccion-al-ambiente ley-de-responsabilidad-patrimonial ley-del-procedimiento-contencioso-administrativo,235,main
+2012-09-13,law,reforma-2012-09-10-37-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,16,main
+2012-09-13,law,reforma-2012-09-10-37-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,4,main
+2012-10-11,law,modificacion-es-2012-10-08-41-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,25,main
+2012-10-29,law,fe-de-erratas-2012-10-29-44-primera-seccion,codigo-civil codigo-de-procedimientos-civiles codigo-fiscal ley-de-seguridad-privada,8,main
+2012-11-05,law,fe-de-erratas-2012-11-05-45,codigo-de-procedimientos-civiles ley-de-seguridad-privada,2,main
+2012-12-25,law,decreto-2012-12-24-52-primera-seccion,ley-de-proteccion-ambiental ley-de-salud,14,main
+2013-01-01,start,ley-2012-12-31-53-tercera-seccion,ley-de-hacienda-del-municipio-de-asientos-aguascalientes,164,main
+2013-01-01,law,decreto-2012-12-31-53-primera-seccion,ley-de-hacienda,37,main
+2013-02-12,law,decreto-2013-02-11-6-primera-seccion,codigo-fiscal ley-de-expropiacion ley-de-fiscalizacion-superior ley-de-hacienda-del-municipio-de-jesus-maria-aguascalientes ley-de-la-procuraduria-estatal-de-proteccion-al-ambiente ley-de-responsabilidad-patrimonial ley-del-procedimiento-contencioso-administrativo,118,main
+2013-02-19,law,decreto-2013-02-18-7-primera-parte,ley-de-agua,6,main
+2013-02-21,law,reforma-2013-02-18-7-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,13,main
+2013-02-26,law,decreto-2013-02-25-8-primera-seccion,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,3,main
+2013-03-07,law,reforma-2013-03-04-9-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,98,main
+2013-03-26,law,decreto-2013-03-25-12-primera-seccion,ley-de-premios-que-otorga-el-congreso ley-del-instituto-de-asesoria-y-defensoria-publica ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient,40,main
+2013-03-28,law,decreto-2013-03-25-12-primera-seccion,ley-de-mediacion-y-conciliacion,22,main
+2013-05-07,law,decreto-2013-05-06-18,constitucion-politica,11,main
+2013-06-11,start,ley-2013-06-10-23-primera-seccion,ley-de-la-comision-de-derechos-humanos,105,main
+2013-07-09,start,ley-2013-07-08-27-primera-seccion,ley-de-proteccion-civil,162,main
+2013-07-09,start,ley-2013-07-08-27-primera-seccion,ley-organica-de-la-universidad-tecnologica-de-calvillo,35,main
+2013-07-19,start,codigo-2013-05-20-20-segunda-seccion,codigo-penal,210,main
+2013-07-19,law,decreto-2013-05-20-20-seccion-segunda,codigo-de-procedimientos-civiles ley-para-prevenir-y-sancionar-la-tortura-en-el-estado-de-agu,13,main
+2013-07-19,law,decreto-2013-05-20-20-segunda-parte,ley-de-ejecucion-de-sanciones-penales,25,main
+2013-07-19,law,decreto-2013-05-20-20-segunda-seccion,codigo-fiscal ley-para-prevenir-y-erradicar-la-discriminacion,7,main
+2013-07-30,law,decreto-2013-07-29-30-primera-seccion,constitucion-politica,3,main
+2013-08-15,law,reforma-2013-08-12-32-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2013-08-27,law,reglamento-2013-08-26-34-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,17,main
+2013-09-02,law,fe-de-erratas-2013-09-02-35-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,5,main
+2013-09-17,law,decreto-2013-09-16-37-primera-seccion,constitucion-politica,2,main
+2013-09-24,start,ley-2013-09-23-38-cuarta-seccion,ley-de-catastro,113,main
+2013-09-24,law,decreto-2013-09-23-38-cuarta-seccion,codigo-civil,44,main
+2013-09-24,law,decreto-2013-09-23-38-edicion-vespertina,ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient,5,main
+2013-11-12,start,ley-2013-11-11-45-edicion-vespertina,ley-de-asociaciones-publico-privadas-y-proyectos-de-prestaci,80,main
+2013-11-12,law,decreto-2013-11-11-45-edicion-vespertina,constitucion-politica codigo-de-procedimientos-civiles codigo-fiscal codigo-penal ley-de-ejecucion-de-sanciones-penales ley-del-instituto-de-asesoria-y-defensoria-publica ley-del-procedimiento-administrativo ley-para-prevenir-y-erradicar-la-discriminacion ley-para-prevenir-y-sancionar-la-tortura-en-el-estado-de-agu,48,main
+2013-11-12,law,ley-2013-11-11-45-edicion-vespertina,ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo,3,main
+2013-11-12,law,decreto-2013-11-11-45-edicion-vespertina-2,constitucion-politica codigo-de-procedimientos-civiles,27,main
+2013-11-21,law,decreto-2013-11-20-21-extraordinario,ley-de-agua ley-municipal,21,main
+2013-11-21,law,decreto-2013-11-20-21-extraordinario-2,ley-municipal,14,main
+2013-11-23,law,decreto-2013-11-20-21-extraordinario,ley-del-instituto-de-asesoria-y-defensoria-publica,26,main
+2013-11-26,start,codigo-2013-11-25-47-segunda-seccion,codigo-municipal-de-calvillo-aguascalientes,2549,main
+2013-12-06,law,decreto-2013-12-05-24-extraordinario,constitucion-politica,2,main
+2014-01-01,law,decreto-2013-12-31-28-extraordinario-segunda-seccion,ley-de-hacienda-del-municipio-de-asientos-aguascalientes,3,main
+2014-01-01,law,decreto-2013-12-31-28-extraordianario-primera-seccion,ley-de-coordinacion-fiscal,3,main
+2014-01-01,law,decreto-2013-12-31-28-extraordinario-primera-seccion,codigo-fiscal ley-de-hacienda,89,main
+2014-01-02,law,reforma-2013-12-30-52,codigo-municipal-de-aguascalientes-aguascalientes,8,main
+2014-01-14,law,acuerdo-s-2014-01-13-2-quinta-seccion,codigo-municipal-de-aguascalientes-aguascalientes,57,main
+2014-01-20,law,fe-de-erratas-2014-01-20-3-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,4,main
+2014-02-18,start,ley-2014-02-17-7-primera-seccion,ley-para-prevenir-atender-y-erradicar-la-violencia-escolar-e,47,main
+2014-02-20,law,decreto-2014-02-19-6-extraordinario,codigo-civil codigo-penal,3204,main
+2014-02-25,law,decreto-2014-02-24-8-primera-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,4,main
+2014-04-22,law,decreto-2014-04-21-16-primera-seccion,codigo-municipal-de-calvillo-aguascalientes,35,main
+2014-05-20,law,decreto-2014-05-19-20-primera-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,6,main
+2014-07-01,law,decreto-2014-06-30-26-primera-seccion,ley-de-cultura-fisica-y-deporte,3,main
+2014-07-15,law,reforma-2014-07-14-28-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,11,main
+2014-07-29,law,modificacion-es-2014-07-28-30-primera-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,5,main
+2014-07-29,law,decreto-2014-07-28-30-edicion-vespertina,constitucion-politica codigo-penal,33,main
+2014-07-29,law,decreto-2014-07-28-30-primera-seccion,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-desarrollo-social ley-para-prevenir-atender-y-erradicar-la-violencia-escolar-e,9,main
+2014-08-05,law,reforma-2014-08-04-31-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2014-08-28,law,reforma-2014-08-25-34-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,5,main
+2014-09-30,law,decreto-2014-09-29-39-edicion-vespertina,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-proteccion-y-fomento-del-patrimonio-cultural ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient ley-municipal,24,main
+2014-10-07,law,modificacion-es-2014-10-06-40-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,67,main
+2014-10-14,law,decreto-2014-10-13-41-primera-seccion,codigo-municipal-de-calvillo-aguascalientes,3,main
+2014-10-30,law,reforma-2014-10-27-43-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,5,main
+2014-10-30,law,reforma-2014-10-27-43-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2014-11-04,law,decreto-2014-11-03-44-primera-seccion,codigo-municipal-de-calvillo-aguascalientes,11,main
+2014-11-11,law,decreto-2014-11-10-45-primera-seccion,constitucion-politica,8,main
+2014-11-18,law,reforma-2014-11-17-46-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2014-11-20,law,reforma-2014-11-17-46-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,16,main
+2014-12-02,law,decreto-2014-12-01-48-primera-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,11,main
+2015-01-01,start,ley-2014-12-31-17-primera-seccion,ley-de-presupuesto-gasto-publico-y-responsabilidad-hacendari,83,main
+2015-01-01,law,decreto-2014-12-31-17-primera-seccion,codigo-fiscal ley-de-coordinacion-fiscal ley-de-hacienda ley-del-procedimiento-administrativo,233,main
+2015-01-03,law,reforma-2014-12-31-17-decima-sexta-seccion,codigo-municipal-de-aguascalientes-aguascalientes,19,main
+2015-01-13,law,reforma-2015-01-12-2-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,7,main
+2015-01-20,law,acuerdo-s-2015-01-19-3-primera-seccion,codigo-municipal-de-calvillo-aguascalientes,9,main
+2015-01-20,law,decreto-2015-01-19-3-primera-seccion,codigo-municipal-de-calvillo-aguascalientes,8,main
+2015-01-31,start,ley-2015-01-30-6-extraordinario,ley-de-prevencion-social-de-la-violencia-y-la-delincuencia-c,49,main
+2015-02-03,law,decreto-2015-02-02-5-edicion-vespertina,codigo-civil codigo-penal ley-de-cultura-fisica-y-deporte ley-de-ejecucion-de-sanciones-penales,3323,main
+2015-02-17,law,decreto-2015-02-16-7-primera-seccion,codigo-municipal-de-san-jose-de-gracia-aguascalientes,52,main
+2015-03-03,start,codigo-2015-03-02-9-tercera-seccion,codigo-electoral,414,main
+2015-03-12,law,reforma-2015-03-09-10-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2015-03-17,start,ley-2015-03-16-11-primera-seccion,ley-de-justicia-indigena,19,main
+2015-03-17,law,decreto-2015-03-16-11-primera-seccion,codigo-civil codigo-municipal-de-aguascalientes-aguascalientes ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-proteccion-a-los-animales,27,main
+2015-03-17,law,decreto-2015-03-16-11-primera-seccion-2,codigo-civil,2,main
+2015-03-17,law,decreto-2015-03-16-11-primera-seccion-3,codigo-civil,2,main
+2015-03-24,start,ley-2015-03-23-12-edicion-vespertina,ley-de-adquisiciones-arrendamientos-y-servicios,120,main
+2015-03-24,law,decreto-2015-03-23-12-edicion-vespertina,codigo-de-procedimientos-civiles codigo-penal ley-de-fiscalizacion-superior ley-que-crea-el-colegio-de-educacion-profesional-tecnica,100,main
+2015-04-07,start,ley-2015-04-06-14-primera-seccion,ley-de-cambio-climatico,56,main
+2015-04-15,start,ley-2015-03-16-11-primera-seccion,ley-para-la-proteccion-de-las-personas-que-intervienen-en-el,27,main
+2015-04-16,law,reforma-2015-04-13-15-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,8,main
+2015-04-16,law,reforma-2015-04-13-15-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,8,main
+2015-04-21,law,decreto-2015-04-20-16-primera-seccion,constitucion-politica,2,main
+2015-05-26,law,decreto-2015-05-25-21-primera-seccion,codigo-civil ley-de-hacienda ley-para-prevenir-atender-y-erradicar-la-violencia-escolar-e,13,main
+2015-06-04,start,ley-2015-06-03-16-extraordinario,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,150,main
+2015-06-09,law,decreto-2015-06-08-23-primera-seccion,codigo-penal ley-de-la-comision-de-derechos-humanos ley-municipal,26,main
+2015-06-16,law,decreto-2015-06-15-24-primera-seccion,codigo-civil codigo-de-procedimientos-civiles ley-de-cultura ley-de-cultura-fisica-y-deporte ley-de-desarrollo-social ley-de-fomento-a-las-organizaciones-de-la-sociedad-civil ley-de-integracion-social-y-productiva-de-personas-con-disca ley-de-premios-que-otorga-el-congreso ley-para-la-proteccion-especial-de-las-personas-adultas-mayo ley-que-crea-el-instituto-aguascalentense-de-las-mujeres-agu,37,main
+2015-06-23,law,decreto-2015-06-22-25-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2015-06-25,law,decreto-2015-06-22-25-primera-seccion,codigo-civil codigo-de-procedimientos-civiles,53,main
+2015-07-07,law,decreto-2015-07-06-27-primera-seccion,ley-de-agua,12,main
+2015-07-14,law,decreto-2015-07-13-28-primera-seccion,ley-para-la-proteccion-de-las-personas-que-intervienen-en-el,5,main
+2015-07-21,law,reforma-2015-07-20-29-tercera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,74,main
+2015-07-28,law,decreto-2015-07-27-30-primera-seccion,codigo-civil ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-cultura-fisica-y-deporte ley-de-fiscalizacion-superior ley-de-responsabilidad-patrimonial ley-de-seguridad-privada ley-de-video-vigilancia ley-del-notariado ley-del-sistema-estatal-de-asistencia-social-y-de-integracio ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient ley-municipal ley-organica-del-instituto-estatal-de-seguridad-publica ley-para-la-proteccion-especial-de-las-personas-adultas-mayo ley-que-crea-el-instituto-aguascalentense-de-las-mujeres-agu,72,main
+2015-07-28,law,decreto-2015-07-27-30-primera-seccion-2,codigo-civil,8,main
+2015-08-04,law,decreto-2015-08-03-31-edicion-vespertina,ley-del-instituto-de-asesoria-y-defensoria-publica,10,main
+2015-08-04,law,decreto-2015-08-03-31-primera-seccion,ley-de-salud,11,main
+2015-08-06,law,decreto-2015-08-03-31-primera-seccion,codigo-civil,2,main
+2015-08-11,law,reforma-2015-08-10-32-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,8,main
+2015-08-11,law,reforma-2015-08-10-32-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,5,main
+2015-08-13,law,reforma-2015-08-10-32-primera-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,9,main
+2015-08-27,law,decreto-2015-07-13-28-primera-seccion,codigo-de-procedimientos-civiles,3,main
+2015-08-27,law,decreto-2015-07-27-30-primera-seccion,codigo-de-procedimientos-civiles,7,main
+2015-08-27,law,decreto-2015-08-03-31-primera-seccion,codigo-de-procedimientos-civiles,4,main
+2015-09-15,law,reforma-2015-09-14-37-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,20,main
+2015-09-15,law,adicion-2015-09-14-37-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2015-09-15,law,reforma-2015-09-14-37-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2015-09-15,law,reforma-2015-09-14-37-primera-seccion-3,codigo-municipal-de-aguascalientes-aguascalientes,18,main
+2015-09-15,law,reforma-2015-09-14-37-primera-seccion-4,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2015-10-08,law,reforma-2015-10-05-40-primera-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,2,main
+2015-10-13,law,reforma-2015-10-12-41-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2015-10-23,start,ley-2015-10-22-20-extraordinario,ley-que-crea-el-instituto-de-infraestructura-fisica-educativ,34,main
+2015-10-23,law,decreto-2015-10-22-20-extraordinario,ley-de-salud,22,main
+2015-10-27,law,reforma-2015-10-26-43-primera-seccion,codigo-municipal-de-calvillo-aguascalientes,13,main
+2015-11-24,law,decreto-2015-11-23-47-primera-seccion,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,3,main
+2015-12-29,law,decreto-2015-12-28-52-primera-seccion,codigo-civil,4,main
+2016-01-01,law,decreto-2015-12-31-26-extraordinario-primera-seccion,codigo-fiscal ley-de-hacienda ley-de-presupuesto-gasto-publico-y-responsabilidad-hacendari,19,main
+2016-01-03,start,ley-2015-12-31-26-extraordinario-primera-seccion,ley-para-la-administracion-y-enajenacion-de-bienes-del-secto,63,main
+2016-01-26,law,decreto-2016-01-25-4-primera-seccion,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-salud ley-del-sistema-estatal-de-asistencia-social-y-de-integracio ley-municipal,30,main
+2016-01-28,law,decreto-2016-01-25-4-primera-seccion,ley-de-proteccion-a-los-animales,6,main
+2016-02-16,law,decreto-2016-02-15-7-primera-seccion,ley-de-la-universidad-tecnologica-del-norte-de-aguascaliente,11,main
+2016-02-23,law,decreto-2016-02-22-8-primera-seccion,codigo-civil ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-proteccion-ambiental ley-para-prevenir-y-sancionar-la-tortura-en-el-estado-de-agu,100,main
+2016-02-23,law,decreto-2016-02-22-8-primera-seccion-2,codigo-civil ley-de-proteccion-ambiental,22,main
+2016-03-08,law,decreto-2016-03-07-10-primera-seccion,ley-de-estacionamientos-de-vehiculos-para-los-municipios ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,7,main
+2016-03-22,law,decreto-2016-03-21-12-primera-seccion,ley-de-cultura-fisica-y-deporte,12,main
+2016-03-22,law,decreto-2016-03-21-12-primera-seccion-2,ley-de-cultura-fisica-y-deporte,3,main
+2016-04-05,start,decreto-2016-04-04-14-primera-seccion,ley-de-la-juventud,19,main
+2016-04-05,start,decreto-2016-04-04-14-primera-seccion,ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-de,74,main
+2016-05-24,law,decreto-2016-05-23-21-primera-seccion,ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient,47,main
+2016-06-03,law,decreto-2016-04-04-14-primera-seccion,ley-municipal,2,main
+2016-06-07,law,decreto-2016-06-06-23-primera-seccion,codigo-de-procedimientos-civiles ley-de-adquisiciones-arrendamientos-y-servicios ley-de-desarrollo-social ley-de-proteccion-civil ley-de-salud ley-para-prevenir-y-sancionar-la-tortura-en-el-estado-de-agu,24,main
+2016-07-05,law,decreto-2016-07-04-27-primera-seccion,ley-de-salud,2,main
+2016-07-12,law,decreto-2016-07-11-28-primera-seccion,codigo-electoral,3,main
+2016-07-12,law,decreto-2016-07-11-28-primera-seccion-2,codigo-electoral,2,main
+2016-07-19,law,decreto-2016-07-18-29-edicion-vespertina,ley-del-instituto-de-servicios-de-salud,5,main
+2016-08-01,law,reforma-2015-11-16-46-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2016-08-01,law,reforma-2016-01-04-1-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2016-08-01,law,reforma-2016-01-04-1-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2016-08-01,law,adicion-2016-01-04-1-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2016-08-01,law,reforma-2016-04-11-15-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,89,main
+2016-08-01,law,reforma-2016-04-11-15-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,5,main
+2016-08-01,law,reforma-2016-04-11-15-primera-seccion-3,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2016-08-01,law,reforma-2016-04-11-15-primera-seccion-4,codigo-municipal-de-aguascalientes-aguascalientes,5,main
+2016-08-09,law,decreto-2016-08-08-32-primera-seccion,codigo-civil codigo-penal ley-de-cultura ley-de-salud ley-municipal,44,main
+2016-08-23,law,decreto-2016-08-22-34-primera-seccion,codigo-civil codigo-de-procedimientos-civiles codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-salud,15,main
+2016-08-23,law,decreto-2016-08-22-34-primera-seccion-2,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,3,main
+2016-09-06,law,decreto-2016-09-05-36-primera-seccion,codigo-civil,2,main
+2016-09-13,law,acuerdo-s-2016-09-12-37-tercera-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,168,main
+2016-09-13,law,decreto-2016-09-12-37-tercera-seccion,codigo-municipal-de-calvillo-aguascalientes,3,main
+2016-09-22,law,modificacion-es-2016-09-19-38-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,23,main
+2016-10-04,law,reforma-2016-10-03-40-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,16,main
+2016-10-27,law,reforma-2016-10-24-43-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,6,main
+2016-11-08,start,ley-2016-11-07-45-primera-seccion,ley-de-instituciones-asistenciales-para-ninas-ninos-y-adoles,51,main
+2016-11-08,law,decreto-2016-11-07-45-primera-seccion,codigo-civil codigo-de-procedimientos-civiles codigo-penal ley-del-instituto-de-servicios-de-salud,46,main
+2016-11-08,law,decreto-2016-11-07-45-primera-seccion-2,codigo-civil codigo-penal,6,main
+2016-11-08,law,decreto-2016-11-07-45-primera-seccion-3,codigo-civil codigo-penal,13,main
+2016-11-10,law,decreto-2016-11-07-45-primera-seccion-2,codigo-de-procedimientos-civiles,2,main
+2016-12-13,law,decreto-2016-12-12-50-primera-seccion,ley-municipal,4,main
+2016-12-27,law,reforma-2016-12-26-52-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,4,main
+2017-01-01,law,decreto-2015-04-20-16-primera-seccion-2,constitucion-politica,2,main
+2017-01-01,law,decreto-2016-08-22-34-primera-seccion,ley-de-la-procuraduria-estatal-de-proteccion-al-ambiente ley-de-proteccion-a-los-animales,54,main
+2017-01-01,law,decreto-2015-06-22-25-primera-seccion,constitucion-politica,2,main
+2017-01-01,law,decreto-2015-07-06-27-primera-seccion,constitucion-politica,4,main
+2017-01-01,law,decreto-2015-08-17-33-edicion-vespertina,constitucion-politica,12,main
+2017-01-01,law,decreto-2016-03-14-11-primera-seccion,constitucion-politica,2,main
+2017-01-01,law,decreto-2016-05-23-21-primera-seccion,constitucion-politica,3,main
+2017-01-01,law,decreto-2016-08-08-32-primera-seccion,constitucion-politica,2,main
+2017-01-12,law,reforma-2017-01-09-2-tercera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,19,main
+2017-01-17,law,decreto-2017-01-16-3-primera-seccion,ley-de-proteccion-ambiental,2,main
+2017-01-24,law,acuerdo-s-2017-01-23-4-primera-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,12,main
+2017-01-31,start,ley-2017-01-30-5-primera-seccion,ley-para-prevenir-y-erradicar-la-trata-de-personas-en-el-est,56,main
+2017-02-05,law,decreto-2016-11-07-45-primera-seccion,ley-de-integracion-social-y-productiva-de-personas-con-disca,14,main
+2017-02-14,law,acuerdo-s-2017-02-13-7-primera-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,4,main
+2017-03-02,law,decreto-2017-02-27-9-primera-seccion,ley-de-salud ley-del-instituto-de-servicios-de-salud,11,main
+2017-03-07,law,decreto-2017-03-06-10-primera-seccion,ley-de-premios-que-otorga-el-congreso,4,main
+2017-03-14,law,decreto-2017-02-27-9-primera-seccion,ley-de-asociaciones-publico-privadas-y-proyectos-de-prestaci ley-de-presupuesto-gasto-publico-y-responsabilidad-hacendari ley-municipal,35,main
+2017-03-14,law,decreto-2017-03-13-11-primera-seccion,ley-de-fomento-a-las-organizaciones-de-la-sociedad-civil,22,main
+2017-03-23,law,reforma-2017-03-20-12-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,7,main
+2017-03-23,law,reforma-2017-03-20-12-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,15,main
+2017-03-28,law,acuerdo-s-2017-03-27-13-primera-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,2,main
+2017-04-24,law,fe-de-erratas-2017-04-24-17-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,4,main
+2017-05-09,start,ley-2017-05-08-19-primera-seccion,ley-de-deuda-publica-y-disciplina-financiera,57,main
+2017-05-09,start,ley-2017-05-08-19-primera-seccion,ley-del-sistema-estatal-anticorrupcion-de-aguascalientes,71,main
+2017-05-09,law,decreto-2017-05-08-19-primera-seccion,codigo-penal,14,main
+2017-05-15,law,fe-de-erratas-2017-05-15-20-primera-seccion,ley-del-sistema-estatal-anticorrupcion-de-aguascalientes,9,main
+2017-05-16,law,decreto-2017-05-15-20-tercera-seccion,codigo-municipal-de-calvillo-aguascalientes,127,main
+2017-05-16,law,decreto-2017-05-15-20-primera-seccion,codigo-civil,2,main
+2017-05-18,law,decreto-2017-05-15-20-primera-seccion,ley-de-hacienda-del-municipio-de-calvillo-aguascalientes ley-de-hacienda-del-municipio-de-pabellon-de-arteaga-aguasca ley-de-hacienda-del-municipio-de-rincon-de-romos-aguascalien ley-de-hacienda-del-municipio-de-san-francisco-de-los-romo-a ley-de-hacienda-del-municipio-de-san-jose-de-gracia-aguascal ley-de-hacienda-del-municipio-de-tepezala-aguascalientes,26,main
+2017-05-23,law,decreto-2017-05-22-21-primera-seccion,ley-de-agua,2,main
+2017-05-25,law,decreto-2017-05-22-21-primera-seccion,ley-de-adquisiciones-arrendamientos-y-servicios,2,main
+2017-05-30,law,decreto-2017-05-29-22-primera-seccion,codigo-electoral,95,main
+2017-06-06,law,decreto-2017-06-05-23-primera-seccion,ley-para-prevenir-atender-y-erradicar-la-violencia-escolar-e,7,main
+2017-06-08,law,decreto-2017-06-05-23-primera-seccion,ley-de-hacienda-del-municipio-de-jesus-maria-aguascalientes,4,main
+2017-06-13,law,decreto-2017-06-12-24-primera-seccion,codigo-municipal-de-calvillo-aguascalientes,21,main
+2017-06-20,law,reforma-2017-06-19-25-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,4,main
+2017-06-20,law,decreto-2017-06-19-25-primera-seccion,codigo-de-procedimientos-civiles ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,42,main
+2017-06-20,law,reforma-2017-06-19-25-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,6,main
+2017-06-20,law,reforma-2017-06-19-25-primera-seccion-3,codigo-municipal-de-aguascalientes-aguascalientes,5,main
+2017-07-01,law,decreto-2017-06-30-10-extraordinario-segunda-seccion,ley-del-instituto-de-servicios-de-salud,7,main
+2017-07-04,law,acuerdo-s-2017-07-03-27-cuarta-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,29,main
+2017-07-04,law,decreto-2017-07-03-27-primera-seccion,codigo-civil codigo-de-procedimientos-civiles codigo-fiscal ley-de-agua ley-de-asociaciones-publico-privadas-y-proyectos-de-prestaci ley-de-cambio-climatico ley-de-catastro ley-de-estacionamientos-de-vehiculos-para-los-municipios ley-de-fiscalizacion-superior ley-de-fomento-a-las-organizaciones-de-la-sociedad-civil ley-de-fomento-para-el-desarrollo-forestal-sustentable ley-de-hacienda ley-de-hacienda-del-municipio-de-asientos-aguascalientes ley-de-hacienda-del-municipio-de-jesus-maria-aguascalientes ley-de-hacienda-del-municipio-de-san-francisco-de-los-romo-a ley-de-informacion-estadistica-y-geografica ley-de-la-comision-de-derechos-humanos ley-de-la-juventud ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-proteccion-a-los-animales ley-de-proteccion-ambiental ley-de-proteccion-civil ley-de-proteccion-y-fomento-del-patrimonio-cultural ley-de-salud ley-de-turismo ley-de-video-vigilancia ley-del-notariado ley-del-procedimiento-contencioso-administrativo ley-del-sistema-estatal-de-asistencia-social-y-de-integracio ley-municipal,185,main
+2017-07-11,law,decreto-2017-07-10-28-primera-seccion,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-municipal,6,main
+2017-07-18,start,ley-2017-07-17-29-primera-seccion,ley-para-evitar-el-desperdicio-de-alimentos-en-el-estado-de,30,main
+2017-07-18,law,acuerdo-s-2017-07-17-29-cuarta-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,7,main
+2017-07-19,law,decreto-2016-09-05-36-primera-seccion,constitucion-politica,8,main
+2017-07-19,law,decreto-2016-11-08-18-extraordinario,constitucion-politica,13,main
+2017-07-19,law,decreto-2016-12-05-49-primera-seccion,constitucion-politica,2,main
+2017-07-19,law,decreto-2016-12-05-49-primera-seccion-2,constitucion-politica,3,main
+2017-07-19,law,fe-de-erratas-2016-12-07-21-extraordinario,constitucion-politica,1,main
+2017-07-20,law,reforma-2017-07-17-29-cuarta-seccion,codigo-municipal-de-aguascalientes-aguascalientes,18,main
+2017-08-01,law,reforma-2017-07-31-31-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,5,main
+2017-08-01,law,decreto-2017-07-31-31-primera-seccion,ley-de-salud ley-para-prevenir-y-erradicar-la-discriminacion,24,main
+2017-08-02,start,ley-2017-08-01-14-extraordinario,ley-de-responsabilidades-administrativas,275,main
+2017-08-22,law,reforma-2017-08-21-34-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,4,main
+2017-08-22,law,decreto-2017-08-21-34-primera-seccion,codigo-civil codigo-de-procedimientos-civiles codigo-penal,40,main
+2017-10-03,law,acuerdo-s-2017-10-02-40-cuarta-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,5,main
+2017-10-03,law,decreto-2017-10-02-40-primera-seccion,ley-organica-de-la-universidad-tecnologica-de-calvillo,5,main
+2017-10-05,law,decreto-2017-10-02-40-primera-seccion,ley-de-proteccion-ambiental,2,main
+2017-10-17,start,ley-2017-10-16-42-primera-seccion,ley-de-fomento-para-el-desarrollo-de-los-jovenes-emprendedor,27,main
+2017-10-17,law,reforma-2017-10-16-42-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2017-10-17,law,decreto-2017-10-16-42-primera-seccion,ley-de-proteccion-civil,5,main
+2017-10-19,law,decreto-2017-10-16-42-primera-seccion-2,ley-de-proteccion-civil,2,main
+2017-10-24,law,decreto-2017-10-23-43-primera-seccion,codigo-civil ley-de-cambio-climatico,11,main
+2017-10-30,law,ley-2017-10-27-16-extraordinario,ley-de-agua,11,main
+2017-10-31,law,acuerdo-s-2017-10-30-44-primera-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,162,main
+2017-11-02,law,reforma-2017-10-30-44-primera-seccion,codigo-municipal-de-san-jose-de-gracia-aguascalientes,7,main
+2017-11-07,law,decreto-2017-11-06-45-primera-seccion,ley-de-hacienda ley-de-hacienda-del-municipio-de-aguascalientes-aguascalient ley-de-hacienda-del-municipio-de-calvillo-aguascalientes,15,main
+2017-11-07,law,reforma-2017-11-06-45-tercera-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,13,main
+2017-11-14,law,reforma-2017-11-13-46-tercera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,9,main
+2017-11-14,law,reglamento-2017-11-13-46-quinta-seccion,codigo-municipal-de-tepezala-aguascalientes,33,main
+2017-11-16,law,reforma-2017-11-13-46-quinta-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,2,main
+2017-11-21,law,decreto-2017-11-20-47-primera-seccion,ley-de-agua ley-de-hacienda-del-municipio-de-aguascalientes-aguascalient,22,main
+2017-11-28,law,decreto-2017-11-27-48-primera-seccion,ley-que-crea-el-instituto-de-infraestructura-fisica-educativ,4,main
+2017-12-12,law,decreto-2017-12-11-50-primera-seccion,constitucion-politica,5,main
+2017-12-19,law,decreto-2017-12-18-51-tercera-seccion,codigo-municipal-de-calvillo-aguascalientes,4,main
+2017-12-19,law,decreto-2017-12-18-51-primera-seccion,ley-de-desarrollo-social,46,main
+2017-12-21,law,reforma-2017-12-18-51-tercera-seccion,codigo-municipal-de-san-jose-de-gracia-aguascalientes,4,main
+2017-12-26,law,reforma-2017-12-25-52-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,4,main
+2017-12-26,law,decreto-2017-12-25-52-primera-seccion,codigo-penal ley-de-proteccion-ambiental ley-de-proteccion-civil,21,main
+2017-12-26,law,reforma-2017-12-25-52-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,10,main
+2017-12-26,law,reforma-2017-12-25-52-primera-seccion-3,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2018-01-03,start,ley-2017-12-31-28-extraordinario,ley-del-instituto-aguascalentense-de-la-juventud-aguascalien,42,main
+2018-01-09,law,reforma-2018-01-08-2-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,12,main
+2018-01-30,law,reforma-2018-01-29-5-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,4,main
+2018-01-30,law,decreto-2018-01-29-5-primera-seccion,constitucion-politica,5,main
+2018-02-06,law,reforma-2018-02-05-6-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,5,main
+2018-02-20,law,decreto-2018-02-19-8-primera-seccion,codigo-municipal-de-calvillo-aguascalientes,22,main
+2018-02-20,law,reforma-2018-02-19-8-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,4,main
+2018-02-27,start,ley-2018-02-26-9-primera-seccion,ley-de-participacion-ciudadana,118,main
+2018-02-27,law,acuerdo-s-2018-02-26-9-septima-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,5,main
+2018-02-27,law,decreto-2018-02-26-9-primera-seccion,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,5,main
+2018-03-01,law,modificacion-es-2018-02-26-9-sexta-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,3,main
+2018-03-08,law,modificacion-es-2018-03-05-10-primera-seccion,codigo-municipal-de-tepezala-aguascalientes,6,main
+2018-03-13,law,decreto-2018-03-12-11-primera-seccion,ley-de-coordinacion-fiscal ley-de-salud,12,main
+2018-03-20,law,reforma-2018-03-19-12-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2018-03-27,law,acuerdo-s-2018-03-26-13-primera-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,99,main
+2018-03-27,law,decreto-2018-03-26-13-primera-seccion,ley-de-presupuesto-gasto-publico-y-responsabilidad-hacendari ley-de-responsabilidad-patrimonial ley-del-procedimiento-administrativo,21,main
+2018-03-27,law,acuerdo-s-2018-03-26-13-primera-seccion-2,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,39,main
+2018-04-03,law,reforma-2018-04-02-14-tercera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2018-04-03,law,decreto-2018-04-02-14-primera-seccion,ley-de-fomento-a-las-organizaciones-de-la-sociedad-civil ley-para-la-proteccion-especial-de-las-personas-adultas-mayo,14,main
+2018-04-10,law,decreto-2018-04-09-15-primera-seccion,ley-de-asociaciones-publico-privadas-y-proyectos-de-prestaci ley-de-presupuesto-gasto-publico-y-responsabilidad-hacendari,32,main
+2018-04-17,law,decreto-2018-04-16-16-primera-seccion,codigo-civil ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-del-sistema-estatal-de-asistencia-social-y-de-integracio ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient ley-municipal ley-que-crea-el-instituto-aguascalentense-de-las-mujeres-agu,33,main
+2018-04-19,law,decreto-2018-04-16-16-primera-seccion,constitucion-politica ley-de-adquisiciones-arrendamientos-y-servicios,28,main
+2018-04-19,law,decreto-2018-04-16-16-primera-seccion-2,constitucion-politica,2,main
+2018-04-24,law,decreto-2018-04-23-17-primera-seccion,ley-de-desarrollo-social ley-de-la-juventud,18,main
+2018-05-08,law,decreto-2018-05-07-19-primera-seccion,codigo-civil ley-de-presupuesto-gasto-publico-y-responsabilidad-hacendari ley-de-proteccion-y-fomento-del-patrimonio-cultural,24,main
+2018-05-15,law,decreto-2018-05-14-20-primera-seccion,ley-del-sistema-estatal-anticorrupcion-de-aguascalientes ley-para-el-control-de-las-entidades-paraestatales,45,main
+2018-05-22,law,reforma-2018-05-21-21-tercera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2018-05-22,law,reforma-2018-05-21-21-tercera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,6,main
+2018-05-22,law,reforma-2018-05-21-21-tercera-seccion-3,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2018-05-27,start,ley-2018-02-26-9-primera-seccion,ley-de-seguridad-y-servicios-sociales-para-los-servidores-pu,254,main
+2018-05-28,law,fe-de-erratas-2018-05-28-22-primera-seccion,ley-para-el-control-de-las-entidades-paraestatales,9,main
+2018-06-12,law,decreto-2018-06-11-24-primera-seccion,constitucion-politica codigo-civil codigo-de-procedimientos-civiles codigo-penal ley-de-cultura-fisica-y-deporte ley-de-responsabilidades-administrativas ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo,77,main
+2018-06-12,law,decreto-2018-06-11-24-primera-seccion-2,constitucion-politica codigo-penal,5,main
+2018-06-19,law,decreto-2018-06-18-25-primera-seccion,ley-de-integracion-social-y-productiva-de-personas-con-disca ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,12,main
+2018-06-21,start,ley-2018-06-20-15-extraordinario,ley-para-el-desarrollo-agricola,160,main
+2018-06-21,start,ley-2018-06-20-15-extraordinario,ley-para-el-desarrollo-pecuario,210,main
+2018-06-26,law,reglamento-2018-06-25-26-primera-seccion,codigo-municipal-de-san-jose-de-gracia-aguascalientes,5,main
+2018-06-26,law,decreto-2018-06-25-26-primera-seccion,ley-de-agua ley-de-fomento-a-las-organizaciones-de-la-sociedad-civil ley-de-justicia-indigena ley-de-proteccion-ambiental ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient ley-municipal,28,main
+2018-07-03,law,decreto-2018-07-02-27-primera-seccion,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-responsabilidades-administrativas ley-municipal,29,main
+2018-07-03,law,decreto-2018-07-02-27-primera-seccion-2,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,4,main
+2018-07-10,law,decreto-2018-07-09-28-primera-seccion,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-proteccion-ambiental,11,main
+2018-07-10,law,decreto-2018-07-09-28-primera-seccion-2,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,7,main
+2018-07-17,law,adicion-2018-07-16-29-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2018-07-31,law,decreto-2018-07-30-31-cuarta-seccion,codigo-municipal-de-calvillo-aguascalientes,4,main
+2018-09-01,law,decreto-2018-06-27-16-extraordinario,codigo-electoral,35,main
+2018-09-04,start,decreto-2018-09-03-36-primera-seccion,ley-de-creacion-de-la-universidad-tecnologica-metropolitana,42,main
+2018-09-04,law,reforma-2018-09-03-36-tercera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,4,main
+2018-09-04,law,acuerdo-s-2018-09-03-36-tercera-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,93,main
+2018-09-04,law,decreto-2018-09-03-36-primera-seccion,ley-de-cultura ley-de-desarrollo-social ley-de-fomento-para-el-desarrollo-de-los-jovenes-emprendedor ley-de-la-comision-de-derechos-humanos ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-salud ley-de-seguridad-y-servicios-sociales-para-los-servidores-pu ley-de-video-vigilancia ley-del-instituto-aguascalentense-de-la-juventud-aguascalien ley-del-sistema-estatal-de-asistencia-social-y-de-integracio ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo ley-para-la-proteccion-especial-de-las-personas-adultas-mayo,69,main
+2018-09-04,law,decreto-2018-09-03-36-primera-seccion-2,ley-para-la-proteccion-especial-de-las-personas-adultas-mayo,2,main
+2018-09-11,start,ley-2018-09-10-37-primera-seccion,ley-de-fomento-para-el-uso-de-la-bicicleta-en-el-estado-de-a,9,main
+2018-09-13,law,decreto-2018-09-10-37-primera-seccion,ley-de-hacienda-del-municipio-de-aguascalientes-aguascalient,7,main
+2018-09-14,start,ley-2018-07-09-28-primera-seccion,ley-organica-del-poder-legislativo,191,main
+2018-09-14,law,fe-de-erratas-2018-08-13-33-primera-seccion,ley-organica-del-poder-legislativo,7,main
+2018-09-18,law,decreto-2018-09-17-38-cuarta-seccion,codigo-municipal-de-calvillo-aguascalientes,51,main
+2018-09-18,law,reforma-2018-09-17-38-cuarta-seccion,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2018-09-18,law,decreto-2018-09-17-38-primera-seccion,codigo-penal ley-de-responsabilidades-administrativas,5,main
+2018-09-20,law,decreto-2018-09-17-38-primera-seccion,constitucion-politica,3,main
+2018-09-20,law,decreto-2018-09-17-38-primera-seccion-2,constitucion-politica,3,main
+2018-10-02,law,adicion-2018-10-01-40-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2018-10-04,law,reforma-2018-10-01-40-primera-seccion,codigo-municipal-de-tepezala-aguascalientes,12,main
+2018-10-16,law,reglamento-2018-10-15-42-tercera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,67,main
+2018-10-16,law,decreto-2018-10-15-42-primera-seccion,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,2,main
+2018-10-18,law,reforma-2018-10-15-42-primera-seccion,codigo-municipal-de-tepezala-aguascalientes,5,main
+2018-10-23,law,codigo-2018-10-22-43-primera-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,15,main
+2018-10-30,law,reforma-2018-10-29-44-cuarta-seccion,codigo-municipal-de-aguascalientes-aguascalientes,7,main
+2018-11-06,law,decreto-2018-11-05-45-primera-seccion,ley-de-responsabilidad-patrimonial,4,main
+2018-11-13,law,decreto-2018-11-12-46-primera-seccion,codigo-de-procedimientos-civiles ley-de-la-juventud ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-salud,11,main
+2018-12-02,law,decreto-2018-09-03-36-primera-seccion,ley-de-proteccion-a-los-animales,10,main
+2018-12-11,law,decreto-2018-12-10-50-primera-seccion,constitucion-politica ley-de-desarrollo-social,4,main
+2018-12-11,law,decreto-2018-12-10-50-primera-seccion-2,constitucion-politica,5,main
+2018-12-11,law,decreto-2018-12-10-50-edicion-vespertina,constitucion-politica,2,main
+2018-12-13,law,acuerdo-s-2018-12-10-50-tercera-seccion,codigo-municipal-de-calvillo-aguascalientes,2,main
+2018-12-25,law,decreto-2018-12-24-52-primera-seccion,codigo-municipal-del-municipio-de-el-llano,32,main
+2018-12-25,law,reforma-2018-12-24-52-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2018-12-25,law,decreto-2018-12-24-52-edicion-vespertina-decima-cuarta-seccion,ley-de-hacienda-del-municipio-de-calvillo-aguascalientes,12,main
+2018-12-29,law,decreto-2018-12-28-33-extraordinario,ley-de-agua,2,main
+2019-01-01,law,decreto-2018-09-10-37-primera-seccion,ley-de-hacienda,6,main
+2019-01-01,law,decreto-2018-12-10-50-edicion-vespertina,ley-de-fomento-a-las-organizaciones-de-la-sociedad-civil ley-de-presupuesto-gasto-publico-y-responsabilidad-hacendari,10,main
+2019-01-01,law,decreto-2018-12-31-53-tercera-seccion,codigo-municipal-de-calvillo-aguascalientes,9,main
+2019-01-01,law,decreto-2018-12-31-53-primera-seccion,ley-de-adquisiciones-arrendamientos-y-servicios ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-mediacion-y-conciliacion ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo,14,main
+2019-01-01,law,decreto-2018-12-10-50-edicion-vespertina,ley-de-hacienda,51,main
+2019-01-01,law,decreto-2018-12-31-53-primera-seccion-2,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,2,main
+2019-01-22,law,reforma-2019-01-21-3-priemra-seccion,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2019-02-12,law,decreto-2019-02-11-6-primera-seccion,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,6,main
+2019-02-19,law,decreto-2019-02-18-7-primera-seccion,ley-de-hacienda-del-municipio-de-san-francisco-de-los-romo-a,19,main
+2019-02-26,law,acuerdo-s-2019-02-25-8-primera-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,5,main
+2019-03-05,law,acuerdo-s-2019-03-04-9-cuarta-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,302,main
+2019-03-19,law,decreto-2019-03-18-11-primera-seccion,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,2,main
+2019-03-26,law,decreto-2019-03-25-12-primera-seccion,ley-de-integracion-social-y-productiva-de-personas-con-disca ley-de-salud,9,main
+2019-04-02,law,decreto-2019-04-01-13-primera-seccion,ley-de-premios-que-otorga-el-congreso,16,main
+2019-04-16,law,decreto-2019-04-15-15-primera-seccion,ley-de-agua ley-de-creacion-de-la-universidad-tecnologica-metropolitana ley-de-salud ley-municipal,36,main
+2019-04-30,law,decreto-2019-04-29-17-primera-seccion,ley-de-proteccion-a-los-animales ley-de-salud ley-del-notariado,22,main
+2019-05-07,law,decreto-2019-05-06-18-primera-seccion,ley-de-fomento-para-el-desarrollo-forestal-sustentable ley-organica-del-poder-legislativo,8,main
+2019-05-14,law,reforma-2019-05-13-19-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,4,main
+2019-05-21,law,decreto-2019-05-20-20-primera-seccion,ley-de-integracion-social-y-productiva-de-personas-con-disca,20,main
+2019-05-28,law,decreto-2019-05-27-21-primera-seccion,codigo-civil ley-para-la-proteccion-especial-de-las-personas-adultas-mayo,7,main
+2019-05-28,law,decreto-2019-05-27-21-primera-seccion-2,ley-para-la-proteccion-especial-de-las-personas-adultas-mayo,3,main
+2019-06-04,law,decreto-2019-06-03-22-primera-seccion,codigo-penal ley-de-la-procuraduria-estatal-de-proteccion-al-ambiente ley-de-proteccion-ambiental,15,main
+2019-06-11,law,decreto-2019-06-10-23-primera-seccion,constitucion-politica ley-para-prevenir-atender-y-erradicar-la-violencia-escolar-e,9,main
+2019-06-16,law,reforma-2019-05-13-19-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,4,main
+2019-06-20,law,reforma-2019-06-17-24-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2019-06-20,law,decreto-2019-06-17-24-primera-seccion,ley-de-desarrollo-social,3,main
+2019-06-29,law,decreto-2019-06-28-21-extraordinario,ley-de-presupuesto-gasto-publico-y-responsabilidad-hacendari,6,main
+2019-07-09,start,ley-2019-07-08-27-primera-seccion,ley-de-remuneraciones-de-los-servidores-publicos,41,main
+2019-07-09,law,modificacion-es-2019-07-08-27-tercera-seccion,codigo-municipal-del-municipio-de-el-llano,8,main
+2019-07-09,law,decreto-2019-07-08-27-primera-seccion,codigo-penal ley-de-seguridad-privada,11,main
+2019-07-11,start,ley-2019-07-08-27-primera-seccion,ley-de-obras-publicas-y-servicios-relacionados,115,main
+2019-07-23,law,decreto-2019-07-22-29-primera-seccion,codigo-municipal-de-calvillo-aguascalientes,3,main
+2019-08-13,law,decreto-2019-08-12-32-primera-seccion,constitucion-politica,5,main
+2019-08-20,law,reforma-2019-08-19-33-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,18,main
+2019-08-20,law,reforma-2019-08-19-33-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,7,main
+2019-09-19,law,iniciativa-2019-09-16-37-primera-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,5,main
+2019-10-01,law,reforma-2019-09-30-39-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,11,main
+2019-10-01,law,decreto-2019-09-30-39-primera-seccion,codigo-penal ley-de-la-comision-de-derechos-humanos ley-de-presupuesto-gasto-publico-y-responsabilidad-hacendari,9,main
+2019-10-09,law,decreto-2019-10-08-26-extraordinario,ley-para-el-desarrollo-agricola ley-para-prevenir-y-erradicar-la-trata-de-personas-en-el-est,6,main
+2019-10-14,law,fe-de-erratas-2019-10-14-41-cuarta-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2019-10-15,start,codigo-2019-10-14-41-tercera-seccion,codigo-municipal-para-el-h-ayuntamiento-de-asientos-aguascal,1585,main
+2019-10-15,start,ley-2017-10-02-40-primera-seccion,ley-de-imagen-institucional,25,main
+2019-10-15,law,decreto-2019-04-15-15-primera-seccion-2,ley-municipal,2,main
+2019-10-15,law,decreto-2019-10-14-41-primera-seccion,ley-de-obras-publicas-y-servicios-relacionados ley-de-prevencion-social-de-la-violencia-y-la-delincuencia-c ley-para-prevenir-y-erradicar-la-discriminacion,11,main
+2019-10-15,law,decreto-2019-09-30-39-primera-seccion,ley-municipal,4,main
+2019-10-22,law,decreto-2019-10-21-42-primera-seccion,codigo-municipal-de-calvillo-aguascalientes,12,main
+2019-10-22,law,reforma-2019-10-21-42-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,5,main
+2019-10-22,law,reforma-2019-10-21-42-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,4,main
+2019-10-31,law,decreto-2019-10-28-43-primera-seccion,codigo-municipal-de-calvillo-aguascalientes,35,main
+2019-10-31,law,acuerdo-s-2019-10-30-28-extraordinario,codigo-municipal-de-san-jose-de-gracia-aguascalientes,6,main
+2019-11-05,law,decreto-2019-11-04-44-primera-seccion,codigo-civil ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-salud,13,main
+2019-11-07,law,reforma-2019-11-04-44-primera-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,5,main
+2019-11-12,law,decreto-2019-11-11-45-primera-seccion,constitucion-politica codigo-penal ley-de-agua ley-de-integracion-social-y-productiva-de-personas-con-disca ley-de-salud ley-del-sistema-estatal-de-asistencia-social-y-de-integracio,35,main
+2019-11-26,law,decreto-2019-11-25-47-primera-seccion,ley-organica-del-poder-legislativo,6,main
+2019-11-26,law,decreto-2019-11-25-47-primera-seccion-2,ley-organica-del-poder-legislativo,2,main
+2019-11-29,start,ley-2019-11-28-30-extraordinario,ley-de-mejora-regulatoria-y-gestion-empresarial,4,main
+2019-11-29,start,ley-2019-09-30-39-primera-seccion,ley-de-proteccion-contra-la-exposicion-al-humo-de-tabaco,3,main
+2019-11-29,law,decreto-2019-11-28-30-extraordinario,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-catastro ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient,37,main
+2019-12-17,law,reforma-2019-12-16-50-tercera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,9,main
+2019-12-17,law,decreto-2019-12-16-50-primera-seccion,ley-de-coordinacion-fiscal ley-de-presupuesto-gasto-publico-y-responsabilidad-hacendari,29,main
+2019-12-19,law,decreto-2019-12-16-50-tercera-seccion,codigo-municipal-de-calvillo-aguascalientes,2,main
+2019-12-19,law,decreto-2019-12-16-50-primera-seccion,ley-de-hacienda,2,main
+2019-12-24,law,decreto-2019-12-23-51-primera-seccion,codigo-penal ley-de-la-juventud,8,main
+2019-12-24,law,decreto-2019-12-23-51-primera-seccion-2,codigo-penal,2,main
+2019-12-31,law,decreto-2019-12-30-52-primera-seccion,codigo-penal ley-del-procedimiento-administrativo,8,main
+2019-12-31,law,decreto-2019-12-30-52-primera-seccion-2,codigo-penal,2,main
+2020-01-01,law,decreto-2018-09-10-37-primera-seccion,codigo-electoral,5,main
+2020-01-01,law,decreto-2019-12-16-50-primera-seccion,ley-de-hacienda-del-municipio-de-aguascalientes-aguascalient ley-de-hacienda-del-municipio-de-jesus-maria-aguascalientes ley-de-hacienda-del-municipio-de-rincon-de-romos-aguascalien ley-de-hacienda-del-municipio-de-san-francisco-de-los-romo-a,41,main
+2020-01-01,law,decreto-2019-05-13-19-primera-seccion,codigo-electoral,6,main
+2020-01-14,law,decreto-2020-01-13-2-primera-seccion,constitucion-politica,3,main
+2020-01-14,law,decreto-2020-01-13-2-primera-seccion-2,constitucion-politica,2,main
+2020-01-15,law,fe-de-erratas-2020-01-15-2-extraordinario,ley-de-presupuesto-gasto-publico-y-responsabilidad-hacendari,2,main
+2020-01-21,start,ley-2020-01-20-3-primera-seccion,ley-organica-de-la-fiscalia-general,187,main
+2020-01-23,law,reforma-2020-01-20-3-cuarta-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2020-02-13,law,decreto-2020-02-10-6-quinta-seccion,codigo-municipal-de-calvillo-aguascalientes,2,main
+2020-03-03,law,acuerdo-s-2020-03-02-9-cuarta-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,25,main
+2020-03-03,law,decreto-2020-03-02-9-primera-seccion,constitucion-politica,2,main
+2020-03-03,law,acuerdo-s-2020-03-02-9-cuarta-seccion-2,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,15,main
+2020-03-17,start,ley-2020-03-16-11-primera-seccion,ley-para-la-igualdad-entre-mujeres-y-hombres,57,main
+2020-03-17,law,reforma-2020-03-16-11-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2020-03-17,law,reforma-2020-03-16-11-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,4,main
+2020-03-19,law,decreto-2020-03-16-11-tercera-seccion,codigo-municipal-de-calvillo-aguascalientes,4,main
+2020-03-31,law,decreto-2020-03-30-13-primera-seccion,codigo-penal,4,main
+2020-04-09,law,reforma-2020-04-06-14-primera-seccion,codigo-municipal-para-el-h-ayuntamiento-de-asientos-aguascal,137,main
+2020-04-16,law,acuerdo-s-2020-04-13-15-primera-seccion,codigo-municipal-de-san-jose-de-gracia-aguascalientes,11,main
+2020-04-30,law,acuerdo-s-2020-04-27-17-primera-seccion,codigo-municipal-de-san-jose-de-gracia-aguascalientes,17,main
+2020-05-19,law,acuerdo-s-2020-05-18-20-primera-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,5,main
+2020-05-19,law,decreto-2020-05-18-20-primera-seccion,constitucion-politica ley-de-proteccion-contra-la-exposicion-al-humo-de-tabaco ley-para-la-proteccion-especial-de-las-personas-adultas-mayo,6,main
+2020-05-21,law,decreto-2020-05-18-20-primera-seccion,ley-organica-del-poder-legislativo,6,main
+2020-05-26,start,ley-2020-05-25-21-primera-seccion,ley-de-educacion,168,main
+2020-05-26,start,ley-2020-05-25-21-primera-seccion,ley-del-instituto-de-educacion-de-aguascalientes,38,main
+2020-05-26,law,decreto-2020-05-25-21-primera-seccion,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,7,main
+2020-05-28,law,fe-de-erratas-2020-05-28-29-extraordinario,ley-organica-del-poder-legislativo,2,main
+2020-05-30,law,decreto-2020-05-29-30-extraordinario,ley-de-salud,7,main
+2020-06-16,law,decreto-2020-06-15-24-primera-seccion,ley-para-el-control-de-las-entidades-paraestatales,3,main
+2020-06-27,start,ley-2019-12-30-52-primera-seccion,ley-para-la-atencion-y-prevencion-de-la-desaparicion-de-pers,95,main
+2020-06-30,law,decreto-2020-06-29-26-quinta-seccion,codigo-municipal-de-calvillo-aguascalientes,8,main
+2020-06-30,law,decreto-2020-06-29-26-primera-seccion,codigo-electoral codigo-penal ley-de-adquisiciones-arrendamientos-y-servicios ley-de-coordinacion-fiscal ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-de ley-de-proteccion-a-los-animales ley-de-video-vigilancia ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient,188,main
+2020-06-30,law,decreto-2020-06-29-26-primera-seccion-2,codigo-penal ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient,6,main
+2020-06-30,law,decreto-2020-06-29-26-primera-seccion-3,codigo-penal,2,main
+2020-07-07,law,decreto-2020-07-06-27-primera-seccion,ley-de-fiscalizacion-superior,6,main
+2020-07-09,law,fe-de-erratas-2020-07-09-40-extraordinario,codigo-electoral ley-de-fiscalizacion-superior,4,main
+2020-07-21,law,reforma-2020-07-20-29-tercera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2020-08-18,law,reforma-2020-08-17-33-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2020-09-15,law,decreto-2020-09-14-37-primera-seccion,ley-de-desarrollo-social ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-salud,7,main
+2020-09-15,law,decreto-2020-09-14-37-primera-seccion-2,ley-de-salud,3,main
+2020-09-15,law,decreto-2020-09-14-37-primera-seccion-3,ley-de-salud,2,main
+2020-09-17,law,decreto-2020-09-14-37-primera-seccion,ley-de-obras-publicas-y-servicios-relacionados,2,main
+2020-09-22,law,reforma-2020-09-21-38-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2020-09-29,law,reforma-2020-09-28-39-tercera-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,10,main
+2020-10-06,law,decreto-2020-10-05-40-primera-seccion,ley-de-estacionamientos-de-vehiculos-para-los-municipios ley-de-salud,6,main
+2020-10-13,law,acuerdo-s-2020-10-12-41-tercera-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,33,main
+2020-10-13,law,decreto-2020-10-12-41-primera-seccion,ley-de-instituciones-asistenciales-para-ninas-ninos-y-adoles ley-de-salud ley-de-seguridad-y-servicios-sociales-para-los-servidores-pu ley-del-instituto-de-capacitacion-para-el-trabajo ley-para-la-proteccion-especial-de-las-personas-adultas-mayo,18,main
+2020-10-13,law,decreto-2020-10-12-41-primera-seccion-2,ley-de-instituciones-asistenciales-para-ninas-ninos-y-adoles,6,main
+2020-10-15,law,reforma-2020-10-12-41-tercera-seccion,codigo-municipal-del-municipio-de-el-llano,5,main
+2020-10-20,law,reforma-2020-10-19-42-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2020-10-27,law,decreto-2020-10-26-43-primera-seccion,ley-de-cultura ley-de-salud,6,main
+2020-10-28,law,fe-de-erratas-2020-10-28-48-extraordinario,ley-de-salud,2,main
+2020-12-08,law,decreto-2020-12-07-49-primera-seccion,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-instituciones-asistenciales-para-ninas-ninos-y-adoles ley-del-sistema-estatal-de-asistencia-social-y-de-integracio,10,main
+2020-12-10,law,decreto-2020-12-07-49-primera-seccion,ley-de-la-juventud,3,main
+2020-12-21,law,fe-de-erratas-2020-12-21-51-edicion-vespertina,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-la-juventud,2,main
+2020-12-22,law,decreto-2020-12-21-51-primera-seccion,ley-de-coordinacion-fiscal ley-de-hacienda ley-de-integracion-social-y-productiva-de-personas-con-disca ley-para-prevenir-y-erradicar-la-discriminacion,16,main
+2020-12-24,law,decreto-2020-12-21-51-primera-seccion,codigo-fiscal ley-de-presupuesto-gasto-publico-y-responsabilidad-hacendari,20,main
+2020-12-29,law,decreto-2020-12-28-52-primera-seccion,ley-de-prevencion-social-de-la-violencia-y-la-delincuencia-c ley-del-instituto-de-asesoria-y-defensoria-publica ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient ley-organica-de-la-fiscalia-general,9,main
+2021-01-01,law,decreto-2020-12-31-59-primera-seccion-extraordinario,ley-de-hacienda-del-municipio-de-aguascalientes-aguascalient,10,main
+2021-01-12,law,reforma-2021-01-11-2-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2021-01-19,law,reforma-2021-01-18-3-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2021-02-09,law,decreto-2021-02-08-6-primera-seccion,constitucion-politica,4,main
+2021-02-23,law,decreto-2021-02-22-8-primera-seccion,ley-organica-de-la-fiscalia-general,9,main
+2021-03-02,law,decreto-2021-03-01-9-primera-seccion,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-del-instituto-aguascalentense-de-la-juventud-aguascalien ley-del-sistema-estatal-de-asistencia-social-y-de-integracio ley-para-la-proteccion-especial-de-las-personas-adultas-mayo ley-que-crea-el-instituto-aguascalentense-de-las-mujeres-agu,19,main
+2021-03-09,law,decreto-2021-03-08-10-primera-seccion,codigo-municipal-de-calvillo-aguascalientes,5,main
+2021-03-16,law,acuerdo-s-2021-03-15-11-quinta-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,40,main
+2021-03-16,law,reforma-2021-03-15-11-quinta-seccion,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2021-03-16,law,reforma-2021-03-15-11-quinta-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,11,main
+2021-03-16,law,reforma-2021-03-15-11-quinta-seccion-3,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2021-03-23,law,decreto-2021-03-22-12-primera-seccion,codigo-penal,2,main
+2021-03-23,law,decreto-2021-03-22-12-primera-seccion-2,codigo-penal,2,main
+2021-03-23,law,decreto-2021-03-22-12-primera-seccion-3,codigo-penal,2,main
+2021-03-30,law,decreto-2021-03-29-13-primera-seccion,constitucion-politica codigo-penal ley-de-proteccion-ambiental,8,main
+2021-04-06,law,decreto-2021-04-05-14-primera-seccion,ley-de-desarrollo-social ley-de-fomento-a-las-organizaciones-de-la-sociedad-civil ley-de-prevencion-social-de-la-violencia-y-la-delincuencia-c ley-del-sistema-estatal-de-asistencia-social-y-de-integracio,10,main
+2021-04-20,start,ley-2021-04-19-16-edicion-vespertina,ley-del-centro-de-conciliacion-laboral,49,main
+2021-04-20,law,acuerdo-s-2021-04-19-16-tercera-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,11,main
+2021-04-20,law,reforma-2021-04-19-16-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2021-04-20,law,decreto-2021-04-19-16-edicion-vespertina,ley-de-responsabilidades-administrativas,6,main
+2021-04-20,law,decreto-2021-04-19-16-primera-seccion,codigo-penal ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-del-instituto-de-asesoria-y-defensoria-publica,18,main
+2021-04-20,law,decreto-2021-04-19-16-edicion-vespertina-2,ley-de-responsabilidades-administrativas,2,main
+2021-05-04,law,acuerdo-s-2021-05-03-18-cuarta-seccion,codigo-municipal-para-el-h-ayuntamiento-de-asientos-aguascal,2,main
+2021-05-04,law,decreto-2021-05-03-18-primera-seccion,codigo-civil,3,main
+2021-05-06,law,acuerdo-s-2021-05-03-18-cuarta-seccion,codigo-municipal-de-san-jose-de-gracia-aguascalientes,11,main
+2021-05-11,law,decreto-2021-05-10-19-primera-seccion,codigo-civil ley-de-mediacion-y-conciliacion ley-de-salud ley-para-la-igualdad-entre-mujeres-y-hombres,17,main
+2021-05-13,law,decreto-2021-05-10-19-primera-seccion,ley-de-la-juventud,4,main
+2021-05-18,law,reforma-2021-05-17-20-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2021-05-25,law,decreto-2021-05-24-21-primera-seccion,ley-de-salud ley-de-turismo,5,main
+2021-05-25,law,decreto-2021-05-24-21-primera-seccion-2,ley-de-turismo,3,main
+2021-05-27,law,reforma-2021-05-24-21-primera-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,4,main
+2021-05-27,law,reforma-2021-05-24-21-primera-seccion-2,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,2,main
+2021-06-01,law,decreto-2021-05-31-22-primera-seccion,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-seguridad-y-servicios-sociales-para-los-servidores-pu,10,main
+2021-06-08,law,decreto-2021-06-07-23-primera-seccion,ley-de-desarrollo-social ley-de-responsabilidades-administrativas ley-municipal,22,main
+2021-06-15,law,decreto-2021-06-14-24-primera-seccion,codigo-municipal-de-calvillo-aguascalientes ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-proteccion-civil ley-de-salud,164,main
+2021-06-15,law,decreto-2021-06-14-24-primera-seccion-2,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,3,main
+2021-06-29,law,decreto-2021-06-28-26-primera-seccion,codigo-civil ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-participacion-ciudadana ley-de-proteccion-y-fomento-del-patrimonio-cultural ley-de-salud ley-municipal ley-para-el-desarrollo-agricola,118,main
+2021-06-29,law,decreto-2021-06-28-26-primera-seccion-2,ley-de-salud ley-municipal,4,main
+2021-06-30,law,decreto-2021-06-29-27-extraordinario,ley-de-educacion ley-de-participacion-ciudadana ley-de-presupuesto-gasto-publico-y-responsabilidad-hacendari ley-de-salud ley-para-prevenir-y-erradicar-la-trata-de-personas-en-el-est,35,main
+2021-07-01,start,ley-2020-12-28-52-primera-seccion,ley-de-planeacion-para-el-desarrollo,126,main
+2021-07-13,law,reforma-2021-07-12-28-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,6,main
+2021-08-03,law,decreto-2021-08-02-31-primera-seccion,constitucion-politica codigo-civil ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-educacion ley-de-la-comision-de-derechos-humanos ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-seguridad-y-servicios-sociales-para-los-servidores-pu ley-del-sistema-estatal-de-asistencia-social-y-de-integracio ley-municipal ley-organica-de-la-fiscalia-general ley-organica-del-poder-legislativo,44,main
+2021-08-03,law,decreto-2021-08-02-31-primera-seccion-2,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,2,main
+2021-08-10,law,acuerdo-s-2021-08-09-32-primera-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,3,main
+2021-08-28,start,ley-2021-03-01-9-primera-seccion,ley-de-archivos,111,main
+2021-08-28,law,decreto-2021-03-01-9-primera-seccion,ley-del-notariado,9,main
+2021-09-02,law,reforma-2021-08-30-35-tercera-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,2,main
+2021-09-02,law,reforma-2021-08-30-35-tercera-seccion-2,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,132,main
+2021-09-21,law,decreto-2021-09-20-38-primera-seccion,ley-de-la-comision-de-derechos-humanos,2,main
+2021-09-29,law,acuerdo-s-2021-09-28-39-extraordinario,codigo-municipal-para-el-h-ayuntamiento-de-asientos-aguascal,4,main
+2021-09-30,law,reforma-2021-09-27-39-primera-seccion,codigo-municipal-del-municipio-de-el-llano,46,main
+2021-10-07,law,acuerdo-s-2021-10-04-40-primera-seccion,codigo-municipal-de-san-jose-de-gracia-aguascalientes,3,main
+2021-10-07,law,decreto-2021-10-04-40-primera-seccion,constitucion-politica,2,main
+2021-10-21,law,reglamento-2021-10-18-42-tercera-seccion,codigo-municipal-de-san-jose-de-gracia-aguascalientes,34,main
+2021-10-28,law,acuerdo-s-2021-10-25-43-cuarta-seccion,codigo-municipal-de-san-jose-de-gracia-aguascalientes,4,main
+2021-11-25,law,decreto-2021-11-22-47-tercera-seccion,codigo-municipal-de-calvillo-aguascalientes,24,main
+2021-11-25,law,decreto-2021-11-22-47-primera-seccion,ley-de-proteccion-ambiental,3,main
+2021-12-21,law,decreto-2021-12-20-51-primera-seccion,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,10,main
+2021-12-21,law,decreto-2021-12-20-51-primera-seccion-2,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,2,main
+2021-12-28,law,decreto-2021-12-27-52-primera-seccion,constitucion-politica ley-municipal,5,main
+2022-01-01,start,ley-2021-12-29-53-extraordinario-decima-quinta-seccion,ley-de-victimas,111,main
+2022-01-01,law,decreto-2021-11-22-47-primera-seccion,ley-para-la-proteccion-especial-de-las-personas-adultas-mayo,8,main
+2022-01-01,law,decreto-2021-12-29-53-cuarta-seccion-extraordinario,ley-de-hacienda-del-municipio-de-aguascalientes-aguascalient,3,main
+2022-01-01,law,decreto-2021-12-29-53-extraordinario-decima-quinta-seccion,ley-organica-de-la-fiscalia-general,7,main
+2022-01-01,law,decreto-2021-12-29-53-primera-seccion-extraordinario,codigo-fiscal ley-de-hacienda ley-de-presupuesto-gasto-publico-y-responsabilidad-hacendari,63,main
+2022-01-04,law,decreto-2022-01-03-1-primera-seccion,codigo-civil codigo-penal,5,main
+2022-01-04,law,decreto-2022-01-03-1-primera-seccion-2,codigo-civil,3,main
+2022-01-04,law,decreto-2022-01-03-1-primera-seccion-3,codigo-civil,2,main
+2022-01-13,law,adicion-2022-01-10-2-primera-seccion,codigo-municipal-de-san-jose-de-gracia-aguascalientes,5,main
+2022-02-15,law,reforma-2022-02-14-7-primera-seccion,codigo-municipal-para-el-h-ayuntamiento-de-asientos-aguascal,2,main
+2022-02-17,law,reforma-2022-02-14-7-primera-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,2,main
+2022-02-28,law,reforma-2021-08-30-35-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2022-02-28,law,reforma-2021-08-30-35-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2022-02-28,law,reforma-2021-08-30-35-primera-seccion-3,codigo-municipal-de-aguascalientes-aguascalientes,126,main
+2022-02-28,law,reforma-2021-10-18-42-tercera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2022-02-28,law,dictamen-2021-10-18-42-tercera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2022-02-28,law,reforma-2021-11-22-47-tercera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,6,main
+2022-02-28,law,reforma-2021-12-27-52-tercera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,4,main
+2022-02-28,law,reforma-2022-01-03-1-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2022-02-28,law,reforma-2022-01-03-1-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,4,main
+2022-02-28,law,reforma-2022-01-24-4-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2022-02-28,law,dictamen-2022-02-21-8-cuarta-seccion,codigo-municipal-de-aguascalientes-aguascalientes,4,main
+2022-02-28,law,decreto-2022-02-21-8-cuarta-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2022-03-01,law,decreto-2022-02-28-9-primera-seccion,codigo-municipal-de-calvillo-aguascalientes,2,main
+2022-03-03,law,acuerdo-s-2022-02-28-9-cuarta-seccion,codigo-municipal-de-san-jose-de-gracia-aguascalientes,24,main
+2022-03-17,law,acuerdo-s-2022-03-14-11-cuarta-seccion,codigo-municipal-de-san-jose-de-gracia-aguascalientes,12,main
+2022-03-22,law,decreto-2022-03-21-12-primera-seccion,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-del-patronato-de-la-feria-nacional-de-san-marcos-aguasca ley-para-la-igualdad-entre-mujeres-y-hombres,6,main
+2022-03-29,law,decreto-2022-03-28-13-primera-seccion,ley-de-agua ley-municipal ley-organica-del-poder-legislativo,13,main
+2022-03-31,law,decreto-2022-03-28-13-primera-seccion-2,ley-municipal,6,main
+2022-04-05,law,decreto-2022-04-04-14-primera-seccion,ley-de-agua ley-de-premios-que-otorga-el-congreso,4,main
+2022-04-11,law,fe-de-erratas-2022-04-11-15-primera-seccion,ley-de-agua,4,main
+2022-04-12,start,ley-2022-04-11-15-primera-seccion,ley-de-la-universidad-politecnica-de-aguascalientes,56,main
+2022-04-12,law,decreto-2022-04-11-15-primera-seccion,codigo-penal ley-de-educacion ley-del-instituto-de-educacion-de-aguascalientes,12,main
+2022-04-19,law,decreto-2022-04-18-16-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes codigo-penal ley-para-la-proteccion-especial-de-las-personas-adultas-mayo,14,main
+2022-04-21,law,decreto-2022-04-18-16-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2022-05-03,law,decreto-2022-05-02-18-primera-seccion,ley-de-planeacion-para-el-desarrollo ley-para-prevenir-atender-y-erradicar-la-violencia-escolar-e,5,main
+2022-05-10,law,decreto-2022-05-09-19-primera-seccion,constitucion-politica codigo-electoral codigo-municipal-de-pabellon-de-arteaga-aguascalientes ley-de-salud ley-del-sistema-estatal-de-asistencia-social-y-de-integracio ley-para-prevenir-y-erradicar-la-discriminacion,15,main
+2022-05-10,law,decreto-2022-05-09-19-primera-seccion-2,constitucion-politica,2,main
+2022-05-17,law,decreto-2022-05-16-20-primera-seccion,codigo-penal ley-de-la-comision-de-derechos-humanos ley-para-la-igualdad-entre-mujeres-y-hombres,15,main
+2022-05-24,law,decreto-2022-05-23-21-primera-seccion,constitucion-politica ley-de-integracion-social-y-productiva-de-personas-con-disca ley-de-premios-que-otorga-el-congreso,9,main
+2022-05-31,law,decreto-2022-05-30-22-primera-seccion,codigo-civil ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,9,main
+2022-06-14,law,decreto-2022-06-13-24-primera-seccion,constitucion-politica codigo-municipal-de-pabellon-de-arteaga-aguascalientes ley-del-sistema-estatal-anticorrupcion-de-aguascalientes ley-organica-del-poder-legislativo,44,main
+2022-06-16,law,reforma-2022-06-13-24-primera-seccion,codigo-municipal-de-san-jose-de-gracia-aguascalientes,4,main
+2022-06-21,law,decreto-2022-06-20-25-primera-seccion,ley-de-instituciones-asistenciales-para-ninas-ninos-y-adoles ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-proteccion-a-los-animales,9,main
+2022-06-28,law,decreto-2022-06-27-26-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes ley-de-desarrollo-social ley-del-sistema-estatal-de-asistencia-social-y-de-integracio,11,main
+2022-06-28,law,decreto-2022-06-27-26-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2022-07-05,law,decreto-2022-07-04-27-primera-seccion,ley-de-agua ley-de-video-vigilancia ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient,25,main
+2022-07-19,start,ley-2022-07-18-29-primera-seccion,ley-organica-de-la-escuela-normal-de-aguascalientes,40,main
+2022-07-19,law,decreto-2022-07-18-29-primera-seccion,constitucion-politica codigo-penal ley-de-proteccion-a-los-animales ley-de-proteccion-ambiental ley-para-la-atencion-y-prevencion-de-la-desaparicion-de-pers,11,main
+2022-07-19,law,decreto-2022-07-18-29-primera-seccion-2,codigo-penal ley-de-proteccion-ambiental,8,main
+2022-07-19,law,decreto-2022-07-18-29-primera-seccion-3,codigo-penal,3,main
+2022-08-16,law,decreto-2022-08-15-33-primera-seccion,constitucion-politica ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient,5,main
+2022-09-20,law,reforma-2022-09-19-38-primera-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,2,main
+2022-09-20,law,modificacion-es-2022-09-19-38-primera-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,2,main
+2022-09-22,law,reforma-2022-09-19-38-primera-seccion-2,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,85,main
+2022-10-01,start,ley-2022-09-30-56-extraordinario,ley-de-ciencia-tecnologia-innovacion-y-emprendimiento-para-e,81,main
+2022-10-01,start,ley-2022-09-30-56-extraordinario,ley-del-instituto-aguascalentense-de-las-personas-adultas-ma,40,main
+2022-10-01,start,ley-2022-09-30-56-extraordinario,ley-organica-de-la-administracion-publica-estatal-de-aguasca,56,main
+2022-10-01,law,decreto-2022-09-30-56-extraordinario,ley-de-hacienda ley-de-mejora-regulatoria-y-gestion-empresarial ley-de-planeacion-para-el-desarrollo ley-de-salud ley-de-seguridad-y-servicios-sociales-para-los-servidores-pu ley-de-turismo ley-del-sistema-estatal-de-asistencia-social-y-de-integracio ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient ley-organica-de-la-fiscalia-general ley-para-la-proteccion-especial-de-las-personas-adultas-mayo,241,main
+2022-10-01,law,decreto-2022-09-30-56-extraordinario-2,ley-de-salud,2,main
+2022-10-18,law,decreto-2022-10-17-42-primera-seccion,codigo-civil codigo-penal ley-de-salud ley-organica-del-poder-legislativo,20,main
+2022-10-18,law,decreto-2022-10-17-42-primera-seccion-2,codigo-penal ley-de-salud,9,main
+2022-10-27,law,modificacion-es-2022-10-24-43-tercera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2022-10-29,law,decreto-2022-10-28-61-extraordinario,constitucion-politica,2,main
+2022-10-31,law,fe-de-erratas-2022-10-31-44-vespertina,ley-de-salud,1,main
+2022-11-01,law,decreto-2022-10-31-44-edicion-vespertina,ley-de-la-comision-de-derechos-humanos ley-de-proteccion-contra-la-exposicion-al-humo-de-tabaco ley-de-seguridad-privada ley-que-crea-el-instituto-aguascalentense-de-las-mujeres-agu,22,main
+2022-11-01,law,decreto-2022-10-31-44-vespertina,ley-de-educacion,16,main
+2022-11-08,law,decreto-2022-11-07-45-primera-seccion,codigo-penal ley-de-desarrollo-social ley-de-salud,12,main
+2022-11-08,law,decreto-2022-11-07-45-primera-seccion-2,ley-de-desarrollo-social,2,main
+2022-11-29,law,decreto-2022-11-28-48-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2022-11-29,law,decreto-2022-11-28-48-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2022-12-10,law,decreto-2022-12-09-67-extraordinario,ley-de-la-comision-de-derechos-humanos ley-para-la-igualdad-entre-mujeres-y-hombres,9,main
+2022-12-15,law,decreto-2022-12-12-50-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,7,main
+2022-12-15,law,reforma-2022-12-12-50-primera-seccion,codigo-municipal-de-san-jose-de-gracia-aguascalientes,3,main
+2022-12-20,law,decreto-2022-12-19-51-tercera-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,2,main
+2022-12-20,law,reforma-2022-12-19-51-tercera-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,2,main
+2022-12-21,start,codigo-2022-12-20-70-extraordinario,codigo-urbano,3,main
+2022-12-27,law,decreto-2022-12-26-52-primera-seccion,ley-de-premios-que-otorga-el-congreso,4,main
+2023-01-01,law,decreto-2022-12-31-72-extraordinario-decima-sexta-seccion,ley-de-adquisiciones-arrendamientos-y-servicios ley-de-agua ley-de-cambio-climatico ley-de-catastro ley-de-presupuesto-gasto-publico-y-responsabilidad-hacendari ley-del-instituto-de-educacion-de-aguascalientes ley-del-instituto-de-vivienda-social-y-ordenamiento-de-la-pr ley-organica-de-la-administracion-publica-estatal-de-aguasca ley-para-el-desarrollo-agricola,39,main
+2023-01-03,law,decreto-2022-12-31-72-extraordinario-primera-seccion,ley-de-hacienda,11,main
+2023-01-03,law,decreto-2023-01-02-1-primera-seccion,constitucion-politica codigo-electoral ley-de-salud,8,main
+2023-01-10,law,reforma-2023-01-09-2-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2023-01-10,law,resolucion-2023-01-09-2-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2023-01-18,law,decreto-2023-01-17-1-extraordinario,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-salud,20,main
+2023-01-24,law,decreto-2023-01-23-4-tercera-seccion,codigo-municipal-de-aguascalientes-aguascalientes codigo-municipal-de-pabellon-de-arteaga-aguascalientes,8,main
+2023-01-24,law,decreto-2023-01-23-4-primera-seccion,constitucion-politica codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-cambio-climatico ley-de-desarrollo-social ley-de-la-comision-de-derechos-humanos ley-de-la-juventud ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-proteccion-a-los-animales ley-de-proteccion-ambiental ley-de-proteccion-y-fomento-del-patrimonio-cultural ley-de-seguridad-y-servicios-sociales-para-los-servidores-pu ley-de-video-vigilancia ley-del-colegio-de-estudios-cientificos-y-tecnologicos ley-del-sistema-estatal-de-asistencia-social-y-de-integracio ley-para-el-desarrollo-pecuario ley-para-la-administracion-y-enajenacion-de-bienes-del-secto ley-para-prevenir-y-erradicar-la-discriminacion ley-que-crea-el-instituto-aguascalentense-de-las-mujeres-agu,48,main
+2023-01-24,law,resolucion-2023-01-23-4-tercera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,7,main
+2023-01-24,law,decreto-2023-01-23-4-primera-seccion-2,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-desarrollo-social ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,9,main
+2023-01-30,law,fe-de-erratas-2023-01-30-5-primera-seccion,ley-organica-de-la-administracion-publica-estatal-de-aguasca,1,main
+2023-01-31,law,decreto-2023-01-30-5-primera-seccion,constitucion-politica,2,main
+2023-01-31,law,decreto-2023-01-30-5-primera-seccion-2,constitucion-politica,3,main
+2023-02-04,start,decreto-2023-02-03-3-extraordinario,ley-organica-del-instituto-aguascalentense-de-las-personas-m,38,main
+2023-02-04,start,decreto-2023-02-03-3-extraordinario,ley-por-la-que-se-crea-la-universidad-de-la-policia-y-cienci,51,main
+2023-02-04,law,decreto-2023-02-03-3-extraordinario,ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient,5,main
+2023-02-13,law,fe-de-erratas-2023-02-13-7-cuarta-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,4,main
+2023-02-14,law,reforma-2023-02-13-7-cuarta-seccion,codigo-municipal-para-el-h-ayuntamiento-de-asientos-aguascal,2,main
+2023-02-23,law,decreto-2023-02-20-8-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,6,main
+2023-02-28,law,decreto-2023-02-27-9-quinta-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,11,main
+2023-03-14,law,decreto-2023-03-13-11-quinta-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,4,main
+2023-03-14,law,resolucion-2023-03-13-11-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,7,main
+2023-03-14,law,decreto-2023-03-13-11-primera-seccion,codigo-municipal-del-municipio-de-el-llano,4,main
+2023-03-22,law,decreto-2023-03-21-12-extraordinario,ley-organica-del-poder-legislativo,4,main
+2023-03-23,law,decreto-2023-03-20-12-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2023-03-29,law,decreto-2023-03-28-14-extraordinario,ley-de-hacienda-del-municipio-de-aguascalientes-aguascalient,6,main
+2023-04-04,law,decreto-2023-04-03-14-primera-seccion,codigo-urbano,2,main
+2023-04-04,law,decreto-2023-04-03-14-vespertina,ley-organica-del-poder-legislativo,3,main
+2023-04-11,law,decreto-2023-04-10-15-primera-seccion,codigo-municipal-del-municipio-de-el-llano,18,main
+2023-04-11,law,decreto-2023-04-10-15-vespertina,ley-organica-del-poder-legislativo,3,main
+2023-04-14,law,decreto-2023-04-13-18-extraordinario,ley-de-agua,2,main
+2023-04-17,law,decreto-2022-10-17-42-primera-seccion,ley-de-expropiacion ley-de-fiscalizacion-superior ley-de-hacienda-del-municipio-de-asientos-aguascalientes ley-de-hacienda-del-municipio-de-jesus-maria-aguascalientes ley-de-la-procuraduria-estatal-de-proteccion-al-ambiente ley-de-responsabilidad-patrimonial ley-del-procedimiento-contencioso-administrativo,89,main
+2023-04-17,law,decreto-2022-10-17-42-primera-seccion-2,ley-de-responsabilidad-patrimonial,2,main
+2023-04-17,law,decreto-2022-11-07-45-primera-seccion,ley-de-fiscalizacion-superior,7,main
+2023-04-17,law,decreto-2022-12-31-72-extraordinario-novena-seccion,ley-de-hacienda-del-municipio-de-jesus-maria-aguascalientes,69,main
+2023-04-17,law,decreto-2023-01-23-4-primera-seccion,ley-de-la-procuraduria-estatal-de-proteccion-al-ambiente ley-del-procedimiento-contencioso-administrativo,4,main
+2023-04-17,law,decreto-2023-01-23-4-primera-seccion,ley-de-responsabilidad-patrimonial,4,main
+2023-04-18,law,decreto-2023-04-17-16-primera-seccion,ley-del-patronato-de-la-feria-nacional-de-san-marcos-aguasca,2,main
+2023-04-20,law,reforma-2023-04-17-16-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,8,main
+2023-04-24,law,fe-de-erratas-2023-04-24-17-tercera-seccion,codigo-municipal-del-municipio-de-el-llano,5,main
+2023-04-27,law,decreto-2023-04-24-17-tercera-seccion,codigo-municipal-de-calvillo-aguascalientes,5,main
+2023-05-04,law,reforma-2023-05-01-18-primera-seccion,codigo-municipal-de-san-jose-de-gracia-aguascalientes,181,main
+2023-05-09,law,decreto-2023-05-08-19-edicion-vespertina,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-cambio-climatico ley-de-creacion-de-la-universidad-tecnologica-metropolitana ley-de-cultura-fisica-y-deporte ley-de-desarrollo-social ley-de-fomento-a-las-organizaciones-de-la-sociedad-civil ley-de-fomento-para-el-desarrollo-de-los-jovenes-emprendedor ley-de-integracion-social-y-productiva-de-personas-con-disca ley-de-la-universidad-politecnica-de-aguascalientes ley-de-salud ley-del-centro-de-conciliacion-laboral ley-del-instituto-aguascalentense-de-la-juventud-aguascalien ley-para-el-desarrollo-agricola ley-para-el-desarrollo-pecuario ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo ley-para-evitar-el-desperdicio-de-alimentos-en-el-estado-de ley-para-la-igualdad-entre-mujeres-y-hombres ley-para-la-proteccion-especial-de-las-personas-adultas-mayo ley-para-prevenir-y-erradicar-la-trata-de-personas-en-el-est,60,main
+2023-05-09,law,decreto-2023-05-08-19-edicion-vespertina-2,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-cultura-fisica-y-deporte ley-de-salud ley-para-la-igualdad-entre-mujeres-y-hombres,18,main
+2023-05-09,law,decreto-2023-05-08-19-edicion-vespertina-3,ley-de-cultura-fisica-y-deporte,7,main
+2023-05-11,law,decreto-2023-05-10-23-extraordinario,ley-de-mejora-regulatoria-y-gestion-empresarial,2,main
+2023-05-16,law,decreto-2023-05-15-20-primera-seccion,codigo-municipal-del-municipio-de-el-llano codigo-penal ley-de-proteccion-ambiental ley-organica-de-la-administracion-publica-estatal-de-aguasca,20,main
+2023-05-23,law,reforma-2023-05-22-21-primera-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,169,main
+2023-05-25,law,decreto-2023-05-24-26-extraordinario,ley-de-mejora-regulatoria-y-gestion-empresarial,2,main
+2023-05-31,law,decreto-2023-05-30-28-extraordinario,codigo-penal ley-de-agua ley-de-ciencia-tecnologia-innovacion-y-emprendimiento-para-e ley-de-video-vigilancia ley-organica-de-la-administracion-publica-estatal-de-aguasca,19,main
+2023-05-31,law,decreto-2023-05-30-28-extraordinario-2,codigo-penal,2,main
+2023-06-01,law,fe-de-erratas-2023-06-01-29-extraordinario,ley-de-agua,4,main
+2023-06-06,law,reforma-2023-06-05-23-tercera-seccion,codigo-municipal-para-el-h-ayuntamiento-de-asientos-aguascal,6,main
+2023-06-06,law,decreto-2023-06-05-23-primera-seccion,constitucion-politica codigo-penal ley-de-cultura-fisica-y-deporte ley-de-la-comision-de-derechos-humanos ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-salud ley-del-instituto-de-servicios-de-salud ley-organica-de-la-administracion-publica-estatal-de-aguasca ley-organica-del-poder-legislativo ley-para-el-desarrollo-agricola ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo,34,main
+2023-06-06,law,decreto-2023-06-05-23-primera-seccion-2,constitucion-politica,2,main
+2023-06-13,law,decreto-2023-06-12-24-primera-seccion,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-la-comision-de-derechos-humanos ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,10,main
+2023-06-20,law,decreto-2023-06-19-25-tercera-seccion,codigo-municipal-del-municipio-de-el-llano,20,main
+2023-06-20,law,resolucion-2023-06-19-25-tercera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,5,main
+2023-06-20,law,decreto-2023-06-19-25-primera-seccion,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo,41,main
+2023-06-20,law,decreto-2023-06-19-25-tercera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2023-06-20,law,decreto-2023-06-19-25-primera-seccion-2,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,3,main
+2023-06-27,law,decreto-2023-06-26-26-primera-seccion,codigo-electoral codigo-penal ley-de-fomento-para-el-desarrollo-de-los-jovenes-emprendedor ley-del-sistema-estatal-anticorrupcion-de-aguascalientes,9,main
+2023-07-04,law,decreto-2023-07-03-27-primera-seccion,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-victimas,13,main
+2023-07-11,law,decreto-2023-07-10-28-primera-seccion,ley-de-cultura-fisica-y-deporte ley-para-el-control-de-las-entidades-paraestatales ley-para-el-desarrollo-pecuario,9,main
+2023-07-18,law,decreto-2023-07-17-29-primera-seccion,codigo-penal ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,5,main
+2023-07-18,law,decreto-2023-07-17-29-primera-seccion-2,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,2,main
+2023-07-20,law,reforma-2023-07-17-29-primera-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,7,main
+2023-07-25,law,decreto-2023-07-24-30-primera-seccion,constitucion-politica codigo-municipal-de-pabellon-de-arteaga-aguascalientes ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-responsabilidades-administrativas ley-para-el-desarrollo-agricola ley-para-la-atencion-y-prevencion-de-la-desaparicion-de-pers,326,main
+2023-08-08,start,decreto-2023-08-07-32-primera-seccion,ley-de-la-universidad-tecnologica-el-retono-aguascalientes,46,main
+2023-08-08,start,decreto-2023-08-07-32-primera-seccion,ley-para-la-prevencion-atencion-integral-y-control-de-las-ad,104,main
+2023-08-08,law,decreto-2023-08-07-32-primera-seccion,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-cultura ley-de-educacion ley-de-prevencion-social-de-la-violencia-y-la-delincuencia-c ley-de-salud ley-para-el-desarrollo-pecuario,29,main
+2023-08-08,law,decreto-2023-08-07-32-primera-seccion-2,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-salud,14,main
+2023-08-09,law,decreto-2023-08-08-37-extraordinario,constitucion-politica,22,main
+2023-08-13,law,decreto-2023-05-15-20-primera-seccion,codigo-civil,2,main
+2023-08-13,law,decreto-2023-06-19-25-primera-seccion,codigo-civil,3,main
+2023-08-15,law,decreto-2023-08-14-33-primera-seccion,constitucion-politica,295,main
+2023-09-05,law,decreto-2023-09-04-36-primera-seccion,constitucion-politica,2,main
+2023-09-19,law,resolucion-2023-09-18-38-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,9,main
+2023-10-01,law,resolucion-2023-09-28-44-extraordinario,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2023-10-03,law,resolucion-2023-10-02-40-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2023-10-05,law,decreto-2023-10-04-45-extraordinario,codigo-penal,2,main
+2023-10-17,law,reforma-2023-10-16-42-primera-seccion,codigo-municipal-de-san-jose-de-gracia-aguascalientes,4,main
+2023-10-22,law,decreto-2023-10-11-46-extraordinario,ley-de-hacienda-del-municipio-de-aguascalientes-aguascalient,10,main
+2023-10-22,law,decreto-2023-10-16-42-vespertina,ley-de-hacienda-del-municipio-de-aguascalientes-aguascalient,2,main
+2023-10-24,law,decreto-2023-10-23-43-primera-seccion,codigo-penal codigo-urbano ley-de-seguridad-privada ley-organica-del-poder-legislativo,19,main
+2023-10-24,law,decreto-2023-10-23-43-primera-seccion-2,codigo-penal,2,main
+2023-10-28,start,ley-2023-10-27-49-extraordinario,ley-del-instituto-de-atencion-integral-de-enfermedades-renal,64,main
+2023-10-28,law,decreto-2023-10-27-49-extraordinario,ley-de-salud ley-del-patronato-de-la-feria-nacional-de-san-marcos-aguasca,17,main
+2023-11-07,start,ley-2023-11-06-45-primera-seccion,ley-para-la-proteccion-de-los-derechos-de-las-personas-migra,35,main
+2023-11-07,law,decreto-2023-11-06-45-primera-seccion,codigo-civil codigo-penal codigo-urbano ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-adquisiciones-arrendamientos-y-servicios ley-de-educacion ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-presupuesto-gasto-publico-y-responsabilidad-hacendari ley-de-proteccion-ambiental ley-de-salud ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient,46,main
+2023-11-07,law,decreto-2023-11-06-45-primera-seccion-2,codigo-penal ley-de-educacion,10,main
+2023-11-09,law,decreto-2023-11-06-45-primera-seccion,ley-de-agua,4,main
+2023-11-14,law,decreto-2023-11-13-46-primera-seccion,ley-de-educacion ley-organica-de-la-fiscalia-general,33,main
+2023-11-21,law,decreto-2023-11-20-47-primera-seccion,ley-organica-del-poder-legislativo,2,main
+2023-11-23,law,reforma-2023-11-20-47-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2023-11-28,law,decreto-2023-11-27-48-primera-seccion,codigo-penal codigo-urbano ley-de-desarrollo-social ley-de-educacion ley-de-hacienda-del-municipio-de-aguascalientes-aguascalient ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-municipal,31,main
+2023-12-02,start,ley-2023-12-01-57-extraordinario,ley-organica-del-tribunal-de-justicia-administrativa,60,main
+2023-12-07,law,decreto-2023-12-04-49-primera-seccion,ley-organica-del-poder-legislativo,2,main
+2023-12-11,law,fe-de-erratas-2023-12-11-50-primera-seccion,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,3,main
+2023-12-12,law,decreto-2023-12-11-50-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes codigo-penal,6,main
+2023-12-19,law,decreto-2023-12-18-51-primera-seccion,constitucion-politica codigo-civil ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-cultura-fisica-y-deporte ley-de-educacion ley-de-proteccion-ambiental ley-de-salud ley-del-sistema-estatal-anticorrupcion-de-aguascalientes,24,main
+2023-12-19,law,decreto-2023-12-18-51-primera-seccion-2,constitucion-politica ley-de-educacion,26,main
+2023-12-19,law,decreto-2023-12-18-51-primera-seccion-3,constitucion-politica ley-de-educacion,6,main
+2023-12-26,law,decreto-2023-12-25-52-primera-seccion,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-asociaciones-publico-privadas-y-proyectos-de-prestaci ley-de-cultura-fisica-y-deporte ley-de-educacion ley-de-premios-que-otorga-el-congreso ley-de-proteccion-a-los-animales ley-organica-de-la-administracion-publica-estatal-de-aguasca ley-para-el-desarrollo-agricola ley-para-la-proteccion-especial-de-las-personas-adultas-mayo,111,main
+2023-12-28,start,ley-2023-12-27-60-extraordinario,ley-de-bienes,162,main
+2023-12-28,start,ley-2023-12-27-60-extraordinario,ley-de-justicia-constitucional,137,main
+2023-12-28,start,ley-2023-12-27-60-extraordinario,ley-del-servicio-profesional-de-carrera-judicial-del-poder-j,38,main
+2023-12-28,start,ley-2023-12-27-60-extraordinario,ley-organica-del-poder-judicial,124,main
+2023-12-28,law,decreto-2023-12-25-52-primera-seccion,ley-del-notariado,3,main
+2023-12-28,law,decreto-2023-12-27-60-extraordinario,codigo-penal ley-organica-de-la-administracion-publica-estatal-de-aguasca,10,main
+2024-01-01,start,ley-2023-12-27-60-extraordinario,ley-para-la-proteccion-de-personas-defensoras-de-derechos-hu,34,main
+2024-01-01,law,decreto-2023-12-29-61-extraordinario-decima-primera-seccion,ley-de-hacienda-del-municipio-de-san-francisco-de-los-romo-a,32,main
+2024-01-01,law,decreto-2023-12-29-61-extraordinario-octava-seccion,ley-de-hacienda-del-municipio-de-jesus-maria-aguascalientes,3,main
+2024-01-02,law,resolucion-2024-01-01-1-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,25,main
+2024-01-02,law,decreto-2024-01-01-1-tercera-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,8,main
+2024-01-02,law,resolucion-2024-01-01-1-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,26,main
+2024-01-02,law,resolucion-2024-01-01-1-primera-seccion-3,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2024-01-09,law,decreto-2024-01-08-2-primera-seccion,constitucion-politica codigo-civil codigo-penal ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-salud ley-municipal ley-para-la-atencion-y-prevencion-de-la-desaparicion-de-pers,52,main
+2024-01-09,law,decreto-2024-01-08-2-primera-seccion-2,constitucion-politica,2,main
+2024-01-09,law,decreto-2024-01-08-2-primera-seccion-3,constitucion-politica,2,main
+2024-01-16,law,decreto-2024-01-15-3-primera-seccion,codigo-civil codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-mejora-regulatoria-y-gestion-empresarial ley-de-proteccion-ambiental ley-organica-de-la-administracion-publica-estatal-de-aguasca ley-para-el-desarrollo-pecuario ley-para-la-proteccion-especial-de-las-personas-adultas-mayo,384,main
+2024-01-16,law,decreto-2024-01-15-3-primera-seccion-2,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-proteccion-ambiental,6,main
+2024-01-23,law,reforma-2024-01-22-4-cuarta-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,2,main
+2024-01-23,law,decreto-2024-01-22-4-ordinario-primera-seccion,codigo-urbano,2,main
+2024-01-23,law,decreto-2024-01-22-4-primera-seccion,codigo-penal ley-de-archivos ley-de-asociaciones-publico-privadas-y-proyectos-de-prestaci ley-de-ciencia-tecnologia-innovacion-y-emprendimiento-para-e ley-de-cultura-fisica-y-deporte ley-de-educacion ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-planeacion-para-el-desarrollo ley-de-prevencion-social-de-la-violencia-y-la-delincuencia-c ley-de-proteccion-a-los-animales ley-de-salud ley-organica-de-la-fiscalia-general ley-para-la-igualdad-entre-mujeres-y-hombres ley-para-prevenir-atender-y-erradicar-la-violencia-escolar-e,159,main
+2024-01-23,law,decreto-2024-01-22-4-primera-seccion-2,ley-de-ciencia-tecnologia-innovacion-y-emprendimiento-para-e,4,main
+2024-01-23,law,fe-de-erratas-2024-01-23-5-extraordinario,ley-de-asociaciones-publico-privadas-y-proyectos-de-prestaci,1,main
+2024-01-25,law,decreto-2024-01-22-4-primera-seccion,ley-organica-de-la-administracion-publica-estatal-de-aguasca,3,main
+2024-01-30,law,reforma-2024-01-29-5-quinta-seccion,codigo-municipal-para-el-h-ayuntamiento-de-asientos-aguascal,3,main
+2024-02-22,law,decreto-2024-02-19-8-primera-seccion,codigo-municipal-de-calvillo-aguascalientes,2,main
+2024-03-12,law,decreto-2024-03-11-11-primera-seccion,constitucion-politica,7,main
+2024-03-19,law,reforma-2024-03-18-12-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2024-03-19,law,reforma-2024-03-18-12-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,12,main
+2024-03-26,law,decreto-2024-03-25-13-primera-seccion,ley-organica-del-poder-legislativo,2,main
+2024-04-02,law,decreto-2024-04-01-14-primera-seccion,codigo-civil codigo-penal ley-de-adquisiciones-arrendamientos-y-servicios ley-de-la-comision-de-derechos-humanos ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-del-centro-de-conciliacion-laboral ley-del-instituto-aguascalentense-de-las-personas-adultas-ma ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient ley-para-la-proteccion-especial-de-las-personas-adultas-mayo,22,main
+2024-04-02,law,decreto-2024-04-01-14-primera-seccion-2,codigo-civil,2,main
+2024-04-02,law,decreto-2024-04-01-14-primera-seccion-3,codigo-civil,3,main
+2024-04-09,law,reforma-2024-04-08-15-primera-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,3,main
+2024-04-25,law,reforma-2024-04-22-17-cuarta-seccion,codigo-municipal-para-el-h-ayuntamiento-de-asientos-aguascal,793,main
+2024-04-30,law,decreto-2024-04-29-18-primera-seccion,ley-organica-del-poder-legislativo,14,main
+2024-04-30,law,decreto-2024-04-29-18-primera-seccion-2,ley-organica-del-poder-legislativo,9,main
+2024-05-07,law,decreto-2024-05-06-19-primera-seccion,ley-de-cultura-fisica-y-deporte ley-de-educacion ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient ley-para-prevenir-y-erradicar-la-discriminacion,8,main
+2024-05-14,law,decreto-2024-05-13-20-primera-seccion,codigo-civil codigo-municipal-de-pabellon-de-arteaga-aguascalientes codigo-urbano ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-proteccion-ambiental ley-de-responsabilidad-patrimonial ley-de-responsabilidades-administrativas ley-de-seguridad-y-servicios-sociales-para-los-servidores-pu ley-del-instituto-de-capacitacion-para-el-trabajo ley-del-sistema-estatal-anticorrupcion-de-aguascalientes ley-municipal ley-para-evitar-el-desperdicio-de-alimentos-en-el-estado-de ley-para-la-atencion-y-prevencion-de-la-desaparicion-de-pers ley-para-la-igualdad-entre-mujeres-y-hombres,87,main
+2024-05-14,law,decreto-2024-05-13-20-primera-seccion-2,codigo-civil ley-de-responsabilidades-administrativas ley-municipal,13,main
+2024-05-21,start,ley-2024-05-20-21-primera-seccion,ley-organica-de-la-universidad-tecnologica-de-aguascalientes,60,main
+2024-05-21,law,decreto-2024-05-20-21-primera-seccion,codigo-penal ley-de-cambio-climatico ley-de-participacion-ciudadana ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient ley-para-el-control-de-las-entidades-paraestatales ley-para-la-atencion-y-prevencion-de-la-desaparicion-de-pers,18,main
+2024-05-21,law,decreto-2024-05-20-21-primera-seccion-2,codigo-penal,2,main
+2024-05-28,law,decreto-2024-05-27-22-primera-seccion,codigo-penal codigo-urbano ley-de-cambio-climatico ley-de-ciencia-tecnologia-innovacion-y-emprendimiento-para-e ley-de-educacion ley-de-planeacion-para-el-desarrollo ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-de ley-del-sistema-estatal-de-asistencia-social-y-de-integracio,22,main
+2024-05-28,law,decreto-2024-05-27-22-primera-seccion-2,ley-de-ciencia-tecnologia-innovacion-y-emprendimiento-para-e,7,main
+2024-06-03,law,fe-de-erratas-2024-06-03-23-primera-seccion,codigo-municipal-para-el-h-ayuntamiento-de-asientos-aguascal,542,main
+2024-06-04,start,ley-2024-06-03-23-primera-seccion,ley-de-fomento-a-la-produccion-cinematografica-y-audiovisual,17,main
+2024-06-04,law,decreto-2024-06-03-23-tercera-seccion,codigo-municipal-de-san-jose-de-gracia-aguascalientes,2,main
+2024-06-04,law,decreto-2024-06-03-23-primera-seccion,constitucion-politica codigo-penal ley-de-ciencia-tecnologia-innovacion-y-emprendimiento-para-e ley-de-cultura-fisica-y-deporte ley-de-desarrollo-social ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-salud ley-para-la-igualdad-entre-mujeres-y-hombres,31,main
+2024-06-04,law,decreto-2024-06-03-23-primera-seccion-2,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-para-la-igualdad-entre-mujeres-y-hombres,1443,main
+2024-06-11,law,decreto-2024-06-10-24-primera-seccion,constitucion-politica codigo-civil ley-de-cultura ley-de-integracion-social-y-productiva-de-personas-con-disca ley-de-seguridad-privada,19,main
+2024-06-11,law,decreto-2024-06-10-24-primera-seccion-2,constitucion-politica ley-de-integracion-social-y-productiva-de-personas-con-disca,4,main
+2024-06-25,law,decreto-2024-06-24-26-primera-seccion,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-salud ley-del-instituto-de-vivienda-social-y-ordenamiento-de-la-pr ley-municipal,1451,main
+2024-06-25,law,decreto-2024-06-24-26-primera-seccion-2,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,2,main
+2024-07-02,law,decreto-2024-07-01-27-primera-seccion,codigo-civil ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-proteccion-contra-la-exposicion-al-humo-de-tabaco ley-de-salud ley-de-turismo ley-del-instituto-de-asesoria-y-defensoria-publica ley-del-notariado ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient ley-organica-de-la-administracion-publica-estatal-de-aguasca ley-para-el-control-de-las-entidades-paraestatales ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo ley-para-la-atencion-y-prevencion-de-la-desaparicion-de-pers ley-para-la-igualdad-entre-mujeres-y-hombres ley-para-la-proteccion-especial-de-las-personas-adultas-mayo ley-para-prevenir-atender-y-erradicar-la-violencia-escolar-e,56,main
+2024-07-02,law,decreto-2024-07-01-27-primera-seccion-2,ley-de-salud,3,main
+2024-07-16,law,decreto-2024-07-15-29-primera-seccion,codigo-municipal-de-tepezala-aguascalientes codigo-penal ley-de-agua ley-de-la-procuraduria-estatal-de-proteccion-al-ambiente ley-de-proteccion-a-los-animales ley-de-proteccion-ambiental ley-para-la-proteccion-especial-de-las-personas-adultas-mayo,101,main
+2024-07-19,law,decreto-2024-07-18-43-extraordinario,codigo-urbano,3,main
+2024-07-23,law,decreto-2024-07-22-30-primera-seccion,ley-de-agua ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-proteccion-a-los-animales ley-del-sistema-estatal-de-asistencia-social-y-de-integracio,25,main
+2024-07-23,law,decreto-2024-07-22-30-primera-seccion-2,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,7,main
+2024-07-23,law,decreto-2024-07-22-30-primera-seccion-3,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,2,main
+2024-07-29,law,fe-de-erratas-2024-07-29-31-primera-seccion,codigo-urbano,1,main
+2024-08-06,law,decreto-2024-08-05-32-primera-seccion,codigo-penal ley-de-salud ley-de-turismo,9,main
+2024-08-06,law,decreto-2024-08-05-32-primera-seccion-2,ley-de-salud,2,main
+2024-08-08,law,decreto-2024-08-05-32-primera-seccion,ley-de-participacion-ciudadana,2,main
+2024-08-13,start,ley-2024-08-12-33-primera-seccion,ley-de-bibliotecas-publicas-y-de-fomento-a-la-lectura,31,main
+2024-08-13,law,decreto-2024-08-12-33-primera-seccion,constitucion-politica codigo-municipal-de-pabellon-de-arteaga-aguascalientes codigo-urbano ley-de-adquisiciones-arrendamientos-y-servicios ley-de-educacion ley-municipal ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo ley-para-la-proteccion-especial-de-las-personas-adultas-mayo,32,main
+2024-08-13,law,decreto-2024-08-12-33-primera-seccion-2,constitucion-politica ley-de-adquisiciones-arrendamientos-y-servicios,6,main
+2024-08-14,law,decreto-2024-08-13-46-extraordinario,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-asociaciones-publico-privadas-y-proyectos-de-prestaci,30,main
+2024-08-15,law,decreto-2024-08-12-33-primera-seccion,ley-de-proteccion-civil,11,main
+2024-08-25,law,decreto-2024-05-27-22-primera-seccion,ley-para-el-desarrollo-agricola,3,main
+2024-08-27,law,resolucion-2024-08-26-35-edicion-vespertina,codigo-municipal-de-aguascalientes-aguascalientes,17,main
+2024-08-29,start,ley-2024-08-28-50-extraordinario,ley-de-salud-mental,40,main
+2024-08-29,law,decreto-2024-08-28-50-extraordinario,ley-de-salud,14,main
+2024-09-03,start,ley-2024-09-02-36-primera-seccion,ley-de-la-agencia-de-energia,61,main
+2024-09-03,law,reforma-2024-09-02-36-cuarta-seccion,codigo-municipal-de-aguascalientes-aguascalientes,18,main
+2024-09-03,law,decreto-2024-09-02-36-primera-seccion,ley-de-cambio-climatico,4,main
+2024-09-03,law,reforma-2024-09-02-36-cuarta-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2024-09-24,start,ley-2024-09-23-39-primera-seccion,ley-para-la-proteccion-a-la-vida,36,main
+2024-09-24,law,reforma-2024-09-23-39-primera-seccion,codigo-municipal-de-san-jose-de-gracia-aguascalientes,6,main
+2024-09-24,law,decreto-2024-09-23-39-primera-seccion,codigo-civil codigo-penal ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-para-prevenir-y-erradicar-la-discriminacion,166,main
+2024-09-24,law,decreto-2024-09-23-39-primera-seccion-2,codigo-penal,3,main
+2024-09-24,law,decreto-2024-09-23-39-primera-seccion-3,codigo-penal,3,main
+2024-09-24,law,decreto-2024-09-23-39-primera-seccion-4,codigo-penal,3,main
+2024-09-24,law,decreto-2024-09-23-39-primera-seccion-5,codigo-penal,3,main
+2024-09-24,law,decreto-2024-09-23-39-primera-seccion-6,codigo-penal,5,main
+2024-09-26,law,decreto-2024-09-23-39-primera-seccion,ley-de-proteccion-ambiental,2,main
+2024-09-26,law,fe-de-erratas-2024-09-26-55-extraordinario,codigo-penal,2,main
+2024-10-01,law,reforma-2024-09-30-40-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2024-10-01,law,decreto-2024-09-30-40-tercera-seccion,codigo-municipal-de-calvillo-aguascalientes,3,main
+2024-10-01,law,reforma-2024-09-30-40-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,4,main
+2024-10-03,law,decreto-2024-05-06-19-primera-seccion,ley-organica-del-poder-legislativo,9,main
+2024-10-03,law,decreto-2024-05-20-21-primera-seccion,ley-organica-del-poder-legislativo,2,main
+2024-10-03,law,decreto-2024-06-17-25-primera-seccion,ley-organica-del-poder-legislativo,4,main
+2024-10-15,law,decreto-2024-10-14-42-primera-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,2,main
+2024-10-15,law,decreto-2024-10-14-42-primera-seccion-2,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,2,main
+2024-10-20,law,decreto-2024-07-22-30-primera-seccion,ley-de-cultura-fisica-y-deporte,430,main
+2024-10-20,law,decreto-2024-09-23-39-primera-seccion,ley-de-cultura-fisica-y-deporte,432,main
+2024-10-22,law,reforma-2024-10-21-43-edicion-vespertina,codigo-municipal-del-municipio-de-el-llano,2,main
+2024-10-22,law,reforma-2024-10-21-43-edicion-vespertina-2,codigo-municipal-del-municipio-de-el-llano,8,main
+2024-10-22,law,reforma-2024-10-21-43-edicion-vespertina-3,codigo-municipal-del-municipio-de-el-llano,3,main
+2024-10-22,law,reforma-2024-10-21-43-edicion-vespertina-4,codigo-municipal-del-municipio-de-el-llano,3,main
+2024-11-04,law,fe-de-erratas-2024-11-04-45-edicion-vespertina,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2024-11-09,law,decreto-2024-05-13-20-primera-seccion,ley-de-creacion-de-la-universidad-tecnologica-metropolitana ley-de-la-universidad-politecnica-de-aguascalientes ley-de-la-universidad-tecnologica-del-norte-de-aguascaliente ley-de-la-universidad-tecnologica-el-retono-aguascalientes ley-organica-de-la-universidad-autonoma-de-aguascalientes ley-organica-de-la-universidad-tecnologica-de-calvillo ley-por-la-que-se-crea-la-universidad-de-la-policia-y-cienci,38,main
+2024-11-12,law,reforma-2024-11-11-46-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,23,main
+2024-11-26,law,decreto-2024-11-25-48-primera-seccion,codigo-civil codigo-fiscal codigo-penal ley-de-fomento-a-las-organizaciones-de-la-sociedad-civil ley-de-instituciones-asistenciales-para-ninas-ninos-y-adoles ley-de-la-comision-de-derechos-humanos ley-de-presupuesto-gasto-publico-y-responsabilidad-hacendari ley-municipal ley-para-el-control-de-las-entidades-paraestatales ley-para-el-desarrollo-agricola,26,main
+2024-11-26,law,decreto-2024-11-25-48-primera-seccion-2,ley-municipal,2,main
+2024-12-03,law,decreto-2024-12-02-49-primera-seccion,codigo-civil codigo-municipal-de-san-francisco-de-los-romo-aguascalientes ley-de-cultura-fisica-y-deporte ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-del-procedimiento-contencioso-administrativo ley-organica-del-poder-legislativo,54,main
+2024-12-05,law,reforma-2024-12-02-49-primera-seccion,codigo-municipal-para-el-h-ayuntamiento-de-asientos-aguascal,13,main
+2024-12-10,law,reforma-2024-12-09-50-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,6,main
+2024-12-10,law,decreto-2024-12-09-50-primera-seccion,ley-organica-de-la-administracion-publica-estatal-de-aguasca,3,main
+2024-12-10,law,reforma-2024-12-09-50-primera-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,4,main
+2024-12-17,law,decreto-2024-12-16-51-primera-seccion,codigo-electoral ley-de-cultura-fisica-y-deporte ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-para-el-control-de-las-entidades-paraestatales,9,main
+2024-12-19,law,decreto-2024-12-16-51-primera-seccion,ley-de-proteccion-ambiental,2,main
+2024-12-19,law,decreto-2024-12-18-66-extraordinario,constitucion-politica,27,main
+2024-12-24,law,decreto-2024-12-23-52-primera-seccion,codigo-civil ley-de-proteccion-ambiental ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient,7,main
+2024-12-24,law,decreto-2024-12-23-52-edicion-vespertina,codigo-electoral ley-de-bienes ley-del-instituto-de-vivienda-social-y-ordenamiento-de-la-pr ley-organica-del-poder-judicial,189,main
+2024-12-26,law,fe-de-erratas-2024-12-26-67-extraordinario,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2024-12-28,law,decreto-2024-12-27-68-extraordinario-decima-tercera-seccion,codigo-fiscal ley-de-hacienda ley-de-presupuesto-gasto-publico-y-responsabilidad-hacendari,16,main
+2025-01-01,law,decreto-2024-12-26-67-extraordinario,ley-organica-del-instituto-aguascalentense-de-las-personas-m,6,main
+2025-01-07,law,decreto-2025-01-06-1-primera-seccion,ley-de-la-juventud ley-para-la-proteccion-especial-de-las-personas-adultas-mayo,7,main
+2025-01-14,law,decreto-2025-01-13-2-primera-seccion,codigo-civil ley-del-sistema-estatal-de-asistencia-social-y-de-integracio,5,main
+2025-01-14,law,decreto-2025-01-13-2-edicion-vespertina,ley-de-seguridad-y-servicios-sociales-para-los-servidores-pu,77,main
+2025-01-28,law,decreto-2025-01-27-4-primera-seccion,constitucion-politica codigo-penal,482,main
+2025-02-05,law,decreto-2025-02-04-8-extraordinario,ley-organica-de-la-fiscalia-general,2,main
+2025-02-11,law,reforma-2025-02-10-6-cuarta-seccion,codigo-municipal-del-municipio-de-el-llano,25,main
+2025-02-11,law,reforma-2025-02-10-6-cuarta-seccion-2,codigo-municipal-del-municipio-de-el-llano,82,main
+2025-02-11,law,reforma-2025-02-10-6-cuarta-seccion-3,codigo-municipal-del-municipio-de-el-llano,2,main
+2025-02-20,law,decreto-2025-02-17-7-primera-seccion,codigo-municipal-de-calvillo-aguascalientes,5,main
+2025-02-25,law,reforma-2025-02-24-8-primera-seccion,codigo-municipal-para-el-h-ayuntamiento-de-asientos-aguascal,3,main
+2025-03-11,law,decreto-2025-03-10-10-primera-seccion,constitucion-politica ley-municipal ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo,9,main
+2025-04-01,law,reforma-2025-03-31-13-edicion-vespertina,codigo-municipal-de-aguascalientes-aguascalientes,15,main
+2025-04-01,law,decreto-2025-03-31-13-primera-seccion,codigo-urbano,2,main
+2025-04-01,law,reforma-2025-03-31-13-edicion-vespertina-2,codigo-municipal-de-aguascalientes-aguascalientes,7,main
+2025-04-15,law,reforma-2025-04-14-15-cuarta-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,3,main
+2025-04-15,law,decreto-2025-04-14-15-primera-seccion,constitucion-politica,12,main
+2025-04-17,law,decreto-2025-04-16-27-extraordinario,codigo-penal ley-municipal,484,main
+2025-04-26,law,decreto-2025-04-25-28-extraordinario,constitucion-politica,6,main
+2025-04-30,law,decreto-2025-04-29-29-extraordinario,codigo-urbano ley-de-ciencia-tecnologia-innovacion-y-emprendimiento-para-e ley-de-desarrollo-social ley-de-la-juventud ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-prevencion-social-de-la-violencia-y-la-delincuencia-c ley-organica-del-instituto-aguascalentense-de-las-personas-m ley-para-la-igualdad-entre-mujeres-y-hombres ley-para-la-proteccion-de-personas-defensoras-de-derechos-hu ley-para-prevenir-y-erradicar-la-discriminacion,35,main
+2025-04-30,law,decreto-2025-04-29-29-extraordinario-2,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,2,main
+2025-05-03,start,ley-2025-05-02-30-extraordinario,ley-de-la-universidad-intercultural-para-la-igualdad-de-agua,73,main
+2025-05-06,law,decreto-2025-05-05-18-primera-seccion,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-salud ley-de-turismo ley-del-procedimiento-contencioso-administrativo ley-para-la-proteccion-de-los-derechos-de-las-personas-migra,21,main
+2025-05-08,law,decreto-2025-05-07-32-extraordinario,codigo-civil ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-creacion-de-la-universidad-tecnologica-metropolitana ley-de-cultura-fisica-y-deporte ley-de-la-universidad-tecnologica-del-norte-de-aguascaliente ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,16,main
+2025-05-13,law,decreto-2025-05-12-19-primera-seccion,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,25,main
+2025-05-20,law,reforma-2025-05-19-20-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2025-05-20,law,decreto-2025-05-19-20-primera-seccion,codigo-civil codigo-fiscal codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-fiscalizacion-superior ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-obras-publicas-y-servicios-relacionados ley-de-salud-mental ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo,644,main
+2025-05-22,law,decreto-2025-05-19-20-primera-seccion-2,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,9,main
+2025-05-27,law,decreto-2025-05-26-21-primera-seccion,codigo-civil codigo-penal ley-de-educacion ley-de-hacienda ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-responsabilidades-administrativas ley-por-la-que-se-crea-la-universidad-de-la-policia-y-cienci,612,main
+2025-05-27,law,fe-de-erratas-2025-05-26-21-primera-seccion,ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,3,main
+2025-06-03,law,decreto-2025-06-02-22-edicion-vespertina,ley-de-ciencia-tecnologia-innovacion-y-emprendimiento-para-e ley-de-educacion ley-de-la-juventud ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo,10,main
+2025-06-03,law,decreto-2025-06-02-22-primera-seccion,constitucion-politica ley-de-la-universidad-intercultural-para-la-igualdad-de-agua,8,main
+2025-06-10,law,decreto-2025-06-09-23-primera-seccion,ley-organica-del-poder-legislativo,6,main
+2025-06-17,start,ley-2025-06-16-24-edicion-vespertina,ley-de-proteccion-de-datos-personales-en-posesion-de-los-suj,106,main
+2025-06-17,start,ley-2025-06-16-24-edicion-vespertina,ley-de-transparencia-y-acceso-a-la-informacion-publica,109,main
+2025-06-17,law,decreto-2025-06-16-24-edicion-vespertina,codigo-electoral ley-de-obras-publicas-y-servicios-relacionados ley-de-presupuesto-gasto-publico-y-responsabilidad-hacendari ley-del-centro-de-conciliacion-laboral ley-organica-de-la-administracion-publica-estatal-de-aguasca,35,main
+2025-06-17,law,decreto-2025-06-16-24-primera-seccion,codigo-civil codigo-penal ley-de-la-comision-de-derechos-humanos ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-salud ley-de-salud-mental,27,main
+2025-06-17,law,decreto-2025-06-16-24-primera-seccion-2,codigo-civil,2,main
+2025-06-26,law,reforma-2025-06-23-25-tercera-seccion,codigo-municipal-del-municipio-de-el-llano,10,main
+2025-06-26,law,reforma-2025-06-23-25-tercera-seccion-2,codigo-municipal-del-municipio-de-el-llano,2,main
+2025-07-01,law,decreto-2025-06-30-26-primera-seccion,ley-de-cambio-climatico ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-premios-que-otorga-el-congreso ley-para-la-prevencion-atencion-integral-y-control-de-las-ad,47,main
+2025-07-08,law,reforma-2025-07-07-27-primera-seccion,codigo-municipal-para-el-h-ayuntamiento-de-asientos-aguascal,5,main
+2025-07-10,law,decreto-2025-07-09-42-extraordinario,codigo-urbano,2,main
+2025-07-10,law,decreto-2025-07-09-42-extraordinario-2,codigo-urbano,2,main
+2025-07-15,law,decreto-2025-07-14-28-primera-seccion,codigo-civil ley-de-ciencia-tecnologia-innovacion-y-emprendimiento-para-e ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient ley-municipal ley-organica-de-la-fiscalia-general ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo,47,main
+2025-07-22,law,decreto-2025-07-21-29-primera-seccion,constitucion-politica ley-de-proteccion-civil ley-de-salud ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient,26,main
+2025-07-22,law,decreto-2025-07-21-29-primera-seccion-2,ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient,2,main
+2025-07-29,law,decreto-2025-07-28-30-primera-seccion,codigo-penal ley-de-educacion,5,main
+2025-07-29,law,decreto-2025-07-28-30-primera-seccion-2,codigo-penal,3,main
+2025-08-26,law,adicion-2025-08-25-34-cuarta-seccion,codigo-municipal-de-aguascalientes-aguascalientes,4,main
+2025-08-26,law,decreto-2025-08-25-34-primera-seccion,constitucion-politica,2,main
+2025-08-26,law,reforma-2025-08-25-34-cuarta-seccion,codigo-municipal-de-aguascalientes-aguascalientes,8,main
+2025-09-23,law,decreto-2025-09-22-38-primera-seccion,ley-de-educacion ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient ley-municipal,7,main
+2025-09-25,law,decreto-2025-09-22-38-primera-seccion,ley-de-la-juventud,2,main
+2025-09-30,law,fe-de-erratas-2025-09-30-48-extraordinario,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2025-10-01,law,decreto-2025-09-30-48-extraordinario,constitucion-politica ley-de-bienes ley-organica-del-poder-legislativo,29,main
+2025-10-09,law,reforma-2025-10-06-40-primera-seccion,codigo-municipal-del-municipio-de-el-llano,13,main
+2025-10-21,law,decreto-2025-10-20-42-primera-seccion,codigo-penal ley-de-cultura-fisica-y-deporte ley-de-educacion ley-de-proteccion-a-los-animales ley-municipal ley-para-el-desarrollo-agricola,14,main
+2025-10-21,law,decreto-2025-10-20-42-primera-seccion-2,codigo-penal,11,main
+2025-10-28,law,reforma-2025-10-27-43-tercera-seccion,codigo-municipal-de-san-francisco-de-los-romo-aguascalientes,7,main
+2025-10-29,law,decreto-2025-10-28-52-extraordinario,ley-por-la-que-se-crea-la-universidad-de-la-policia-y-cienci,2,main
+2025-11-04,law,reforma-2025-11-03-44-primera-seccion,codigo-municipal-para-el-h-ayuntamiento-de-asientos-aguascal,4,main
+2025-11-11,law,decreto-2025-11-10-45-primera-seccion,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-agua ley-de-educacion ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-del-procedimiento-contencioso-administrativo,12,main
+2025-11-12,law,decreto-2025-11-11-57-extraordinario,codigo-urbano,2,main
+2025-11-14,law,decreto-2025-11-13-58-extraordinario,codigo-urbano,2,main
+2025-11-22,law,decreto-2025-11-21-61-extraordinario,codigo-civil ley-de-ciencia-tecnologia-innovacion-y-emprendimiento-para-e ley-organica-del-poder-judicial,16,main
+2025-11-25,law,reforma-2025-11-24-47-cuarta-seccion,codigo-municipal-de-aguascalientes-aguascalientes,20,main
+2025-11-25,law,decreto-2025-11-24-47-primera-seccion,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-desarrollo-social ley-de-fomento-para-el-desarrollo-de-los-jovenes-emprendedor ley-de-la-universidad-intercultural-para-la-igualdad-de-agua ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,13,main
+2025-11-25,law,decreto-2025-11-24-47-edicion-vespertina,ley-de-bienes ley-de-presupuesto-gasto-publico-y-responsabilidad-hacendari,4,main
+2025-11-27,law,fe-de-erratas-2025-11-27-63-extraordinario,codigo-municipal-de-aguascalientes-aguascalientes,5,main
+2025-11-28,law,fe-de-erratas-2025-11-28-64-extraordinario,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2025-12-05,law,decreto-2025-12-04-66-extraordinario,constitucion-politica ley-de-bienes,5,main
+2025-12-05,law,decreto-2025-12-04-66-extraordinario-2,constitucion-politica,2,main
+2025-12-09,law,decreto-2025-12-08-49-primera-seccion,codigo-civil codigo-penal ley-de-cultura-fisica-y-deporte ley-de-desarrollo-social ley-de-proteccion-civil ley-organica-de-la-administracion-publica-estatal-de-aguasca ley-para-la-proteccion-especial-de-las-personas-adultas-mayo,25,main
+2025-12-16,start,ley-2025-12-15-50-edicion-vespertina,ley-de-movilidad-y-seguridad-vial,396,main
+2025-12-16,law,decreto-2025-12-15-50-edicion-vespertina,ley-organica-de-la-administracion-publica-estatal-de-aguasca,6,main
+2025-12-16,law,decreto-2025-12-15-50-primera-seccion,codigo-civil codigo-penal ley-de-agua ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-turismo ley-para-prevenir-y-erradicar-la-trata-de-personas-en-el-est,18,main
+2025-12-23,law,decreto-2025-12-22-51-primera-seccion,codigo-civil ley-de-ciencia-tecnologia-innovacion-y-emprendimiento-para-e ley-de-desarrollo-social ley-del-instituto-de-asesoria-y-defensoria-publica ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient ley-municipal ley-para-la-prevencion-atencion-integral-y-control-de-las-ad,29,main
+2025-12-27,start,ley-2025-12-26-71-extraordinario-septima-seccion,ley-de-hacienda-del-municipio-de-cosio-aguascalientes,217,main
+2025-12-27,law,decreto-2025-12-26-71-extraordinario-decima-segunda-seccion,ley-de-hacienda-del-municipio-de-san-francisco-de-los-romo-a,4,main
+2025-12-27,law,decreto-2025-12-26-71-extraordinario-novena-seccion,ley-de-hacienda-del-municipio-de-jesus-maria-aguascalientes,4,main
+2025-12-27,law,decreto-2025-12-26-71-extraordinario-tercera-seccion,codigo-fiscal ley-de-presupuesto-gasto-publico-y-responsabilidad-hacendari,7,main
+2025-12-29,start,ley-2025-12-26-71-extraordinario-decima-seccion,ley-de-ingresos-del-municipio-de-pabellon-de-arteaga-aguasca,2,main
+2025-12-30,law,decreto-2025-12-29-52-primera-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,3,main
+2026-01-01,start,ley-2025-12-26-71-extraordinario-primera-seccion,ley-de-ingresos,56,main
+2026-01-01,start,ley-2025-12-26-71-extraordinario-cuarta-seccion,ley-de-ingresos-del-municipio-de-aguascalientes-aguascalient,3,main
+2026-01-01,start,ley-2025-12-26-71-extraordinario-quinta-seccion,ley-de-ingresos-del-municipio-de-asientos-aguascalientes-par,3,main
+2026-01-01,start,ley-2025-12-26-71-extraordinario-sexta-seccion,ley-de-ingresos-del-municipio-de-calvillo-aguascalientes-par,2,main
+2026-01-01,start,ley-2025-12-26-71-extraordinario-septima-seccion,ley-de-ingresos-del-municipio-de-cosio-aguascalientes-para-e,2,main
+2026-01-01,start,ley-2025-12-26-71-extraordinario-novena-seccion,ley-de-ingresos-del-municipio-de-jesus-maria-aguascalientes,4,main
+2026-01-01,start,ley-2025-12-26-71-extraordinario-decima-primera-seccion,ley-de-ingresos-del-municipio-de-rincon-de-romos-aguascalien,3,main
+2026-01-01,start,ley-2025-12-26-71-extraordinario-decima-segunda-seccion,ley-de-ingresos-del-municipio-de-san-francisco-de-los-romo-a,2,main
+2026-01-01,start,ley-2025-12-26-71-extraordinario-decima-tercera-seccion,ley-de-ingresos-del-municipio-de-san-josre-de-gracia-aguasca,3,main
+2026-01-01,start,ley-2025-12-26-71-extraordinario-decima-cuarta-seccion,ley-de-ingresos-del-municipio-de-tepezala-aguascalientes-par,2,main
+2026-01-01,law,decreto-2025-11-21-61-extraordinario,ley-de-educacion,7,main
+2026-01-01,law,decreto-2025-12-29-52-primera-seccion-2,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,2,main
+2026-01-01,law,decreto-2025-12-29-52-primera-seccion-3,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,2,main
+2026-01-13,start,ley-2026-01-12-2-primera-seccion,ley-para-la-proteccion-de-las-abejas-y-el-desarrollo-apicola,80,main
+2026-01-13,law,decreto-2026-01-12-2-primera-seccion,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-agua ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-proteccion-de-datos-personales-en-posesion-de-los-suj ley-de-transparencia-y-acceso-a-la-informacion-publica ley-del-centro-de-conciliacion-laboral ley-del-sistema-estatal-anticorrupcion-de-aguascalientes ley-municipal ley-para-el-desarrollo-pecuario,286,main
+2026-01-13,law,reforma-2026-01-12-2-cuarta-seccion,codigo-municipal-para-el-h-ayuntamiento-de-asientos-aguascal,2,main
+2026-01-13,law,decreto-2026-01-12-2-primera-seccion-2,codigo-penal,3,main
+2026-01-13,law,decreto-2026-01-12-2-primera-seccion-3,codigo-penal,3,main
+2026-01-13,law,decreto-2026-01-12-2-primera-seccion-4,codigo-penal,5,main
+2026-01-13,law,decreto-2026-01-12-2-primera-seccion-5,codigo-penal,2,main
+2026-01-13,law,decreto-2026-01-12-2-primera-seccion-6,codigo-penal,365,main
+2026-01-13,law,decreto-2026-01-12-2-primera-seccion-7,codigo-penal,367,main
+2026-01-14,start,ley-2025-12-15-50-primera-seccion,ley-para-la-atencion-proteccion-e-inclusion-de-personas-con,21,main
+2026-01-17,law,decreto-2025-12-15-50-primera-seccion,ley-de-la-comision-de-derechos-humanos,37,main
+2026-02-03,law,decreto-2026-02-02-5-primera-seccion,constitucion-politica,2,main
+2026-02-03,law,decreto-2026-02-02-5-tercera-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,19,main
+2026-02-03,law,decreto-2026-02-02-5-primera-seccion-2,constitucion-politica,2,main
+2026-02-17,law,decreto-2026-02-16-7-primera-seccion,constitucion-politica,2,main
+2026-02-17,law,decreto-2026-02-16-7-primera-seccion-2,constitucion-politica,2,main
+2026-02-24,law,decreto-2026-02-23-8-edicion-vespertina,codigo-urbano ley-de-bienes ley-de-ingresos ley-de-ingresos-del-municipio-de-jesus-maria-aguascalientes,8,main
+2026-02-25,law,decreto-2026-02-24-14-extraordinario,codigo-civil codigo-penal ley-de-premios-que-otorga-el-congreso ley-de-responsabilidades-administrativas,8,main
+2026-02-25,law,decreto-2026-02-24-14-extraordinario-2,codigo-penal,3,main
+2026-02-25,law,decreto-2026-02-24-14-extraordinario-3,codigo-penal,4,main
+2026-02-27,law,decreto-2026-02-24-14-extraordinario,ley-de-la-procuraduria-estatal-de-proteccion-al-ambiente,6,main
+2026-02-27,law,decreto-2026-02-26-15-extraordinario,constitucion-politica,2,main
+2026-02-27,law,decreto-2026-02-26-15-extraordinario-2,constitucion-politica,2,main
+2026-03-02,law,fe-de-erratas-2026-03-02-9-primera-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,3,main
+2026-03-10,law,reforma-2026-03-09-10-quinta-seccion,codigo-municipal-de-aguascalientes-aguascalientes,3,main
+2026-03-10,law,reforma-2026-03-09-10-quinta-seccion-2,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2026-03-24,law,decreto-2026-03-23-12-edicion-vespertina,ley-de-ingresos-del-municipio-de-aguascalientes-aguascalient ley-organica-del-poder-judicial,4,main
+2026-03-26,law,decreto-2026-03-25-17-extraordinario,codigo-urbano ley-de-bienes ley-organica-de-la-administracion-publica-estatal-de-aguasca,22,main
+2026-04-07,law,decreto-2026-04-06-14-primera-seccion,codigo-civil codigo-penal codigo-urbano ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-cultura-fisica-y-deporte ley-de-educacion ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-salud ley-municipal,26,main
+2026-04-07,law,decreto-2026-04-06-14-primera-seccion-2,codigo-penal ley-de-educacion,5,main
+2026-04-07,law,decreto-2026-04-06-14-primera-seccion-3,codigo-penal,2,main
+2026-04-16,law,adicion-2026-04-13-15-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2026-04-18,law,decreto-2026-04-17-24-extraordinario,codigo-urbano,2,main
+2026-04-21,law,reforma-2026-04-20-16-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,4,main
+2026-04-21,law,decreto-2026-04-20-16-primera-seccion,codigo-civil codigo-penal ley-de-cambio-climatico ley-de-educacion ley-de-la-juventud ley-de-la-universidad-intercultural-para-la-igualdad-de-agua ley-del-procedimiento-contencioso-administrativo ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo ley-para-la-igualdad-entre-mujeres-y-hombres ley-para-prevenir-atender-y-erradicar-la-violencia-escolar-e,40,main
+2026-04-21,law,decreto-2026-04-20-16-primera-seccion-2,ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo,5,main
+2026-04-21,law,decreto-2026-04-20-16-edicion-vespertina,codigo-penal,3,main
+2026-04-21,law,decreto-2026-04-20-16-primera-seccion-3,ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo,2,main
+2026-04-23,law,decreto-2026-04-20-16-primera-seccion,ley-de-la-procuraduria-estatal-de-proteccion-al-ambiente,2,main
+2026-04-27,law,fe-de-erratas-2026-04-27-17-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,2,main
+2026-04-28,law,decreto-2026-04-27-17-primera-seccion,codigo-civil ley-de-agua ley-de-salud ley-organica-del-instituto-aguascalentense-de-las-personas-m ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo ley-por-la-que-se-crea-la-universidad-de-la-policia-y-cienci,21,main
+2026-04-30,law,decreto-2026-04-27-17-primera-seccion,codigo-municipal-de-calvillo-aguascalientes,140,main
+2026-05-05,law,decreto-2026-05-04-18-primera-seccion,codigo-civil codigo-urbano ley-de-desarrollo-social ley-de-movilidad-y-seguridad-vial ley-de-proteccion-ambiental ley-para-el-desarrollo-agricola,25,main
+2026-05-05,law,decreto-2026-05-04-18-primera-seccion-2,codigo-civil codigo-urbano,4,main
+2026-05-12,law,decreto-2026-05-11-19-primera-seccion,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-educacion ley-de-la-comision-de-derechos-humanos ley-de-proteccion-civil ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient ley-municipal ley-para-la-proteccion-especial-de-las-personas-adultas-mayo,25,main
+2026-05-12,law,decreto-2026-05-11-19-primera-seccion-2,ley-de-educacion,2,main
+2026-05-19,law,decreto-2026-05-18-20-primera-seccion,constitucion-politica codigo-civil ley-de-cultura-fisica-y-deporte ley-de-movilidad-y-seguridad-vial ley-de-proteccion-civil ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient ley-para-la-proteccion-especial-de-las-personas-adultas-mayo,28,main
+2026-05-19,law,decreto-2026-05-18-20-primera-seccion-2,ley-de-cultura-fisica-y-deporte,4,main
+2026-05-23,law,decreto-2026-05-22-31-extraordinario,ley-de-movilidad-y-seguridad-vial,2,main
+2026-05-26,law,decreto-2026-05-25-21-primera-seccion,codigo-civil codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,14,main
+2026-05-26,law,decreto-2026-05-25-21-primera-seccion-2,codigo-penal,2,main
+2026-05-27,law,decreto-2026-05-26-32-extraordinario,codigo-civil ley-de-cultura-fisica-y-deporte ley-del-instituto-de-educacion-de-aguascalientes ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient ley-municipal ley-organica-de-la-universidad-tecnologica-de-calvillo,14,main
+2026-06-09,law,decreto-2026-06-08-23-primera-seccion,ley-de-cultura-fisica-y-deporte ley-de-desarrollo-social ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-turismo,10,main
+2026-06-09,law,decreto-2026-06-08-23-primera-seccion-2,ley-de-cultura-fisica-y-deporte ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes,7,main
+2026-06-16,law,decreto-2026-06-15-24-cuarta-seccion,codigo-municipal-de-pabellon-de-arteaga-aguascalientes,3,main
+2026-06-24,law,decreto-2026-06-23-35-extraordinario,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-expropiacion ley-de-ingresos ley-de-la-comision-de-derechos-humanos ley-de-obras-publicas-y-servicios-relacionados ley-de-salud ley-del-procedimiento-contencioso-administrativo ley-del-sistema-estatal-de-asistencia-social-y-de-integracio ley-para-el-control-de-las-entidades-paraestatales ley-para-la-igualdad-entre-mujeres-y-hombres ley-para-la-proteccion-de-los-derechos-de-las-personas-migra ley-para-la-proteccion-especial-de-las-personas-adultas-mayo ley-para-prevenir-y-erradicar-la-trata-de-personas-en-el-est ley-por-la-que-se-crea-la-universidad-de-la-policia-y-cienci,90,main
+2026-06-24,law,decreto-2026-06-23-35-extraordinario-2,codigo-penal ley-de-salud,7,main
+2026-06-24,law,decreto-2026-06-23-35-extraordinario-3,codigo-penal,3,main
+2026-06-30,law,decreto-2026-06-29-26-primera-seccion,constitucion-politica codigo-civil codigo-penal codigo-urbano ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-la-universidad-tecnologica-del-norte-de-aguascaliente ley-de-responsabilidades-administrativas,29,main
+2026-06-30,law,decreto-2026-06-29-26-primera-seccion-2,constitucion-politica codigo-civil,5,main
+2026-07-03,law,decreto-2026-07-02-37-extraordinario,constitucion-politica,9,main
+2026-07-04,law,decreto-2026-07-03-38-extraordinario,constitucion-politica codigo-electoral,5,main
+2026-07-04,law,decreto-2026-07-03-38-extraordinario-2,codigo-electoral,3,main
+2026-07-06,law,decreto-2026-07-03-38-extraordinario,ley-municipal,11,main
+2026-07-06,law,decreto-2026-07-03-38-extraordinario-3,codigo-electoral,10,main
+2026-07-07,law,decreto-2026-07-06-27-primera-seccion,codigo-penal ley-de-fiscalizacion-superior ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes ley-de-seguridad-y-servicios-sociales-para-los-servidores-pu,11,main
+2026-07-07,law,decreto-2026-07-06-27-primera-seccion-2,codigo-penal,3,main
+2026-07-14,law,decreto-2026-07-13-28-primera-seccion,codigo-penal ley-de-educacion ley-de-responsabilidades-administrativas ley-del-procedimiento-contencioso-administrativo,15,main
+2026-07-14,law,decreto-2026-07-13-28-primera-seccion-2,codigo-penal ley-de-educacion,7,main
+2026-07-14,law,decreto-2026-07-13-28-primera-seccion-3,codigo-penal,2,main
+2026-07-14,law,decreto-2026-07-13-28-primera-seccion-4,codigo-penal,4,main
+2026-07-21,law,decreto-2026-07-20-29-primera-seccion,constitucion-politica,2,main
+2026-08-29,law,decreto-2026-08-28-47-extraordinario,codigo-civil ley-de-ingresos,14,main
+2026-09-08,law,decreto-2026-09-07-36-edicion-vespertina,constitucion-politica,2,main
+2026-09-15,law,adicion-2026-09-14-37-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,6,main
+2026-09-22,law,decreto-2026-09-21-38-primera-seccion,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-del-sistema-estatal-de-seguridad-publica-de-aguascalient,7,main
+2026-10-01,law,reforma-2026-09-28-39-primera-seccion,codigo-municipal-de-aguascalientes-aguascalientes,6,main
+2026-10-06,law,decreto-2026-10-05-40-primera-seccion,ley-de-seguridad-y-servicios-sociales-para-los-servidores-pu ley-organica-del-poder-legislativo,4,main
+2026-10-06,law,decreto-2026-10-05-40-primera-seccion-2,ley-organica-del-poder-legislativo,3,main
+2026-10-13,law,decreto-2026-10-12-41-primera-seccion,codigo-penal ley-de-salud ley-organica-de-la-fiscalia-general ley-organica-del-poder-legislativo ley-para-la-proteccion-de-personas-defensoras-de-derechos-hu,16,main
+2026-10-13,law,decreto-2026-10-12-41-primera-seccion-2,codigo-penal ley-de-salud,15,main
+2026-10-13,law,decreto-2026-10-12-41-primera-seccion-3,codigo-penal ley-de-salud,4,main
+2027-01-19,law,decreto-2026-09-21-38-primera-seccion,codigo-civil,2,futuro

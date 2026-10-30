@@ -1,0 +1,11 @@
+{
+  "path": "mx-agu",
+  "code": "MX-AGU",
+  "name": "Aguascalientes",
+  "level": "state",
+  "parent": "mx",
+  "repo": "https://github.com/lexifina/mexico-aguascalientes-law",
+  "build": "built: constitution, codes and laws (164 ordenamientos, 2392 versions) from SCJN Legislación",
+  "language": "es",
+  "sources": 1
+}
